@@ -4,7 +4,7 @@ import tailwindcss from '@tailwindcss/vite';
 import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
-  site: 'https://britanniai.com',
+  site: 'https://brittani.ai',
   integrations: [sitemap()],
   output: 'static',
   build: {
