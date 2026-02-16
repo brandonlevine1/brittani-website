@@ -1,0 +1,57 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import FeatureHero from '../components/features/FeatureHero.astro';
+import FeatureSection from '../components/features/FeatureSection.astro';
+import BentoGrid from '../components/features/BentoGrid.astro';
+import IntegrationLogos from '../components/features/IntegrationLogos.astro';
+import CTABanner from '../components/global/CTABanner.astro';
+import { featureDeepDives } from '../data/features';
+
+const breadcrumbSchema = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://britanniai.com" },
+    { "@type": "ListItem", "position": 2, "name": "Features", "item": "https://britanniai.com/features" }
+  ]
+};
+---
+
+<PageLayout
+  title="Features — AI-Powered Transaction Coordination | Britanni AI"
+  description="From contract analysis to closing coordination — discover how Britanni AI automates every phase of residential real estate transactions."
+  canonical="https://britanniai.com/features"
+  jsonLd={breadcrumbSchema}
+>
+  <FeatureHero />
+
+  <!-- Feature Deep Dives -->
+  {featureDeepDives.map((feature, i) => (
+    <FeatureSection
+      eyebrow={feature.eyebrow}
+      title={feature.title}
+      description={feature.description}
+      bullets={feature.bullets}
+      imageAlt={feature.imageAlt}
+      reversed={i % 2 !== 0}
+      isAI={i === 0}
+    />
+  ))}
+
+  <BentoGrid />
+  <IntegrationLogos />
+
+  <!-- Mid-page CTA -->
+  <section class="py-16 bg-white">
+    <div class="max-w-4xl mx-auto px-6 md:px-8 text-center">
+      <a
+        href="#"
+        class="bg-blue-600 hover:bg-blue-700 text-white font-semibold px-8 py-4 rounded-xl text-base transition-all duration-200 hover:shadow-lg hover:shadow-blue-600/25 inline-block"
+      >
+        Book a Demo
+      </a>
+    </div>
+  </section>
+
+  <CTABanner />
+</PageLayout>

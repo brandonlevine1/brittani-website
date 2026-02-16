@@ -1,0 +1,123 @@
+---
+const productLinks = [
+  { label: 'Features', href: '/features' },
+  { label: 'Pricing', href: '/pricing' },
+  { label: 'Blog', href: '/blog' },
+];
+
+const companyLinks = [
+  { label: 'About', href: '/about' },
+  { label: 'Careers', href: '#' },
+  { label: 'Contact', href: 'mailto:hello@britanniai.com' },
+];
+
+const legalLinks = [
+  { label: 'Privacy Policy', href: '/privacy' },
+  { label: 'Terms of Service', href: '/terms' },
+  { label: 'Security', href: '#' },
+];
+
+const socialLinks = [
+  { label: 'Twitter/X', href: 'https://twitter.com/britanniai', icon: 'twitter' },
+  { label: 'LinkedIn', href: 'https://linkedin.com/company/britanniai', icon: 'linkedin' },
+  { label: 'Email', href: 'mailto:hello@britanniai.com', icon: 'mail' },
+];
+---
+
+<footer class="bg-slate-900 text-slate-300" role="contentinfo">
+  <div class="max-w-7xl mx-auto px-6 md:px-8 py-16 md:py-20">
+    <!-- Top Section -->
+    <div class="grid grid-cols-2 md:grid-cols-5 gap-8 md:gap-12">
+      <!-- Brand Column -->
+      <div class="col-span-2 md:col-span-1">
+        <a href="/" class="flex items-center gap-2 mb-4" aria-label="Britanni AI Home">
+          <div class="w-8 h-8 bg-gradient-to-br from-blue-500 to-violet-500 rounded-lg flex items-center justify-center">
+            <span class="text-white font-bold text-sm">B</span>
+          </div>
+          <span class="text-lg font-bold text-white">
+            Britanni<span class="text-blue-400"> AI</span>
+          </span>
+        </a>
+        <p class="text-sm text-slate-400 leading-relaxed mb-6">
+          AI-powered transaction coordination for real estate agents who want to close more deals.
+        </p>
+        <!-- Newsletter -->
+        <form class="flex gap-2" action="#" method="POST">
+          <label for="footer-email" class="sr-only">Email address</label>
+          <input
+            id="footer-email"
+            type="email"
+            name="email"
+            placeholder="Enter your email"
+            class="flex-1 min-w-0 bg-slate-800 border border-slate-700 text-sm text-white placeholder-slate-500 rounded-lg px-3.5 py-2.5 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent"
+            required
+          />
+          <button
+            type="submit"
+            class="bg-blue-600 hover:bg-blue-700 text-white text-sm font-medium px-4 py-2.5 rounded-lg transition-colors whitespace-nowrap"
+          >
+            Subscribe
+          </button>
+        </form>
+      </div>
+
+      <!-- Product -->
+      <div>
+        <h3 class="text-sm font-semibold text-white mb-4">Product</h3>
+        <ul class="space-y-3">
+          {productLinks.map(({ label, href }) => (
+            <li>
+              <a href={href} class="text-sm text-slate-400 hover:text-white transition-colors">{label}</a>
+            </li>
+          ))}
+        </ul>
+      </div>
+
+      <!-- Company -->
+      <div>
+        <h3 class="text-sm font-semibold text-white mb-4">Company</h3>
+        <ul class="space-y-3">
+          {companyLinks.map(({ label, href }) => (
+            <li>
+              <a href={href} class="text-sm text-slate-400 hover:text-white transition-colors">{label}</a>
+            </li>
+          ))}
+        </ul>
+      </div>
+
+      <!-- Legal -->
+      <div>
+        <h3 class="text-sm font-semibold text-white mb-4">Legal</h3>
+        <ul class="space-y-3">
+          {legalLinks.map(({ label, href }) => (
+            <li>
+              <a href={href} class="text-sm text-slate-400 hover:text-white transition-colors">{label}</a>
+            </li>
+          ))}
+        </ul>
+      </div>
+
+      <!-- Connect -->
+      <div>
+        <h3 class="text-sm font-semibold text-white mb-4">Connect</h3>
+        <ul class="space-y-3">
+          {socialLinks.map(({ label, href }) => (
+            <li>
+              <a href={href} class="text-sm text-slate-400 hover:text-white transition-colors" target="_blank" rel="noopener noreferrer">{label}</a>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </div>
+
+    <!-- Bottom Bar -->
+    <div class="mt-12 pt-8 border-t border-slate-800 flex flex-col md:flex-row items-center justify-between gap-4">
+      <p class="text-sm text-slate-500">
+        &copy; {new Date().getFullYear()} Britanni AI. All rights reserved.
+      </p>
+      <p class="text-sm text-slate-500">
+        Built in Florida 🌴
+      </p>
+    </div>
+  </div>
+</footer>

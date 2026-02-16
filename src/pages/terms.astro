@@ -1,0 +1,119 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+
+const breadcrumbSchema = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://britanniai.com" },
+    { "@type": "ListItem", "position": 2, "name": "Terms of Service", "item": "https://britanniai.com/terms" }
+  ]
+};
+---
+
+<PageLayout
+  title="Terms of Service | Britanni AI"
+  description="Britanni AI's terms of service. Read about our service terms, limitations, and policies."
+  canonical="https://britanniai.com/terms"
+  jsonLd={breadcrumbSchema}
+>
+  <section class="py-20 md:py-28">
+    <div class="max-w-3xl mx-auto px-6 md:px-8">
+      <p class="text-sm text-slate-500 mb-2">Last updated: February 15, 2026</p>
+      <p class="text-sm text-amber-600 bg-amber-50 border border-amber-200 rounded-xl px-4 py-3 mb-8">
+        These terms are a placeholder and are subject to review by legal counsel before launch.
+      </p>
+
+      <h1 class="text-4xl md:text-5xl font-bold tracking-tight text-slate-900 mb-8">Terms of Service</h1>
+
+      <div class="prose prose-lg prose-slate max-w-none prose-headings:font-bold prose-headings:tracking-tight">
+        <p>These Terms of Service ("Terms") govern your access to and use of Britanni AI's website and software-as-a-service application (the "Service") operated by Britanni AI ("Company," "we," "us," or "our"). By accessing or using the Service, you agree to be bound by these Terms.</p>
+
+        <h2>1. Description of Service</h2>
+        <p>Britanni AI provides an AI-powered transaction coordination platform for real estate professionals. The Service includes contract analysis, automated communications, deadline tracking, and transaction management tools.</p>
+
+        <h2>2. Account Registration</h2>
+        <p>To use the Service, you must create an account and provide accurate, complete information. You are responsible for:</p>
+        <ul>
+          <li>Maintaining the confidentiality of your account credentials</li>
+          <li>All activities that occur under your account</li>
+          <li>Notifying us immediately of any unauthorized access</li>
+        </ul>
+
+        <h2>3. Acceptable Use</h2>
+        <p>You agree to use the Service only for lawful purposes and in accordance with these Terms. You agree not to:</p>
+        <ul>
+          <li>Use the Service for any illegal or unauthorized purpose</li>
+          <li>Upload malicious content or attempt to compromise system security</li>
+          <li>Interfere with or disrupt the Service or its infrastructure</li>
+          <li>Attempt to reverse engineer the AI models or algorithms</li>
+          <li>Resell or redistribute the Service without authorization</li>
+          <li>Upload contracts or documents you do not have authorization to process</li>
+        </ul>
+
+        <h2>4. Subscription and Billing</h2>
+        <ul>
+          <li>The Service is offered on a subscription basis with the pricing plans described on our pricing page.</li>
+          <li>Free trials are provided as described at the time of registration.</li>
+          <li>Subscriptions automatically renew unless cancelled before the end of the billing period.</li>
+          <li>Prices may change with 30 days' advance notice.</li>
+          <li>Refunds are available within the first 30 days of a paid subscription.</li>
+        </ul>
+
+        <h2>5. AI-Generated Content and Accuracy</h2>
+        <p><strong>Important:</strong> The Service uses artificial intelligence to analyze contracts and generate communications. While we strive for accuracy, AI-generated analysis and recommendations are provided as aids and should not be considered legal advice.</p>
+        <ul>
+          <li>You are responsible for reviewing and confirming all AI-extracted data before it is acted upon.</li>
+          <li>The Service does not replace the need for licensed legal counsel on legal matters.</li>
+          <li>We do not guarantee the accuracy of contract analysis or the appropriateness of automated communications for every situation.</li>
+          <li>You retain full responsibility for the conduct and outcome of your real estate transactions.</li>
+        </ul>
+
+        <h2>6. Your Data</h2>
+        <ul>
+          <li>You retain ownership of all data you upload to the Service.</li>
+          <li>You grant us a limited license to process your data solely for the purpose of providing the Service.</li>
+          <li>We will handle your data in accordance with our <a href="/privacy">Privacy Policy</a>.</li>
+          <li>Upon account termination, you may request export of your data within 30 days.</li>
+        </ul>
+
+        <h2>7. Intellectual Property</h2>
+        <p>The Service, including its AI models, software, design, and content, is owned by Britanni AI and protected by intellectual property laws. These Terms do not grant you any ownership rights in the Service.</p>
+
+        <h2>8. Limitation of Liability</h2>
+        <p>To the maximum extent permitted by law:</p>
+        <ul>
+          <li>The Service is provided "as is" and "as available" without warranties of any kind.</li>
+          <li>We are not liable for any indirect, incidental, special, consequential, or punitive damages.</li>
+          <li>Our total liability shall not exceed the amount you paid for the Service in the 12 months preceding the claim.</li>
+          <li>We are not liable for any losses resulting from missed deadlines, incorrect contract analysis, or communications sent by the Service, to the extent you had the opportunity to review and correct them.</li>
+        </ul>
+
+        <h2>9. Indemnification</h2>
+        <p>You agree to indemnify and hold harmless Britanni AI and its officers, directors, employees, and agents from any claims, damages, or expenses arising from your use of the Service or violation of these Terms.</p>
+
+        <h2>10. Termination</h2>
+        <ul>
+          <li>You may cancel your subscription at any time through your account settings.</li>
+          <li>We may suspend or terminate your access if you violate these Terms.</li>
+          <li>Upon termination, your right to use the Service ceases immediately.</li>
+          <li>Provisions that by their nature should survive termination will survive.</li>
+        </ul>
+
+        <h2>11. Governing Law</h2>
+        <p>These Terms are governed by the laws of the State of Florida, without regard to conflict of law principles. Any disputes shall be resolved in the state or federal courts located in Florida.</p>
+
+        <h2>12. Changes to Terms</h2>
+        <p>We may modify these Terms at any time. Material changes will be communicated via email or through the Service. Continued use of the Service after changes constitutes acceptance of the modified Terms.</p>
+
+        <h2>13. Contact</h2>
+        <p>If you have questions about these Terms, please contact us at:</p>
+        <p>
+          <strong>Britanni AI</strong><br />
+          Email: <a href="mailto:legal@britanniai.com">legal@britanniai.com</a><br />
+          Website: <a href="https://britanniai.com">britanniai.com</a>
+        </p>
+      </div>
+    </div>
+  </section>
+</PageLayout>

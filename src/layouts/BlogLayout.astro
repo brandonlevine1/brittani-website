@@ -1,0 +1,37 @@
+---
+import PageLayout from './PageLayout.astro';
+
+interface Props {
+  title: string;
+  description: string;
+  publishDate: string;
+  author: string;
+  readTime: string;
+  canonical?: string;
+  ogImage?: string;
+  jsonLd?: object | object[];
+}
+
+const { title, description, publishDate, author, readTime, ...rest } = Astro.props;
+---
+
+<PageLayout title={`${title} | Britanni AI Blog`} description={description} {...rest}>
+  <article class="py-20 md:py-28">
+    <div class="max-w-3xl mx-auto px-6 md:px-8">
+      <header class="mb-12">
+        <div class="flex items-center gap-3 text-sm text-slate-500 mb-4">
+          <time datetime={publishDate}>{new Date(publishDate).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}</time>
+          <span aria-hidden="true">&middot;</span>
+          <span>{readTime}</span>
+          <span aria-hidden="true">&middot;</span>
+          <span>{author}</span>
+        </div>
+        <h1 class="text-4xl md:text-5xl font-bold tracking-tight text-slate-900">{title}</h1>
+        <p class="mt-6 text-lg text-slate-600 leading-relaxed">{description}</p>
+      </header>
+      <div class="prose prose-lg prose-slate max-w-none prose-headings:font-bold prose-headings:tracking-tight prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline">
+        <slot />
+      </div>
+    </div>
+  </article>
+</PageLayout>

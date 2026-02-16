@@ -1,0 +1,183 @@
+---
+const navLinks = [
+  { label: 'Features', href: '/features' },
+  { label: 'Pricing', href: '/pricing' },
+  { label: 'About', href: '/about' },
+  { label: 'Blog', href: '/blog' },
+];
+
+const currentPath = Astro.url.pathname;
+---
+
+<header
+  id="site-header"
+  class="fixed top-0 left-0 right-0 z-50 transition-all duration-300"
+>
+  <nav class="max-w-7xl mx-auto px-6 md:px-8 flex items-center justify-between h-18" aria-label="Main navigation">
+    <!-- Logo -->
+    <a href="/" class="flex items-center gap-2 group" aria-label="Britanni AI Home">
+      <div class="w-8 h-8 bg-gradient-to-br from-blue-600 to-violet-600 rounded-lg flex items-center justify-center">
+        <span class="text-white font-bold text-sm">B</span>
+      </div>
+      <span class="text-xl font-bold text-slate-900">
+        Britanni<span class="text-blue-600"> AI</span>
+      </span>
+      <svg class="w-4 h-4 text-violet-500 -ml-1 -mt-2" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+        <path d="M12 2l2.09 6.26L20.18 9l-5 4.27L16.82 20 12 16.9 7.18 20l1.64-6.73L4 9l5.91-.74L12 2z"/>
+      </svg>
+    </a>
+
+    <!-- Desktop Navigation -->
+    <div class="hidden md:flex items-center gap-8">
+      {navLinks.map(({ label, href }) => (
+        <a
+          href={href}
+          class:list={[
+            'text-sm font-medium transition-colors duration-200',
+            currentPath.startsWith(href)
+              ? 'text-blue-600'
+              : 'text-slate-600 hover:text-slate-900',
+          ]}
+        >
+          {label}
+        </a>
+      ))}
+    </div>
+
+    <!-- Desktop CTAs -->
+    <div class="hidden md:flex items-center gap-3">
+      <a
+        href="#"
+        class="text-sm font-medium text-slate-600 hover:text-slate-900 transition-colors duration-200 px-4 py-2"
+      >
+        Log In
+      </a>
+      <a
+        href="#"
+        class="text-sm font-semibold text-white bg-blue-600 hover:bg-blue-700 px-5 py-2.5 rounded-xl transition-all duration-200 hover:shadow-lg hover:shadow-blue-600/25"
+      >
+        Get Started
+      </a>
+    </div>
+
+    <!-- Mobile Menu Button -->
+    <button
+      id="mobile-menu-btn"
+      class="md:hidden p-2 -mr-2 text-slate-600 hover:text-slate-900"
+      aria-label="Open menu"
+      aria-expanded="false"
+      aria-controls="mobile-menu"
+    >
+      <svg class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+        <path stroke-linecap="round" stroke-linejoin="round" d="M3.75 6.75h16.5M3.75 12h16.5m-16.5 5.25h16.5" />
+      </svg>
+    </button>
+  </nav>
+
+  <!-- Mobile Menu Overlay -->
+  <div
+    id="mobile-menu"
+    class="fixed inset-0 z-50 hidden"
+    role="dialog"
+    aria-modal="true"
+    aria-label="Mobile navigation"
+  >
+    <div id="mobile-menu-backdrop" class="absolute inset-0 bg-slate-900/50 backdrop-blur-sm"></div>
+    <div id="mobile-menu-panel" class="absolute right-0 top-0 h-full w-72 bg-white shadow-2xl transform translate-x-full transition-transform duration-300 ease-in-out">
+      <div class="p-6">
+        <button
+          id="mobile-menu-close"
+          class="absolute top-5 right-5 p-2 text-slate-500 hover:text-slate-900"
+          aria-label="Close menu"
+        >
+          <svg class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M6 18L18 6M6 6l12 12" />
+          </svg>
+        </button>
+
+        <nav class="mt-12 flex flex-col gap-1" aria-label="Mobile navigation">
+          {navLinks.map(({ label, href }) => (
+            <a
+              href={href}
+              class:list={[
+                'block px-4 py-3 text-base font-medium rounded-xl transition-colors',
+                currentPath.startsWith(href)
+                  ? 'text-blue-600 bg-blue-50'
+                  : 'text-slate-700 hover:bg-slate-50',
+              ]}
+            >
+              {label}
+            </a>
+          ))}
+        </nav>
+
+        <div class="mt-8 flex flex-col gap-3 px-4">
+          <a
+            href="#"
+            class="text-center text-sm font-medium text-slate-700 py-3 border border-slate-200 rounded-xl hover:border-blue-600 transition-colors"
+          >
+            Log In
+          </a>
+          <a
+            href="#"
+            class="text-center text-sm font-semibold text-white bg-blue-600 hover:bg-blue-700 py-3 rounded-xl transition-all duration-200"
+          >
+            Get Started
+          </a>
+        </div>
+      </div>
+    </div>
+  </div>
+</header>
+
+<!-- Spacer for fixed header -->
+<div class="h-18"></div>
+
+<script>
+  // Header scroll effect
+  const header = document.getElementById('site-header');
+  if (header) {
+    const onScroll = () => {
+      if (window.scrollY > 10) {
+        header.classList.add('backdrop-blur-lg', 'bg-white/80', 'border-b', 'border-slate-200', 'shadow-sm');
+      } else {
+        header.classList.remove('backdrop-blur-lg', 'bg-white/80', 'border-b', 'border-slate-200', 'shadow-sm');
+      }
+    };
+    window.addEventListener('scroll', onScroll, { passive: true });
+    onScroll();
+  }
+
+  // Mobile menu
+  const menuBtn = document.getElementById('mobile-menu-btn');
+  const menuClose = document.getElementById('mobile-menu-close');
+  const menu = document.getElementById('mobile-menu');
+  const menuBackdrop = document.getElementById('mobile-menu-backdrop');
+  const menuPanel = document.getElementById('mobile-menu-panel');
+
+  function openMenu() {
+    if (!menu || !menuPanel || !menuBtn) return;
+    menu.classList.remove('hidden');
+    menuBtn.setAttribute('aria-expanded', 'true');
+    requestAnimationFrame(() => {
+      menuPanel.classList.remove('translate-x-full');
+    });
+  }
+
+  function closeMenu() {
+    if (!menu || !menuPanel || !menuBtn) return;
+    menuPanel.classList.add('translate-x-full');
+    menuBtn.setAttribute('aria-expanded', 'false');
+    setTimeout(() => {
+      menu.classList.add('hidden');
+    }, 300);
+  }
+
+  menuBtn?.addEventListener('click', openMenu);
+  menuClose?.addEventListener('click', closeMenu);
+  menuBackdrop?.addEventListener('click', closeMenu);
+
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') closeMenu();
+  });
+</script>

@@ -1,0 +1,35 @@
+---
+const integrations = [
+  'DocuSign',
+  'DotLoop',
+  'Google Workspace',
+  'Outlook',
+  'MLS Systems',
+];
+---
+
+<section class="py-20 md:py-28 bg-white">
+  <div class="max-w-7xl mx-auto px-6 md:px-8">
+    <div class="text-center mb-12">
+      <p class="text-sm font-semibold uppercase tracking-wider text-blue-600 mb-3">Integrations</p>
+      <h2 class="text-3xl md:text-4xl font-bold tracking-tight text-slate-900">
+        Works With the Tools You Already Use
+      </h2>
+      <p class="mt-4 text-lg text-slate-600 max-w-2xl mx-auto">
+        Britanni connects to the platforms your business already runs on.
+      </p>
+    </div>
+
+    <div class="flex flex-wrap items-center justify-center gap-8 md:gap-12">
+      {integrations.map((name) => (
+        <div class="bg-slate-50 border border-slate-200 rounded-2xl px-8 py-6 flex items-center justify-center hover:border-blue-200 hover:shadow-sm transition-all">
+          <span class="text-lg font-semibold text-slate-400">{name}</span>
+        </div>
+      ))}
+    </div>
+
+    <p class="text-center text-sm text-slate-500 mt-8">
+      More integrations coming in 2026
+    </p>
+  </div>
+</section>

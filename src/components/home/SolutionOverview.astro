@@ -1,0 +1,88 @@
+---
+const steps = [
+  {
+    number: '1',
+    title: 'Upload Your Contract',
+    description: 'Create a deal and upload the executed purchase agreement. Britanni extracts every date, dollar amount, and term automatically.',
+    icon: 'upload',
+  },
+  {
+    number: '2',
+    title: 'We Handle the Rest',
+    description: 'Britanni sends introductions, tracks deadlines, coordinates inspections, follows up with lenders, and keeps every party in the loop.',
+    icon: 'cog',
+  },
+  {
+    number: '3',
+    title: 'You Close the Deal',
+    description: 'Focus on negotiations and client relationships. Get status updates and step in only when decisions are needed.',
+    icon: 'check',
+  },
+];
+---
+
+<section id="how-it-works" class="py-20 md:py-28 lg:py-32 bg-slate-50">
+  <div class="max-w-7xl mx-auto px-6 md:px-8">
+    <div class="text-center mb-16">
+      <p class="text-sm font-semibold uppercase tracking-wider text-blue-600 mb-3">How It Works</p>
+      <h2 class="text-3xl md:text-4xl font-bold tracking-tight text-slate-900">
+        Three Steps to Effortless Coordination
+      </h2>
+      <p class="mt-4 text-lg text-slate-600 max-w-2xl mx-auto">
+        Get your AI transaction coordinator up and running in minutes — not days.
+      </p>
+    </div>
+
+    <div class="grid md:grid-cols-3 gap-8 md:gap-4 relative">
+      <!-- Connecting line (desktop) -->
+      <div class="hidden md:block absolute top-16 left-1/6 right-1/6 h-0.5 bg-gradient-to-r from-blue-200 via-violet-200 to-blue-200" aria-hidden="true"></div>
+
+      {steps.map(({ number, title, description, icon }) => (
+        <div class="relative text-center">
+          <!-- Number circle -->
+          <div class="relative mx-auto w-14 h-14 bg-gradient-to-br from-blue-600 to-violet-600 rounded-full flex items-center justify-center mb-6 shadow-lg shadow-blue-600/20 z-10">
+            <span class="text-white font-bold text-lg">{number}</span>
+          </div>
+
+          {icon === 'upload' && (
+            <div class="mx-auto w-12 h-12 bg-blue-50 rounded-xl flex items-center justify-center mb-4">
+              <svg class="w-6 h-6 text-blue-600" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M3 16.5v2.25A2.25 2.25 0 005.25 21h13.5A2.25 2.25 0 0021 18.75V16.5m-13.5-9L12 3m0 0l4.5 4.5M12 3v13.5" />
+              </svg>
+            </div>
+          )}
+          {icon === 'cog' && (
+            <div class="mx-auto w-12 h-12 bg-violet-50 rounded-xl flex items-center justify-center mb-4">
+              <svg class="w-6 h-6 text-violet-600" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M9.594 3.94c.09-.542.56-.94 1.11-.94h2.593c.55 0 1.02.398 1.11.94l.213 1.281c.063.374.313.686.645.87.074.04.147.083.22.127.324.196.72.257 1.075.124l1.217-.456a1.125 1.125 0 011.37.49l1.296 2.247a1.125 1.125 0 01-.26 1.431l-1.003.827c-.293.24-.438.613-.431.992a6.759 6.759 0 010 .255c-.007.378.138.75.43.99l1.005.828c.424.35.534.954.26 1.43l-1.298 2.247a1.125 1.125 0 01-1.369.491l-1.217-.456c-.355-.133-.75-.072-1.076.124a6.57 6.57 0 01-.22.128c-.331.183-.581.495-.644.869l-.213 1.28c-.09.543-.56.941-1.11.941h-2.594c-.55 0-1.02-.398-1.11-.94l-.213-1.281c-.062-.374-.312-.686-.644-.87a6.52 6.52 0 01-.22-.127c-.325-.196-.72-.257-1.076-.124l-1.217.456a1.125 1.125 0 01-1.369-.49l-1.297-2.247a1.125 1.125 0 01.26-1.431l1.004-.827c.292-.24.437-.613.43-.992a6.932 6.932 0 010-.255c.007-.378-.138-.75-.43-.99l-1.004-.828a1.125 1.125 0 01-.26-1.43l1.297-2.247a1.125 1.125 0 011.37-.491l1.216.456c.356.133.751.072 1.076-.124.072-.044.146-.087.22-.128.332-.183.582-.495.644-.869l.214-1.281z" />
+                <path stroke-linecap="round" stroke-linejoin="round" d="M15 12a3 3 0 11-6 0 3 3 0 016 0z" />
+              </svg>
+            </div>
+          )}
+          {icon === 'check' && (
+            <div class="mx-auto w-12 h-12 bg-emerald-50 rounded-xl flex items-center justify-center mb-4">
+              <svg class="w-6 h-6 text-emerald-600" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5" aria-hidden="true">
+                <path stroke-linecap="round" stroke-linejoin="round" d="M9 12.75L11.25 15 15 9.75M21 12c0 1.268-.63 2.39-1.593 3.068a3.745 3.745 0 01-1.043 3.296 3.745 3.745 0 01-3.296 1.043A3.745 3.745 0 0112 21c-1.268 0-2.39-.63-3.068-1.593a3.746 3.746 0 01-3.296-1.043 3.745 3.745 0 01-1.043-3.296A3.745 3.745 0 013 12c0-1.268.63-2.39 1.593-3.068a3.745 3.745 0 011.043-3.296 3.746 3.746 0 013.296-1.043A3.746 3.746 0 0112 3c1.268 0 2.39.63 3.068 1.593a3.746 3.746 0 013.296 1.043 3.746 3.746 0 011.043 3.296A3.745 3.745 0 0121 12z" />
+              </svg>
+            </div>
+          )}
+
+          <h3 class="text-xl font-semibold text-slate-900 mb-2">{title}</h3>
+          <p class="text-slate-600 leading-relaxed max-w-xs mx-auto">{description}</p>
+        </div>
+      ))}
+    </div>
+
+    <div class="mt-12 text-center">
+      <a
+        href="/features"
+        class="inline-flex items-center gap-2 text-blue-600 hover:text-blue-700 font-medium text-base transition-colors"
+      >
+        See All Features
+        <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" aria-hidden="true">
+          <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5L21 12m0 0l-7.5 7.5M21 12H3" />
+        </svg>
+      </a>
+    </div>
+  </div>
+</section>

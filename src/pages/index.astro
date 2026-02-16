@@ -1,0 +1,120 @@
+---
+import PageLayout from '../layouts/PageLayout.astro';
+import Hero from '../components/home/Hero.astro';
+import LogoBar from '../components/home/LogoBar.astro';
+import PainPoints from '../components/home/PainPoints.astro';
+import SolutionOverview from '../components/home/SolutionOverview.astro';
+import FeatureShowcase from '../components/home/FeatureShowcase.astro';
+import Stats from '../components/home/Stats.astro';
+import Testimonials from '../components/home/Testimonials.astro';
+import FAQ from '../components/home/FAQ.astro';
+import CTABanner from '../components/global/CTABanner.astro';
+import { homeFAQ } from '../data/faq';
+
+const organizationSchema = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Britanni AI",
+  "url": "https://britanniai.com",
+  "logo": "https://britanniai.com/favicon.svg",
+  "description": "AI-powered transaction coordinator for residential real estate agents",
+  "foundingDate": "2026",
+  "founders": [
+    {"@type": "Person", "name": "Brandon Levine"},
+    {"@type": "Person", "name": "Jack Brighenti"},
+    {"@type": "Person", "name": "Brittany Brighenti"}
+  ],
+  "sameAs": [
+    "https://linkedin.com/company/britanniai",
+    "https://twitter.com/britanniai"
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "email": "hello@britanniai.com",
+    "contactType": "sales"
+  }
+};
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": homeFAQ.map(item => ({
+    "@type": "Question",
+    "name": item.question,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": item.answer
+    }
+  }))
+};
+
+const breadcrumbSchema = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://britanniai.com"
+    }
+  ]
+};
+---
+
+<PageLayout
+  title="Britanni AI — AI Transaction Coordinator for Real Estate Agents"
+  description="Britanni AI is your always-on AI transaction coordinator. Automate contract analysis, deadline tracking, and party communications — save $400+ per deal."
+  jsonLd={[organizationSchema, faqSchema, breadcrumbSchema]}
+>
+  <!-- 1. Hero Section -->
+  <Hero />
+
+  <!-- 2. Logo Bar / Social Proof -->
+  <LogoBar />
+
+  <!-- 3. Pain Points -->
+  <PainPoints />
+
+  <!-- 4. How It Works -->
+  <SolutionOverview />
+
+  <!-- 5. Feature Showcase (Bento Grid) -->
+  <FeatureShowcase />
+
+  <!-- 6. Stats / Results -->
+  <Stats />
+
+  <!-- 7. Testimonials -->
+  <Testimonials />
+
+  <!-- 8. Built by Real Estate People Teaser -->
+  <section class="py-20 md:py-28 bg-white">
+    <div class="max-w-4xl mx-auto px-6 md:px-8 text-center">
+      <p class="text-sm font-semibold uppercase tracking-wider text-blue-600 mb-3">Our Story</p>
+      <h2 class="text-3xl md:text-4xl font-bold tracking-tight text-slate-900">
+        Built by Real Estate People
+      </h2>
+      <p class="mt-6 text-lg text-slate-600 leading-relaxed max-w-2xl mx-auto">
+        Britanni AI was built by real estate professionals who lived the coordination chaos firsthand. We didn't just study the problem — we lived it on every deal. So we built the tool we wished existed.
+      </p>
+      <div class="mt-8">
+        <a
+          href="/about"
+          class="inline-flex items-center gap-2 text-blue-600 hover:text-blue-700 font-medium text-base transition-colors"
+        >
+          Meet the Team
+          <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" aria-hidden="true">
+            <path stroke-linecap="round" stroke-linejoin="round" d="M13.5 4.5L21 12m0 0l-7.5 7.5M21 12H3" />
+          </svg>
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- 9. Bottom CTA Banner -->
+  <CTABanner />
+
+  <!-- 10. FAQ -->
+  <FAQ />
+</PageLayout>

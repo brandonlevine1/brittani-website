@@ -1,0 +1,20 @@
+{
+  "name": "britanni-ai",
+  "type": "module",
+  "version": "0.0.1",
+  "scripts": {
+    "dev": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "@astrojs/sitemap": "^3.7.0",
+    "@fontsource/dm-sans": "^5.2.8",
+    "@fontsource/inter": "^5.2.8",
+    "@tailwindcss/vite": "^4.1.18",
+    "astro": "^5.17.1",
+    "astro-seo": "^1.1.0",
+    "tailwindcss": "^4.1.18"
+  }
+}

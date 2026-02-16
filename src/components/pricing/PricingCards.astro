@@ -1,0 +1,124 @@
+---
+import { pricingTiers } from '../../data/pricing';
+---
+
+<section class="py-16 md:py-20 bg-white">
+  <div class="max-w-7xl mx-auto px-6 md:px-8">
+    <!-- Toggle -->
+    <div class="flex items-center justify-center gap-3 mb-12">
+      <span id="monthly-label" class="text-sm font-medium text-slate-500">Monthly</span>
+      <button
+        id="pricing-toggle"
+        type="button"
+        role="switch"
+        aria-checked="true"
+        aria-label="Toggle annual billing"
+        class="relative inline-flex h-7 w-12 items-center rounded-full bg-blue-600 transition-colors"
+      >
+        <span id="toggle-dot" class="inline-block h-5 w-5 transform rounded-full bg-white shadow-sm transition-transform translate-x-6"></span>
+      </button>
+      <span id="annual-label" class="text-sm font-semibold text-slate-900">Annual <span class="text-emerald-600">(Save 20%)</span></span>
+    </div>
+
+    <!-- Cards -->
+    <div class="grid md:grid-cols-3 gap-8 max-w-5xl mx-auto">
+      {pricingTiers.map((tier) => (
+        <div class:list={[
+          'relative border rounded-2xl p-8 flex flex-col',
+          tier.popular
+            ? 'border-blue-600 shadow-lg shadow-blue-600/10 ring-1 ring-blue-600'
+            : 'border-slate-200',
+        ]}>
+          {tier.popular && (
+            <div class="absolute -top-3.5 left-1/2 -translate-x-1/2 bg-blue-600 text-white text-xs font-semibold px-4 py-1 rounded-full">
+              Most Popular
+            </div>
+          )}
+
+          <div class="mb-6">
+            <h3 class="text-xl font-bold text-slate-900">{tier.name}</h3>
+            <p class="text-sm text-slate-500 mt-1">{tier.tagline}</p>
+          </div>
+
+          <div class="mb-6">
+            <div class="flex items-baseline gap-1">
+              <span class="text-4xl font-bold text-slate-900">
+                $<span class="pricing-amount" data-monthly={tier.monthlyPrice} data-annual={tier.annualPrice}>{tier.annualPrice}</span>
+              </span>
+              <span class="text-slate-500 text-sm">/month</span>
+            </div>
+            <p class="text-xs text-slate-400 mt-1 pricing-billing-note">Billed annually</p>
+          </div>
+
+          <ul class="space-y-3 mb-8 flex-1">
+            {tier.features.map((feature) => (
+              <li class="flex items-start gap-3 text-sm text-slate-700">
+                <svg class="w-5 h-5 text-blue-600 shrink-0 mt-0.5" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                  <path stroke-linecap="round" stroke-linejoin="round" d="M4.5 12.75l6 6 9-13.5" />
+                </svg>
+                {feature}
+              </li>
+            ))}
+          </ul>
+
+          <a
+            href={tier.ctaLink}
+            class:list={[
+              'block text-center font-semibold py-3.5 rounded-xl transition-all duration-200 text-base',
+              tier.popular
+                ? 'bg-blue-600 hover:bg-blue-700 text-white hover:shadow-lg hover:shadow-blue-600/25'
+                : 'bg-white border-2 border-slate-200 hover:border-blue-600 text-slate-900',
+            ]}
+          >
+            {tier.cta}
+          </a>
+        </div>
+      ))}
+    </div>
+
+    <p class="text-center text-sm text-slate-500 mt-8">
+      All plans include a 14-day free trial. No credit card required.
+    </p>
+  </div>
+</section>
+
+<script>
+  const toggle = document.getElementById('pricing-toggle');
+  const dot = document.getElementById('toggle-dot');
+  const amounts = document.querySelectorAll('.pricing-amount');
+  const billingNotes = document.querySelectorAll('.pricing-billing-note');
+  const monthlyLabel = document.getElementById('monthly-label');
+  const annualLabel = document.getElementById('annual-label');
+
+  let isAnnual = true;
+
+  toggle?.addEventListener('click', () => {
+    isAnnual = !isAnnual;
+    toggle.setAttribute('aria-checked', String(isAnnual));
+
+    if (isAnnual) {
+      dot?.classList.remove('translate-x-1');
+      dot?.classList.add('translate-x-6');
+      monthlyLabel?.classList.remove('text-slate-900', 'font-semibold');
+      monthlyLabel?.classList.add('text-slate-500', 'font-medium');
+      annualLabel?.classList.remove('text-slate-500', 'font-medium');
+      annualLabel?.classList.add('text-slate-900', 'font-semibold');
+    } else {
+      dot?.classList.remove('translate-x-6');
+      dot?.classList.add('translate-x-1');
+      monthlyLabel?.classList.remove('text-slate-500', 'font-medium');
+      monthlyLabel?.classList.add('text-slate-900', 'font-semibold');
+      annualLabel?.classList.remove('text-slate-900', 'font-semibold');
+      annualLabel?.classList.add('text-slate-500', 'font-medium');
+    }
+
+    amounts.forEach((el) => {
+      const htmlEl = el as HTMLElement;
+      htmlEl.textContent = isAnnual ? htmlEl.dataset.annual || '' : htmlEl.dataset.monthly || '';
+    });
+
+    billingNotes.forEach((el) => {
+      el.textContent = isAnnual ? 'Billed annually' : 'Billed monthly';
+    });
+  });
+</script>
