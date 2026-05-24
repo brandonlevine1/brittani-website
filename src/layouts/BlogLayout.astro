@@ -1,5 +1,6 @@
 ---
 import PageLayout from './PageLayout.astro';
+import Disclaimer from '../components/blog/Disclaimer.astro';
 
 interface Props {
   title: string;
@@ -7,12 +8,16 @@ interface Props {
   publishDate: string;
   author: string;
   readTime: string;
+  tags?: string[];
   canonical?: string;
   ogImage?: string;
   jsonLd?: object | object[];
 }
 
-const { title, description, publishDate, author, readTime, ...rest } = Astro.props;
+const COMPLIANCE_TAGS = ['compliance', 'seller-disclosure-requirements', 'buyer-contingency-deadlines', 'earnest-money-rules', 'building-code-updates', 'hoa-condo-requirements', 'title-and-closing-procedures', 'escrow-regulations', 'property-condition-disclosures'];
+
+const { title, description, publishDate, author, readTime, tags = [], ...rest } = Astro.props;
+const showDisclaimer = tags.some(t => COMPLIANCE_TAGS.includes(t));
 ---
 
 <PageLayout title={`${title} | Britanni AI Blog`} description={description} {...rest}>
@@ -32,6 +37,7 @@ const { title, description, publishDate, author, readTime, ...rest } = Astro.pro
       <div class="prose prose-lg prose-slate max-w-none prose-headings:font-bold prose-headings:tracking-tight prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline">
         <slot />
       </div>
+      {showDisclaimer && <Disclaimer />}
     </div>
   </article>
 </PageLayout>

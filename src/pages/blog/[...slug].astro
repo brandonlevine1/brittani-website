@@ -1,6 +1,7 @@
 ---
 import PageLayout from '../../layouts/PageLayout.astro';
 import CTABanner from '../../components/global/CTABanner.astro';
+import Disclaimer from '../../components/blog/Disclaimer.astro';
 import { getCollection, render } from 'astro:content';
 
 export async function getStaticPaths() {
@@ -13,6 +14,9 @@ export async function getStaticPaths() {
 
 const { post } = Astro.props;
 const { Content } = await render(post);
+
+const COMPLIANCE_TAGS = ['compliance', 'seller-disclosure-requirements', 'buyer-contingency-deadlines', 'earnest-money-rules', 'building-code-updates', 'hoa-condo-requirements', 'title-and-closing-procedures', 'escrow-regulations', 'property-condition-disclosures'];
+const showDisclaimer = (post.data.tags || []).some((t: string) => COMPLIANCE_TAGS.includes(t));
 
 const articleSchema = {
   "@context": "https://schema.org",
@@ -87,6 +91,7 @@ const breadcrumbSchema = {
       <div class="prose prose-lg prose-slate max-w-none prose-headings:font-bold prose-headings:tracking-tight prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-img:rounded-2xl">
         <Content />
       </div>
+      {showDisclaimer && <Disclaimer />}
 
       <!-- Post Footer -->
       <div class="mt-16 pt-8 border-t border-slate-200">
