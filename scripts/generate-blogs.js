@@ -1,4 +1,4 @@
-import Anthropic from '@anthropic-ai/sdk';
+import AnthropicBedrock from '@anthropic-ai/bedrock-sdk';
 import { readdir, writeFile, mkdir } from 'fs/promises';
 import { join } from 'path';
 import {
@@ -22,9 +22,11 @@ async function getExistingPosts() {
 }
 
 async function callClaude(prompt) {
-  const client = new Anthropic();
+  const client = new AnthropicBedrock({
+    awsRegion: process.env.AWS_REGION || 'us-east-1',
+  });
   const response = await client.messages.create({
-    model: 'claude-opus-4-6',
+    model: 'us.anthropic.claude-opus-4-6-v1',
     max_tokens: 4096,
     messages: [{ role: 'user', content: prompt }],
   });

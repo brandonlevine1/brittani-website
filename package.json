@@ -21,6 +21,7 @@
     "tailwindcss": "^4.1.18"
   },
   "devDependencies": {
+    "@anthropic-ai/bedrock-sdk": "^0.29.2",
     "@anthropic-ai/sdk": "^0.98.0",
     "vitest": "^4.1.7"
   }
