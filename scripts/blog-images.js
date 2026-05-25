@@ -22,7 +22,7 @@ function buildImagePrompt(type, state, topicSlug) {
     subject = `Modern glass and steel office building exterior detail, blue sky reflected in windows, clean geometric lines, minimalist urban architecture`;
   }
 
-  return `${STYLE_PREFIX}, ${subject}. ${NEGATIVE_SUFFIX}`;
+  return `Generate a photograph: ${STYLE_PREFIX}, ${subject}. ${NEGATIVE_SUFFIX}`;
 }
 
 export async function generateImage(slug, type, state) {
@@ -31,16 +31,20 @@ export async function generateImage(slug, type, state) {
 
   console.log(`[Image] Generating: ${slug}`);
 
-  const response = await ai.models.generateImages({
-    model: 'imagen-3.0-generate-001',
-    prompt,
+  const response = await ai.models.generateContent({
+    model: 'gemini-2.0-flash-exp',
+    contents: prompt,
     config: {
-      numberOfImages: 1,
-      aspectRatio: '16:9',
+      responseModalities: ['image', 'text'],
     },
   });
 
-  const imageData = Buffer.from(response.generatedImages[0].image.imageBytes, 'base64');
+  const imagePart = response.candidates[0].content.parts.find(p => p.inlineData);
+  if (!imagePart) {
+    throw new Error('No image returned from Gemini');
+  }
+
+  const imageData = Buffer.from(imagePart.inlineData.data, 'base64');
 
   await mkdir(IMAGE_DIR, { recursive: true });
 
