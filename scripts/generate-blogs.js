@@ -8,6 +8,7 @@ import {
   pickNextType3Topic,
 } from './blog-topics.js';
 import { buildType1Prompt, buildType2Prompt, buildType3Prompt } from './blog-prompts.js';
+import { generateImage } from './blog-images.js';
 
 const BLOG_DIR = join(process.cwd(), 'src/content/blog');
 const CURRENT_YEAR = new Date().getFullYear();
@@ -27,21 +28,37 @@ async function callClaude(prompt) {
   });
   const response = await client.messages.create({
     model: 'us.anthropic.claude-opus-4-6-v1',
-    max_tokens: 4096,
+    max_tokens: 8192,
     messages: [{ role: 'user', content: prompt }],
   });
   return response.content[0].text;
 }
 
+function calculateReadTime(markdown) {
+  const body = markdown.replace(/^---[\s\S]*?---/, '').trim();
+  const wordCount = body.split(/\s+/).length;
+  return `${Math.ceil(wordCount / 238)} min read`;
+}
+
+function cleanMarkdown(content) {
+  let cleaned = content.replace(/^```(?:markdown|md)?\n/, '').replace(/\n```$/, '');
+  const readTime = calculateReadTime(cleaned);
+  cleaned = cleaned.replace('readTime: "CALCULATE_AFTER"', `readTime: "${readTime}"`);
+  return cleaned;
+}
+
 async function generateType1(existingPosts) {
   const state = pickNextState(existingPosts);
   const category = pickNextType1Category(state, existingPosts);
+  const slug = `${state}-${category.slug}-${CURRENT_YEAR}`;
   console.log(`[Type 1] Generating: ${state} — ${category.label}`);
 
   const prompt = buildType1Prompt(state, category);
   const markdown = await callClaude(prompt);
-  const filename = `${state}-${category.slug}-${CURRENT_YEAR}.md`;
-  return { filename, content: markdown };
+
+  await generateImage(slug, 'regulatory', state);
+
+  return { filename: `${slug}.md`, content: cleanMarkdown(markdown) };
 }
 
 async function generateType2(existingPosts) {
@@ -50,8 +67,10 @@ async function generateType2(existingPosts) {
 
   const prompt = buildType2Prompt(topic);
   const markdown = await callClaude(prompt);
-  const filename = `${topic.slug}.md`;
-  return { filename, content: markdown };
+
+  await generateImage(topic.slug, 'operational', null);
+
+  return { filename: `${topic.slug}.md`, content: cleanMarkdown(markdown) };
 }
 
 async function generateType3(existingPosts) {
@@ -60,8 +79,10 @@ async function generateType3(existingPosts) {
 
   const prompt = buildType3Prompt(topic);
   const markdown = await callClaude(prompt);
-  const filename = `${topic.slug}.md`;
-  return { filename, content: markdown };
+
+  await generateImage(topic.slug, 'opinion', null);
+
+  return { filename: `${topic.slug}.md`, content: cleanMarkdown(markdown) };
 }
 
 async function main() {
@@ -81,8 +102,7 @@ async function main() {
   const generatedFiles = [];
   for (const { filename, content } of results) {
     const filepath = join(BLOG_DIR, filename);
-    const cleaned = content.replace(/^```(?:markdown|md)?\n/, '').replace(/\n```$/, '');
-    await writeFile(filepath, cleaned, 'utf-8');
+    await writeFile(filepath, content, 'utf-8');
     console.log(`Written: ${filepath}`);
     generatedFiles.push(filename);
   }

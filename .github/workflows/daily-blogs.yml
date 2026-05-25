@@ -41,6 +41,7 @@ jobs:
       - name: Generate blog posts
         env:
           AWS_REGION: us-east-1
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
         run: npm run generate-blogs
 
       - name: Create branch and PR
@@ -55,7 +56,7 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
           git checkout -b "${BRANCH}"
-          git add src/content/blog/
+          git add src/content/blog/ public/images/blog/
 
           # Check if there are changes to commit
           if git diff --cached --quiet; then
