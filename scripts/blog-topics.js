@@ -64,10 +64,9 @@ export const TYPE3_TOPICS = [
   { slug: 'remote-closings-state-by-state', title: 'Remote Closings in 2026: Which States Allow Them and What\'s Required' },
 ];
 
-export const AUTHORS = ['Brandon Levine', 'Jack Brighenti', 'Brittany Brighenti'];
+export const AUTHORS = ['Jack Brighenti', 'Brittany Brighenti'];
 
 export const AUTHOR_BIOS = {
-  'Brandon Levine': 'Co-founder at Britanni AI. Previously managed transaction operations for a 200-agent brokerage in South Florida.',
   'Jack Brighenti': 'Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions.',
   'Brittany Brighenti': 'Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni.',
 };
