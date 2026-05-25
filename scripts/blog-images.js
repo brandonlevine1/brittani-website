@@ -32,7 +32,7 @@ export async function generateImage(slug, type, state) {
   console.log(`[Image] Generating: ${slug}`);
 
   const response = await ai.models.generateImages({
-    model: 'imagen-3.0-generate-002',
+    model: 'imagen-3.0-generate-001',
     prompt,
     config: {
       numberOfImages: 1,
