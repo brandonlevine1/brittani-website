@@ -294,30 +294,9 @@ The demo runs inside an iframe on the marketing site. When the user clicks "Sign
 - The `allow="clipboard-write"` on the iframe is sufficient; no additional sandbox attributes needed
 - If the demo is accessed directly at `demo.brittani.ai` (not in iframe), the CTA works the same way
 
-## Mobile Strategy
+## Mobile Considerations
 
-**On the marketing site (features page):**
-- Desktop/tablet (≥768px): Show the iframe embed as designed
-- Mobile (<768px): Replace iframe with a screenshot/preview image of the demo + "Try the Interactive Demo →" button that opens `demo.brittani.ai` in a new tab
-
-```html
-<!-- Mobile: screenshot + CTA (hidden on md+) -->
-<div class="md:hidden">
-  <img src="/images/demo-preview.png" alt="Brittani AI Demo" class="rounded-xl shadow-lg" />
-  <a href="https://demo.brittani.ai" target="_blank" class="...">
-    Try the Interactive Demo →
-  </a>
-</div>
-
-<!-- Desktop: iframe (hidden on mobile) -->
-<div class="hidden md:block">
-  <iframe src="https://demo.brittani.ai" ... ></iframe>
-</div>
-```
-
-**The demo app itself (demo.brittani.ai) is fully responsive:**
-- Drag-and-drop replaced with tap-to-upload on touch devices (detected via `'ontouchstart' in window`)
+- Drag-and-drop replaced with tap-to-upload on touch devices
 - Tutorial tooltips positioned above (not beside) on narrow screens
-- File card shows "Tap to upload" instead of "Grab and drag"
-- All dashboard views stack vertically on mobile
-- Brittani chat panel slides up from bottom (drawer pattern)
+- iframe height may need to be taller on mobile for scrolling
+- Consider a "Open demo in new tab" link below iframe for mobile users
