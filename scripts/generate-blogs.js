@@ -1,4 +1,5 @@
 import AnthropicBedrock from '@anthropic-ai/bedrock-sdk';
+import yaml from 'js-yaml';
 import { readdir, writeFile, mkdir } from 'fs/promises';
 import { join } from 'path';
 import {
@@ -40,10 +41,36 @@ function calculateReadTime(markdown) {
   return `${Math.ceil(wordCount / 238)} min read`;
 }
 
+function validateFrontmatter(content) {
+  const match = content.match(/^---\n([\s\S]*?)\n---/);
+  if (!match) return false;
+  try {
+    yaml.load(match[1]);
+    return true;
+  } catch {
+    return false;
+  }
+}
+
 function cleanMarkdown(content) {
   let cleaned = content.replace(/^```(?:markdown|md)?\n/, '').replace(/\n```$/, '');
   const readTime = calculateReadTime(cleaned);
   cleaned = cleaned.replace('readTime: "CALCULATE_AFTER"', `readTime: "${readTime}"`);
+
+  if (!validateFrontmatter(cleaned)) {
+    console.warn('[Frontmatter] Invalid YAML detected, attempting repair...');
+    cleaned = cleaned.replace(/^---\n([\s\S]*?)\n---/, (full, fm) => {
+      const fixed = fm.replace(/^(\w+): "(.*)"/gm, (_, key, val) => {
+        const escaped = val.replace(/(?<!\\)"/g, '\\"');
+        return `${key}: "${escaped}"`;
+      });
+      return `---\n${fixed}\n---`;
+    });
+    if (!validateFrontmatter(cleaned)) {
+      throw new Error('Frontmatter YAML is invalid and could not be auto-repaired');
+    }
+  }
+
   return cleaned;
 }
 

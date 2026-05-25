@@ -9,6 +9,12 @@ function pickAuthor() {
 }
 
 const FORMATTING_RULES = `
+YAML FRONTMATTER RULES (critical — invalid YAML breaks the build):
+- If a frontmatter value contains a colon, quote, or special character, wrap it in double quotes and escape inner quotes with backslash: \\"
+- Example: title: "Stop Calling It \\"AI\\" If It's Just a Template Library"
+- Never use unescaped double quotes inside a double-quoted YAML value.
+- Ensure consistent 0-space indentation for all top-level frontmatter keys.
+
 FORMATTING RULES (strict — violating these means the post will be rejected):
 - Maximum 3 sentences per paragraph. No exceptions.
 - No emojis anywhere in the post.
