@@ -32,7 +32,7 @@ export async function generateImage(slug, type, state) {
   console.log(`[Image] Generating: ${slug}`);
 
   const response = await ai.models.generateContent({
-    model: 'gemini-2.0-flash-exp',
+    model: 'gemini-2.0-flash-preview-image-generation',
     contents: prompt,
     config: {
       responseModalities: ['image', 'text'],
