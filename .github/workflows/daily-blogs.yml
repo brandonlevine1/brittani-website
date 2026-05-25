@@ -8,8 +8,6 @@ on:
 
 permissions:
   contents: write
-  pull-requests: write
-  actions: write
 
 env:
   FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
@@ -48,20 +46,17 @@ jobs:
       - name: Verify build passes
         run: npm run build
 
-      - name: Create branch and PR
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - name: Commit and push to main
         run: |
           DATE=$(date +%Y-%m-%d)
-          RUN_ID="${{ github.run_id }}"
-          BRANCH="blog/daily-posts-${DATE}-${RUN_ID}"
 
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
-          git checkout -b "${BRANCH}"
           git add src/content/blog/
-          git add public/images/blog/ 2>/dev/null || true
+          if [ -d public/images/blog ]; then
+            git add public/images/blog/
+          fi
 
           # Check if there are changes to commit
           if git diff --cached --quiet; then
@@ -70,26 +65,4 @@ jobs:
           fi
 
           git commit -m "content: add daily blog posts for ${DATE}"
-          git push origin "${BRANCH}"
-
-          PR_URL=$(gh pr create \
-            --title "Blog posts for ${DATE}" \
-            --body "$(cat <<EOF
-          ## Daily Blog Posts
-
-          Auto-generated blog posts:
-
-          $(git diff --name-only HEAD~1 | grep "src/content/blog/" | sed 's/src\/content\/blog\//- /')
-
-          ---
-          *Auto-merged. To rollback: `git revert HEAD` on main and push.*
-          EOF
-          )" \
-            --base main \
-            --head "${BRANCH}")
-
-          # Auto-merge the PR
-          gh pr merge "${PR_URL}" --merge --delete-branch
-
-          # Trigger deploy (GITHUB_TOKEN merges don't trigger push workflows)
-          gh workflow run deploy.yml
+          git push origin main
