@@ -47,6 +47,18 @@ function cleanMarkdown(content) {
   return cleaned;
 }
 
+async function tryGenerateImage(slug, type, state) {
+  if (!process.env.GEMINI_API_KEY) {
+    console.log(`[Image] Skipped (no GEMINI_API_KEY): ${slug}`);
+    return;
+  }
+  try {
+    await generateImage(slug, type, state);
+  } catch (err) {
+    console.warn(`[Image] Failed for ${slug}, continuing without image: ${err.message}`);
+  }
+}
+
 async function generateType1(existingPosts) {
   const state = pickNextState(existingPosts);
   const category = pickNextType1Category(state, existingPosts);
@@ -56,7 +68,7 @@ async function generateType1(existingPosts) {
   const prompt = buildType1Prompt(state, category);
   const markdown = await callClaude(prompt);
 
-  await generateImage(slug, 'regulatory', state);
+  await tryGenerateImage(slug, 'regulatory', state);
 
   return { filename: `${slug}.md`, content: cleanMarkdown(markdown) };
 }
@@ -68,7 +80,7 @@ async function generateType2(existingPosts) {
   const prompt = buildType2Prompt(topic);
   const markdown = await callClaude(prompt);
 
-  await generateImage(topic.slug, 'operational', null);
+  await tryGenerateImage(topic.slug, 'operational', null);
 
   return { filename: `${topic.slug}.md`, content: cleanMarkdown(markdown) };
 }
@@ -80,7 +92,7 @@ async function generateType3(existingPosts) {
   const prompt = buildType3Prompt(topic);
   const markdown = await callClaude(prompt);
 
-  await generateImage(topic.slug, 'opinion', null);
+  await tryGenerateImage(topic.slug, 'opinion', null);
 
   return { filename: `${topic.slug}.md`, content: cleanMarkdown(markdown) };
 }
