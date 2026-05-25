@@ -2,9 +2,50 @@
 import PageLayout from '../../layouts/PageLayout.astro';
 import { getCollection } from 'astro:content';
 
-const posts = (await getCollection('blog')).sort(
+const allPosts = (await getCollection('blog')).sort(
   (a, b) => new Date(b.data.publishDate).getTime() - new Date(a.data.publishDate).getTime()
 );
+
+const stateDisclosurePosts = allPosts.filter(p =>
+  p.data.tags?.includes('seller-disclosure-requirements')
+);
+
+const transactionMgmtPosts = allPosts.filter(p =>
+  p.data.type === 'operational' ||
+  p.data.tags?.includes('transaction coordination') ||
+  p.data.tags?.includes('deadlines')
+);
+
+const brokerPosts = allPosts.filter(p => {
+  const title = p.data.title.toLowerCase();
+  return (
+    title.includes('broker') ||
+    title.includes('scaling') ||
+    title.includes('training new agents') ||
+    title.includes('hidden cost of agent turnover') ||
+    title.includes('compliance risk')
+  );
+});
+
+const aiTechPosts = allPosts.filter(p => {
+  const title = p.data.title.toLowerCase();
+  const tags = p.data.tags || [];
+  return (
+    tags.includes('AI') ||
+    tags.includes('proptech') ||
+    title.includes('ai') ||
+    title.includes('future of') ||
+    title.includes('tc industry') ||
+    title.includes('nar settlement')
+  );
+});
+
+const stateNames = stateDisclosurePosts.map(p => {
+  const slug = p.id;
+  const name = slug.replace('-seller-disclosure-requirements-2026', '')
+    .split('-').map(w => w.charAt(0).toUpperCase() + w.slice(1)).join(' ');
+  return { name, slug: p.id };
+}).sort((a, b) => a.name.localeCompare(b.name));
 
 const breadcrumbSchema = {
   "@context": "https://schema.org",
@@ -34,57 +75,340 @@ const breadcrumbSchema = {
           Real estate technology, transaction management tips, and AI insights from the Britanni team.
         </p>
       </div>
-    </div>
-  </section>
 
-  <!-- Blog Posts Grid -->
-  <section class="py-20 md:py-28 bg-white">
-    <div class="max-w-7xl mx-auto px-6 md:px-8">
-      <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-        {posts.map((post) => (
-          <article class="group border border-slate-200 rounded-2xl overflow-hidden hover:shadow-md transition-all">
-            <!-- Cover Image -->
-            {post.data.image ? (
-              <img
-                src={post.data.image}
-                alt={post.data.imageAlt || post.data.title}
-                class="aspect-[16/9] w-full object-cover"
-                loading="lazy"
-              />
-            ) : (
-              <div class="aspect-[16/9] bg-gradient-to-br from-slate-100 to-slate-50" />
-            )}
-
-            <div class="p-6">
-              <!-- Meta -->
-              <div class="flex items-center gap-3 text-sm text-slate-500 mb-3">
-                <time datetime={post.data.publishDate}>
-                  {new Date(post.data.publishDate).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' })}
-                </time>
-                <span aria-hidden="true">&middot;</span>
-                <span>{post.data.readTime}</span>
-              </div>
-
-              <!-- Title -->
-              <h2 class="text-xl font-semibold text-slate-900 group-hover:text-blue-600 transition-colors mb-2">
-                <a href={`/blog/${post.id}`} class="after:absolute after:inset-0 relative">
-                  {post.data.title}
-                </a>
-              </h2>
-
-              <!-- Excerpt -->
-              <p class="text-slate-600 text-sm leading-relaxed line-clamp-3">
-                {post.data.description}
-              </p>
-
-              <!-- Author -->
-              <div class="mt-4 text-sm text-slate-500">
-                By {post.data.author}
-              </div>
-            </div>
-          </article>
-        ))}
+      <!-- Search -->
+      <div class="mt-10 max-w-2xl mx-auto">
+        <div class="relative">
+          <svg class="absolute left-4 top-1/2 -translate-y-1/2 w-5 h-5 text-slate-400" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+            <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" />
+          </svg>
+          <input
+            type="text"
+            id="blog-search"
+            placeholder="Search articles — try &quot;disclosure&quot;, &quot;broker&quot;, or &quot;deadlines&quot;"
+            class="w-full pl-12 pr-4 py-4 rounded-xl border border-slate-200 bg-white shadow-sm text-slate-900 placeholder:text-slate-400 focus:outline-none focus:ring-2 focus:ring-blue-500 focus:border-transparent text-base"
+          />
+        </div>
       </div>
     </div>
   </section>
+
+  <!-- Search Results (hidden by default) -->
+  <section id="search-results" class="py-16 bg-white hidden">
+    <div class="max-w-7xl mx-auto px-6 md:px-8">
+      <div class="flex items-center justify-between mb-8">
+        <h2 class="text-2xl font-bold text-slate-900">
+          Search Results <span id="search-count" class="text-slate-400 font-normal text-lg"></span>
+        </h2>
+        <button id="clear-search" class="text-sm text-blue-600 hover:text-blue-700 font-medium">
+          Clear search
+        </button>
+      </div>
+      <div id="search-results-grid" class="grid md:grid-cols-2 lg:grid-cols-3 gap-8"></div>
+      <p id="no-results" class="text-center text-slate-500 text-lg py-12 hidden">
+        No articles found. Try a different search term.
+      </p>
+    </div>
+  </section>
+
+  <!-- Sections Container (hidden during search) -->
+  <div id="sections-container">
+
+    <!-- State Compliance Guides -->
+    <section class="py-16 md:py-20 bg-white border-b border-slate-100">
+      <div class="max-w-7xl mx-auto px-6 md:px-8">
+        <div class="mb-10">
+          <h2 class="text-2xl md:text-3xl font-bold text-slate-900">State Compliance Guides</h2>
+          <p class="mt-2 text-slate-600">Seller disclosure requirements by state — updated for 2026.</p>
+        </div>
+
+        <!-- State Grid -->
+        <div class="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-5 gap-3 mb-10">
+          {stateNames.map(({ name, slug }) => (
+            <a
+              href={`/blog/${slug}`}
+              class="px-4 py-3 rounded-lg border border-slate-200 text-sm font-medium text-slate-700 hover:border-blue-300 hover:bg-blue-50 hover:text-blue-700 transition-colors text-center"
+            >
+              {name}
+            </a>
+          ))}
+        </div>
+
+        <!-- Featured state posts -->
+        <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+          {stateDisclosurePosts.slice(0, 3).map((post) => (
+            <article class="group border border-slate-200 rounded-2xl overflow-hidden hover:shadow-md transition-all">
+              {post.data.image ? (
+                <img
+                  src={post.data.image}
+                  alt={post.data.imageAlt || post.data.title}
+                  class="aspect-[16/9] w-full object-cover"
+                  loading="lazy"
+                />
+              ) : (
+                <div class="aspect-[16/9] bg-gradient-to-br from-blue-50 to-violet-50" />
+              )}
+              <div class="p-6">
+                <div class="flex items-center gap-3 text-sm text-slate-500 mb-3">
+                  <time datetime={post.data.publishDate}>
+                    {new Date(post.data.publishDate).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' })}
+                  </time>
+                  <span aria-hidden="true">&middot;</span>
+                  <span>{post.data.readTime}</span>
+                </div>
+                <h3 class="text-lg font-semibold text-slate-900 group-hover:text-blue-600 transition-colors mb-2">
+                  <a href={`/blog/${post.id}`} class="after:absolute after:inset-0 relative">
+                    {post.data.title}
+                  </a>
+                </h3>
+                <p class="text-slate-600 text-sm leading-relaxed line-clamp-2">
+                  {post.data.description}
+                </p>
+              </div>
+            </article>
+          ))}
+        </div>
+
+        {stateDisclosurePosts.length > 3 && (
+          <div class="mt-8 text-center">
+            <a href="#all-state-guides" class="text-sm font-medium text-blue-600 hover:text-blue-700">
+              View all {stateDisclosurePosts.length} state guides &rarr;
+            </a>
+          </div>
+        )}
+      </div>
+    </section>
+
+    <!-- Transaction Management -->
+    <section class="py-16 md:py-20 bg-slate-50/50 border-b border-slate-100">
+      <div class="max-w-7xl mx-auto px-6 md:px-8">
+        <div class="mb-10">
+          <h2 class="text-2xl md:text-3xl font-bold text-slate-900">Transaction Management</h2>
+          <p class="mt-2 text-slate-600">Checklists, systems, and processes to close deals faster with fewer mistakes.</p>
+        </div>
+
+        <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+          {transactionMgmtPosts.slice(0, 6).map((post) => (
+            <article class="group border border-slate-200 rounded-2xl overflow-hidden hover:shadow-md transition-all bg-white">
+              {post.data.image ? (
+                <img
+                  src={post.data.image}
+                  alt={post.data.imageAlt || post.data.title}
+                  class="aspect-[16/9] w-full object-cover"
+                  loading="lazy"
+                />
+              ) : (
+                <div class="aspect-[16/9] bg-gradient-to-br from-emerald-50 to-teal-50" />
+              )}
+              <div class="p-6">
+                <div class="flex items-center gap-3 text-sm text-slate-500 mb-3">
+                  <time datetime={post.data.publishDate}>
+                    {new Date(post.data.publishDate).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' })}
+                  </time>
+                  <span aria-hidden="true">&middot;</span>
+                  <span>{post.data.readTime}</span>
+                </div>
+                <h3 class="text-lg font-semibold text-slate-900 group-hover:text-blue-600 transition-colors mb-2">
+                  <a href={`/blog/${post.id}`} class="after:absolute after:inset-0 relative">
+                    {post.data.title}
+                  </a>
+                </h3>
+                <p class="text-slate-600 text-sm leading-relaxed line-clamp-2">
+                  {post.data.description}
+                </p>
+              </div>
+            </article>
+          ))}
+        </div>
+
+        {transactionMgmtPosts.length > 6 && (
+          <div class="mt-8 text-center">
+            <a href="#all-transaction-management" class="text-sm font-medium text-blue-600 hover:text-blue-700">
+              View all {transactionMgmtPosts.length} articles &rarr;
+            </a>
+          </div>
+        )}
+      </div>
+    </section>
+
+    <!-- For Brokers & Teams -->
+    <section class="py-16 md:py-20 bg-white border-b border-slate-100">
+      <div class="max-w-7xl mx-auto px-6 md:px-8">
+        <div class="mb-10">
+          <h2 class="text-2xl md:text-3xl font-bold text-slate-900">For Brokers &amp; Teams</h2>
+          <p class="mt-2 text-slate-600">Liability, compliance oversight, scaling operations, and team management.</p>
+        </div>
+
+        <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+          {brokerPosts.slice(0, 6).map((post) => (
+            <article class="group border border-slate-200 rounded-2xl overflow-hidden hover:shadow-md transition-all">
+              {post.data.image ? (
+                <img
+                  src={post.data.image}
+                  alt={post.data.imageAlt || post.data.title}
+                  class="aspect-[16/9] w-full object-cover"
+                  loading="lazy"
+                />
+              ) : (
+                <div class="aspect-[16/9] bg-gradient-to-br from-amber-50 to-orange-50" />
+              )}
+              <div class="p-6">
+                <div class="flex items-center gap-3 text-sm text-slate-500 mb-3">
+                  <time datetime={post.data.publishDate}>
+                    {new Date(post.data.publishDate).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' })}
+                  </time>
+                  <span aria-hidden="true">&middot;</span>
+                  <span>{post.data.readTime}</span>
+                </div>
+                <h3 class="text-lg font-semibold text-slate-900 group-hover:text-blue-600 transition-colors mb-2">
+                  <a href={`/blog/${post.id}`} class="after:absolute after:inset-0 relative">
+                    {post.data.title}
+                  </a>
+                </h3>
+                <p class="text-slate-600 text-sm leading-relaxed line-clamp-2">
+                  {post.data.description}
+                </p>
+              </div>
+            </article>
+          ))}
+        </div>
+
+        {brokerPosts.length > 6 && (
+          <div class="mt-8 text-center">
+            <a href="#all-broker-content" class="text-sm font-medium text-blue-600 hover:text-blue-700">
+              View all {brokerPosts.length} articles &rarr;
+            </a>
+          </div>
+        )}
+      </div>
+    </section>
+
+    <!-- AI & Technology -->
+    <section class="py-16 md:py-20 bg-slate-50/50">
+      <div class="max-w-7xl mx-auto px-6 md:px-8">
+        <div class="mb-10">
+          <h2 class="text-2xl md:text-3xl font-bold text-slate-900">AI &amp; Technology</h2>
+          <p class="mt-2 text-slate-600">How AI is reshaping real estate operations, and what's coming next.</p>
+        </div>
+
+        <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
+          {aiTechPosts.slice(0, 6).map((post) => (
+            <article class="group border border-slate-200 rounded-2xl overflow-hidden hover:shadow-md transition-all bg-white">
+              {post.data.image ? (
+                <img
+                  src={post.data.image}
+                  alt={post.data.imageAlt || post.data.title}
+                  class="aspect-[16/9] w-full object-cover"
+                  loading="lazy"
+                />
+              ) : (
+                <div class="aspect-[16/9] bg-gradient-to-br from-violet-50 to-purple-50" />
+              )}
+              <div class="p-6">
+                <div class="flex items-center gap-3 text-sm text-slate-500 mb-3">
+                  <time datetime={post.data.publishDate}>
+                    {new Date(post.data.publishDate).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' })}
+                  </time>
+                  <span aria-hidden="true">&middot;</span>
+                  <span>{post.data.readTime}</span>
+                </div>
+                <h3 class="text-lg font-semibold text-slate-900 group-hover:text-blue-600 transition-colors mb-2">
+                  <a href={`/blog/${post.id}`} class="after:absolute after:inset-0 relative">
+                    {post.data.title}
+                  </a>
+                </h3>
+                <p class="text-slate-600 text-sm leading-relaxed line-clamp-2">
+                  {post.data.description}
+                </p>
+              </div>
+            </article>
+          ))}
+        </div>
+
+        {aiTechPosts.length > 6 && (
+          <div class="mt-8 text-center">
+            <a href="#all-ai-tech" class="text-sm font-medium text-blue-600 hover:text-blue-700">
+              View all {aiTechPosts.length} articles &rarr;
+            </a>
+          </div>
+        )}
+      </div>
+    </section>
+
+  </div>
+
+  <!-- Search Script -->
+  <script define:vars={{ allPosts: allPosts.map(p => ({ id: p.id, title: p.data.title, description: p.data.description, tags: p.data.tags || [], publishDate: p.data.publishDate, readTime: p.data.readTime, author: p.data.author, image: p.data.image || '', imageAlt: p.data.imageAlt || '' })) }}>
+    const searchInput = document.getElementById('blog-search');
+    const searchResults = document.getElementById('search-results');
+    const searchResultsGrid = document.getElementById('search-results-grid');
+    const searchCount = document.getElementById('search-count');
+    const noResults = document.getElementById('no-results');
+    const clearSearch = document.getElementById('clear-search');
+    const sectionsContainer = document.getElementById('sections-container');
+
+    function renderCard(post) {
+      const date = new Date(post.publishDate).toLocaleDateString('en-US', { year: 'numeric', month: 'short', day: 'numeric' });
+      const imageHtml = post.image
+        ? `<img src="${post.image}" alt="${post.imageAlt || post.title}" class="aspect-[16/9] w-full object-cover" loading="lazy" />`
+        : `<div class="aspect-[16/9] bg-gradient-to-br from-slate-100 to-slate-50"></div>`;
+
+      return `
+        <article class="group border border-slate-200 rounded-2xl overflow-hidden hover:shadow-md transition-all bg-white">
+          ${imageHtml}
+          <div class="p-6">
+            <div class="flex items-center gap-3 text-sm text-slate-500 mb-3">
+              <time datetime="${post.publishDate}">${date}</time>
+              <span aria-hidden="true">&middot;</span>
+              <span>${post.readTime}</span>
+            </div>
+            <h3 class="text-lg font-semibold text-slate-900 group-hover:text-blue-600 transition-colors mb-2">
+              <a href="/blog/${post.id}" class="after:absolute after:inset-0 relative">${post.title}</a>
+            </h3>
+            <p class="text-slate-600 text-sm leading-relaxed line-clamp-2">${post.description}</p>
+          </div>
+        </article>
+      `;
+    }
+
+    function performSearch(query) {
+      if (!query.trim()) {
+        searchResults.classList.add('hidden');
+        sectionsContainer.classList.remove('hidden');
+        return;
+      }
+
+      const terms = query.toLowerCase().split(/\s+/);
+      const results = allPosts.filter(post => {
+        const searchable = `${post.title} ${post.description} ${post.tags.join(' ')}`.toLowerCase();
+        return terms.every(term => searchable.includes(term));
+      });
+
+      sectionsContainer.classList.add('hidden');
+      searchResults.classList.remove('hidden');
+
+      if (results.length > 0) {
+        searchResultsGrid.innerHTML = results.map(renderCard).join('');
+        searchCount.textContent = `(${results.length} article${results.length === 1 ? '' : 's'})`;
+        noResults.classList.add('hidden');
+        searchResultsGrid.classList.remove('hidden');
+      } else {
+        searchResultsGrid.classList.add('hidden');
+        noResults.classList.remove('hidden');
+        searchCount.textContent = '';
+      }
+    }
+
+    let debounceTimer;
+    searchInput.addEventListener('input', (e) => {
+      clearTimeout(debounceTimer);
+      debounceTimer = setTimeout(() => performSearch(e.target.value), 200);
+    });
+
+    clearSearch.addEventListener('click', () => {
+      searchInput.value = '';
+      searchResults.classList.add('hidden');
+      sectionsContainer.classList.remove('hidden');
+    });
+  </script>
 </PageLayout>
