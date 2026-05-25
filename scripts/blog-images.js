@@ -1,4 +1,4 @@
-import OpenAI from 'openai';
+import { GoogleGenAI } from '@google/genai';
 import sharp from 'sharp';
 import { writeFile, mkdir } from 'fs/promises';
 import { join } from 'path';
@@ -26,21 +26,21 @@ function buildImagePrompt(type, state, topicSlug) {
 }
 
 export async function generateImage(slug, type, state) {
-  const client = new OpenAI();
+  const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
   const prompt = buildImagePrompt(type, state, slug);
 
   console.log(`[Image] Generating: ${slug}`);
 
-  const response = await client.images.generate({
-    model: 'dall-e-3',
+  const response = await ai.models.generateImages({
+    model: 'imagen-3.0-generate-002',
     prompt,
-    n: 1,
-    size: '1792x1024',
-    quality: 'standard',
-    response_format: 'b64_json',
+    config: {
+      numberOfImages: 1,
+      aspectRatio: '16:9',
+    },
   });
 
-  const imageData = Buffer.from(response.data[0].b64_json, 'base64');
+  const imageData = Buffer.from(response.generatedImages[0].image.imageBytes, 'base64');
 
   await mkdir(IMAGE_DIR, { recursive: true });
 
