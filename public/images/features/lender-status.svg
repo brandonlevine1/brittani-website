@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <!-- Background -->
+  <rect width="800" height="600" rx="16" fill="#ffffff"/>
+  <rect width="800" height="600" rx="16" stroke="#e5e7eb" stroke-width="1"/>
+
+  <!-- Header -->
+  <text x="40" y="44" font-family="system-ui, sans-serif" font-size="16" font-weight="700" fill="#0f172a">Lender &amp; Title Status</text>
+  <text x="40" y="64" font-family="system-ui, sans-serif" font-size="12" fill="#6b7280">1234 Maple Drive &middot; Last checked: Today</text>
+
+  <!-- Two Column Layout -->
+  <!-- Left: Lender Card -->
+  <rect x="40" y="84" width="348" height="240" rx="12" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
+  <rect x="56" y="104" width="36" height="36" rx="10" fill="#eff6ff"/>
+  <rect x="66" y="114" width="16" height="16" rx="2" fill="none" stroke="#1a56db" stroke-width="1.5"/>
+  <rect x="70" y="118" width="8" height="2" fill="#1a56db"/>
+  <rect x="70" y="122" width="8" height="2" fill="#1a56db"/>
+  <rect x="70" y="126" width="5" height="2" fill="#1a56db"/>
+  <text x="104" y="116" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8" font-weight="500" letter-spacing="0.05em">LENDER</text>
+  <text x="104" y="134" font-family="system-ui, sans-serif" font-size="14" font-weight="600" fill="#0f172a">First National Mortgage</text>
+
+  <text x="56" y="168" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8" font-weight="500">LOAN OFFICER</text>
+  <text x="56" y="184" font-family="system-ui, sans-serif" font-size="12" fill="#0f172a">David Kim &middot; david@fnm.com</text>
+
+  <text x="56" y="210" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8" font-weight="500">LOAN STATUS</text>
+  <rect x="56" y="218" width="100" height="22" rx="11" fill="#dcfce7"/>
+  <text x="106" y="233" font-family="system-ui, sans-serif" font-size="10" fill="#16a34a" text-anchor="middle" font-weight="600">In Underwriting</text>
+
+  <text x="56" y="260" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8" font-weight="500">NEXT MILESTONE</text>
+  <text x="56" y="276" font-family="system-ui, sans-serif" font-size="12" fill="#0f172a">Loan Approval &middot; Due Jun 5</text>
+  <text x="56" y="292" font-family="system-ui, sans-serif" font-size="10" fill="#ea580c" font-weight="500">11 days remaining</text>
+
+  <text x="56" y="314" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8" font-weight="500">WEEKLY CHECK-IN</text>
+  <text x="56" y="330" font-family="system-ui, sans-serif" font-size="10" fill="#16a34a">Last sent: May 23 &middot; Next: May 30</text>
+
+  <!-- Right: Title Company Card -->
+  <rect x="412" y="84" width="348" height="240" rx="12" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
+  <rect x="428" y="104" width="36" height="36" rx="10" fill="#eff6ff"/>
+  <rect x="438" y="112" width="16" height="20" rx="2" fill="none" stroke="#1a56db" stroke-width="1.5"/>
+  <rect x="442" y="108" width="8" height="4" rx="1" fill="#1a56db"/>
+  <text x="476" y="116" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8" font-weight="500" letter-spacing="0.05em">TITLE COMPANY</text>
+  <text x="476" y="134" font-family="system-ui, sans-serif" font-size="14" font-weight="600" fill="#0f172a">Austin Title Co.</text>
+
+  <text x="428" y="168" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8" font-weight="500">ESCROW OFFICER</text>
+  <text x="428" y="184" font-family="system-ui, sans-serif" font-size="12" fill="#0f172a">Lisa Tran &middot; lisa@austintitle.com</text>
+
+  <text x="428" y="210" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8" font-weight="500">EMD STATUS</text>
+  <rect x="428" y="218" width="80" height="22" rx="11" fill="#dcfce7"/>
+  <text x="468" y="233" font-family="system-ui, sans-serif" font-size="10" fill="#16a34a" text-anchor="middle" font-weight="600">Received</text>
+
+  <text x="428" y="260" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8" font-weight="500">TITLE CLEARANCE</text>
+  <rect x="428" y="268" width="80" height="22" rx="11" fill="#fef9c3"/>
+  <text x="468" y="283" font-family="system-ui, sans-serif" font-size="10" fill="#a16207" text-anchor="middle" font-weight="600">Pending</text>
+
+  <text x="428" y="308" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8" font-weight="500">COMMITMENT DUE</text>
+  <text x="428" y="324" font-family="system-ui, sans-serif" font-size="12" fill="#0f172a">June 1, 2026</text>
+  <text x="536" y="324" font-family="system-ui, sans-serif" font-size="10" fill="#6b7280">(7 days)</text>
+
+  <!-- Activity Log -->
+  <rect x="40" y="340" width="720" height="240" rx="12" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="60" y="368" font-family="system-ui, sans-serif" font-size="13" font-weight="600" fill="#0f172a">Recent Activity</text>
+
+  <!-- Activity items -->
+  <circle cx="72" cy="400" r="4" fill="#16a34a"/>
+  <text x="88" y="404" font-family="system-ui, sans-serif" font-size="11" fill="#0f172a">EMD receipt confirmed by Austin Title Co.</text>
+  <text x="620" y="404" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8">May 27</text>
+
+  <circle cx="72" cy="430" r="4" fill="#3b82f6"/>
+  <text x="88" y="434" font-family="system-ui, sans-serif" font-size="11" fill="#0f172a">Weekly lender check-in sent to First National Mortgage</text>
+  <text x="620" y="434" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8">May 23</text>
+
+  <circle cx="72" cy="460" r="4" fill="#3b82f6"/>
+  <text x="88" y="464" font-family="system-ui, sans-serif" font-size="11" fill="#0f172a">Lender confirmed: application submitted, in underwriting</text>
+  <text x="620" y="464" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8">May 23</text>
+
+  <circle cx="72" cy="490" r="4" fill="#16a34a"/>
+  <text x="88" y="494" font-family="system-ui, sans-serif" font-size="11" fill="#0f172a">EMD confirmation request sent to Austin Title Co.</text>
+  <text x="620" y="494" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8">May 22</text>
+
+  <circle cx="72" cy="520" r="4" fill="#3b82f6"/>
+  <text x="88" y="524" font-family="system-ui, sans-serif" font-size="11" fill="#0f172a">Lender &amp; title company parties added to deal</text>
+  <text x="620" y="524" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8">May 21</text>
+
+  <!-- Alert if any -->
+  <rect x="40" y="554" width="720" height="1" fill="#e2e8f0"/>
+  <text x="60" y="574" font-family="system-ui, sans-serif" font-size="10" fill="#6b7280">No issues detected &middot; All monitoring on schedule</text>
+</svg>

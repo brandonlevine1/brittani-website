@@ -1,0 +1,59 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <!-- Background -->
+  <rect width="800" height="600" rx="16" fill="#ffffff"/>
+  <rect width="800" height="600" rx="16" stroke="#e5e7eb" stroke-width="1"/>
+
+  <!-- Header -->
+  <text x="40" y="44" font-family="system-ui, sans-serif" font-size="16" font-weight="700" fill="#0f172a">Inspection Coordination</text>
+  <text x="40" y="64" font-family="system-ui, sans-serif" font-size="12" fill="#6b7280">1234 Maple Drive &middot; Phase 3: Inspection</text>
+
+  <!-- Workflow Steps - Vertical Timeline -->
+  <!-- Step 1 - Completed -->
+  <line x1="68" y1="100" x2="68" y2="560" stroke="#e2e8f0" stroke-width="2" stroke-dasharray="4,4"/>
+
+  <circle cx="68" cy="108" r="14" fill="#dcfce7"/>
+  <path d="M62 108l4 4 8-8" stroke="#16a34a" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <rect x="96" y="88" width="660" height="72" rx="10" fill="#f0fdf4" stroke="#bbf7d0" stroke-width="1"/>
+  <text x="116" y="112" font-family="system-ui, sans-serif" font-size="13" font-weight="600" fill="#0f172a">Schedule Inspection</text>
+  <text x="116" y="130" font-family="system-ui, sans-serif" font-size="11" fill="#6b7280">Coordinated availability across buyer (J. Martinez), seller (R. Park), and both agents</text>
+  <text x="116" y="148" font-family="system-ui, sans-serif" font-size="10" fill="#16a34a" font-weight="500">Completed May 24 &middot; Inspection set for May 27 at 10:00 AM</text>
+
+  <!-- Step 2 - Completed -->
+  <circle cx="68" cy="198" r="14" fill="#dcfce7"/>
+  <path d="M62 198l4 4 8-8" stroke="#16a34a" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <rect x="96" y="178" width="660" height="72" rx="10" fill="#f0fdf4" stroke="#bbf7d0" stroke-width="1"/>
+  <text x="116" y="202" font-family="system-ui, sans-serif" font-size="13" font-weight="600" fill="#0f172a">Confirmation Sent to All Parties</text>
+  <text x="116" y="220" font-family="system-ui, sans-serif" font-size="11" fill="#6b7280">Emails sent: Buyer&apos;s Agent, Listing Agent, Buyer, Inspector (ABC Home Inspections)</text>
+  <text x="116" y="238" font-family="system-ui, sans-serif" font-size="10" fill="#16a34a" font-weight="500">Completed May 24 &middot; 4 confirmations delivered</text>
+
+  <!-- Step 3 - Completed -->
+  <circle cx="68" cy="288" r="14" fill="#dcfce7"/>
+  <path d="M62 288l4 4 8-8" stroke="#16a34a" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <rect x="96" y="268" width="660" height="72" rx="10" fill="#f0fdf4" stroke="#bbf7d0" stroke-width="1"/>
+  <text x="116" y="292" font-family="system-ui, sans-serif" font-size="13" font-weight="600" fill="#0f172a">Inspection Completed</text>
+  <text x="116" y="310" font-family="system-ui, sans-serif" font-size="11" fill="#6b7280">General inspection performed by ABC Home Inspections</text>
+  <text x="116" y="328" font-family="system-ui, sans-serif" font-size="10" fill="#16a34a" font-weight="500">Completed May 27 at 12:30 PM</text>
+
+  <!-- Step 4 - Completed -->
+  <circle cx="68" cy="378" r="14" fill="#dcfce7"/>
+  <path d="M62 378l4 4 8-8" stroke="#16a34a" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <rect x="96" y="358" width="660" height="72" rx="10" fill="#f0fdf4" stroke="#bbf7d0" stroke-width="1"/>
+  <text x="116" y="382" font-family="system-ui, sans-serif" font-size="13" font-weight="600" fill="#0f172a">4-Hour Follow-Up Sent</text>
+  <text x="116" y="400" font-family="system-ui, sans-serif" font-size="11" fill="#6b7280">Automated follow-up email to buyer&apos;s agent requesting inspection report &amp; repair list</text>
+  <text x="116" y="418" font-family="system-ui, sans-serif" font-size="10" fill="#16a34a" font-weight="500">Sent May 27 at 4:30 PM (auto-triggered)</text>
+
+  <!-- Step 5 - Active / Paused -->
+  <circle cx="68" cy="468" r="14" fill="#fef3c7" stroke="#f59e0b" stroke-width="2"/>
+  <rect x="64" y="464" width="8" height="8" rx="1" fill="#d97706"/>
+  <rect x="96" y="448" width="660" height="80" rx="10" fill="#fffbeb" stroke="#fde68a" stroke-width="1"/>
+  <text x="116" y="472" font-family="system-ui, sans-serif" font-size="13" font-weight="600" fill="#0f172a">Repair Negotiations</text>
+  <rect x="266" y="460" width="120" height="20" rx="10" fill="#fef3c7"/>
+  <text x="326" y="474" font-family="system-ui, sans-serif" font-size="9" fill="#92400e" text-anchor="middle" font-weight="600">AUTOMATION PAUSED</text>
+  <text x="116" y="496" font-family="system-ui, sans-serif" font-size="11" fill="#6b7280">Awaiting buyer&apos;s repair request. Automation paused during negotiation period.</text>
+  <text x="116" y="516" font-family="system-ui, sans-serif" font-size="10" fill="#d97706" font-weight="500">Paused since May 28 &middot; Inspection period ends May 30 (2d remaining)</text>
+
+  <!-- Step 6 - Future -->
+  <circle cx="68" cy="558" r="14" fill="#f1f5f9" stroke="#cbd5e1" stroke-width="1.5"/>
+  <rect x="96" y="540" width="660" height="40" rx="10" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
+  <text x="116" y="564" font-family="system-ui, sans-serif" font-size="13" font-weight="500" fill="#94a3b8">Resolution &amp; Next Phase Transition</text>
+</svg>

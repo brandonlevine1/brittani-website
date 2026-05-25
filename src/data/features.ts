@@ -53,6 +53,7 @@ export interface FeatureDeepDive {
   description: string;
   bullets: { icon: string; text: string }[];
   imageAlt: string;
+  image: string;
 }
 
 export const featureDeepDives: FeatureDeepDive[] = [
@@ -66,6 +67,7 @@ export const featureDeepDives: FeatureDeepDive[] = [
       { icon: 'check-circle', text: 'Presents extracted data for agent confirmation before proceeding' },
     ],
     imageAlt: 'Contract analysis results showing extracted dates, amounts, and audit findings',
+    image: '/images/features/contract-analysis.svg',
   },
   {
     eyebrow: 'Communications',
@@ -77,6 +79,7 @@ export const featureDeepDives: FeatureDeepDive[] = [
       { icon: 'bell', text: 'Status updates distributed automatically when milestones are hit' },
     ],
     imageAlt: 'Communication timeline showing automated emails sent to all transaction parties',
+    image: '/images/features/communications.svg',
   },
   {
     eyebrow: 'Deadline Management',
@@ -88,6 +91,7 @@ export const featureDeepDives: FeatureDeepDive[] = [
       { icon: 'refresh-cw', text: 'Automatic updates when addenda change dates' },
     ],
     imageAlt: 'Deadline calendar view showing all critical dates with reminder indicators',
+    image: '/images/features/deadlines.svg',
   },
   {
     eyebrow: 'Inspections',
@@ -100,6 +104,7 @@ export const featureDeepDives: FeatureDeepDive[] = [
       { icon: 'pause', text: 'Pauses automation during repair negotiations' },
     ],
     imageAlt: 'Inspection coordination workflow showing scheduling and confirmation steps',
+    image: '/images/features/inspections.svg',
   },
   {
     eyebrow: 'Financial Monitoring',
@@ -112,6 +117,7 @@ export const featureDeepDives: FeatureDeepDive[] = [
       { icon: 'alert-circle', text: 'Immediate alerts when issues arise' },
     ],
     imageAlt: 'Lender status dashboard showing loan progress and title clearance status',
+    image: '/images/features/lender-status.svg',
   },
   {
     eyebrow: 'Deal Management',
@@ -124,6 +130,7 @@ export const featureDeepDives: FeatureDeepDive[] = [
       { icon: 'zap', text: 'Quick actions: upload addendum, update status, cancel deal' },
     ],
     imageAlt: 'Deal dashboard showing active transactions with status indicators',
+    image: '/images/features/deal-dashboard.svg',
   },
 ];
 

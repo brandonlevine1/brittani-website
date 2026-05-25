@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" fill="none">
+  <!-- Background -->
+  <rect width="800" height="600" rx="16" fill="#ffffff"/>
+  <rect width="800" height="600" rx="16" stroke="#e5e7eb" stroke-width="1"/>
+
+  <!-- Header -->
+  <text x="40" y="44" font-family="system-ui, sans-serif" font-size="16" font-weight="700" fill="#0f172a">All Communications</text>
+  <text x="40" y="64" font-family="system-ui, sans-serif" font-size="12" fill="#6b7280">1234 Maple Drive &middot; 12 emails sent</text>
+
+  <!-- Pending Drafts Banner -->
+  <rect x="40" y="82" width="720" height="52" rx="10" fill="#eff6ff" stroke="#bfdbfe" stroke-width="1"/>
+  <circle cx="68" cy="108" r="12" fill="#dbeafe"/>
+  <text x="68" y="112" font-family="system-ui, sans-serif" font-size="12" fill="#1d4ed8" text-anchor="middle" font-weight="700">2</text>
+  <text x="88" y="112" font-family="system-ui, sans-serif" font-size="13" font-weight="600" fill="#1e40af">2 Email Drafts Pending Review</text>
+  <rect x="660" y="96" width="80" height="28" rx="6" fill="#1a56db"/>
+  <text x="700" y="114" font-family="system-ui, sans-serif" font-size="11" fill="#ffffff" text-anchor="middle" font-weight="500">Review</text>
+
+  <!-- Email Timeline -->
+  <!-- Email 1 - Sent -->
+  <rect x="40" y="150" width="720" height="72" rx="10" fill="#ffffff" stroke="#e5e7eb" stroke-width="1"/>
+  <rect x="56" y="170" width="32" height="32" rx="8" fill="#dcfce7"/>
+  <path d="M66 182l4 3 8-7" stroke="#16a34a" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <text x="100" y="182" font-family="system-ui, sans-serif" font-size="13" font-weight="600" fill="#0f172a">Welcome Email &mdash; Buyer&apos;s Agent</text>
+  <text x="100" y="200" font-family="system-ui, sans-serif" font-size="11" fill="#6b7280">To: Sarah Chen &lt;sarah@realtorgroup.com&gt;</text>
+  <text x="100" y="214" font-family="system-ui, sans-serif" font-size="11" fill="#94a3b8">Introduction as TC, timeline overview, next steps...</text>
+  <rect x="640" y="174" width="48" height="22" rx="11" fill="#dcfce7"/>
+  <text x="664" y="189" font-family="system-ui, sans-serif" font-size="10" fill="#16a34a" text-anchor="middle" font-weight="600">Sent</text>
+  <text x="700" y="189" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8">May 21</text>
+
+  <!-- Email 2 - Sent -->
+  <rect x="40" y="232" width="720" height="72" rx="10" fill="#ffffff" stroke="#e5e7eb" stroke-width="1"/>
+  <rect x="56" y="252" width="32" height="32" rx="8" fill="#dcfce7"/>
+  <path d="M66 264l4 3 8-7" stroke="#16a34a" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <text x="100" y="264" font-family="system-ui, sans-serif" font-size="13" font-weight="600" fill="#0f172a">Welcome Email &mdash; Listing Agent</text>
+  <text x="100" y="282" font-family="system-ui, sans-serif" font-size="11" fill="#6b7280">To: Marcus Johnson &lt;marcus@listings.com&gt;</text>
+  <text x="100" y="296" font-family="system-ui, sans-serif" font-size="11" fill="#94a3b8">Introduction, escrow delivery confirmation request...</text>
+  <rect x="640" y="256" width="48" height="22" rx="11" fill="#dcfce7"/>
+  <text x="664" y="271" font-family="system-ui, sans-serif" font-size="10" fill="#16a34a" text-anchor="middle" font-weight="600">Sent</text>
+  <text x="700" y="271" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8">May 21</text>
+
+  <!-- Email 3 - Sent -->
+  <rect x="40" y="314" width="720" height="72" rx="10" fill="#ffffff" stroke="#e5e7eb" stroke-width="1"/>
+  <rect x="56" y="334" width="32" height="32" rx="8" fill="#dcfce7"/>
+  <path d="M66 346l4 3 8-7" stroke="#16a34a" stroke-width="2" stroke-linecap="round" fill="none"/>
+  <text x="100" y="346" font-family="system-ui, sans-serif" font-size="13" font-weight="600" fill="#0f172a">EMD Confirmation Request</text>
+  <text x="100" y="364" font-family="system-ui, sans-serif" font-size="11" fill="#6b7280">To: Austin Title Co. &lt;escrow@austintitle.com&gt;</text>
+  <text x="100" y="378" font-family="system-ui, sans-serif" font-size="11" fill="#94a3b8">Requesting confirmation of $14,550 earnest money deposit receipt...</text>
+  <rect x="640" y="338" width="48" height="22" rx="11" fill="#dcfce7"/>
+  <text x="664" y="353" font-family="system-ui, sans-serif" font-size="10" fill="#16a34a" text-anchor="middle" font-weight="600">Sent</text>
+  <text x="700" y="353" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8">May 23</text>
+
+  <!-- Email 4 - Pending Draft -->
+  <rect x="40" y="396" width="720" height="72" rx="10" fill="#fffbeb" stroke="#fde68a" stroke-width="1"/>
+  <rect x="56" y="416" width="32" height="32" rx="8" fill="#fef3c7"/>
+  <circle cx="72" cy="432" r="6" fill="none" stroke="#d97706" stroke-width="1.5"/>
+  <circle cx="72" cy="432" r="2" fill="#d97706"/>
+  <text x="100" y="428" font-family="system-ui, sans-serif" font-size="13" font-weight="600" fill="#0f172a">Inspection Reminder &mdash; 3 Day Notice</text>
+  <text x="100" y="446" font-family="system-ui, sans-serif" font-size="11" fill="#6b7280">To: Sarah Chen, Marcus Johnson</text>
+  <text x="100" y="460" font-family="system-ui, sans-serif" font-size="11" fill="#94a3b8">Reminder: Inspection period ends May 30. Please confirm...</text>
+  <rect x="624" y="420" width="56" height="22" rx="11" fill="#fef3c7"/>
+  <text x="652" y="435" font-family="system-ui, sans-serif" font-size="10" fill="#d97706" text-anchor="middle" font-weight="600">Draft</text>
+  <text x="700" y="435" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8">Today</text>
+
+  <!-- Email 5 - Pending Draft -->
+  <rect x="40" y="478" width="720" height="72" rx="10" fill="#fffbeb" stroke="#fde68a" stroke-width="1"/>
+  <rect x="56" y="498" width="32" height="32" rx="8" fill="#fef3c7"/>
+  <circle cx="72" cy="514" r="6" fill="none" stroke="#d97706" stroke-width="1.5"/>
+  <circle cx="72" cy="514" r="2" fill="#d97706"/>
+  <text x="100" y="510" font-family="system-ui, sans-serif" font-size="13" font-weight="600" fill="#0f172a">Weekly Lender Status Check</text>
+  <text x="100" y="528" font-family="system-ui, sans-serif" font-size="11" fill="#6b7280">To: First National Mortgage &lt;loans@fnm.com&gt;</text>
+  <text x="100" y="542" font-family="system-ui, sans-serif" font-size="11" fill="#94a3b8">Checking in on loan status for 1234 Maple Drive...</text>
+  <rect x="624" y="502" width="56" height="22" rx="11" fill="#fef3c7"/>
+  <text x="652" y="517" font-family="system-ui, sans-serif" font-size="10" fill="#d97706" text-anchor="middle" font-weight="600">Draft</text>
+  <text x="700" y="517" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8">Today</text>
+
+  <!-- Footer note -->
+  <text x="40" y="580" font-family="system-ui, sans-serif" font-size="11" fill="#94a3b8">Auto-approve enabled &middot; Next scheduled: Loan status follow-up (Jun 2)</text>
+</svg>
