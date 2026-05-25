@@ -97,26 +97,33 @@ async function generateType3(existingPosts) {
   return { filename: `${topic.slug}.md`, content: cleanMarkdown(markdown) };
 }
 
+const POSTS_PER_TYPE = parseInt(process.env.POSTS_PER_TYPE || '5', 10);
+
 async function main() {
-  console.log('Starting daily blog generation...');
+  console.log(`Starting daily blog generation (${POSTS_PER_TYPE} per type, ${POSTS_PER_TYPE * 3} total)...`);
 
   const existingPosts = await getExistingPosts();
   console.log(`Found ${existingPosts.length} existing posts.`);
 
   await mkdir(BLOG_DIR, { recursive: true });
 
-  const results = await Promise.all([
-    generateType1(existingPosts),
-    generateType2(existingPosts),
-    generateType3(existingPosts),
-  ]);
-
   const generatedFiles = [];
-  for (const { filename, content } of results) {
-    const filepath = join(BLOG_DIR, filename);
-    await writeFile(filepath, content, 'utf-8');
-    console.log(`Written: ${filepath}`);
-    generatedFiles.push(filename);
+  const trackingPosts = [...existingPosts];
+
+  for (let i = 0; i < POSTS_PER_TYPE; i++) {
+    const batch = await Promise.all([
+      generateType1(trackingPosts),
+      generateType2(trackingPosts),
+      generateType3(trackingPosts),
+    ]);
+
+    for (const { filename, content } of batch) {
+      const filepath = join(BLOG_DIR, filename);
+      await writeFile(filepath, content, 'utf-8');
+      console.log(`Written: ${filepath}`);
+      generatedFiles.push(filename);
+      trackingPosts.push(filename);
+    }
   }
 
   console.log(`\nGeneration complete. Files created:`);
