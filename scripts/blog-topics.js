@@ -66,6 +66,34 @@ export const TYPE3_TOPICS = [
 
 export const AUTHORS = ['Brandon Levine', 'Jack Brighenti', 'Brittany Brighenti'];
 
+export const AUTHOR_BIOS = {
+  'Brandon Levine': 'Co-founder at Britanni AI. Previously managed transaction operations for a 200-agent brokerage in South Florida.',
+  'Jack Brighenti': 'Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions.',
+  'Brittany Brighenti': 'Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni.',
+};
+
+export const STATE_ARCHITECTURE = {
+  'california': 'Spanish colonial home with stucco walls and terracotta roof tiles',
+  'texas': 'Hill Country limestone ranch home with a wide front porch',
+  'florida': 'Mediterranean revival home with palm trees and coastal landscaping',
+  'new-york': 'Classic brownstone townhouse with mature trees lining the street',
+  'pennsylvania': 'Colonial brick home with black shutters and stone pathway',
+  'illinois': 'Chicago bungalow with Prairie-style details and a manicured lawn',
+  'ohio': 'Colonial revival home with a craftsman front porch',
+  'georgia': 'Southern colonial with wraparound porch and white columns',
+  'north-carolina': 'Cape Cod home with stone accents and mountain backdrop',
+  'michigan': 'Tudor-style home with brick and timber details',
+  'new-jersey': 'Colonial with cedar shake siding and a circular driveway',
+  'virginia': 'Red brick colonial with dormer windows and boxwood hedges',
+  'washington': 'Pacific Northwest craftsman with natural wood siding',
+  'arizona': 'Desert modern home with clean stucco lines and desert landscaping',
+  'tennessee': 'Craftsman farmhouse with a metal roof and stone chimney',
+  'massachusetts': 'New England colonial with clapboard siding and fall foliage',
+  'colorado': 'Mountain modern home with large windows and timber framing',
+};
+
+export const DEFAULT_ARCHITECTURE = 'Craftsman style home in an established neighborhood with mature landscaping';
+
 export function pickNextState(existingFilenames) {
   const stateCounts = Object.fromEntries(STATES_BY_PRIORITY.map(s => [s, 0]));
 
