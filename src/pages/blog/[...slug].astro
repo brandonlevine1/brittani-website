@@ -2,6 +2,9 @@
 import PageLayout from '../../layouts/PageLayout.astro';
 import CTABanner from '../../components/global/CTABanner.astro';
 import Disclaimer from '../../components/blog/Disclaimer.astro';
+import TableOfContents from '../../components/blog/TableOfContents.astro';
+import AuthorBio from '../../components/blog/AuthorBio.astro';
+import RelatedPosts from '../../components/blog/RelatedPosts.astro';
 import { getCollection, render } from 'astro:content';
 
 export async function getStaticPaths() {
@@ -13,16 +16,20 @@ export async function getStaticPaths() {
 }
 
 const { post } = Astro.props;
-const { Content } = await render(post);
+const { Content, headings } = await render(post);
 
 const COMPLIANCE_TAGS = ['compliance', 'seller-disclosure-requirements', 'buyer-contingency-deadlines', 'earnest-money-rules', 'building-code-updates', 'hoa-condo-requirements', 'title-and-closing-procedures', 'escrow-regulations', 'property-condition-disclosures'];
 const showDisclaimer = (post.data.tags || []).some((t: string) => COMPLIANCE_TAGS.includes(t));
+
+const primaryTag = (post.data.tags || [])[0] || '';
+const categoryLabel = primaryTag.split('-').map((w: string) => w[0]?.toUpperCase() + w.slice(1)).join(' ');
 
 const articleSchema = {
   "@context": "https://schema.org",
   "@type": "Article",
   "headline": post.data.title,
   "description": post.data.description,
+  "image": post.data.image ? `https://brittani.ai${post.data.image}` : undefined,
   "author": {
     "@type": "Person",
     "name": post.data.author,
@@ -30,13 +37,10 @@ const articleSchema = {
   "publisher": {
     "@type": "Organization",
     "name": "Britanni AI",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://brittani.ai/favicon.svg"
-    }
+    "logo": { "@type": "ImageObject", "url": "https://brittani.ai/favicon.svg" }
   },
   "datePublished": post.data.publishDate,
-  "dateModified": post.data.publishDate,
+  "dateModified": post.data.modifiedDate || post.data.publishDate,
   "mainEntityOfPage": {
     "@type": "WebPage",
     "@id": `https://brittani.ai/blog/${post.id}`
@@ -52,62 +56,98 @@ const breadcrumbSchema = {
     { "@type": "ListItem", "position": 3, "name": post.data.title, "item": `https://brittani.ai/blog/${post.id}` }
   ]
 };
+
+const speakableSchema = {
+  "@context": "https://schema.org",
+  "@type": "WebPage",
+  "speakable": {
+    "@type": "SpeakableSpecification",
+    "cssSelector": ["article h1", "article .prose > p:first-of-type"]
+  }
+};
+
+const ogImage = post.data.image ? `https://brittani.ai${post.data.image}` : 'https://brittani.ai/og-image.jpg';
 ---
 
 <PageLayout
   title={`${post.data.title} | Britanni AI Blog`}
   description={post.data.description}
   canonical={`https://brittani.ai/blog/${post.id}`}
-  jsonLd={[articleSchema, breadcrumbSchema]}
+  ogImage={ogImage}
+  jsonLd={[articleSchema, breadcrumbSchema, speakableSchema]}
 >
-  <article class="py-20 md:py-28">
-    <div class="max-w-3xl mx-auto px-6 md:px-8">
-      <!-- Back to blog -->
-      <a href="/blog" class="inline-flex items-center gap-2 text-sm text-slate-500 hover:text-blue-600 transition-colors mb-8">
-        <svg class="w-4 h-4" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" aria-hidden="true">
-          <path stroke-linecap="round" stroke-linejoin="round" d="M10.5 19.5L3 12m0 0l7.5-7.5M3 12h18" />
-        </svg>
-        Back to Blog
-      </a>
+  <Fragment slot="head">
+    <meta name="author" content={post.data.author} />
+    <meta name="keywords" content={(post.data.keywords || post.data.tags || []).join(', ')} />
+    <meta name="robots" content="index, follow" />
+    <meta property="og:type" content="article" />
+    <meta property="article:published_time" content={post.data.publishDate} />
+    <meta property="article:modified_time" content={post.data.modifiedDate || post.data.publishDate} />
+    <meta property="article:author" content={post.data.author} />
+    {(post.data.tags || []).map((tag: string) => (
+      <meta property="article:tag" content={tag} />
+    ))}
+    {post.data.image && (
+      <>
+        <meta property="og:image:width" content="1792" />
+        <meta property="og:image:height" content="1024" />
+        <meta property="og:image:alt" content={post.data.imageAlt || post.data.title} />
+      </>
+    )}
+  </Fragment>
 
-      <header class="mb-12">
-        <div class="flex items-center gap-3 text-sm text-slate-500 mb-4">
-          <time datetime={post.data.publishDate}>
-            {new Date(post.data.publishDate).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
-          </time>
-          <span aria-hidden="true">&middot;</span>
-          <span>{post.data.readTime}</span>
-          <span aria-hidden="true">&middot;</span>
-          <span>{post.data.author}</span>
-        </div>
-        <h1 class="text-4xl md:text-5xl font-bold tracking-tight text-slate-900 leading-tight">
+  <article class="py-12 md:py-20">
+    <div class="max-w-[680px] mx-auto px-6 md:px-8">
+      <nav class="text-sm text-slate-400 mb-6">
+        <a href="/blog" class="hover:text-blue-600 transition-colors">Blog</a>
+        <span class="mx-2">/</span>
+        <span class="text-slate-500">{categoryLabel}</span>
+      </nav>
+
+      <header class="mb-8">
+        <h1 class="text-3xl md:text-4xl font-bold tracking-tight text-slate-900 leading-tight">
           {post.data.title}
         </h1>
-        <p class="mt-6 text-lg text-slate-600 leading-relaxed">
+        <p class="mt-4 text-lg text-slate-500 leading-relaxed">
           {post.data.description}
         </p>
+        <div class="flex items-center gap-3 mt-6">
+          <div class="w-9 h-9 bg-slate-100 rounded-full flex items-center justify-center text-xs font-semibold text-slate-500">
+            {post.data.author.split(' ').map((n: string) => n[0]).join('')}
+          </div>
+          <div>
+            <p class="text-sm font-medium text-slate-900">{post.data.author}</p>
+            <p class="text-xs text-slate-400">
+              Updated {new Date(post.data.modifiedDate || post.data.publishDate).toLocaleDateString('en-US', { month: 'long', day: 'numeric', year: 'numeric' })} · {post.data.readTime}
+            </p>
+          </div>
+        </div>
       </header>
 
-      <div class="prose prose-lg prose-slate max-w-none prose-headings:font-bold prose-headings:tracking-tight prose-a:text-blue-600 prose-a:no-underline hover:prose-a:underline prose-img:rounded-2xl">
+      {post.data.image && (
+        <figure class="mb-10">
+          <img
+            src={post.data.image}
+            alt={post.data.imageAlt || post.data.title}
+            width="1792"
+            height="1024"
+            class="w-full rounded aspect-[16/9] object-cover"
+            loading="eager"
+          />
+        </figure>
+      )}
+
+      <TableOfContents headings={headings} />
+
+      <div class="prose prose-slate max-w-none">
         <Content />
       </div>
+
       {showDisclaimer && <Disclaimer />}
 
-      <!-- Post Footer -->
-      <div class="mt-16 pt-8 border-t border-slate-200">
-        <div class="flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
-          <div>
-            <p class="text-sm text-slate-500">Written by</p>
-            <p class="font-semibold text-slate-900">{post.data.author}</p>
-          </div>
-          <a
-            href="/blog"
-            class="text-blue-600 hover:text-blue-700 font-medium text-sm transition-colors"
-          >
-            Read more articles →
-          </a>
-        </div>
-      </div>
+      <AuthorBio name={post.data.author} bio={post.data.authorBio} />
+
+      <RelatedPosts currentId={post.id} tags={post.data.tags || []} />
     </div>
   </article>
 

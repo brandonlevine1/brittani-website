@@ -1,0 +1,21 @@
+---
+interface Props {
+  name: string;
+  bio?: string;
+}
+
+const { name, bio } = Astro.props;
+const initials = name.split(' ').map(n => n[0]).join('');
+---
+
+<div class="border-t border-slate-100 pt-8 mt-12">
+  <div class="flex items-start gap-3">
+    <div class="w-10 h-10 bg-slate-100 rounded-full flex items-center justify-center text-sm font-semibold text-slate-500 flex-shrink-0">
+      {initials}
+    </div>
+    <div>
+      <p class="text-sm font-semibold text-slate-900">{name}</p>
+      {bio && <p class="text-sm text-slate-500 mt-0.5">{bio}</p>}
+    </div>
+  </div>
+</div>

@@ -1,0 +1,23 @@
+---
+interface Props {
+  headings: { depth: number; slug: string; text: string }[];
+}
+
+const { headings } = Astro.props;
+const h2s = headings.filter(h => h.depth === 2);
+---
+
+{h2s.length >= 4 && (
+  <nav class="border-l-2 border-slate-100 pl-4 mb-10">
+    <p class="text-xs font-semibold uppercase tracking-wider text-slate-400 mb-3">In this article</p>
+    <ul class="space-y-2">
+      {h2s.map(h => (
+        <li>
+          <a href={`#${h.slug}`} class="text-sm text-slate-500 hover:text-blue-600 transition-colors">
+            {h.text}
+          </a>
+        </li>
+      ))}
+    </ul>
+  </nav>
+)}

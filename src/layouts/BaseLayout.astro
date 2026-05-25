@@ -65,6 +65,7 @@ const fullOgImage = ogImage.startsWith('http') ? ogImage : `${siteUrl}${ogImage}
         <script type="application/ld+json" set:html={JSON.stringify(jsonLd)} />
       )
     )}
+    <slot name="head" />
   </head>
   <body class="bg-white text-slate-900 font-sans">
     <a
