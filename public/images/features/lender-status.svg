@@ -5,7 +5,7 @@
 
   <!-- Header -->
   <text x="40" y="44" font-family="system-ui, sans-serif" font-size="16" font-weight="700" fill="#0f172a">Lender &amp; Title Status</text>
-  <text x="40" y="64" font-family="system-ui, sans-serif" font-size="12" fill="#6b7280">1234 Maple Drive &middot; Last checked: Today</text>
+  <text x="40" y="64" font-family="system-ui, sans-serif" font-size="12" fill="#6b7280">1234 Maple Drive · Last checked: Today</text>
 
   <!-- Two Column Layout -->
   <!-- Left: Lender Card -->
@@ -19,18 +19,18 @@
   <text x="104" y="134" font-family="system-ui, sans-serif" font-size="14" font-weight="600" fill="#0f172a">First National Mortgage</text>
 
   <text x="56" y="168" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8" font-weight="500">LOAN OFFICER</text>
-  <text x="56" y="184" font-family="system-ui, sans-serif" font-size="12" fill="#0f172a">David Kim &middot; david@fnm.com</text>
+  <text x="56" y="184" font-family="system-ui, sans-serif" font-size="12" fill="#0f172a">David Kim · david@fnm.com</text>
 
   <text x="56" y="210" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8" font-weight="500">LOAN STATUS</text>
   <rect x="56" y="218" width="100" height="22" rx="11" fill="#dcfce7"/>
   <text x="106" y="233" font-family="system-ui, sans-serif" font-size="10" fill="#16a34a" text-anchor="middle" font-weight="600">In Underwriting</text>
 
   <text x="56" y="260" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8" font-weight="500">NEXT MILESTONE</text>
-  <text x="56" y="276" font-family="system-ui, sans-serif" font-size="12" fill="#0f172a">Loan Approval &middot; Due Jun 5</text>
+  <text x="56" y="276" font-family="system-ui, sans-serif" font-size="12" fill="#0f172a">Loan Approval · Due Jun 5</text>
   <text x="56" y="292" font-family="system-ui, sans-serif" font-size="10" fill="#ea580c" font-weight="500">11 days remaining</text>
 
   <text x="56" y="314" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8" font-weight="500">WEEKLY CHECK-IN</text>
-  <text x="56" y="330" font-family="system-ui, sans-serif" font-size="10" fill="#16a34a">Last sent: May 23 &middot; Next: May 30</text>
+  <text x="56" y="330" font-family="system-ui, sans-serif" font-size="10" fill="#16a34a">Last sent: May 23 · Next: May 30</text>
 
   <!-- Right: Title Company Card -->
   <rect x="412" y="84" width="348" height="240" rx="12" fill="#f8fafc" stroke="#e2e8f0" stroke-width="1"/>
@@ -41,7 +41,7 @@
   <text x="476" y="134" font-family="system-ui, sans-serif" font-size="14" font-weight="600" fill="#0f172a">Austin Title Co.</text>
 
   <text x="428" y="168" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8" font-weight="500">ESCROW OFFICER</text>
-  <text x="428" y="184" font-family="system-ui, sans-serif" font-size="12" fill="#0f172a">Lisa Tran &middot; lisa@austintitle.com</text>
+  <text x="428" y="184" font-family="system-ui, sans-serif" font-size="12" fill="#0f172a">Lisa Tran · lisa@austintitle.com</text>
 
   <text x="428" y="210" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8" font-weight="500">EMD STATUS</text>
   <rect x="428" y="218" width="80" height="22" rx="11" fill="#dcfce7"/>
@@ -82,5 +82,5 @@
 
   <!-- Alert if any -->
   <rect x="40" y="554" width="720" height="1" fill="#e2e8f0"/>
-  <text x="60" y="574" font-family="system-ui, sans-serif" font-size="10" fill="#6b7280">No issues detected &middot; All monitoring on schedule</text>
+  <text x="60" y="574" font-family="system-ui, sans-serif" font-size="10" fill="#6b7280">No issues detected · All monitoring on schedule</text>
 </svg>

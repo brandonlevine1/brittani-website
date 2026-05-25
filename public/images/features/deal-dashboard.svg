@@ -39,7 +39,7 @@
   <text x="68" y="184" font-family="system-ui, sans-serif" font-size="10" fill="#ea580c" font-weight="700">!</text>
   <text x="80" y="184" font-family="system-ui, sans-serif" font-size="12" font-weight="600" fill="#9a3412">Needs Your Review</text>
   <text x="60" y="206" font-family="system-ui, sans-serif" font-size="12" fill="#0f172a" font-weight="500">789 Oak Lane, Round Rock TX</text>
-  <text x="260" y="206" font-family="system-ui, sans-serif" font-size="11" fill="#6b7280">$325,000 &middot;</text>
+  <text x="260" y="206" font-family="system-ui, sans-serif" font-size="11" fill="#6b7280">$325,000 ·</text>
   <text x="336" y="206" font-family="system-ui, sans-serif" font-size="11" fill="#16a34a">Analysis complete</text>
   <rect x="640" y="192" width="100" height="24" rx="12" fill="#ffedd5"/>
   <text x="690" y="208" font-family="system-ui, sans-serif" font-size="10" fill="#ea580c" text-anchor="middle" font-weight="600">Review Required</text>
@@ -52,7 +52,7 @@
   <rect x="56" y="284" width="448" height="64" rx="8" fill="#ffffff"/>
   <line x1="56" y1="348" x2="504" y2="348" stroke="#f1f5f9" stroke-width="1"/>
   <text x="56" y="304" font-family="system-ui, sans-serif" font-size="12" font-weight="600" fill="#0f172a">1234 Maple Drive, Austin TX</text>
-  <text x="56" y="322" font-family="system-ui, sans-serif" font-size="10" fill="#6b7280">Inspection &middot; $485,000 &middot; Closes Jun 15</text>
+  <text x="56" y="322" font-family="system-ui, sans-serif" font-size="10" fill="#6b7280">Inspection · $485,000 · Closes Jun 15</text>
   <rect x="56" y="332" width="64" height="18" rx="9" fill="#dcfce7"/>
   <text x="88" y="344" font-family="system-ui, sans-serif" font-size="9" fill="#16a34a" text-anchor="middle" font-weight="600">Active</text>
   <text x="440" y="310" font-family="system-ui, sans-serif" font-size="10" fill="#ea580c" font-weight="500">21d to close</text>
@@ -61,7 +61,7 @@
   <rect x="56" y="356" width="448" height="64" rx="8" fill="#ffffff"/>
   <line x1="56" y1="420" x2="504" y2="420" stroke="#f1f5f9" stroke-width="1"/>
   <text x="56" y="376" font-family="system-ui, sans-serif" font-size="12" font-weight="600" fill="#0f172a">567 Cedar Blvd, Pflugerville TX</text>
-  <text x="56" y="394" font-family="system-ui, sans-serif" font-size="10" fill="#6b7280">Financing &middot; $412,000 &middot; Closes Jun 22</text>
+  <text x="56" y="394" font-family="system-ui, sans-serif" font-size="10" fill="#6b7280">Financing · $412,000 · Closes Jun 22</text>
   <rect x="56" y="404" width="64" height="18" rx="9" fill="#dcfce7"/>
   <text x="88" y="416" font-family="system-ui, sans-serif" font-size="9" fill="#16a34a" text-anchor="middle" font-weight="600">Active</text>
 
@@ -69,7 +69,7 @@
   <rect x="56" y="428" width="448" height="64" rx="8" fill="#ffffff"/>
   <line x1="56" y1="492" x2="504" y2="492" stroke="#f1f5f9" stroke-width="1"/>
   <text x="56" y="448" font-family="system-ui, sans-serif" font-size="12" font-weight="600" fill="#0f172a">2100 Elm St, Georgetown TX</text>
-  <text x="56" y="466" font-family="system-ui, sans-serif" font-size="10" fill="#6b7280">Pre-Closing &middot; $550,000 &middot; Closes Jun 3</text>
+  <text x="56" y="466" font-family="system-ui, sans-serif" font-size="10" fill="#6b7280">Pre-Closing · $550,000 · Closes Jun 3</text>
   <rect x="56" y="476" width="64" height="18" rx="9" fill="#dcfce7"/>
   <text x="88" y="488" font-family="system-ui, sans-serif" font-size="9" fill="#16a34a" text-anchor="middle" font-weight="600">Active</text>
   <text x="440" y="460" font-family="system-ui, sans-serif" font-size="10" fill="#dc2626" font-weight="600">9d to close</text>
@@ -77,7 +77,7 @@
   <!-- Deal 4 -->
   <rect x="56" y="500" width="448" height="64" rx="8" fill="#ffffff"/>
   <text x="56" y="520" font-family="system-ui, sans-serif" font-size="12" font-weight="600" fill="#0f172a">445 Birch Way, Leander TX</text>
-  <text x="56" y="538" font-family="system-ui, sans-serif" font-size="10" fill="#6b7280">Launch &middot; $298,000 &middot; Closes Jul 10</text>
+  <text x="56" y="538" font-family="system-ui, sans-serif" font-size="10" fill="#6b7280">Launch · $298,000 · Closes Jul 10</text>
   <rect x="56" y="548" width="72" height="18" rx="9" fill="#dbeafe"/>
   <text x="92" y="560" font-family="system-ui, sans-serif" font-size="9" fill="#1d4ed8" text-anchor="middle" font-weight="600">Launched</text>
 
@@ -88,29 +88,29 @@
   <!-- Deadline items -->
   <text x="560" y="296" font-family="system-ui, sans-serif" font-size="10" fill="#1a56db">1234 Maple Drive</text>
   <text x="560" y="312" font-family="system-ui, sans-serif" font-size="11" font-weight="600" fill="#0f172a">Inspection Period Ends</text>
-  <text x="560" y="328" font-family="system-ui, sans-serif" font-size="10" fill="#ea580c" font-weight="500">May 30 &middot; 2d left</text>
+  <text x="560" y="328" font-family="system-ui, sans-serif" font-size="10" fill="#ea580c" font-weight="500">May 30 · 2d left</text>
 
   <line x1="560" y1="340" x2="740" y2="340" stroke="#f1f5f9" stroke-width="1"/>
 
   <text x="560" y="360" font-family="system-ui, sans-serif" font-size="10" fill="#1a56db">1234 Maple Drive</text>
   <text x="560" y="376" font-family="system-ui, sans-serif" font-size="11" font-weight="600" fill="#0f172a">Title Commitment</text>
-  <text x="560" y="392" font-family="system-ui, sans-serif" font-size="10" fill="#6b7280">Jun 1 &middot; 7d</text>
+  <text x="560" y="392" font-family="system-ui, sans-serif" font-size="10" fill="#6b7280">Jun 1 · 7d</text>
 
   <line x1="560" y1="404" x2="740" y2="404" stroke="#f1f5f9" stroke-width="1"/>
 
   <text x="560" y="424" font-family="system-ui, sans-serif" font-size="10" fill="#1a56db">2100 Elm St</text>
   <text x="560" y="440" font-family="system-ui, sans-serif" font-size="11" font-weight="600" fill="#0f172a">Closing Date</text>
-  <text x="560" y="456" font-family="system-ui, sans-serif" font-size="10" fill="#ea580c" font-weight="500">Jun 3 &middot; 9d left</text>
+  <text x="560" y="456" font-family="system-ui, sans-serif" font-size="10" fill="#ea580c" font-weight="500">Jun 3 · 9d left</text>
 
   <line x1="560" y1="468" x2="740" y2="468" stroke="#f1f5f9" stroke-width="1"/>
 
   <text x="560" y="488" font-family="system-ui, sans-serif" font-size="10" fill="#1a56db">1234 Maple Drive</text>
   <text x="560" y="504" font-family="system-ui, sans-serif" font-size="11" font-weight="600" fill="#0f172a">Loan Approval</text>
-  <text x="560" y="520" font-family="system-ui, sans-serif" font-size="10" fill="#6b7280">Jun 5 &middot; 11d</text>
+  <text x="560" y="520" font-family="system-ui, sans-serif" font-size="10" fill="#6b7280">Jun 5 · 11d</text>
 
   <line x1="560" y1="532" x2="740" y2="532" stroke="#f1f5f9" stroke-width="1"/>
 
   <text x="560" y="552" font-family="system-ui, sans-serif" font-size="10" fill="#1a56db">1234 Maple Drive</text>
   <text x="560" y="568" font-family="system-ui, sans-serif" font-size="11" font-weight="600" fill="#0f172a">Closing Date</text>
-  <text x="560" y="584" font-family="system-ui, sans-serif" font-size="10" fill="#6b7280">Jun 15 &middot; 21d</text>
+  <text x="560" y="584" font-family="system-ui, sans-serif" font-size="10" fill="#6b7280">Jun 15 · 21d</text>
 </svg>
