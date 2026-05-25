@@ -89,3 +89,6 @@ jobs:
 
           # Auto-merge the PR
           gh pr merge "${PR_URL}" --merge --delete-branch
+
+          # Trigger deploy (GITHUB_TOKEN merges don't trigger push workflows)
+          gh workflow run deploy.yml
