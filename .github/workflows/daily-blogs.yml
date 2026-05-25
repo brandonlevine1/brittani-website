@@ -56,7 +56,8 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
 
           git checkout -b "${BRANCH}"
-          git add src/content/blog/ public/images/blog/
+          git add src/content/blog/
+          git add public/images/blog/ 2>/dev/null || true
 
           # Check if there are changes to commit
           if git diff --cached --quiet; then
