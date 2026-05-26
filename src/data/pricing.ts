@@ -23,7 +23,7 @@ export const pricingTiers: PricingTier[] = [
       'Email support',
     ],
     cta: 'Start Free Trial',
-    ctaLink: '#',
+    ctaLink: 'https://app.brittani.ai/sign-up',
   },
   {
     name: 'Professional',
@@ -38,7 +38,7 @@ export const pricingTiers: PricingTier[] = [
       'Priority support',
     ],
     cta: 'Start Free Trial',
-    ctaLink: '#',
+    ctaLink: 'https://app.brittani.ai/sign-up',
     popular: true,
   },
   {
