@@ -12,115 +12,267 @@ const breadcrumbSchema = {
 ---
 
 <PageLayout
-  title="Privacy Policy | Britanni AI"
-  description="Britanni AI's privacy policy. Learn how we collect, use, and protect your data."
+  title="Privacy Policy | Brittani AI"
+  description="Brittani AI's privacy policy. Learn how we collect, use, store, share, and protect your information when you use our transaction coordination platform."
   canonical="https://brittani.ai/privacy"
   jsonLd={breadcrumbSchema}
 >
   <section class="py-20 md:py-28">
     <div class="max-w-3xl mx-auto px-6 md:px-8">
-      <p class="text-sm text-slate-500 mb-2">Last updated: February 15, 2026</p>
-      <p class="text-sm text-amber-600 bg-amber-50 border border-amber-200 rounded-xl px-4 py-3 mb-8">
-        This policy is a placeholder and is subject to review by legal counsel before launch.
-      </p>
+      <p class="text-sm text-slate-500 mb-2">Effective Date: May 25, 2026 | Last Updated: May 25, 2026</p>
 
       <h1 class="text-4xl md:text-5xl font-bold tracking-tight text-slate-900 mb-8">Privacy Policy</h1>
 
       <div class="prose prose-lg prose-slate max-w-none prose-headings:font-bold prose-headings:tracking-tight">
-        <p>Britanni AI ("Company," "we," "us," or "our") is committed to protecting your privacy. This Privacy Policy explains how we collect, use, disclose, and safeguard your information when you use our website and SaaS application (collectively, the "Service").</p>
+        <p>Brittani AI ("we," "us," or "our") operates a transaction coordination platform for real estate professionals. This Privacy Policy describes how we collect, use, store, share, and protect your information when you use our application at app.brittani.ai (the "Service").</p>
+        <p>By using the Service, you agree to the collection and use of information as described in this policy. If you do not agree, please do not use the Service.</p>
 
         <h2>1. Information We Collect</h2>
 
-        <h3>Personal Information</h3>
-        <p>When you create an account or use our Service, we may collect:</p>
+        <h3>1.1 Account Information</h3>
+        <p>When you create an account, we collect:</p>
         <ul>
-          <li>Name, email address, phone number</li>
-          <li>Company/brokerage name and professional license information</li>
-          <li>Billing information (processed through secure third-party payment processors)</li>
-          <li>Profile information you provide</li>
+          <li>Name, email address, and organization/brokerage name</li>
+          <li>Real estate license number and state</li>
+          <li>Phone number (if you enable SMS notifications)</li>
+          <li>Authentication credentials managed by our identity provider (Clerk)</li>
         </ul>
 
-        <h3>Transaction Data</h3>
-        <p>When you use our Service to manage real estate transactions, we process:</p>
+        <h3>1.2 Transaction Data</h3>
+        <p>When you use the Service to manage real estate transactions, we collect:</p>
         <ul>
-          <li>Contract documents you upload (purchase agreements, addenda, disclosures)</li>
-          <li>Party contact information (names, emails, phone numbers of transaction participants)</li>
-          <li>Transaction dates, amounts, and terms extracted from contracts</li>
-          <li>Communications sent and received through the platform</li>
+          <li>Property addresses, purchase prices, and contract terms</li>
+          <li>Transaction party information (names, emails, phone numbers of buyers, sellers, agents, lenders, and title company contacts)</li>
+          <li>Uploaded contract documents (PDFs)</li>
+          <li>Deadline and milestone information</li>
         </ul>
 
-        <h3>Usage Data</h3>
-        <p>We automatically collect information about how you interact with our Service, including:</p>
+        <h3>1.3 Google User Data</h3>
+        <p>If you connect your Gmail account, we access data through the Gmail API as described in detail in Section 4 below.</p>
+
+        <h3>1.4 SMS/Text Message Data</h3>
+        <p>If you enable SMS notifications, we collect your phone number and process message content as described in Section 5 below.</p>
+
+        <h3>1.5 Usage Data</h3>
+        <p>We collect standard server logs including IP addresses, browser type, and pages visited. We do not use third-party analytics or tracking services.</p>
+
+        <h3>1.6 Cookies</h3>
+        <p>We use only essential cookies required for authentication and security:</p>
         <ul>
-          <li>Pages visited, features used, and actions taken</li>
-          <li>Device information, browser type, and operating system</li>
-          <li>IP address and approximate geographic location</li>
-          <li>Date and time of access</li>
+          <li>Session cookies (managed by Clerk) for maintaining your authenticated session</li>
+          <li>OAuth state cookies (temporary, 10-minute TTL) for securing the Gmail connection flow</li>
         </ul>
+        <p>We do not use advertising cookies, tracking cookies, or third-party analytics cookies.</p>
 
         <h2>2. How We Use Your Information</h2>
-        <p>We use the information we collect to:</p>
+        <p>We use your information solely to provide and improve the Service's user-facing features:</p>
         <ul>
-          <li>Provide, maintain, and improve the Service</li>
-          <li>Process and manage your real estate transactions</li>
-          <li>Send communications on your behalf to transaction parties</li>
-          <li>Analyze contracts and extract relevant data using AI</li>
-          <li>Send you service-related notifications and updates</li>
-          <li>Respond to your inquiries and provide customer support</li>
-          <li>Monitor and analyze usage patterns to improve our Service</li>
-          <li>Protect against unauthorized access and ensure security</li>
+          <li><strong>Transaction coordination</strong> — managing deal timelines, deadlines, and communications</li>
+          <li><strong>Email processing</strong> — reading, classifying, and drafting emails related to your transactions</li>
+          <li><strong>AI-powered assistance</strong> — contract analysis, email drafting, and the Brittani chat assistant</li>
+          <li><strong>Notifications</strong> — alerting you to deal updates via SMS or email</li>
+          <li><strong>Account management</strong> — authentication, billing, and workspace administration</li>
+        </ul>
+        <p>We do NOT use your information for:</p>
+        <ul>
+          <li>Advertising, retargeting, or interest-based marketing</li>
+          <li>Selling or renting data to third parties</li>
+          <li>Credit-worthiness determinations or lending decisions</li>
+          <li>Training generalized AI or machine learning models</li>
+          <li>Profiling or surveillance</li>
         </ul>
 
-        <h2>3. Data Sharing and Disclosure</h2>
-        <p>We do not sell your personal information. We may share information in the following circumstances:</p>
+        <h2>3. Artificial Intelligence Processing</h2>
+        <p>The Service uses AI (AWS Bedrock, powered by Anthropic Claude) to provide core features including contract analysis, email classification, email drafting, and conversational assistance.</p>
+
+        <h3>3.1 What Data AI Processes</h3>
         <ul>
-          <li><strong>Service Providers:</strong> Third-party vendors who assist in operating our Service (hosting, email delivery, payment processing)</li>
-          <li><strong>Transaction Parties:</strong> Information shared with parties you designate in your transactions (as directed by you through the platform)</li>
-          <li><strong>Legal Requirements:</strong> When required by law, subpoena, or legal process</li>
-          <li><strong>Business Transfers:</strong> In connection with a merger, acquisition, or sale of assets</li>
+          <li>Contract documents you upload (for extraction of terms, dates, and parties)</li>
+          <li>Email content related to your transactions (for classification and response drafting)</li>
+          <li>Conversation messages you send to the Brittani assistant</li>
+          <li>Deal context (property address, parties, deadlines) for contextual responses</li>
         </ul>
 
-        <h2>4. Data Security</h2>
-        <p>We implement industry-standard security measures to protect your information:</p>
+        <h3>3.2 AI Model Training</h3>
+        <p>Your data is never used to train AI models. Per AWS Bedrock's service terms, customer data is not used to train, improve, or develop foundation models. AI providers do not retain your data after processing your request.</p>
+
+        <h3>3.3 AI-Generated Content</h3>
+        <p>Email drafts and analysis results generated by AI are stored as part of your transaction records. AI-generated content is always presented for your review before any action is taken (e.g., emails require your approval before sending).</p>
+
+        <h2>4. Google User Data</h2>
+        <p>Brittani AI's use and transfer to any other app of information received from Google APIs will adhere to the <a href="https://developers.google.com/terms/api-services-user-data-policy" target="_blank" rel="noopener noreferrer">Google API Services User Data Policy</a>, including the Limited Use requirements.</p>
+
+        <h3>4.1 Scopes and Access</h3>
+        <p>When you connect your Gmail account, we request the following permissions:</p>
         <ul>
-          <li>All data is encrypted in transit (TLS 1.3) and at rest (AES-256)</li>
-          <li>Access controls and authentication for all system components</li>
-          <li>Regular security audits and vulnerability assessments</li>
-          <li>Employee access limited to need-to-know basis</li>
+          <li><strong>gmail.send</strong> — Send emails on your behalf to transaction parties</li>
+          <li><strong>gmail.readonly</strong> — Read incoming emails to classify and match them to your deals</li>
+          <li><strong>gmail.modify</strong> — Register for real-time email notifications (Gmail watch/push)</li>
         </ul>
 
-        <h2>5. Data Retention</h2>
-        <p>We retain your personal information and transaction data for as long as your account is active or as needed to provide you with services. You may request deletion of your account and associated data at any time by contacting us.</p>
-
-        <h2>6. Your Rights</h2>
-        <p>Depending on your location, you may have the following rights:</p>
+        <h3>4.2 What Google Data We Store</h3>
         <ul>
-          <li><strong>Access:</strong> Request a copy of the personal information we hold about you</li>
-          <li><strong>Correction:</strong> Request correction of inaccurate information</li>
-          <li><strong>Deletion:</strong> Request deletion of your personal information</li>
-          <li><strong>Portability:</strong> Request your data in a portable format</li>
-          <li><strong>Opt-out:</strong> Opt out of marketing communications at any time</li>
+          <li><strong>OAuth tokens</strong> — Encrypted refresh tokens stored in AWS Secrets Manager (not in our database)</li>
+          <li><strong>Email metadata</strong> — Subject lines, sender/recipient addresses, Gmail thread IDs, timestamps</li>
+          <li><strong>Email content</strong> — Body text of emails matched to your active transactions (for AI classification and deal tracking)</li>
+          <li><strong>AI-generated summaries</strong> — Classifications and summaries of transaction-related emails</li>
         </ul>
 
-        <h3>California Residents (CCPA)</h3>
-        <p>If you are a California resident, you have additional rights under the California Consumer Privacy Act (CCPA), including the right to know what personal information we collect, the right to request deletion, and the right to opt out of the sale of personal information. We do not sell personal information.</p>
+        <h3>4.3 What We Do NOT Store</h3>
+        <ul>
+          <li>Emails unrelated to your active transactions (read but not persisted)</li>
+          <li>Email attachments from Gmail (not downloaded or stored)</li>
+          <li>Contact lists, calendar data, or other Google Workspace data</li>
+        </ul>
 
-        <h2>7. Cookies and Tracking</h2>
-        <p>We use essential cookies required for the Service to function. We use Cloudflare Web Analytics and Microsoft Clarity for usage analytics — neither of these services use cookies or collect personally identifiable information.</p>
+        <h3>4.4 Limited Use Compliance</h3>
+        <p>Our use of Google user data is limited exclusively to providing the transaction coordination features described above. Specifically:</p>
+        <ul>
+          <li>We only use Google data to provide and improve user-facing features that are prominent in the application's interface.</li>
+          <li>We do not transfer Google data to third parties except as necessary to provide the Service (AI processing for email classification), for security purposes, or to comply with applicable law.</li>
+          <li>We do not use Google data for serving advertisements, including retargeting, personalized advertising, or interest-based advertising.</li>
+          <li>We do not allow humans to read your Google data unless: (a) you provide affirmative consent to view specific messages, (b) it is necessary for security purposes such as investigating abuse, (c) it is necessary to comply with applicable law, or (d) the data is aggregated and anonymized for internal operations.</li>
+        </ul>
 
-        <h2>8. Children's Privacy</h2>
-        <p>Our Service is not directed to children under 13. We do not knowingly collect personal information from children under 13.</p>
+        <h3>4.5 Revoking Google Access</h3>
+        <p>You can disconnect your Gmail account at any time from your Settings page. When you disconnect:</p>
+        <ul>
+          <li>Your OAuth tokens are permanently deleted from AWS Secrets Manager</li>
+          <li>We stop receiving email notifications for your account</li>
+          <li>Previously stored email records associated with your deals are retained for transaction history purposes until the deal is deleted</li>
+        </ul>
+        <p>You can also revoke access from Google's security settings at myaccount.google.com/permissions.</p>
 
-        <h2>9. Changes to This Policy</h2>
-        <p>We may update this Privacy Policy from time to time. We will notify you of any material changes by posting the new policy on this page and updating the "Last updated" date.</p>
+        <h2>5. SMS/Text Messaging</h2>
 
-        <h2>10. Contact Us</h2>
-        <p>If you have questions about this Privacy Policy, please contact us at:</p>
+        <h3>5.1 Consent</h3>
+        <p>SMS notifications are optional and require your explicit opt-in. When you verify your phone number and enable SMS, you consent to receive transaction-related text messages from Brittani AI.</p>
+
+        <h3>5.2 Message Content</h3>
+        <p>We send SMS messages related to:</p>
+        <ul>
+          <li>Deal updates and status changes</li>
+          <li>Deadline reminders</li>
+          <li>Responses to your Brittani assistant conversations via text</li>
+        </ul>
+        <p>Message frequency varies based on your deal activity. Message and data rates may apply.</p>
+
+        <h3>5.3 Opt-Out</h3>
+        <p>You can opt out of SMS at any time by:</p>
+        <ul>
+          <li>Replying STOP to any message</li>
+          <li>Disabling SMS in your account Settings</li>
+        </ul>
+        <p>After opting out, you will receive one confirmation message and no further texts.</p>
+
+        <h3>5.4 Non-Sharing</h3>
+        <p>We will not share, sell, or rent your mobile phone number to third parties for marketing or promotional purposes.</p>
+
+        <h3>5.5 SMS Service Provider</h3>
+        <p>SMS messages are delivered through Twilio, a third-party communications platform. Twilio processes your phone number and message content solely for the purpose of message delivery in accordance with Twilio's Privacy Notice.</p>
+
+        <h2>6. Data Sharing and Third-Party Services</h2>
+        <p>We share your data only with the following service providers, solely to operate the Service:</p>
+        <ul>
+          <li><strong>AWS (Amazon Web Services)</strong> — Cloud infrastructure, AI processing, document storage, secret management</li>
+          <li><strong>MongoDB Atlas</strong> — Database hosting</li>
+          <li><strong>Clerk</strong> — Authentication and identity management</li>
+          <li><strong>Stripe</strong> — Payment processing</li>
+          <li><strong>Twilio</strong> — SMS message delivery</li>
+          <li><strong>Google (Gmail API)</strong> — Email read/send operations on your behalf</li>
+          <li><strong>Google (Maps/Places API)</strong> — Address autocomplete (client-side only)</li>
+        </ul>
+        <p>We do NOT sell, rent, or trade your personal information to data brokers, advertisers, or information resellers.</p>
+
+        <h3>6.1 Legal Disclosures</h3>
+        <p>We may disclose your information if required by law, regulation, legal process, or governmental request, or to protect the rights, safety, or property of Brittani AI, our users, or the public.</p>
+
+        <h3>6.2 Business Transfers</h3>
+        <p>In the event of a merger, acquisition, or sale of assets, your data may be transferred to the acquiring entity. We will provide notice and obtain your consent before Google user data is transferred in such circumstances.</p>
+
+        <h2>7. Data Security</h2>
+        <p>We implement industry-standard security measures to protect your data:</p>
+        <ul>
+          <li><strong>Encryption in transit</strong> — All data transmitted via TLS 1.2+ (HTTPS)</li>
+          <li><strong>Encryption at rest</strong> — Database encryption (MongoDB Atlas AES-256), secret encryption (AWS KMS), document storage encryption (S3 server-side encryption)</li>
+          <li><strong>Access controls</strong> — Multi-tenant isolation ensuring workspace data is never accessible across organizations; role-based access within workspaces</li>
+          <li><strong>Token security</strong> — Gmail OAuth tokens stored in AWS Secrets Manager with IAM-scoped access, never in the application database</li>
+          <li><strong>Authentication</strong> — Managed by Clerk with support for multi-factor authentication</li>
+          <li><strong>Security headers</strong> — Content Security Policy, HSTS, and additional HTTP security headers on all responses</li>
+          <li><strong>Security assessments</strong> — Annual third-party security assessment per Google's CASA program requirements</li>
+        </ul>
+        <p>While we strive to protect your information, no method of transmission or storage is 100% secure. We cannot guarantee absolute security.</p>
+
+        <h2>8. Data Retention</h2>
+        <ul>
+          <li><strong>Active deal data and emails</strong> — Retained while the deal is active or closed</li>
+          <li><strong>Deleted deal data</strong> — 30 days after deletion, then permanently purged (including S3 documents and email records)</li>
+          <li><strong>Chat conversation messages</strong> — 30 days after session closes, then messages are cleared (summary and metadata retained)</li>
+          <li><strong>Gmail OAuth tokens</strong> — Until you disconnect Gmail (then immediately and permanently deleted)</li>
+          <li><strong>Account data</strong> — Until account deletion</li>
+          <li><strong>Audit logs</strong> — Retained for legal compliance and dispute resolution purposes</li>
+          <li><strong>SMS message records</strong> — Retained while your account is active; deleted within 30 days of account deletion</li>
+        </ul>
+
+        <h2>9. Your Rights and Choices</h2>
+
+        <h3>9.1 Access and Export</h3>
+        <p>You can access your transaction data, email records, and account information through the Service at any time. To request a complete export of your data, contact us at <a href="mailto:privacy@brittani.ai">privacy@brittani.ai</a>.</p>
+
+        <h3>9.2 Deletion</h3>
+        <p>You can:</p>
+        <ul>
+          <li>Delete individual deals (purged after 30 days including all associated documents and emails)</li>
+          <li>Disconnect Gmail (tokens immediately deleted)</li>
+          <li>Disable SMS (notifications stop immediately)</li>
+          <li>Request full account deletion by contacting <a href="mailto:privacy@brittani.ai">privacy@brittani.ai</a></li>
+        </ul>
+        <p>We will process deletion requests within 30 days. Some data may be retained as required by law or for legitimate business purposes (fraud prevention, legal disputes).</p>
+
+        <h3>9.3 Correction</h3>
+        <p>You can update your account information, deal details, and party information directly through the Service at any time.</p>
+
+        <h3>9.4 Withdraw Consent</h3>
+        <p>You can withdraw consent for optional data processing (Gmail access, SMS) at any time through your Settings without affecting your ability to use other features of the Service.</p>
+
+        <h2>10. California Privacy Rights (CCPA/CPRA)</h2>
+        <p>If you are a California resident, you have the right to:</p>
+        <ul>
+          <li><strong>Know</strong> — Request what personal information we collect, use, disclose, and sell</li>
+          <li><strong>Delete</strong> — Request deletion of your personal information</li>
+          <li><strong>Opt-out</strong> — We do not sell or share personal information for cross-context behavioral advertising</li>
+          <li><strong>Non-discrimination</strong> — We will not discriminate against you for exercising your privacy rights</li>
+        </ul>
+        <p>To exercise these rights, contact <a href="mailto:privacy@brittani.ai">privacy@brittani.ai</a>. We will respond within 45 days.</p>
+
+        <h2>11. International Users</h2>
+        <p>The Service is hosted in the United States (AWS us-east-1 region). If you access the Service from outside the US, your data will be transferred to and processed in the United States. By using the Service, you consent to this transfer.</p>
+
+        <h2>12. Third-Party Transaction Participants</h2>
+        <p>Real estate agents using the Service may enter contact information for transaction parties (buyers, sellers, lenders, title companies, other agents). This information is:</p>
+        <ul>
+          <li>Used solely for transaction coordination purposes</li>
+          <li>Stored with the same security protections as all other data</li>
+          <li>Deleted when the associated deal is purged</li>
+          <li>Not used for marketing or solicitation by Brittani AI</li>
+        </ul>
+        <p>If you are a transaction participant and wish to have your information removed, contact <a href="mailto:privacy@brittani.ai">privacy@brittani.ai</a>.</p>
+
+        <h2>13. Children's Privacy</h2>
+        <p>The Service is not directed at children under 13 years of age. We do not knowingly collect personal information from children. If we become aware that a child has provided personal information, we will promptly delete it.</p>
+
+        <h2>14. Changes to This Policy</h2>
+        <p>We may update this Privacy Policy from time to time. We will notify you of material changes by posting the updated policy with a new effective date and, where appropriate, notifying you via email or in-app notification.</p>
+        <p>Your continued use of the Service after changes take effect constitutes acceptance of the revised policy. We will not make retroactive changes that reduce protections for previously collected Google user data without obtaining your consent.</p>
+
+        <h2>15. Contact Us</h2>
+        <p>For privacy-related questions, data requests, or concerns:</p>
         <p>
-          <strong>Britanni AI</strong><br />
+          <strong>Brittani AI</strong><br />
           Email: <a href="mailto:privacy@brittani.ai">privacy@brittani.ai</a><br />
           Website: <a href="https://brittani.ai">brittani.ai</a>
         </p>
+        <p>We will respond to all privacy inquiries within 30 days.</p>
       </div>
     </div>
   </section>
