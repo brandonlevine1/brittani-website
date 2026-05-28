@@ -1,122 +1,122 @@
 ---
-title: "Louisiana Seller Disclosure Requirements 2026: What Every Agent Must Get Right"
-description: "Louisiana seller disclosure requirements 2026 explained for agents and brokers—statutes, forms, liability risks, and common errors to avoid."
+title: "Louisiana Seller Disclosure Requirements 2026: What Every Agent and Broker Must Get Right"
+description: "Louisiana seller disclosure requirements 2026 explained for agents and brokers—statutes, form numbers, liability risks, and common mistakes to avoid."
 publishDate: "2026-05-28"
 modifiedDate: "2026-05-28"
-author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+author: "Brittany Brighenti"
+authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
 readTime: "9 min"
 image: "/images/blog/louisiana-seller-disclosure-requirements-2026.webp"
-imageAlt: "A Louisiana Creole cottage with a For Sale sign while an agent reviews Louisiana seller disclosure requirements 2026 paperwork on a porch"
+imageAlt: "A Louisiana Creole-style home with a For Sale sign, representing Louisiana seller disclosure requirements 2026 compliance for agents"
 tags: ["seller-disclosure-requirements", "louisiana", "compliance"]
 keywords: ["Louisiana seller disclosure requirements 2026", "louisiana real estate compliance", "seller disclosure requirements"]
 type: "regulatory"
 faq:
-  - q: "Do I need a seller disclosure form for every residential sale in Louisiana?"
-    a: "Yes, with limited exceptions. Louisiana Revised Statutes 9:3198 requires a completed Property Disclosure Document for most residential sales of one-to-four-unit dwellings. Exemptions include sales by fiduciaries, foreclosures, and new construction covered by builder warranties."
+  - q: "Do I need a seller disclosure for every residential sale in Louisiana?"
+    a: "Yes, with limited exceptions. Louisiana Revised Statutes 9:3198 requires a completed Property Disclosure Document for most residential sales of one to four units, excluding foreclosures, estate sales by non-occupant representatives, and new construction covered by builder warranties."
+  - q: "What form do Louisiana agents use for seller disclosure?"
+    a: "The Louisiana Real Estate Commission (LREC) mandates the Property Disclosure Document, commonly referenced by its statutory framework in La. R.S. 9:3198. Most brokerages use the LREC-approved version or the Louisiana REALTORS form that mirrors the statutory requirements."
   - q: "What happens if a Louisiana seller refuses to fill out the disclosure form?"
-    a: "The buyer has the right to rescind the purchase agreement within a specified timeframe if the seller fails to deliver the disclosure. Agents should document refusals in writing and advise sellers of the legal consequences under La. R.S. 9:3198."
-  - q: "Who is responsible for ensuring the seller disclosure is delivered—the listing agent or the seller?"
-    a: "The seller bears the legal obligation to complete the form truthfully, but the listing agent has a regulatory duty under LREC rules to ensure it is delivered to prospective buyers before or at the time of the purchase agreement."
-  - q: "How long does a buyer have to cancel after receiving a late disclosure in Louisiana?"
-    a: "If the disclosure is delivered after the purchase agreement is executed, the buyer generally has 72 hours from receipt to revoke the agreement without penalty under La. R.S. 9:3198."
+    a: "If a seller refuses and no statutory exemption applies, the buyer may cancel the purchase agreement without penalty. Agents who allow a transaction to proceed without a completed disclosure expose themselves and their broker to civil liability."
+  - q: "How long does a buyer have to review the disclosure in Louisiana?"
+    a: "Louisiana law does not prescribe a specific calendar-day review period in the statute itself, but standard Louisiana Residential Agreement to Buy or Sell forms typically allow the buyer 72 hours to object or rescind after receiving the disclosure."
 ---
 
-## Understanding Louisiana Seller Disclosure Requirements 2026
+# Louisiana Seller Disclosure Requirements 2026: What Every Agent and Broker Must Get Right
 
-Louisiana seller disclosure requirements 2026 present a unique regulatory framework that differs meaningfully from neighboring states. The controlling statute—Louisiana Revised Statutes Title 9, Section 3198 (La. R.S. 9:3198)—mandates that sellers of residential real property consisting of one to four dwelling units deliver a written Property Disclosure Document to prospective buyers. The Louisiana Real Estate Commission (LREC) enforces agent compliance, and the consequences for getting this wrong extend from deal cancellation to personal liability for the licensee.
+Louisiana seller disclosure requirements 2026 remain one of the most misunderstood compliance obligations in the state. Agents who treat the Property Disclosure Document as a formality—something to rush through or fill out on behalf of a seller—are exposing their license and their brokerage to serious liability. This guide breaks down the exact statutes, the forms you should be using, the consequences of non-compliance, and the errors that keep showing up in LREC disciplinary actions.
 
-Unlike states that use a standardized multi-page disclosure booklet, Louisiana relies on the Property Disclosure Document for Residential Real Estate, which is referenced directly in the statute. Agents should also be familiar with the LREC's supplemental guidance documents published for the 2025-2026 license renewal cycle. The form requires sellers to disclose known conditions affecting the property's value, safety, or desirability—structural issues, environmental hazards, flooding history, and more.
+## The Statutory Foundation: La. R.S. 9:3198 Through 9:3200
 
-**The 2026 regulatory environment has not relaxed any prior obligations.** If anything, enforcement attention from the LREC has intensified following hurricane-related litigation from prior storm seasons. Agents who treat disclosure as a formality are the ones most exposed to post-closing claims.
+Louisiana's seller disclosure law lives in the Louisiana Revised Statutes, Title 9, Sections 3198 through 3200. These sections were enacted to ensure that buyers of residential property (one to four dwelling units) receive written notice of known material defects before they commit to a purchase. The statute places the burden squarely on the seller, but the practical enforcement falls on agents and their brokers.
 
-## What the Statute Actually Requires
+**La. R.S. 9:3198(A) mandates that the seller deliver a completed Property Disclosure Document to the buyer before or at the time a purchase agreement is executed.** If the disclosure is delivered after execution, the buyer gains a rescission right. The statute does not require the seller to conduct inspections or hire professionals—it only requires honest answers about conditions the seller actually knows about.
 
-La. R.S. 9:3198 imposes a duty on sellers to complete the Property Disclosure Document and deliver it to buyers before or at the time the purchase agreement is signed. The statute specifies that the disclosure must be made in "good faith" based on the seller's actual knowledge—no independent investigation is required. However, knowingly omitting information or marking "unknown" when the seller clearly has knowledge creates liability for both the seller and, potentially, the listing agent who knew or should have known.
+Section 9:3199 outlines the specific categories that must be addressed: structural components, plumbing, electrical systems, HVAC, roof condition, water intrusion history, environmental hazards, and whether the property is located in a flood zone. Section 9:3200 covers the seller's duty to amend the disclosure if new material facts arise before closing.
 
-The form itself covers categories including structural components, plumbing, electrical, HVAC, roofing, environmental hazards (lead paint, asbestos, mold), termite damage, [flood zone status](/blog/where-deals-break-down), and any ongoing neighbor or boundary disputes. Louisiana law does not currently require disclosure of certain stigmatized events (homicides, suicides) unless they constitute a material defect affecting the physical condition of the property.
+## Who Is Exempt—and Who Is Not
 
-> "The seller shall not be liable for any error, inaccuracy, or omission in any information delivered pursuant to this Part if such error, inaccuracy, or omission was not within the actual knowledge of the seller." — La. R.S. 9:3198(D)
-
-That statutory safe harbor sounds broad, but it has limits. Courts have consistently held that willful ignorance does not qualify. If a seller patched over visible water damage two months before listing and then marked "no known defects" on the roof section, the protection evaporates.
-
-## Exemptions Agents Must Know
-
-Not every residential transaction triggers the disclosure obligation. La. R.S. 9:3198 carves out specific exemptions that agents must understand to avoid both over-disclosure (which can confuse clients) and under-disclosure (which creates liability).
+Not every residential transaction triggers disclosure. The statute carves out specific exemptions, and agents need to know them cold rather than guessing.
 
 | Transaction Type | Disclosure Required? | Statutory Basis |
 |---|---|---|
-| Standard residential sale (1-4 units) | Yes | La. R.S. 9:3198(A) |
-| Foreclosure or sheriff's sale | No | La. R.S. 9:3198(B)(1) |
-| Sale by succession representative/executor | No | La. R.S. 9:3198(B)(2) |
-| New construction with builder warranty | No | La. R.S. 9:3198(B)(3) |
-| Transfer between co-owners or spouses | No | La. R.S. 9:3198(B)(4) |
-| Sale of property never occupied by seller | Partial (limited knowledge) | LREC guidance |
+| Owner-occupied resale (1-4 units) | Yes | La. R.S. 9:3198(A) |
+| Foreclosure sale by lender | No | La. R.S. 9:3198(B)(1) |
+| Sale by succession representative who never occupied | No | La. R.S. 9:3198(B)(2) |
+| New construction with builder warranty | No | La. R.S. 9:3198(B)(4) |
+| Court-ordered sale (partition, bankruptcy) | No | La. R.S. 9:3198(B)(3) |
+| Sale between co-owners or family (without agent) | Depends | Consult broker |
 
-Agents representing buyers in exempt transactions should counsel clients to conduct thorough inspections and not assume the absence of a disclosure means the absence of defects. The exemption shields the seller from the statutory form requirement—it does not shield anyone from fraud claims based on affirmative misrepresentation.
+The exemption that trips agents up most often is the succession sale. If the heir actually lived in the property, the exemption vanishes. A nephew who inherited his aunt's Metairie ranch and lived there for two years before listing cannot claim the succession exemption—he has personal knowledge of the property's condition and must disclose.
 
-## Timing and Delivery: Where Most Deals Go Sideways
+## The Forms: What Louisiana Agents Actually Use
 
-**Delivery timing is the single most litigated issue in Louisiana disclosure disputes.** The statute says the disclosure must be provided "prior to or contemporaneous with" the execution of the purchase agreement. In practice, this means the buyer should have the completed form in hand before signing.
+The [Louisiana Real Estate Commission](https://www.lrec.louisiana.gov/) does not publish a single numbered form the way some states do. Instead, LREC approves the statutory framework and expects brokerages to use a Property Disclosure Document that covers every category listed in La. R.S. 9:3199. Most agents in 2026 rely on one of two versions.
 
-If the disclosure arrives late—after the purchase agreement is already executed—the buyer gains a 72-hour revocation window from the date of actual receipt. That revocation right is unconditional. No reason is needed, no cure period applies, and the deposit must be returned in full.
+The Louisiana REALTORS Association publishes a Property Disclosure Document that tracks the statute section by section. This form is embedded in most transaction management platforms used by Louisiana brokerages. The second option is a brokerage-specific proprietary form, which is permissible only if it meets or exceeds the statutory minimums.
 
-Listing agents who allow a purchase agreement to go binding before the disclosure is delivered are effectively handing the buyer a free option to walk. This creates friction with sellers who don't understand why a "done deal" can unravel three days later because of a form that arrived a day late. The operational fix is straightforward: [build disclosure delivery into your pre-listing checklist](/blog/transaction-handoff-checklist) and confirm receipt in writing before the offer stage.
+**Agents should never modify, condense, or skip sections of the disclosure form without written broker approval.** Removing a section—even one that seems irrelevant to a particular property—creates a gap that opposing counsel will exploit in litigation. If your brokerage uses a custom form, confirm with your managing broker that it has been reviewed by legal counsel within the past 12 months.
 
-## Consequences of Non-Compliance for Agents
+For agents managing disclosure deadlines alongside inspection contingencies and lender timelines, a system that flags missing documents before they become deal-killers is worth its weight. If you handle [multiple active transactions](/blog/track-multiple-active-deals), you already know how easy it is for one unsigned form to slip through the cracks.
 
-The LREC has authority under La. R.S. 37:1455 to discipline licensees who fail to ensure proper disclosure practices. Penalties include formal reprimand, mandatory continuing education, fines up to $5,000, license suspension, or revocation. The Commission views repeated disclosure failures as evidence of incompetence or dishonesty—both grounds for escalated discipline.
+## Louisiana Seller Disclosure Requirements 2026: Consequences of Non-Compliance
 
-Beyond regulatory sanctions, agents face civil liability. Louisiana courts have allowed buyers to pursue listing agents under theories of negligent misrepresentation when the agent knew (or should have known) about a material defect that the seller failed to disclose. The agent's defense that "I just filled in what the seller told me" weakens considerably if the defect was visible during the agent's own property visits.
+The penalties for failing to deliver a proper disclosure in Louisiana operate on three levels: buyer rescission, civil damages, and LREC disciplinary action.
 
-| Consequence | Trigger | Enforcing Body |
+**Buyer rescission** is the most immediate risk. Under La. R.S. 9:3198, if the disclosure is not delivered before or at execution of the purchase agreement, the buyer may rescind within a reasonable time after receiving it—or at any point if it is never delivered. This is not a theoretical risk. Buyers who discover undisclosed water intrusion or foundation issues post-closing routinely file suit, and courts have allowed rescission plus damages when the disclosure was incomplete or missing.
+
+**Civil liability** under Louisiana's redhibition laws (La. Civil Code Articles 2520-2548) runs parallel to the disclosure statute. A seller who knows of a defect and fails to disclose it is liable for the cost of repair, diminution in value, and potentially the buyer's attorney fees. The agent who facilitated the transaction without ensuring proper disclosure may be named as a co-defendant.
+
+**LREC discipline** ranges from a letter of reprimand to license suspension. The Commission treats disclosure failures as a violation of La. R.S. 37:1455(A), which governs incompetence and dishonest dealing. Fines can reach $2,000 per violation, and repeat offenders face revocation hearings.
+
+| Consequence | Triggered By | Potential Cost |
 |---|---|---|
-| 72-hour buyer revocation | Late delivery of disclosure | Statutory (La. R.S. 9:3198) |
-| Fine up to $5,000 | Failure to ensure disclosure delivery | LREC |
-| License suspension/revocation | Pattern of non-compliance or fraud | LREC |
-| Civil damages (buyer lawsuit) | Known omission or misrepresentation | Louisiana courts |
-| E&O insurance claim | Post-closing defect discovery | Agent's insurer |
-
-Errors and omissions insurance will often cover defense costs, but it rarely covers intentional concealment. Agents should document every disclosure interaction—when the form was provided, when it was signed, and any conversations about specific property conditions.
+| Buyer rescission | Missing or late disclosure | Full purchase price refund + expenses |
+| Civil damages (redhibition) | Known but undisclosed defect | Repair costs + diminution + attorney fees |
+| LREC fine | Agent negligence in securing disclosure | Up to $2,000 per violation |
+| License suspension | Pattern of non-compliance | Loss of income during suspension |
+| E&O claim | Buyer or seller sues agent | Deductible + premium increase |
 
 ## Common Mistakes Louisiana Agents Make
 
-After reviewing LREC disciplinary actions and speaking with transaction coordinators who audit files daily, a pattern of recurring errors emerges. These are not obscure edge cases—they happen in routine transactions across Baton Rouge, New Orleans, Lafayette, and Shreveport every week.
+After reviewing LREC disciplinary records and speaking with transaction coordinators who audit Louisiana files, five errors surface repeatedly.
 
-**First, agents treat the "unknown" checkbox as a safe default.** When sellers mark every line as "unknown," the form becomes functionally useless. The listing agent's job is to walk through the form with the seller, ask probing questions, and ensure that "unknown" is only used when the seller genuinely lacks knowledge—not as a blanket liability shield. A form returned with 30 consecutive "unknown" entries is a red flag that invites scrutiny.
+**First, agents fill out the disclosure on behalf of the seller.** This happens when an agent thinks they are being helpful by pre-populating answers based on their own walkthrough or MLS notes. The statute requires the seller's personal knowledge. If the seller did not write the answer, the disclosure is legally deficient—and the agent has just assumed liability for the accuracy of those statements.
 
-Second, agents fail to update the disclosure after material changes occur between listing and closing. If a pipe bursts during the contract period, or if the seller discovers termite damage during a repair, the original disclosure becomes stale. Louisiana law requires good-faith disclosure of known conditions at the time of sale, not just at the time of listing. Agents must prompt sellers to amend the document.
+**Second, agents accept an incomplete form without following up.** A seller who writes "unknown" on every line is not necessarily lying, but a form with fifteen consecutive "unknown" answers raises red flags that opposing counsel will use to argue willful evasion. Agents should document a conversation with the seller explaining why thorough answers protect everyone.
 
-Third, agents forget to obtain a signed acknowledgment of receipt from the buyer or buyer's agent. Without written proof of delivery, the 72-hour revocation clock never starts, and the buyer arguably retains rescission rights indefinitely until closing. A simple date-stamped receipt eliminates this ambiguity entirely.
+Third, the disclosure is delivered after the purchase agreement is fully executed with no rescission language in the contract. Louisiana law gives the buyer a right to rescind in this scenario, but if the contract language does not acknowledge that right, the transaction becomes a litigation magnet. The Louisiana Residential Agreement to Buy or Sell form includes timing provisions—use them correctly.
 
-Fourth, agents conflate the Property Disclosure Document with the lead-based paint disclosure required under federal law (42 U.S.C. 4852d) for homes built before 1978. These are separate obligations with separate forms. Missing the federal lead paint disclosure carries its own penalties—up to $19,507 per violation under HUD enforcement—independent of anything the LREC imposes.
+Fourth, agents fail to update the disclosure when new information surfaces. La. R.S. 9:3200 requires amendment. If the seller discovers termite damage during the inspection response period, the disclosure must be updated in writing. Verbal acknowledgment is not sufficient.
 
-Fifth, agents in [multi-deal pipelines](/blog/track-multiple-active-deals) lose track of which files have completed disclosures and which are pending. This is an operational problem disguised as a compliance problem. Without a system to flag incomplete disclosure packets, agents discover gaps at the worst possible moment—usually when the buyer's attorney raises it 48 hours before closing.
+Fifth, listing agents in exempt transactions fail to document the exemption. Even when a disclosure is not required—a foreclosure sale, for example—the file should contain a written notation explaining which exemption applies and why. LREC auditors look for this documentation, and its absence creates an inference of negligence.
 
-## What Brokers Must Audit and Enforce
+## What Brokers Need to Audit and Enforce
 
-Designated brokers carry supervisory liability under La. R.S. 37:1455.1 for the acts of their affiliated licensees. A broker who fails to maintain reasonable supervisory policies regarding disclosure compliance is personally exposed to LREC discipline, even if the broker never touched the transaction in question.
+Managing brokers in Louisiana bear supervisory liability under La. R.S. 37:1455. If an agent in your office habitually mishandles disclosures, LREC can—and does—bring disciplinary action against the broker.
 
-**Brokers should audit disclosure files on a monthly cadence at minimum.** The audit checklist should confirm three things for every active listing: (1) the Property Disclosure Document is completed with specificity, not blanket "unknowns"; (2) the form was delivered to the buyer or buyer's agent before or at purchase agreement execution, with dated proof of receipt; and (3) any post-listing material changes are reflected in an amended disclosure.
+**Brokers should implement a file review checkpoint that occurs before the property goes under contract, not after.** Waiting until closing to verify that a disclosure was delivered is too late. The disclosure must be in the buyer's hands at or before execution of the purchase agreement.
 
-The LREC's 2025 guidance bulletin specifically referenced broker oversight as a focus area for upcoming audits. Firms that lack written policies on disclosure procedures—or that have policies but no enforcement mechanism—are the ones most likely to face systemic complaints rather than isolated agent-level issues. A [monthly compliance audit protocol](/blog/monthly-compliance-audit) adapted to Louisiana's specific requirements gives brokers a defensible paper trail.
+A quarterly audit should confirm three things for every closed or pending file: (1) the disclosure is signed and dated by the seller, not the agent; (2) the delivery date is documented with a receipt or electronic timestamp; and (3) any amendments are also signed, dated, and delivered. If your office uses a [monthly compliance audit](/blog/monthly-compliance-audit) process, add these three checkpoints to the existing checklist.
 
-Brokers should also verify that agents are not improperly advising sellers on what to disclose or omit. The agent's role is to explain the form and the legal obligation, not to make judgment calls about whether a known defect is "material enough" to disclose. That line-drawing belongs to attorneys, not licensees.
+Brokers should also review their office policy manual to ensure that it explicitly prohibits agents from completing disclosure forms on behalf of sellers. A written policy creates a defense in LREC proceedings—it shows the broker took affirmative steps to train and supervise. Without it, the broker's liability exposure mirrors the agent's.
 
-## Flood Disclosure: Louisiana's Distinctive Obligation
+For brokerages experiencing growth and onboarding new licensees, embedding disclosure compliance into [new agent training](/blog/training-new-agents-timelines) from day one prevents downstream problems. Do not assume that pre-licensing courses covered this material adequately.
 
-No discussion of Louisiana seller disclosure requirements 2026 is complete without addressing flood history. The Property Disclosure Document includes specific questions about prior flooding, flood insurance claims, and whether the property is located in a FEMA-designated Special Flood Hazard Area. Given Louisiana's geography and hurricane exposure, these questions carry disproportionate weight in litigation.
+## Flood Zone and Environmental Disclosures: Louisiana-Specific Traps
 
-Sellers must disclose any known flooding events, regardless of whether they filed an insurance claim. A seller who experienced three inches of standing water during a 2021 storm but "handled it themselves" without involving insurance still has a disclosure obligation. The absence of a FEMA claim does not eliminate knowledge.
+Louisiana's geography makes flood zone disclosure a heightened concern. The Property Disclosure Document asks whether the property is in a designated flood zone and whether flood insurance is currently maintained. Sellers often answer based on outdated FEMA maps, which have been redrawn multiple times in the New Orleans metro, Baton Rouge, and Lake Charles regions.
 
-Agents should cross-reference seller responses with publicly available data from FEMA's National Flood Insurance Program and the Louisiana Department of Insurance claims database. If public records show flood claims on a property and the seller marks "no known flooding," the listing agent faces a difficult choice—but the correct answer is always to revisit the question with the seller before allowing the form to go forward. Refer to [La. R.S. 9:3198 directly through the Louisiana Legislature's website](https://www.legis.la.gov/legis/Law.aspx?d=108954) for the full statutory text.
+Agents should encourage sellers to verify their current flood zone designation through the FEMA Flood Map Service Center before completing the disclosure. A seller who marks "No" based on a 2015 determination may be incorrect as of 2026. While the statute only requires disclosure of actual knowledge, an agent who knows the maps have changed and says nothing is walking a fine ethical line.
 
-## Building a Bulletproof Disclosure Workflow
+Environmental hazards—particularly lead-based paint for pre-1978 properties—trigger federal disclosure requirements under 42 U.S.C. 4852d in addition to the state form. The federal lead paint disclosure is a separate document from the Louisiana Property Disclosure Document. Missing one while completing the other is a common oversight, especially in older neighborhoods across Shreveport, Alexandria, and the French Quarter.
 
-The agents who avoid disclosure disputes are not the ones who memorized the statute. They are the ones who built repeatable systems that make compliance the default rather than the exception. Every listing appointment should include a disclosure walkthrough as a non-negotiable step—before photography, before the MLS entry, before the first showing.
+## Practical Workflow for Staying Compliant
 
-Pair the disclosure completion with a written acknowledgment template that captures the date, the seller's signature, and a statement that the seller has answered each question to the best of their actual knowledge. Deliver the completed form to the buyer's side via a trackable method—email with read receipt, transaction management platform with timestamp, or hand delivery with countersigned receipt.
+The most effective compliance system is also the simplest: disclosure first, listing second. Before the property hits the MLS, the signed disclosure should already be in the file. This gives the listing agent time to review answers, flag potential issues, and advise the seller on whether pre-listing inspections might reduce liability.
 
-For agents managing volume, platforms like Britanni AI at [/pricing](/pricing) automate disclosure tracking and flag incomplete files before they become problems—eliminating the operational gaps that lead to missed deadlines and compliance exposure. The goal is not to replace professional judgment but to ensure that no file slips through the cracks when you are managing six, ten, or fifteen active transactions simultaneously.
+Once an offer is received, confirm delivery timing against the contract execution date. Document delivery with a date-stamped email, electronic signature platform receipt, or hand-delivery acknowledgment signed by the buyer. If your transaction management system does not generate automatic delivery confirmations, you are relying on memory—and memory fails when you are juggling eight or more active files.
 
-Louisiana seller disclosure requirements 2026 will continue to generate liability for agents and brokers who treat the Property Disclosure Document as an afterthought. The statute is clear, the LREC is watching, and buyers' attorneys know exactly where to look when post-closing defects surface. Build the system now, audit it regularly, and make disclosure a strength of your practice rather than a vulnerability waiting to be exploited.
+Agents who want to eliminate the risk of missed disclosures and deadline lapses across their pipeline can explore how [Britanni AI](https://britanni.ai/pricing) automates document tracking and compliance flags without requiring manual checklist management. Building this kind of system into your practice is the difference between catching a missing disclosure on day one and discovering it at the closing table.
+
+Louisiana seller disclosure requirements 2026 are not changing dramatically from prior years, but enforcement attention from LREC continues to increase. The agents and brokers who treat disclosure compliance as a foundational workflow step—not an afterthought—are the ones who avoid disciplinary hearings, E&O claims, and blown deals.
