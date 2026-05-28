@@ -66,6 +66,20 @@ const speakableSchema = {
   }
 };
 
+const faqItems = post.data.faq || [];
+const faqSchema = faqItems.length > 0 ? {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": faqItems.map((item: { q: string; a: string }) => ({
+    "@type": "Question",
+    "name": item.q,
+    "acceptedAnswer": {
+      "@type": "Answer",
+      "text": item.a
+    }
+  }))
+} : null;
+
 const ogImage = post.data.image ? `https://brittani.ai${post.data.image}` : 'https://brittani.ai/og-image.jpg';
 ---
 
@@ -74,7 +88,7 @@ const ogImage = post.data.image ? `https://brittani.ai${post.data.image}` : 'htt
   description={post.data.description}
   canonical={`https://brittani.ai/blog/${post.id}`}
   ogImage={ogImage}
-  jsonLd={[articleSchema, breadcrumbSchema, speakableSchema]}
+  jsonLd={[articleSchema, breadcrumbSchema, speakableSchema, ...(faqSchema ? [faqSchema] : [])]}
 >
   <Fragment slot="head">
     <meta name="author" content={post.data.author} />

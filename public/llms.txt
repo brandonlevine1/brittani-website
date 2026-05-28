@@ -1,0 +1,40 @@
+# Brittani AI
+
+> AI-powered transaction coordination for real estate agents and brokers. Brittani handles contracts, deadlines, compliance, and communications so agents can focus on clients.
+
+## About
+
+Brittani AI is a transaction coordination platform built for real estate professionals. It automates the administrative work of managing residential real estate deals — contract analysis, deadline tracking, lender follow-ups, compliance monitoring, and party communications.
+
+Founded by Jack and Brittany Brighenti, who managed 3,000+ transactions before building Brittani to automate the work they did manually.
+
+## Key Pages
+
+- [Home](https://brittani.ai/): Overview of the platform and value proposition
+- [Features](https://brittani.ai/features): Product capabilities — contract analysis, deadline tracking, communications, compliance
+- [Pricing](https://brittani.ai/pricing): Plans and pricing for agents, teams, and brokerages
+- [About](https://brittani.ai/about): Team background and company story
+- [Blog](https://brittani.ai/blog): State-by-state compliance guides, operational how-tos, and industry analysis
+
+## Blog Content Categories
+
+The blog publishes authoritative guides on real estate compliance and operations:
+
+- **State Compliance Guides**: Seller disclosure requirements, buyer agency agreements, earnest money laws, dual agency rules, closing cost breakdowns, transfer taxes, license reciprocity, and more — by state, updated for 2026
+- **Operational Guides**: Transaction management workflows, deadline systems, communication templates, and scaling strategies for agents and TCs
+- **Industry Analysis**: NAR settlement implications, AI in real estate, market operations trends, and compliance risk analysis
+
+## Product Capabilities
+
+- Contract analysis and clause extraction
+- Deadline tracking with automated reminders
+- Lender and title company status monitoring
+- Inspection scheduling coordination
+- Compliance monitoring by state
+- Automated party communications (email and SMS)
+- Multi-deal dashboard for teams and brokerages
+
+## Contact
+
+- Website: https://brittani.ai
+- App: https://app.brittani.ai

@@ -16,16 +16,37 @@ export const STATE_DISPLAY_NAMES = Object.fromEntries(
 );
 
 export const TYPE1_CATEGORIES = [
+  // Disclosures & compliance
   { slug: 'seller-disclosure-requirements', label: 'Seller Disclosure Requirements' },
-  { slug: 'buyer-contingency-deadlines', label: 'Buyer Contingency Deadlines' },
-  { slug: 'earnest-money-rules', label: 'Earnest Money Rules' },
-  { slug: 'building-code-updates', label: 'Building Code Updates' },
-  { slug: 'commission-and-licensing-rules', label: 'Commission & Licensing Rules' },
-  { slug: 'hoa-condo-requirements', label: 'HOA/Condo Requirements' },
-  { slug: 'title-and-closing-procedures', label: 'Title & Closing Procedures' },
-  { slug: 'escrow-regulations', label: 'Escrow Regulations' },
-  { slug: 'new-real-estate-laws', label: 'New Real Estate Laws' },
+  { slug: 'agency-disclosure-requirements', label: 'Agency Disclosure Requirements' },
+  { slug: 'lead-paint-disclosure', label: 'Lead Paint Disclosure Requirements' },
   { slug: 'property-condition-disclosures', label: 'Property Condition & Environmental Disclosures' },
+  { slug: 'hoa-condo-requirements', label: 'HOA & Condo Disclosure Rules' },
+  // Post-NAR settlement (high search volume)
+  { slug: 'buyer-agency-agreement-requirements', label: 'Buyer Agency Agreement Requirements' },
+  { slug: 'commission-structure-changes', label: 'Commission Structure Rules After the NAR Settlement' },
+  // Transaction law
+  { slug: 'earnest-money-rules', label: 'Earnest Money & Escrow Laws' },
+  { slug: 'buyer-contingency-deadlines', label: 'Buyer Contingency Deadlines' },
+  { slug: 'dual-agency-rules', label: 'Dual Agency & Designated Agency Rules' },
+  { slug: 'wire-fraud-prevention', label: 'Wire Fraud Prevention Requirements' },
+  // Closing & money
+  { slug: 'who-pays-closing-costs', label: 'Who Pays Closing Costs — Buyer vs. Seller' },
+  { slug: 'transfer-tax-recording-fees', label: 'Transfer Tax & Recording Fee Schedules' },
+  { slug: 'attorney-vs-title-company', label: 'Attorney vs. Title Company — Who Must Be at Closing' },
+  { slug: 'title-and-closing-procedures', label: 'Title & Closing Procedures' },
+  // Licensing & practice
+  { slug: 'license-reciprocity-portability', label: 'Real Estate License Reciprocity & Portability' },
+  { slug: 'continuing-education-requirements', label: 'Continuing Education Requirements' },
+  { slug: 'teams-supervision-rules', label: 'Teams & Supervision Rules' },
+  { slug: 'commission-and-licensing-rules', label: 'Commission & Licensing Rules' },
+  // Investment & tax
+  { slug: 'firpta-withholding-rules', label: 'FIRPTA Withholding Rules for Foreign Sellers' },
+  { slug: '1031-exchange-rules', label: '1031 Exchange State Tax Implications' },
+  // General
+  { slug: 'building-code-updates', label: 'Building Code Updates' },
+  { slug: 'new-real-estate-laws', label: 'New Real Estate Laws' },
+  { slug: 'escrow-regulations', label: 'Escrow Regulations' },
 ];
 
 export const TYPE2_TOPICS = [

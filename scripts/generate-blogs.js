@@ -52,6 +52,21 @@ function validateFrontmatter(content) {
   }
 }
 
+function extractImagePrompt(content) {
+  const match = content.match(/^---\n([\s\S]*?)\n---/);
+  if (!match) return null;
+  try {
+    const fm = yaml.load(match[1]);
+    return fm.imagePrompt || null;
+  } catch {
+    return null;
+  }
+}
+
+function stripImagePromptFromFrontmatter(content) {
+  return content.replace(/^(---\n[\s\S]*?)imagePrompt:.*\n([\s\S]*?---)/, '$1$2');
+}
+
 function cleanMarkdown(content) {
   let cleaned = content.replace(/^```(?:markdown|md)?\n/, '').replace(/\n```$/, '');
   const readTime = calculateReadTime(cleaned);
@@ -74,13 +89,13 @@ function cleanMarkdown(content) {
   return cleaned;
 }
 
-async function tryGenerateImage(slug, type, state) {
+async function tryGenerateImage(slug, type, state, customPrompt) {
   if (!process.env.GEMINI_API_KEY) {
     console.log(`[Image] Skipped (no GEMINI_API_KEY): ${slug}`);
     return;
   }
   try {
-    await generateImage(slug, type, state);
+    await generateImage(slug, type, state, customPrompt);
   } catch (err) {
     console.warn(`[Image] Failed for ${slug}, continuing without image: ${err.message}`);
   }
@@ -111,42 +126,48 @@ async function _generateType1(existingPosts) {
   const slug = `${state}-${category.slug}-${CURRENT_YEAR}`;
   console.log(`[Type 1] Generating: ${state} — ${category.label}`);
 
-  const prompt = buildType1Prompt(state, category);
+  const prompt = buildType1Prompt(state, category, existingPosts);
   const markdown = await callClaude(prompt);
   const content = cleanMarkdown(markdown);
   if (!content) return null;
 
-  await tryGenerateImage(slug, 'regulatory', state);
+  const imagePrompt = extractImagePrompt(content);
+  await tryGenerateImage(slug, 'regulatory', state, imagePrompt);
+  const finalContent = stripImagePromptFromFrontmatter(content);
 
-  return { filename: `${slug}.md`, content };
+  return { filename: `${slug}.md`, content: finalContent };
 }
 
 async function _generateType2(existingPosts) {
   const topic = pickNextType2Topic(existingPosts);
   console.log(`[Type 2] Generating: ${topic.title}`);
 
-  const prompt = buildType2Prompt(topic);
+  const prompt = buildType2Prompt(topic, existingPosts);
   const markdown = await callClaude(prompt);
   const content = cleanMarkdown(markdown);
   if (!content) return null;
 
-  await tryGenerateImage(topic.slug, 'operational', null);
+  const imagePrompt = extractImagePrompt(content);
+  await tryGenerateImage(topic.slug, 'operational', null, imagePrompt);
+  const finalContent = stripImagePromptFromFrontmatter(content);
 
-  return { filename: `${topic.slug}.md`, content };
+  return { filename: `${topic.slug}.md`, content: finalContent };
 }
 
 async function _generateType3(existingPosts) {
   const topic = pickNextType3Topic(existingPosts);
   console.log(`[Type 3] Generating: ${topic.title}`);
 
-  const prompt = buildType3Prompt(topic);
+  const prompt = buildType3Prompt(topic, existingPosts);
   const markdown = await callClaude(prompt);
   const content = cleanMarkdown(markdown);
   if (!content) return null;
 
-  await tryGenerateImage(topic.slug, 'opinion', null);
+  const imagePrompt = extractImagePrompt(content);
+  await tryGenerateImage(topic.slug, 'opinion', null, imagePrompt);
+  const finalContent = stripImagePromptFromFrontmatter(content);
 
-  return { filename: `${topic.slug}.md`, content };
+  return { filename: `${topic.slug}.md`, content: finalContent };
 }
 
 const POSTS_PER_TYPE = parseInt(process.env.POSTS_PER_TYPE || '5', 10);

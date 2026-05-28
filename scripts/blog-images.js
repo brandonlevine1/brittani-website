@@ -2,7 +2,6 @@ import { GoogleGenAI } from '@google/genai';
 import sharp from 'sharp';
 import { writeFile, mkdir } from 'fs/promises';
 import { join } from 'path';
-import { STATE_ARCHITECTURE, DEFAULT_ARCHITECTURE } from './blog-topics.js';
 
 const IMAGE_DIR = join(process.cwd(), 'public/images/blog');
 
@@ -10,24 +9,17 @@ const STYLE_PREFIX = 'Editorial real estate photography, natural warm lighting, 
 
 const NEGATIVE_SUFFIX = 'Do not include: cartoon, illustration, 3d render, AI art, stock photo poses, text, watermark, logo, neon, gradient, oversaturated, HDR, fisheye, people smiling at camera';
 
-function buildImagePrompt(type, state, topicSlug) {
-  let subject;
+export async function generateImage(slug, type, state, customPrompt) {
+  const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
 
-  if (type === 'regulatory' && state) {
-    const arch = STATE_ARCHITECTURE[state] || DEFAULT_ARCHITECTURE;
-    subject = `${arch}, golden hour afternoon light, a few documents visible on the front porch railing slightly out of focus`;
-  } else if (type === 'operational') {
-    subject = `Real estate agent's clean organized desk with a laptop showing a calendar view, neat stack of contracts beside it, morning light from a large window, minimalist modern office`;
+  let subject;
+  if (customPrompt) {
+    subject = customPrompt;
   } else {
-    subject = `Modern glass and steel office building exterior detail, blue sky reflected in windows, clean geometric lines, minimalist urban architecture`;
+    subject = 'Modern real estate office with natural light and clean architectural lines';
   }
 
-  return `${STYLE_PREFIX}, ${subject}. ${NEGATIVE_SUFFIX}`;
-}
-
-export async function generateImage(slug, type, state) {
-  const ai = new GoogleGenAI({ apiKey: process.env.GEMINI_API_KEY });
-  const prompt = buildImagePrompt(type, state, slug);
+  const prompt = `${STYLE_PREFIX}, ${subject}. ${NEGATIVE_SUFFIX}`;
 
   console.log(`[Image] Generating: ${slug}`);
 
