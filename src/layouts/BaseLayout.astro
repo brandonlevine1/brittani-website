@@ -14,13 +14,14 @@ interface Props {
 const {
   title,
   description,
-  canonical = Astro.url.href,
+  canonical,
   ogImage = '/og-image.jpg',
   noindex = false,
   jsonLd,
 } = Astro.props;
 
 const siteUrl = 'https://brittani.ai';
+const canonicalUrl = canonical || `${siteUrl}${Astro.url.pathname}`;
 const fullOgImage = ogImage.startsWith('http') ? ogImage : `${siteUrl}${ogImage}`;
 ---
 
@@ -35,14 +36,14 @@ const fullOgImage = ogImage.startsWith('http') ? ogImage : `${siteUrl}${ogImage}
     <SEO
       title={title}
       description={description}
-      canonical={canonical}
+      canonical={canonicalUrl}
       noindex={noindex}
       openGraph={{
         basic: {
           title: title,
           type: 'website',
           image: fullOgImage,
-          url: canonical,
+          url: canonicalUrl,
         },
         optional: {
           description: description,
