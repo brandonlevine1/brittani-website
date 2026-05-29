@@ -1,0 +1,256 @@
+---
+import PageLayout from '../../layouts/PageLayout.astro';
+
+const breadcrumbSchema = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    {
+      "@type": "ListItem",
+      "position": 1,
+      "name": "Home",
+      "item": "https://brittani.ai"
+    },
+    {
+      "@type": "ListItem",
+      "position": 2,
+      "name": "Solutions",
+      "item": "https://brittani.ai/solutions"
+    },
+    {
+      "@type": "ListItem",
+      "position": 3,
+      "name": "For Brokerages",
+      "item": "https://brittani.ai/solutions/brokerages"
+    }
+  ]
+};
+
+const businessCase = [
+  {
+    title: "Eliminate Variable TC Cost",
+    description: "$400/deal × 400 deals = $160K/year. Replace with flat per-seat pricing. No turnover. No coverage gaps."
+  },
+  {
+    title: "Zero Liability Exposure",
+    description: "Deadlines that cannot miss. One saved E&O claim pays for the platform for a decade."
+  },
+  {
+    title: "Every Deal Coordinated — And Fully Documented",
+    description: "When the state auditor calls, you pull up a dashboard — not a filing cabinet."
+  }
+];
+
+const capabilities = [
+  { title: "Managing Broker Dashboard", description: "Cross-agent visibility into all deals, deadlines, and communications." },
+  { title: "Audit Trail", description: "Immutable log of every action. Actor, timestamp, context. Regulatory-ready." },
+  { title: "Workspace Controls", description: "Enforce email policies, approval workflows, and communication standards brokerage-wide." },
+  { title: "Instant Agent Onboarding", description: "New agent gets an invite. Same-day access to full TC automation. No training." },
+  { title: "Consistent Service Quality", description: "Every deal follows the same workflow. Your brand experience doesn't vary by agent." },
+  { title: "Capacity Multiplication", description: "Each agent handles 30%+ more deals without additional support staff." },
+  { title: "SMS Agent for Every Seat", description: "Every agent gets Brittani via text. Deal answers from the field, email approvals from the car. They already know how to text." }
+];
+
+const competitive = [
+  {
+    title: "vs. Human TCs",
+    description: "Variable cost, capacity-limited, turnover risk"
+  },
+  {
+    title: "vs. Dotloop/SkySlope",
+    description: "They give you a filing cabinet. With Brittani, you never do the filing."
+  },
+  {
+    title: "vs. DIY",
+    description: "Inconsistent quality, liability exposure, no oversight"
+  }
+];
+---
+
+<PageLayout
+  title="Brittani AI for Brokerages — Every Deal Coordinated, No Staff Required"
+  description="Give every agent on your roster the same AI TC — one that never misses, never quits, and costs less than a transaction fee. Enterprise TC automation for brokerages."
+  jsonLd={breadcrumbSchema}
+>
+  <!-- Hero -->
+  <section class="py-20 md:py-28 lg:py-32 bg-slate-900 text-white">
+    <div class="max-w-7xl mx-auto px-6 md:px-8 text-center">
+      <p class="text-sm font-semibold uppercase tracking-wider text-blue-400 mb-3">For Brokerages</p>
+      <h1 class="text-4xl md:text-5xl lg:text-6xl font-bold tracking-tight">
+        Every Deal Coordinated. No Staff Required.
+      </h1>
+      <p class="mt-6 text-lg md:text-xl text-slate-300 max-w-3xl mx-auto leading-relaxed">
+        Give every agent on your roster the same TC — one that never misses, never quits, and costs less than a transaction fee.
+      </p>
+      <div class="mt-10">
+        <a
+          href="/contact"
+          class="inline-block bg-blue-600 hover:bg-blue-700 text-white font-semibold px-8 py-4 rounded-xl transition-colors"
+        >
+          Schedule an Enterprise Demo
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- The Business Case -->
+  <section class="py-20 md:py-28 lg:py-32 bg-white">
+    <div class="max-w-7xl mx-auto px-6 md:px-8">
+      <div class="text-center mb-16">
+        <p class="text-sm font-semibold uppercase tracking-wider text-blue-600 mb-3">The Business Case</p>
+        <h2 class="text-3xl md:text-4xl font-bold tracking-tight text-slate-900">
+          Three Reasons to Switch Today
+        </h2>
+      </div>
+
+      <div class="grid md:grid-cols-3 gap-8">
+        {businessCase.map((item, index) => (
+          <div class="border border-slate-200 rounded-2xl p-6 hover:shadow-lg transition-shadow">
+            <div class="text-3xl font-bold text-blue-600 mb-4">{String(index + 1).padStart(2, '0')}</div>
+            <h3 class="text-xl font-bold text-slate-900 mb-3">{item.title}</h3>
+            <p class="text-slate-600 leading-relaxed">{item.description}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- Enterprise Capabilities -->
+  <section class="py-20 md:py-28 lg:py-32 bg-slate-50">
+    <div class="max-w-3xl mx-auto px-6 md:px-8">
+      <div class="text-center mb-16">
+        <p class="text-sm font-semibold uppercase tracking-wider text-blue-600 mb-3">Enterprise Capabilities</p>
+        <h2 class="text-3xl md:text-4xl font-bold tracking-tight text-slate-900">
+          Built for Scale. Built for Compliance.
+        </h2>
+        <p class="mt-4 text-lg text-slate-600">
+          Everything a managing broker needs to run a coordinated operation.
+        </p>
+      </div>
+
+      <div class="space-y-4">
+        {capabilities.map((item, index) => (
+          <details class="group border border-slate-200 rounded-2xl overflow-hidden">
+            <summary class="flex items-center justify-between cursor-pointer p-6 text-left font-semibold text-slate-900 hover:bg-white transition-colors [&::-webkit-details-marker]:hidden list-none">
+              <span>
+                <span class="text-blue-600 mr-3">{String(index + 1).padStart(2, '0')}</span>
+                {item.title}
+              </span>
+              <svg
+                class="w-5 h-5 text-slate-400 shrink-0 ml-4 transition-transform duration-200 group-open:rotate-180"
+                fill="none"
+                viewBox="0 0 24 24"
+                stroke="currentColor"
+                stroke-width="2"
+                aria-hidden="true"
+              >
+                <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 8.25l-7.5 7.5-7.5-7.5" />
+              </svg>
+            </summary>
+            <div class="px-6 pb-6 text-slate-600 leading-relaxed">
+              {item.description}
+            </div>
+          </details>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- ROI Comparison Table -->
+  <section class="py-20 md:py-28 lg:py-32 bg-white">
+    <div class="max-w-4xl mx-auto px-6 md:px-8">
+      <div class="text-center mb-16">
+        <p class="text-sm font-semibold uppercase tracking-wider text-blue-600 mb-3">ROI Comparison</p>
+        <h2 class="text-3xl md:text-4xl font-bold tracking-tight text-slate-900">
+          The Numbers Speak for Themselves
+        </h2>
+      </div>
+
+      <div class="border border-slate-200 rounded-2xl overflow-hidden">
+        <table class="w-full text-left">
+          <thead>
+            <tr class="bg-slate-50 border-b border-slate-200">
+              <th class="px-6 py-4 text-sm font-semibold text-slate-500 uppercase tracking-wider"></th>
+              <th class="px-6 py-4 text-sm font-semibold text-slate-500 uppercase tracking-wider">Human TCs</th>
+              <th class="px-6 py-4 text-sm font-semibold text-blue-600 uppercase tracking-wider">Brittani</th>
+            </tr>
+          </thead>
+          <tbody class="divide-y divide-slate-200">
+            <tr>
+              <td class="px-6 py-4 font-medium text-slate-900">50 agents × 8 deals/year</td>
+              <td class="px-6 py-4 text-slate-600">$160,000/year</td>
+              <td class="px-6 py-4 text-slate-900 font-semibold">~$90,000/year</td>
+            </tr>
+            <tr class="bg-slate-50/50">
+              <td class="px-6 py-4 font-medium text-slate-900">Deadline miss rate</td>
+              <td class="px-6 py-4 text-slate-600">2-5%</td>
+              <td class="px-6 py-4 text-slate-900 font-semibold">0%</td>
+            </tr>
+            <tr>
+              <td class="px-6 py-4 font-medium text-slate-900">Managing broker visibility</td>
+              <td class="px-6 py-4 text-slate-600">Zero</td>
+              <td class="px-6 py-4 text-slate-900 font-semibold">Complete</td>
+            </tr>
+            <tr class="bg-slate-50/50">
+              <td class="px-6 py-4 font-medium text-slate-900">New agent time-to-value</td>
+              <td class="px-6 py-4 text-slate-600">2-4 weeks</td>
+              <td class="px-6 py-4 text-slate-900 font-semibold">Same day</td>
+            </tr>
+            <tr>
+              <td class="px-6 py-4 font-medium text-slate-900">Scales with volume?</td>
+              <td class="px-6 py-4 text-slate-600">No (hire more)</td>
+              <td class="px-6 py-4 text-slate-900 font-semibold">Yes (same cost)</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </section>
+
+  <!-- Competitive Positioning -->
+  <section class="py-20 md:py-28 lg:py-32 bg-slate-50">
+    <div class="max-w-7xl mx-auto px-6 md:px-8">
+      <div class="text-center mb-16">
+        <p class="text-sm font-semibold uppercase tracking-wider text-blue-600 mb-3">Why Brittani</p>
+        <h2 class="text-3xl md:text-4xl font-bold tracking-tight text-slate-900">
+          Not Another Tool. A Replacement.
+        </h2>
+      </div>
+
+      <div class="grid md:grid-cols-3 gap-8">
+        {competitive.map((item) => (
+          <div class="border border-slate-200 rounded-2xl p-6 hover:shadow-lg transition-shadow">
+            <h3 class="text-xl font-bold text-slate-900 mb-3">{item.title}</h3>
+            <p class="text-slate-600 leading-relaxed">{item.description}</p>
+          </div>
+        ))}
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <section class="py-20 md:py-28 lg:py-32 bg-slate-900 text-white">
+    <div class="max-w-4xl mx-auto px-6 md:px-8 text-center">
+      <h2 class="text-3xl md:text-4xl font-bold tracking-tight">
+        Schedule an Enterprise Demo
+      </h2>
+      <p class="mt-4 text-lg text-slate-300 max-w-2xl mx-auto">
+        See how Brittani coordinates every deal across your brokerage — with full visibility and zero added headcount.
+      </p>
+      <div class="mt-10 flex flex-col sm:flex-row items-center justify-center gap-4">
+        <a
+          href="/contact"
+          class="inline-block bg-blue-600 hover:bg-blue-700 text-white font-semibold px-8 py-4 rounded-xl transition-colors"
+        >
+          Schedule an Enterprise Demo
+        </a>
+        <a
+          href="/contact"
+          class="inline-block border border-slate-600 hover:border-slate-400 text-white font-semibold px-8 py-4 rounded-xl transition-colors"
+        >
+          Talk to Sales
+        </a>
+      </div>
+    </div>
+  </section>
+</PageLayout>
