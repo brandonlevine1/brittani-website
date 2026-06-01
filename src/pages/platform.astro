@@ -240,6 +240,34 @@ const securityBullets = [
             <h3 class="text-lg font-bold text-slate-900 mb-2">{mod.name}</h3>
             <p class="text-slate-600 leading-relaxed text-sm">{mod.description}</p>
 
+            {/* Product mockup for Deal Command Center */}
+            {i === 3 && (
+              <div class="mt-8 rounded-xl overflow-hidden border border-slate-200 shadow-sm">
+                <img
+                  src="/images/features/deal-dashboard.svg"
+                  alt="Deal Command Center dashboard showing every active deal at a glance"
+                  width="800"
+                  height="600"
+                  loading="lazy"
+                  class="w-full h-auto"
+                />
+              </div>
+            )}
+
+            {/* Product mockup for Coordination Agents */}
+            {i === 4 && (
+              <div class="mt-8 rounded-xl overflow-hidden border border-slate-200 shadow-sm">
+                <img
+                  src="/images/features/inspections.svg"
+                  alt="Coordination agents handling inspection scheduling and follow-ups"
+                  width="800"
+                  height="600"
+                  loading="lazy"
+                  class="w-full h-auto"
+                />
+              </div>
+            )}
+
             {/* Phone mockup for SMS module */}
             {i === 5 && (
               <div class="mt-8">
