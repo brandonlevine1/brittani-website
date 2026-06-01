@@ -9,6 +9,7 @@ import Stats from '../components/home/Stats.astro';
 import Testimonials from '../components/home/Testimonials.astro';
 import FAQ from '../components/home/FAQ.astro';
 import CTABanner from '../components/global/CTABanner.astro';
+import InteractiveDemo from '../components/global/InteractiveDemo.astro';
 import { homeFAQ } from '../data/faq';
 
 const organizationSchema = {
@@ -79,7 +80,10 @@ const breadcrumbSchema = {
   <!-- 4. How It Works -->
   <SolutionOverview />
 
-  <!-- 5. Feature Showcase (Bento Grid) -->
+  <!-- 5. Interactive Demo -->
+  <InteractiveDemo />
+
+  <!-- 6. Feature Showcase (Bento Grid) -->
   <FeatureShowcase />
 
   <!-- 6. Stats / Results -->
