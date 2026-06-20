@@ -176,12 +176,13 @@ const flatLinks = [
       </svg>
     </button>
   </nav>
+</header>
 
-  <!-- Mobile Menu Overlay -->
-  <div
-    id="mobile-menu"
-    class="fixed inset-0 z-50 hidden"
-    role="dialog"
+<!-- Mobile Menu Overlay (top-level so it sits above the blurred header) -->
+<div
+  id="mobile-menu"
+  class="fixed inset-0 z-[60] hidden"
+  role="dialog"
     aria-modal="true"
     aria-label="Mobile navigation"
   >
@@ -288,7 +289,6 @@ const flatLinks = [
       </div>
     </div>
   </div>
-</header>
 
 <!-- Spacer for fixed header -->
 <div class="h-18"></div>
@@ -416,10 +416,20 @@ const flatLinks = [
   const menuBackdrop = document.getElementById('mobile-menu-backdrop');
   const menuPanel = document.getElementById('mobile-menu-panel');
 
+  // Scroll position captured while the menu is open, so we can restore it on close.
+  let lockedScrollY = 0;
+
   function openMenu() {
     if (!menu || !menuPanel || !menuBtn) return;
     menu.classList.remove('hidden');
     menuBtn.setAttribute('aria-expanded', 'true');
+    // Lock the page behind the menu (position:fixed is the technique iOS Safari honors).
+    lockedScrollY = window.scrollY;
+    document.body.style.position = 'fixed';
+    document.body.style.top = `-${lockedScrollY}px`;
+    document.body.style.left = '0';
+    document.body.style.right = '0';
+    document.body.style.width = '100%';
     requestAnimationFrame(() => {
       menuPanel.classList.remove('translate-x-full');
     });
@@ -429,6 +439,13 @@ const flatLinks = [
     if (!menu || !menuPanel || !menuBtn) return;
     menuPanel.classList.add('translate-x-full');
     menuBtn.setAttribute('aria-expanded', 'false');
+    // Release the scroll lock and restore the previous scroll position.
+    document.body.style.position = '';
+    document.body.style.top = '';
+    document.body.style.left = '';
+    document.body.style.right = '';
+    document.body.style.width = '';
+    window.scrollTo(0, lockedScrollY);
     setTimeout(() => {
       menu.classList.add('hidden');
     }, 300);
