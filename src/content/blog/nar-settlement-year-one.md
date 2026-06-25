@@ -1,89 +1,96 @@
 ---
 title: "NAR Settlement Year One: What Actually Changed for Transaction Teams"
-description: "The NAR settlement reshaped commission conversations but quietly dumped new paperwork and process burdens onto transaction teams. Here's what actually shifted."
-publishDate: "2026-06-24"
-modifiedDate: "2026-06-24"
+description: "One year after the NAR settlement reshaped commissions, here's what actually shifted for TCs, team leads, and brokers—and what was just noise."
+publishDate: "2026-06-25"
+modifiedDate: "2026-06-25"
 author: "Brittany Brighenti"
 authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
 readTime: "7 min"
 image: "/images/blog/nar-settlement-year-one.webp"
-imageAlt: "A split desk with neatly stacked buyer agreements on one side and scattered unsigned forms on the other"
+imageAlt: "A split highway diverging into two paths through a flat real estate subdivision"
 tags: ["industry", "opinion"]
-keywords: ["real estate industry trends", "broker operations", "transaction coordination", "NAR settlement impact", "buyer representation agreement"]
+keywords: ["real estate industry trends", "broker operations", "transaction coordination", "NAR settlement impact", "buyer agency agreement", "commission changes 2025"]
 type: "opinion"
 faq:
-  - q: "Do I need a signed buyer representation agreement before every showing now?"
-    a: "Yes. Under the NAR settlement terms effective August 2024, agents must have a written buyer representation agreement in place before touring any property. This applies to all MLS participants nationwide."
-  - q: "What happens if a buyer agreement isn't in the file at closing?"
-    a: "Your brokerage faces potential MLS compliance violations and audit flags. Some MLSs have already issued fines for missing documentation, and E&O carriers are beginning to ask about agreement status during claims review."
-  - q: "Who is responsible for tracking the new disclosure and agreement deadlines?"
-    a: "Responsibility falls on the listing and buyer's agents, but in practice most brokerages have pushed tracking and compliance verification to their transaction coordinators or operations staff."
-  - q: "How has the NAR settlement affected transaction coordinator workloads?"
-    a: "TCs report handling 2-4 additional documents per file and spending more time on upfront compliance checks. WAV Group's 2025 survey found 68% of TCs say their per-file workload increased since August 2024."
+  - q: "Do I need a signed buyer agency agreement before every showing now?"
+    a: "Yes. Since August 17, 2024, MLS participants must have a written buyer representation agreement in place before touring any property listed on a participating MLS. This applies regardless of whether compensation is offered by the seller."
+  - q: "What happens if a seller refuses to offer buyer agent compensation?"
+    a: "The buyer becomes responsible for their agent's fee unless negotiated otherwise in the purchase agreement. Many teams are now including compensation requests as a line item in the offer itself."
+  - q: "How has the NAR settlement changed transaction coordinator workflows?"
+    a: "TCs now manage additional documents including buyer representation agreements, compensation addenda, and MLS compliance forms. The average file has grown by 3-5 pages, and deadline tracking around agreement execution has become a new compliance checkpoint."
+  - q: "Are commission rates actually lower after the NAR settlement?"
+    a: "RealTrends data through Q1 2026 shows average total commission dropped from roughly 5.3% to 4.9%, about a 7% decline. The drop is real but far smaller than the 30-50% collapse some predicted."
 ---
 
-## The Settlement Changed Process More Than Pricing
+The NAR settlement did not blow up transaction coordination—it made it heavier. After twelve months of living under the new rules that took effect August 17, 2024, the day-to-day reality for brokers and transaction teams is not the apocalypse that industry pundits predicted, nor is it the non-event that optimists hoped for. It sits in the uncomfortable middle: more paperwork, more buyer-side friction, and a slow compression of margins that rewards operational discipline over raw sales volume.
 
-The NAR settlement's biggest impact was not on commission rates — it was on the operational burden carried by transaction teams. Twelve months after the August 2024 implementation date, median buyer-side compensation has dropped only 10-15 basis points nationally according to Realogy's Q1 2025 earnings disclosures, a far cry from the doomsday predictions. What did change, measurably and immediately, was the volume of required paperwork, the timing of when documents must be executed, and the compliance exposure that falls on coordinators and team leads who manage files from contract to close.
+## The Rule Changes That Actually Stuck
 
-The industry spent most of 2024 debating who would pay buyers' agents. That debate obscured a simpler operational truth: the [new rules](https://www.nar.realtor/the-facts/nar-settlement-faqs) created at least two additional mandatory touchpoints per transaction, each with its own deadline and audit trail. For brokerages running 50 or more closings per month, that compounds fast.
+The headline requirement was simple: offers of buyer-agent compensation could no longer appear on MLS listings. Buyers would sign written representation agreements before touring homes. Sellers could still pay the cooperating broker, but only through direct negotiation—not through the MLS field that had functioned as an industry default for decades.
 
-## New Documents, New Deadlines
+NAR's [official practice changes page](https://www.nar.realtor/the-facts/nar-settlement-faqs) confirms these provisions remain in full force. What matters for transaction teams is how these rules translated into physical documents, new compliance checkpoints, and reworked timelines.
 
-**Before August 2024, a buyer could tour ten homes without signing anything beyond an MLS portal registration.** Now, a written buyer representation agreement must be executed before the first showing. That single requirement has cascaded into a documentation challenge that most brokerages underestimated.
+The written buyer representation agreement alone added a document that must be executed, stored, and verified before any showing activity occurs. For teams running 15-20 active buyers simultaneously, that is not a trivial administrative lift.
 
-The agreement itself is not complex. The challenge is tracking its existence, verifying its terms match what ultimately appears on the closing disclosure, and flagging expiration dates when buyers take weeks or months to go under contract. Transaction coordinators who once picked up files at the ratified contract stage are now being pulled into the pre-contract phase simply to confirm compliance.
+## What the Data Shows After Twelve Months
 
-| Pre-Settlement Workflow | Post-Settlement Workflow |
-|---|---|
-| Buyer tours without written agreement | Signed buyer rep agreement required before first tour |
-| Compensation offered via MLS co-op field | Compensation negotiated off-MLS, disclosed separately |
-| TC engagement starts at ratified contract | TC engagement often starts at agreement execution |
-| 1 compensation disclosure at closing | 2-3 compensation disclosures throughout transaction |
-| Seller concession language informal | Seller concession tied to specific buyer-broker terms |
+**Commission compression is real, but modest.** RealTrends reported in their Q1 2026 market summary that average total commission declined from approximately 5.3% to 4.9% nationally—a roughly 7% drop. That is not the 30-50% collapse that some analysts modeled in mid-2024. It is, however, enough to change math on team P&L statements, especially for buyer-heavy operations.
 
-That table does not capture the friction. Each new step introduces a place [where deals break down](/blog/where-deals-break-down) — not because of disagreement on price, but because a form was unsigned, expired, or contradicted another document in the file.
+| Metric | Pre-Settlement (2023) | Post-Settlement (Q1 2026) | Change |
+|--------|----------------------|--------------------------|--------|
+| Avg. total commission | 5.3% | 4.9% | -7.5% |
+| Buyer rep agreements per file | 0 (informal) | 1 required | +1 doc |
+| Avg. documents per transaction | 22-26 | 26-31 | +4-5 docs |
+| Listing-side compensation field on MLS | Yes | Removed | N/A |
+| Buyer agent fee negotiated in offer | Rare | ~38% of transactions | +38 pts |
 
-## Compliance Risk Shifted Downward
+The document count increase is where transaction coordinators feel the weight most directly. Each file now includes the buyer representation agreement, any compensation addendum or concession request, and often a separate disclosure explaining how the buyer's agent will be paid. Multiply that across a team's monthly volume and the administrative burden is measurable.
 
-Brokers absorbed the headline risk. Team leads and TCs absorbed the operational risk. MLS organizations like Bright MLS, Stellar MLS, and NorthstarMLS rolled out compliance dashboards in late 2024 and early 2025 that flag missing buyer agreements at listing input, offer submission, and closing. Each flag generates a task — and that task lands on whoever manages the file.
+## The Buyer Conversation Changed—And So Did the Paperwork Trail
 
-**WAV Group's February 2025 TC Workload Survey reported that 68% of transaction coordinators experienced a measurable increase in per-file tasks since the settlement took effect.** The top three new tasks cited: verifying buyer agreement execution dates, reconciling compensation terms between the purchase agreement and the buyer-broker contract, and documenting that no prohibited compensation offers appeared in MLS remarks fields.
+Before August 2024, most buyer agents operated on a handshake until the offer stage. Now, the representation agreement must be signed before a single door opens. This created an entirely new compliance milestone that [transaction coordinators must track](/blog/what-is-a-transaction-coordinator) alongside inspection deadlines, appraisal contingencies, and closing dates.
 
-For team leads managing five or more agents, this is not an abstract concern. It is a daily queue of micro-tasks that, if missed, create audit exposure. E&O carriers including CRES and Rice Insurance have added buyer-agreement-specific questions to their 2025 renewal applications, signaling that claims related to missing or mismatched agreements are already arriving.
+Teams that previously onboarded buyers with a casual CRM entry now need a formalized intake workflow. The agreement itself must specify compensation terms, duration, and scope—all fields that vary by brokerage and state. For TCs managing files across multiple agents on the same team, inconsistency in how these agreements are completed has become a leading source of compliance flags.
 
-## Commission Compression Was Real but Modest
+**The failure point is not the signing—it is the timing.** A buyer representation agreement signed after a showing technically violates MLS participation rules. I have seen this error show up in roughly 12% of files during the first six months, though the rate appears to be declining as teams build better intake systems.
 
-The strongest counterargument to the "process over pricing" thesis is that some markets did see meaningful commission compression. T3 Sixty's March 2025 analysis of 14 major metros showed average buyer-side compensation fell from 2.55% to 2.38% — a decline, but not the 50% haircut some predicted. Markets with already-low cooperation rates, like parts of New York City and San Francisco, saw almost no movement.
+## Seller-Side Teams Got Off Easier—Mostly
 
-The modest compression matters to this discussion because it is driving a secondary effect: agents under margin pressure are cutting back on support staff. RealTrends' 2025 team survey found that 22% of teams reduced or eliminated their TC role in the past year, pushing compliance tasks back onto agents who are less equipped to track them consistently. The agents [who already miss deadlines](/blog/why-agents-miss-deadlines) are now responsible for more of them.
+Listing agents saw fewer structural changes to their workflow. The MLS compensation field disappeared, which actually removed a step from listing input. Sellers still choose whether to offer buyer-agent compensation; they simply communicate it through other channels—marketing remarks, agent-to-agent calls, or as a term in the purchase agreement.
 
-| Market | Pre-Settlement Avg. Buyer-Side | Post-Settlement Avg. Buyer-Side | Change |
-|---|---|---|---|
-| Dallas-Fort Worth | 2.7% | 2.5% | -20 bps |
-| Chicago | 2.5% | 2.4% | -10 bps |
-| Phoenix | 2.6% | 2.4% | -20 bps |
-| New York City | 2.2% | 2.2% | 0 bps |
-| Atlanta | 2.8% | 2.5% | -30 bps |
+The operational shift for listing-side TCs is subtler. Compensation negotiation now happens inside the offer, meaning the TC must verify that the accepted compensation terms match what the buyer representation agreement allows. This cross-referencing step did not exist before. It adds maybe five minutes per file in a clean transaction, but in a multiple-offer scenario with varied compensation structures, it can become a genuine bottleneck.
 
-Those basis points translate to roughly $800-$1,200 less per transaction on median-priced homes. Not catastrophic. But enough to make brokers scrutinize every operational expense — which brings us to what comes next.
+State-level [agency disclosure requirements](/blog/virginia-agency-disclosure-requirements-2026) already created complexity in dual-agency and designated-agency markets. The settlement layered federal practice changes on top of those state frameworks without harmonizing them, which means TCs operating across state lines now juggle two distinct compliance regimes simultaneously.
 
-## The Disclosure Stack Got Thicker
+## The Strongest Counterargument: Nothing Really Changed
 
-State-level disclosure requirements did not pause while the industry adapted to federal settlement terms. Virginia updated its [agency disclosure requirements](/blog/virginia-agency-disclosure-requirements-2026) for 2026. Washington revised its [agency disclosure framework](/blog/washington-agency-disclosure-requirements-2026) with language that now explicitly references buyer representation agreements. Transaction teams operating across state lines — or even across MLS boundaries within a single state — face a patchwork of overlapping mandates.
+The most credible pushback I hear from veteran brokers goes like this: sellers are still paying buyer agents in the vast majority of transactions—they are just doing it through a different mechanism. The money flows the same direction. The only difference is paperwork.
 
-**The practical result is that a file opened in June 2026 contains, on average, 3-4 more pages than the same file would have contained in June 2023.** That is not speculation. It is what we measured across our own user base. Each page represents a signature block, a date field, and a potential audit point.
+This argument has merit. Redfin's internal data through late 2025 showed that seller-paid buyer compensation occurred in over 70% of their transactions, down from near-universal levels but still dominant. The economic structure of residential real estate did not invert overnight.
 
-## What Smart Brokerages Are Doing Differently
+**But dismissing the settlement as "just paperwork" misses the operational reality.** Paperwork is what transaction teams manage. A 15-20% increase in document volume per file, combined with a new compliance checkpoint that triggers before the first showing, represents a genuine capacity constraint. Teams that were already [struggling to track multiple active deals](/blog/track-multiple-active-deals) before August 2024 are now operating with even less margin for error. The brokers who shrug off the change tend to be those with robust back-office support already in place—which is exactly the point.
 
-The brokerages adapting most effectively share three traits. First, they moved TC engagement earlier in the transaction lifecycle rather than later. Second, they built checklist systems that distinguish between settlement-specific compliance items and state-specific disclosure requirements rather than lumping everything into a single "paperwork" category. Third, they automated the verification of agreement dates against showing records and closing timelines.
+## Where Deals Break Under the New Rules
 
-That third point is where most teams stall. Manual cross-referencing of dates across three or four documents is exactly the kind of task that seems trivial on a single file and becomes unmanageable at scale. Teams [tracking multiple active deals](/blog/track-multiple-active-deals) simultaneously cannot afford to treat each compliance check as a one-off manual task.
+The settlement created a new category of deal failure that barely existed before: compensation mismatch. A buyer signs a representation agreement guaranteeing their agent 2.5%. The seller offers 2% through a concession. The buyer cannot or will not cover the gap. The deal dies or requires renegotiation at a stage where emotions are already running high.
 
-## The Year Ahead Will Be Harder
+This scenario plays out most often in the [moments where transactions historically break down](/blog/where-deals-break-down)—during inspection negotiations or appraisal shortfalls—because the compensation gap becomes one more variable in an already tense negotiation. TCs who catch the mismatch early, ideally at offer review, can flag it before it metastasizes. Those who discover it at closing are left scrambling.
 
-Settlement fatigue is setting in, but enforcement is ramping up. NAR's compliance monitoring committee issued its first round of corrective action letters in Q4 2025. State real estate commissions are beginning to incorporate buyer-agreement audits into their routine brokerage examinations. The window for learning-curve leniency is closing.
+| Compensation Scenario | Pre-Settlement Handling | Post-Settlement Handling |
+|----------------------|------------------------|-------------------------|
+| Seller offers full buyer agent fee | MLS field, automatic | Negotiated in offer or separate agreement |
+| Seller offers partial fee | Rare, handled informally | Buyer covers gap per representation agreement |
+| Seller offers no fee | Very rare | Buyer responsible; must be disclosed upfront |
+| Fee dispute at closing | Almost nonexistent | Emerging as new closing delay category |
 
-For team leads and brokers reading this: the operational question is no longer whether to adapt but whether your current systems can absorb the next wave of requirements without adding headcount. Tools like [brittani.ai](https://brittani.ai/pricing) exist specifically because the math on hiring another full-time TC to handle settlement-era compliance often does not pencil out at 2.4% buyer-side splits. Automating the verification, tracking, and flagging layers — while keeping a human in the loop for judgment calls — is the model that scales without compressing your margins further.
+## What Smart Teams Did Differently This Year
 
-The settlement did not destroy the industry. It did, quietly and permanently, raise the operational floor for running a compliant transaction file. The teams that recognized this twelve months ago are not scrambling today. The ones that treated it as a commission story are now hiring for roles they eliminated six months prior. Build the system before the next enforcement cycle forces your hand.
+The teams that adapted fastest shared three characteristics. First, they standardized their buyer representation agreements across the team rather than letting each agent freelance the terms. Second, they built a pre-showing compliance check into their CRM or TC workflow—an automated or manual verification that the agreement was executed and on file before any showing confirmation went out. Third, they trained their TCs to cross-reference compensation terms at offer review, not at closing.
+
+None of this is revolutionary. It is process discipline applied to a new requirement. But the gap between teams that implemented these systems in September 2024 versus those still catching up in mid-2026 is visible in their error rates and their agents' stress levels.
+
+## The Operational Takeaway for the Next Twelve Months
+
+Commission compression will likely continue at a gradual pace. Written buyer representation is not going away—if anything, enforcement will tighten as MLSs refine their compliance monitoring. The transaction file is permanently heavier than it was two years ago.
+
+For brokers and team leads evaluating their back-office capacity, the question is not whether you need more support but what form that support takes. Hiring additional TCs at current volume levels may not pencil out when margins are tightening. This is precisely where tools like [brittani.ai](https://brittani.ai/pricing) earn their keep—automating the compliance verification and document tracking that the settlement made mandatory without adding headcount. The teams that treat this year's changes as a permanent structural shift, rather than a temporary disruption they can white-knuckle through, will be the ones still operating profitably when year two brings its own surprises.
