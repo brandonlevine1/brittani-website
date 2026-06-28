@@ -1,26 +1,12 @@
+# Brittani AI — open to all crawlers, search engines, and AI models.
+# We want maximum exposure: indexing, AI answer engines, and model training are all welcome.
+
+# Explicit content-signal permissions (Cloudflare / EU DSM Art. 4):
+#   search   = appearing in search indexes              -> yes
+#   ai-input = real-time AI answers / RAG / grounding    -> yes
+#   ai-train = training & fine-tuning AI models          -> yes
 User-agent: *
-Allow: /
-
-# AI crawlers explicitly welcome
-User-agent: GPTBot
-Allow: /
-
-User-agent: ChatGPT-User
-Allow: /
-
-User-agent: ClaudeBot
-Allow: /
-
-User-agent: anthropic-ai
-Allow: /
-
-User-agent: Google-Extended
-Allow: /
-
-User-agent: PerplexityBot
-Allow: /
-
-User-agent: Bytespider
+Content-Signal: search=yes, ai-input=yes, ai-train=yes
 Allow: /
 
 Sitemap: https://brittani.ai/sitemap-index.xml
