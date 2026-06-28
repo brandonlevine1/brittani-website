@@ -4,7 +4,7 @@ description: "Nebraska lead paint disclosure requirements 2026 explained for age
 publishDate: "2026-06-17"
 modifiedDate: "2026-06-17"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/nebraska-lead-paint-disclosure-2026.webp"
 imageAlt: "Historic Omaha bungalow with peeling exterior paint representing Nebraska lead paint disclosure requirements 2026 compliance"
@@ -103,6 +103,6 @@ The cleanest approach is to build lead paint disclosure into the listing appoint
 
 When an offer comes in, the listing agent should deliver the partially completed disclosure form (with seller's statements already signed) along with the EPA pamphlet to the buyer's agent. The buyer and buyer's agent then sign their respective portions, and the 10-day clock starts or the waiver is executed. All of this should happen before or simultaneously with contract execution—never after.
 
-**Agents who automate this sequence through transaction management tools eliminate the most common timing errors.** Platforms like Britanni AI at [/pricing](/pricing) can flag pre-1978 properties at listing intake and generate the correct disclosure packet automatically, reducing the chance that a form falls through the cracks during a high-volume month.
+**Agents who automate this sequence through transaction management tools eliminate the most common timing errors.** Platforms like Brittani AI at [/pricing](/pricing) can flag pre-1978 properties at listing intake and generate the correct disclosure packet automatically, reducing the chance that a form falls through the cracks during a high-volume month.
 
 Meeting the Nebraska lead paint disclosure requirements 2026 is not difficult when agents treat the obligation as a workflow step rather than an afterthought. The law has not changed materially in decades, the forms are well-established, and the penalties are large enough to justify the ten minutes it takes to do this correctly every single time.

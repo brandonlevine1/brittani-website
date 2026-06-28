@@ -4,7 +4,7 @@ description: "State legislatures are expanding seller disclosure requirements in
 publishDate: "2026-05-25"
 modifiedDate: "2026-05-25"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "7 min"
 image: "/images/blog/disclosure-laws-tightening.webp"
 imageAlt: "Close-up of layered concrete and glass building facade with sharp geometric lines"

@@ -4,7 +4,7 @@ description: "Rhode Island agency disclosure requirements 2026 explained with sp
 publishDate: "2026-06-09"
 modifiedDate: "2026-06-09"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/rhode-island-agency-disclosure-requirements-2026.webp"
 imageAlt: "Historic Rhode Island waterfront home with agency disclosure documents representing Rhode Island agency disclosure requirements 2026"
@@ -107,6 +107,6 @@ Training matters too. Annual in-house training on agency disclosure — separate
 
 The operational challenge is real. Rhode Island's disclosure rules demand action at the earliest moment of the client relationship — precisely when agents are focused on building rapport, not pulling up forms. Building the disclosure step into your first-contact workflow, whether that is a CRM trigger, a checklist item, or an automated prompt from your transaction management platform, eliminates reliance on memory.
 
-Agents handling higher deal volumes increasingly rely on automation to ensure nothing slips. Britanni AI builds compliance checkpoints directly into transaction timelines, flagging missing disclosures before they become DBR complaints — if that kind of backstop interests you, [see how it works at /pricing](/pricing). The goal is not to remove professional judgment from the process, but to ensure the mechanical steps happen on time, every time.
+Agents handling higher deal volumes increasingly rely on automation to ensure nothing slips. Brittani AI builds compliance checkpoints directly into transaction timelines, flagging missing disclosures before they become DBR complaints — if that kind of backstop interests you, [see how it works at /pricing](/pricing). The goal is not to remove professional judgment from the process, but to ensure the mechanical steps happen on time, every time.
 
 Rhode Island agency disclosure requirements 2026 remain one of the clearest pass-fail tests of agent competence in this state. The rules have not changed dramatically in recent years, which means the DBR has little patience for agents who still get them wrong. File the form early, document everything, and build the habit into the first sixty seconds of every new client relationship.

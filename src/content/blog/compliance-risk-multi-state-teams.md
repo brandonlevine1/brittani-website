@@ -4,7 +4,7 @@ description: "Multi-state brokerages are growing fast but ignoring compliance fr
 publishDate: "2026-05-25"
 modifiedDate: "2026-05-25"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "7 min"
 image: "/images/blog/compliance-risk-multi-state-teams.webp"
 imageAlt: "Abstract geometric building facade with overlapping angular lines suggesting multiple jurisdictions"

@@ -4,7 +4,7 @@ description: "California agency disclosure requirements 2026 explained with form
 publishDate: "2026-05-31"
 modifiedDate: "2026-05-31"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/california-agency-disclosure-requirements-2026.webp"
 imageAlt: "California agency disclosure requirements 2026 illustrated by a Spanish-style home in Los Angeles with disclosure paperwork on a front porch table"
@@ -104,7 +104,7 @@ The most dangerous gap in agency disclosure compliance is not ignorance of the l
 
 Modern transaction management platforms can automate the sequencing of disclosure delivery. When a listing agreement is initiated, the system prompts for AD delivery confirmation before the listing goes active. When an offer is drafted, the system blocks submission until the AC confirmation is complete. This is not about replacing agent judgment; it is about preventing the mechanical errors that [cause agents to miss deadlines](/blog/why-agents-miss-deadlines) they fully intended to meet.
 
-Britanni AI builds this kind of compliance sequencing directly into transaction workflows, flagging disclosure gaps before they become audit findings or legal claims. If your current system relies on memory or manual checklists, visiting [britanni.ai/pricing](https://britanni.ai/pricing) is worth ten minutes of your time — especially measured against the cost of a single DRE complaint.
+Brittani AI builds this kind of compliance sequencing directly into transaction workflows, flagging disclosure gaps before they become audit findings or legal claims. If your current system relies on memory or manual checklists, visiting [brittani.ai/pricing](https://brittani.ai/pricing) is worth ten minutes of your time — especially measured against the cost of a single DRE complaint.
 
 ## California Agency Disclosure Requirements 2026: The Standard Has Not Moved, but the Stakes Have
 

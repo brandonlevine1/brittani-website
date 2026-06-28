@@ -4,7 +4,7 @@ description: "Wisconsin property condition & environmental disclosures 2026 guid
 publishDate: "2026-06-24"
 modifiedDate: "2026-06-24"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/wisconsin-property-condition-disclosures-2026.webp"
 imageAlt: "A weathered Wisconsin farmhouse with peeling paint beside a lake, representing Wisconsin property condition & environmental disclosures 2026 compliance concerns"
@@ -96,6 +96,6 @@ Agents who are unsure whether a condition qualifies as "material adverse" should
 
 ## Staying Compliant Without Drowning in Paperwork
 
-The administrative burden of tracking disclosure deadlines, documenting delivery, running environmental database checks, and auditing files is real—especially for agents running ten or more active transactions simultaneously. This is exactly the operational gap that [Britanni AI](/pricing) was designed to fill, flagging missing forms and approaching deadlines before they become compliance failures.
+The administrative burden of tracking disclosure deadlines, documenting delivery, running environmental database checks, and auditing files is real—especially for agents running ten or more active transactions simultaneously. This is exactly the operational gap that [Brittani AI](/pricing) was designed to fill, flagging missing forms and approaching deadlines before they become compliance failures.
 
 Wisconsin property condition & environmental disclosures 2026 remain a core competency test for every licensed agent in the state. The statutes have not changed dramatically, but enforcement attention from DSPS has increased, buyer sophistication has grown, and the cost of a single missed disclosure continues to climb. Agents and brokers who build disclosure compliance into their [transaction workflow](/blog/wisconsin-seller-disclosure-requirements-2026) rather than treating it as an afterthought will avoid the complaints, the lawsuits, and the sleepless nights that come with a DSPS investigation letter in the mailbox.

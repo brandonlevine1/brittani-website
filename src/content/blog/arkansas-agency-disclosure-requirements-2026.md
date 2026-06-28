@@ -4,7 +4,7 @@ description: "Arkansas agency disclosure requirements 2026 explained with form n
 publishDate: "2026-06-07"
 modifiedDate: "2026-06-07"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/arkansas-agency-disclosure-requirements-2026.webp"
 imageAlt: "Arkansas agency disclosure requirements 2026 paperwork on a desk with the Arkansas state capitol visible through a window"
@@ -103,6 +103,6 @@ Agents sometimes slide into transaction licensee status accidentally—taking a 
 
 The simplest protection is a process. Build agency disclosure into the first step of every client interaction—before the first showing, before the first listing consultation, before the first conversation about pricing strategy. Make it as automatic as collecting a phone number.
 
-Digital transaction management helps here, but only if the system flags missing disclosures before a file advances to the next stage. Britanni AI's compliance tracking at [britanni.com/pricing](/pricing) is built specifically to catch these gaps in real time rather than after the fact, which matters when you are juggling multiple active deals and cannot rely on memory alone.
+Digital transaction management helps here, but only if the system flags missing disclosures before a file advances to the next stage. Brittani AI's compliance tracking at [brittani.ai/pricing](/pricing) is built specifically to catch these gaps in real time rather than after the fact, which matters when you are juggling multiple active deals and cannot rely on memory alone.
 
 Arkansas agency disclosure requirements 2026 are not changing dramatically from prior years, but enforcement attention is increasing and the stakes remain high. Agents who treat the AD-1 as a checkbox exercise rather than a legal safeguard will eventually face an AREC complaint, a collapsed deal, or both. Build the habit now, audit it quarterly, and document everything.

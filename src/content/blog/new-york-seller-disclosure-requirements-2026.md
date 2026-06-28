@@ -4,7 +4,7 @@ description: "New York seller disclosure requirements 2026 explained for agents 
 publishDate: "2026-05-25"
 modifiedDate: "2026-05-25"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/new-york-seller-disclosure-requirements-2026.webp"
 imageAlt: "A New York real estate agent reviewing seller disclosure requirements 2026 paperwork at a desk with property documents"
@@ -79,6 +79,6 @@ The most efficient approach integrates disclosure steps into the listing appoint
 
 If the seller chooses to complete the PCDS, review their answers for obvious inconsistencies—without filling anything in yourself—and flag questions where the seller wrote "unknown." An excessive number of "unknown" responses can trigger buyer skepticism and may not insulate the seller if evidence later shows they possessed the relevant information. Coach sellers to answer honestly, not strategically.
 
-**Store all disclosure documents digitally with timestamps that prove when they were created and delivered.** Tools like [Britanni AI](/pricing) automate this tracking across your transaction files, flagging missing disclosures before deals reach the contract stage so nothing gets caught in a post-closing dispute. For high-volume agents and teams, that kind of systematic oversight is the difference between clean audits and DOS complaints.
+**Store all disclosure documents digitally with timestamps that prove when they were created and delivered.** Tools like [Brittani AI](/pricing) automate this tracking across your transaction files, flagging missing disclosures before deals reach the contract stage so nothing gets caught in a post-closing dispute. For high-volume agents and teams, that kind of systematic oversight is the difference between clean audits and DOS complaints.
 
 New York seller disclosure requirements 2026 demand precision at every stage—from the listing appointment through closing and file retention. Agents who build disclosure compliance into their standard workflow, and brokers who verify it through consistent audits, will avoid the liability traps that continue to catch practitioners who treat the $500 credit as a free pass to ignore the process entirely.

@@ -4,7 +4,7 @@ description: "Missouri agency disclosure requirements 2026 explained with specif
 publishDate: "2026-06-04"
 modifiedDate: "2026-06-04"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/missouri-agency-disclosure-requirements-2026.webp"
 imageAlt: "Missouri agency disclosure requirements 2026 illustrated by a real estate document on a desk overlooking the Gateway Arch skyline"
@@ -103,6 +103,6 @@ The practical implication: your office needs a written policy that describes how
 
 The disclosure requirements in Missouri are not ambiguous, but they are easy to fumble when you are moving fast between listing appointments, showings, and negotiations. The agents who stay cleanest are those who build disclosure into their intake process as an automatic first step rather than a box to check later.
 
-Automated compliance workflows—where forms are generated, sent, and tracked before any substantive client interaction—eliminate most of the timing errors that generate complaints. Britanni AI's [transaction management tools](/pricing) are built for exactly this kind of sequential compliance enforcement, ensuring nothing progresses until the prior step is documented.
+Automated compliance workflows—where forms are generated, sent, and tracked before any substantive client interaction—eliminate most of the timing errors that generate complaints. Brittani AI's [transaction management tools](/pricing) are built for exactly this kind of sequential compliance enforcement, ensuring nothing progresses until the prior step is documented.
 
 The Missouri agency disclosure requirements 2026 demand precision at the front end of every client relationship. Agents and brokers who build reliable systems around these requirements protect their licenses, their deals, and their clients from avoidable disputes. The statute is not changing in your favor—your processes need to meet it where it stands.

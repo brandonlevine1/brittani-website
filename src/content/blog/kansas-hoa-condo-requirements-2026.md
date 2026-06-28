@@ -4,7 +4,7 @@ description: "Kansas hoa & condo disclosure rules 2026 explained for agents and 
 publishDate: "2026-06-27"
 modifiedDate: "2026-06-27"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/kansas-hoa-condo-requirements-2026.webp"
 imageAlt: "Suburban Kansas townhome community with HOA signage illustrating Kansas hoa & condo disclosure rules 2026"
@@ -107,4 +107,4 @@ The [Kansas Real Estate Commission's website](https://krec.ks.gov) publishes dis
 
 Kansas has not announced sweeping statutory changes to HOA disclosure requirements for 2026, but KREC's increasing focus on documentation standards means agents operating on instinct rather than process are exposed. The Commission's 2025-2026 strategic plan emphasizes consumer protection audits, and HOA transactions are a frequent complaint category.
 
-Building a repeatable workflow for every HOA and condo listing protects your license and your client. Tools like Britanni AI at [/pricing](/pricing) can automate deadline tracking for resale certificate requests, buyer review periods, and Form 170 compliance so nothing slips past your team. The agents who treat **Kansas HOA & condo disclosure rules 2026** as a systems problem rather than a memory test will close more deals cleanly and face far fewer KREC inquiries.
+Building a repeatable workflow for every HOA and condo listing protects your license and your client. Tools like Brittani AI at [/pricing](/pricing) can automate deadline tracking for resale certificate requests, buyer review periods, and Form 170 compliance so nothing slips past your team. The agents who treat **Kansas HOA & condo disclosure rules 2026** as a systems problem rather than a memory test will close more deals cleanly and face far fewer KREC inquiries.

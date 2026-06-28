@@ -4,7 +4,7 @@ description: "Kansas agency disclosure requirements 2026 explained with specific
 publishDate: "2026-05-28"
 modifiedDate: "2026-05-28"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/kansas-agency-disclosure-requirements-2026.webp"
 imageAlt: "Kansas agency disclosure requirements 2026 illustrated by a real estate office in downtown Topeka with disclosure forms on the desk"
@@ -105,6 +105,6 @@ The practical implication: if your brokerage permits designated agency, you need
 
 Disclosure compliance does not have to be a drag on your transaction workflow, but it does require systems. The agents who get disciplined are rarely the ones who refuse to comply — they are the ones who forgot, got busy, or assumed someone else handled it. Tracking disclosure timing across [multiple active deals](/blog/track-multiple-active-deals) is exactly the type of operational challenge that benefits from automation.
 
-Tools like Britanni AI can flag disclosure deadlines at the moment a new client relationship is created in your pipeline, ensuring the form goes out before substantive conversations advance — check out what that looks like at [britanni.com/pricing](/pricing). The goal is not to replace your judgment about agency relationships but to make sure the administrative steps never slip through the cracks when you are juggling seven active buyers and three new listings.
+Tools like Brittani AI can flag disclosure deadlines at the moment a new client relationship is created in your pipeline, ensuring the form goes out before substantive conversations advance — check out what that looks like at [brittani.ai/pricing](/pricing). The goal is not to replace your judgment about agency relationships but to make sure the administrative steps never slip through the cracks when you are juggling seven active buyers and three new listings.
 
 Kansas agency disclosure requirements 2026 are not changing the substance of what agents owe their clients — they are raising the stakes for those who treat compliance as optional. The agents and brokers who build disclosure into their first-contact workflow, audit their files rigorously, and stay current on KREC form updates will avoid the fines, lawsuits, and reputation damage that follow a violation. Everyone else will learn the hard way that Kansas regulators are paying closer attention than they used to.

@@ -4,7 +4,7 @@ description: "Learn how to evaluate TC software the brokers decision framework w
 publishDate: "2026-05-25"
 modifiedDate: "2026-05-25"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "11 min"
 image: "/images/blog/evaluate-tc-software.webp"
 imageAlt: "Broker reviewing transaction coordination software options on a dual-monitor desk setup with file folders and a whiteboard timeline"
@@ -77,4 +77,4 @@ Score each vendor on a 1-5 scale in each category after completing your trial pe
 
 **The decision framework works because it forces objectivity into a process that most brokers handle emotionally.** They see a slick dashboard, imagine their agents using it, and sign an annual contract before testing whether the deadline calculations match their state's business-day definitions. For brokers managing teams of agents who each carry 5-15 active deals, the stakes are too high for gut-feel purchasing. Every percentage point of efficiency gained or lost multiplies across every agent, every transaction, every month.
 
-The firms seeing the strongest results in 2026 are those pairing structured evaluation with platforms purpose-built for the coordination workload rather than adapted from generic project management tools. Britanni AI, for example, approaches this problem by automating the compliance-tracking and deadline-management layers that consume the most agent hours — their [pricing page](/pricing) breaks down exactly what that looks like at different team sizes. Whatever platform you select using this framework, the act of rigorous evaluation itself will clarify what your brokerage actually needs versus what vendors want to sell you — and understanding how to evaluate TC software the brokers decision framework way is the difference between a tool that transforms your operations and one that collects digital dust.
+The firms seeing the strongest results in 2026 are those pairing structured evaluation with platforms purpose-built for the coordination workload rather than adapted from generic project management tools. Brittani AI, for example, approaches this problem by automating the compliance-tracking and deadline-management layers that consume the most agent hours — their [pricing page](/pricing) breaks down exactly what that looks like at different team sizes. Whatever platform you select using this framework, the act of rigorous evaluation itself will clarify what your brokerage actually needs versus what vendors want to sell you — and understanding how to evaluate TC software the brokers decision framework way is the difference between a tool that transforms your operations and one that collects digital dust.

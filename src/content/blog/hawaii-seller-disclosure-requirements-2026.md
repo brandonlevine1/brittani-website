@@ -4,7 +4,7 @@ description: "Hawaii seller disclosure requirements 2026 explained for agents an
 publishDate: "2026-05-29"
 modifiedDate: "2026-05-29"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/hawaii-seller-disclosure-requirements-2026.webp"
 imageAlt: "Real estate agent reviewing Hawaii seller disclosure requirements 2026 paperwork with ocean views through a lanai window"
@@ -114,4 +114,4 @@ Agents must not assume an exemption applies—they should confirm it by statute 
 
 The disclosure landscape in Hawaii will continue to evolve as HAREC considers proposals around climate-related disclosures, sea-level rise zones, and updated mold standards. Agents who build compliance into their workflow from day one—rather than treating it as an afterthought at closing—will avoid the regulatory headaches that derail transactions and drain E&O reserves.
 
-Platforms like [Britanni AI](/pricing) are purpose-built to track disclosure deadlines, flag incomplete forms, and ensure that every statutory obligation is met before it becomes a problem. If your brokerage is still relying on manual checklists and memory, the Hawaii seller disclosure requirements 2026 are a strong argument for automating the process. The statute does not care whether your systems are sophisticated—it only cares whether the form was delivered, complete, and on time.
+Platforms like [Brittani AI](/pricing) are purpose-built to track disclosure deadlines, flag incomplete forms, and ensure that every statutory obligation is met before it becomes a problem. If your brokerage is still relying on manual checklists and memory, the Hawaii seller disclosure requirements 2026 are a strong argument for automating the process. The statute does not care whether your systems are sophisticated—it only cares whether the form was delivered, complete, and on time.

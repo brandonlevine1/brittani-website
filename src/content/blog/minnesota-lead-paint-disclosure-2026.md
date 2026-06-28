@@ -4,7 +4,7 @@ description: "Minnesota lead paint disclosure requirements 2026 explained for ag
 publishDate: "2026-06-14"
 modifiedDate: "2026-06-14"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/minnesota-lead-paint-disclosure-2026.webp"
 imageAlt: "A 1920s craftsman-style Minneapolis bungalow with peeling exterior paint, representing Minnesota lead paint disclosure requirements 2026 compliance concerns"
@@ -118,6 +118,6 @@ This independent duty language means that even if the listing agent botches the 
 
 The disclosure requirements themselves are not complex—they are procedural. The challenge is consistency across dozens of transactions per year, especially during peak summer months when Minnesota's market moves fastest. A single missed form in a July closing can surface as a December lawsuit.
 
-Agents who build lead paint compliance into their listing intake process—asking about construction date at the very first appointment—catch the requirement before momentum builds. Adding a construction-date field to your CMA template or listing presentation checklist creates an automatic trigger. Tools like Britanni AI can flag pre-1978 properties during transaction setup and prompt agents before disclosure deadlines pass, reducing the manual tracking burden that leads to errors. You can see how that workflow integrates at [/pricing](/pricing).
+Agents who build lead paint compliance into their listing intake process—asking about construction date at the very first appointment—catch the requirement before momentum builds. Adding a construction-date field to your CMA template or listing presentation checklist creates an automatic trigger. Tools like Brittani AI can flag pre-1978 properties during transaction setup and prompt agents before disclosure deadlines pass, reducing the manual tracking burden that leads to errors. You can see how that workflow integrates at [/pricing](/pricing).
 
 Minnesota lead paint disclosure requirements 2026 will not change dramatically from prior years absent new federal rulemaking, but enforcement intensity continues to increase as EPA adjusts penalty amounts and MDH expands its lead hazard database. The agents and brokers who treat Form No. 12 completion as a non-negotiable step—not an afterthought—will avoid the liability traps that catch their less disciplined competitors every single year.

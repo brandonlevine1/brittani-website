@@ -4,7 +4,7 @@ description: "Wyoming lead paint disclosure requirements 2026 explained for agen
 publishDate: "2026-06-20"
 modifiedDate: "2026-06-20"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/wyoming-lead-paint-disclosure-2026.webp"
 imageAlt: "A weathered pre-1978 clapboard home in a Wyoming mountain town illustrating Wyoming lead paint disclosure requirements 2026"
@@ -98,6 +98,6 @@ For additional context on how [Wyoming's broader seller disclosure obligations](
 
 The disclosure process adds paperwork, but it should not add weeks to a transaction timeline if handled correctly from the start. Agents who embed lead paint disclosure into their listing intake workflow—checking construction date at the first appointment and staging the EPA form alongside the listing agreement—eliminate the most common failure point: forgetting entirely until the buyer's agent asks.
 
-Automated transaction management tools can flag pre-1978 properties at listing entry and generate reminders for the 10-day inspection window. [Britanni AI](https://britanni.ai/pricing) builds exactly this kind of compliance trigger into its workflow engine, catching disclosure gaps before they become deal-killing omissions. If your brokerage handles volume across Wyoming's varied housing stock, that kind of systematic backstop matters more than another training seminar.
+Automated transaction management tools can flag pre-1978 properties at listing entry and generate reminders for the 10-day inspection window. [Brittani AI](https://brittani.ai/pricing) builds exactly this kind of compliance trigger into its workflow engine, catching disclosure gaps before they become deal-killing omissions. If your brokerage handles volume across Wyoming's varied housing stock, that kind of systematic backstop matters more than another training seminar.
 
 The Wyoming lead paint disclosure requirements 2026 have not changed substantively from prior years—but penalty amounts keep climbing, buyer awareness keeps growing, and WREC continues to treat disclosure failures as evidence of incompetence under its licensing standards. The agents and brokers who treat these requirements as a workflow checkpoint rather than an afterthought are the ones who keep their licenses, their commissions, and their clients' trust intact.

@@ -4,7 +4,7 @@ description: "AI won't kill the TC role. It will split it in two — and brokers
 publishDate: "2026-05-25"
 modifiedDate: "2026-05-25"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "7 min"
 image: "/images/blog/will-ai-replace-tcs.webp"
 imageAlt: "Abstract geometric lines converging into a single focal point against a neutral background"

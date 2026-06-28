@@ -4,7 +4,7 @@ description: "Arizona property condition & environmental disclosures 2026 requir
 publishDate: "2026-06-23"
 modifiedDate: "2026-06-23"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/arizona-property-condition-disclosures-2026.webp"
 imageAlt: "Adobe-style Arizona home with Sonoran Desert landscape representing Arizona property condition & environmental disclosures 2026 compliance"
@@ -64,7 +64,7 @@ For properties near military installations like Luke Air Force Base or Davis-Mon
 
 Five recurring errors dominate ADRE complaint files and civil litigation outcomes. Each one is preventable with proper systems.
 
-**First, agents routinely deliver the SPDS late or fail to track delivery confirmation.** The AAR contract specifies that the seller shall deliver the SPDS within three days after contract acceptance. Agents who email the blank form to sellers without follow-up often discover at the inspection deadline that the form never came back signed. Without a signed SPDS, the buyer retains open-ended cancellation rights under the contract terms. This single error [causes deals to collapse](https://www.britanni.ai/blog/where-deals-break-down) more frequently than inspection disputes.
+**First, agents routinely deliver the SPDS late or fail to track delivery confirmation.** The AAR contract specifies that the seller shall deliver the SPDS within three days after contract acceptance. Agents who email the blank form to sellers without follow-up often discover at the inspection deadline that the form never came back signed. Without a signed SPDS, the buyer retains open-ended cancellation rights under the contract terms. This single error [causes deals to collapse](https://www.brittani.ai/blog/where-deals-break-down) more frequently than inspection disputes.
 
 Second, listing agents "help" sellers fill out the SPDS by suggesting answers. This crosses the line from facilitation into potential misrepresentation under A.R.S. 32-2153(A)(3). The ADRE has sanctioned agents who coached sellers to answer "unknown" on items the agent personally observed during a listing presentation. Your role is to ensure the form is completed—not to complete it.
 
@@ -88,7 +88,7 @@ The consequences of disclosure failures in Arizona cascade across multiple chann
 
 Beyond monetary damages, the ADRE can impose license suspension, mandatory continuing education, probation, or revocation. Under Arizona Administrative Code R4-28-1103, designated brokers bear supervisory liability for their agents' disclosure failures—meaning a single agent's mistake can trigger an audit of the entire brokerage's transaction files.
 
-Deal cancellation is often the best-case scenario. When a buyer discovers a missing or deficient disclosure during escrow, the AAR contract provides a straightforward cancellation path. But when the discovery happens after closing, the remedy shifts from a simple contract unwinding to expensive litigation. Agents who [track multiple active deals](https://www.britanni.ai/blog/track-multiple-active-deals) without systems in place are statistically more likely to miss a disclosure deadline.
+Deal cancellation is often the best-case scenario. When a buyer discovers a missing or deficient disclosure during escrow, the AAR contract provides a straightforward cancellation path. But when the discovery happens after closing, the remedy shifts from a simple contract unwinding to expensive litigation. Agents who [track multiple active deals](https://www.brittani.ai/blog/track-multiple-active-deals) without systems in place are statistically more likely to miss a disclosure deadline.
 
 ## What Brokers Must Audit and Enforce
 
@@ -98,12 +98,12 @@ Designated brokers in Arizona carry affirmative supervisory duties under A.A.C. 
 
 File audits should occur at three stages—contract acceptance, end of inspection period, and pre-closing. Waiting until closing to check for disclosure compliance means the cancellation window has already passed, and any missing document becomes a post-closing liability rather than a fixable gap. Brokerages that fail to maintain these review cadences are exactly the ones that appear in [ADRE disciplinary actions](https://azre.gov/).
 
-Training must go beyond onboarding. Quarterly reviews of disclosure updates—particularly when AAR revises forms or when ADEQ adds sites to contamination databases—keep agents current. The [training framework for new agents](https://www.britanni.ai/blog/training-new-agents-timelines) should dedicate specific sessions to disclosure workflows, not just contract mechanics.
+Training must go beyond onboarding. Quarterly reviews of disclosure updates—particularly when AAR revises forms or when ADEQ adds sites to contamination databases—keep agents current. The [training framework for new agents](https://www.brittani.ai/blog/training-new-agents-timelines) should dedicate specific sessions to disclosure workflows, not just contract mechanics.
 
 ## Staying Compliant Without Drowning in Paper
 
 The volume of disclosure documents in an Arizona transaction can overwhelm agents who rely on memory and manual tracking. A single residential resale can require five or more separate disclosure forms, each with its own delivery deadline and signature requirements. Multiply that across fifteen or twenty active transactions, and the probability of a missed form approaches certainty.
 
-Automated compliance tracking solves this at scale. Platforms like [Britanni AI](/pricing) flag missing disclosures in real time, match property characteristics to required forms, and send deadline reminders before cancellation windows open. This is not about replacing agent judgment—it is about ensuring the mechanical steps never get skipped when you are managing a full pipeline.
+Automated compliance tracking solves this at scale. Platforms like [Brittani AI](/pricing) flag missing disclosures in real time, match property characteristics to required forms, and send deadline reminders before cancellation windows open. This is not about replacing agent judgment—it is about ensuring the mechanical steps never get skipped when you are managing a full pipeline.
 
 Arizona property condition & environmental disclosures 2026 requirements will continue evolving as ADEQ updates contamination databases and AAR revises form language. Agents and brokers who build systems around compliance—rather than treating disclosure as an afterthought—protect their clients, their licenses, and their transaction revenue simultaneously.

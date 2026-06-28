@@ -4,7 +4,7 @@ description: "Oregon seller disclosure requirements 2026 explained for agents an
 publishDate: "2026-05-28"
 modifiedDate: "2026-05-28"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/oregon-seller-disclosure-requirements-2026.webp"
 imageAlt: "A listing agent reviews Oregon seller disclosure requirements 2026 paperwork in a Craftsman-style Portland bungalow"
@@ -117,4 +117,4 @@ The [Oregon Real Estate Agency's website](https://www.oregon.gov/rea) publishes 
 
 The Oregon disclosure process is not a single event—it is a thread that runs from listing appointment to recording. Agents who treat it as a one-time checkbox at listing are the ones who end up in front of OREA's enforcement division or on the receiving end of a buyer's demand letter six months after closing.
 
-Your workflow should flag disclosure delivery, confirm the buyer's acknowledgment and revocation window, track any amendments, and verify final file completeness before the deed records. If managing that across multiple active deals feels like it could slip through the cracks, tools like [Britanni AI](/pricing) can automate deadline tracking and flag missing disclosure documents before they become liability events. Oregon seller disclosure requirements 2026 demand precision—and precision at scale requires systems, not memory.
+Your workflow should flag disclosure delivery, confirm the buyer's acknowledgment and revocation window, track any amendments, and verify final file completeness before the deed records. If managing that across multiple active deals feels like it could slip through the cracks, tools like [Brittani AI](/pricing) can automate deadline tracking and flag missing disclosure documents before they become liability events. Oregon seller disclosure requirements 2026 demand precision—and precision at scale requires systems, not memory.

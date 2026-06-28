@@ -4,7 +4,7 @@ description: "Massachusetts property condition & environmental disclosures 2026 
 publishDate: "2026-06-23"
 modifiedDate: "2026-06-23"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/massachusetts-property-condition-disclosures-2026.webp"
 imageAlt: "A triple-decker home in Somerville with environmental inspection signage, representing Massachusetts property condition & environmental disclosures 2026"
@@ -100,7 +100,7 @@ Brokers carry supervisory liability under M.G.L. c. 112, section 87AAA(a)(11). I
 
 Brokers should also maintain a written policy on environmental due diligence. The policy should specify that agents check the MassDEP waste site database for every listing and document the search result in the file. This takes three minutes and eliminates one of the most common 93A claims.
 
-Training matters more than most brokers acknowledge. Annual compliance sessions covering disclosure updates should be mandatory, not suggested. If your office handles volume across multiple states, the tracking requirements multiply fast—a reality that makes workflow tools like [Britanni AI](/pricing) relevant for firms that want to automate deadline monitoring and form delivery verification across active files.
+Training matters more than most brokers acknowledge. Annual compliance sessions covering disclosure updates should be mandatory, not suggested. If your office handles volume across multiple states, the tracking requirements multiply fast—a reality that makes workflow tools like [Brittani AI](/pricing) relevant for firms that want to automate deadline monitoring and form delivery verification across active files.
 
 > "The broker's obligation is not merely to avoid wrongdoing but to prevent it among those under his or her supervision." — Massachusetts Division of Professional Licensure, Guidance on Broker Responsibility, 2024
 

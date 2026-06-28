@@ -4,7 +4,7 @@ description: "Massachusetts agency disclosure requirements 2026 explained for ag
 publishDate: "2026-06-03"
 modifiedDate: "2026-06-03"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/massachusetts-agency-disclosure-requirements-2026.webp"
 imageAlt: "A real estate agent presenting Massachusetts agency disclosure requirements 2026 paperwork in a historic Beacon Hill brownstone"
@@ -112,6 +112,6 @@ Build the disclosure into your CRM workflow so that no first meeting—whether a
 
 Digital delivery is acceptable, but retain proof of transmission and acknowledgment. A signed PDF returned via email meets the standard. A text message saying "I sent it" does not.
 
-For brokerages managing compliance across multiple agents and dozens of transactions, tools like [Britanni AI](/pricing) can flag files missing required disclosures before they become audit failures, building the checkpoint directly into your transaction pipeline rather than relying on memory or hope.
+For brokerages managing compliance across multiple agents and dozens of transactions, tools like [Brittani AI](/pricing) can flag files missing required disclosures before they become audit failures, building the checkpoint directly into your transaction pipeline rather than relying on memory or hope.
 
 Massachusetts agency disclosure requirements 2026 are not new in substance, but the enforcement environment continues to tighten. Agents and brokers who treat disclosure as a mechanical habit—not an afterthought—protect their licenses, their deals, and their clients simultaneously.

@@ -4,7 +4,7 @@ description: "Louisiana lead paint disclosure requirements 2026 explained for ag
 publishDate: "2026-06-15"
 modifiedDate: "2026-06-15"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "8 min"
 image: "/images/blog/louisiana-lead-paint-disclosure-2026.webp"
 imageAlt: "Historic shotgun house in New Orleans with peeling paint illustrating Louisiana lead paint disclosure requirements 2026"
@@ -108,4 +108,4 @@ Agents who treat lead paint disclosure as a standalone compliance checkbox rathe
 
 If you are working in a market with heavy pre-1978 inventory—New Orleans, the Northshore, Shreveport's Highland neighborhood, or Baton Rouge's Garden District—building the disclosure into your listing checklist template prevents the kind of oversight that triggers [deal breakdowns](/blog/where-deals-break-down). Your listing presentation should include a brief explanation to the seller about why they need to complete the form and what "known information" actually means under the regulation.
 
-For agents managing high transaction volumes, tools like [Britanni AI](https://britanni.com/pricing) can flag pre-1978 properties at the listing intake stage and generate compliance reminders tied to your transaction timeline, reducing the manual tracking that leads to missed disclosures. Meeting Louisiana lead paint disclosure requirements 2026 is not about memorizing a regulation—it is about building a workflow that makes non-compliance structurally difficult.
+For agents managing high transaction volumes, tools like [Brittani AI](https://brittani.ai/pricing) can flag pre-1978 properties at the listing intake stage and generate compliance reminders tied to your transaction timeline, reducing the manual tracking that leads to missed disclosures. Meeting Louisiana lead paint disclosure requirements 2026 is not about memorizing a regulation—it is about building a workflow that makes non-compliance structurally difficult.

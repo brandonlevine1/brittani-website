@@ -4,7 +4,7 @@ description: "Maryland seller disclosure requirements 2026 explained for agents 
 publishDate: "2026-05-27"
 modifiedDate: "2026-05-27"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/maryland-seller-disclosure-requirements-2026.webp"
 imageAlt: "Maryland real estate agent reviewing Maryland seller disclosure requirements 2026 paperwork at a desk"
@@ -81,6 +81,6 @@ The practical takeaway is straightforward. Document what you observe. Ask your s
 
 The agents who avoid disclosure-related claims are not the ones who memorize every line of the statute. They are the ones who build systems that make compliance automatic. Deadline tracking for disclosure delivery, standardized pre-listing packets that include the correct forms, and [broker-level audit protocols](/blog/broker-compliance-checklist) all reduce human error to near zero.
 
-If your brokerage is still relying on agents to self-manage form selection and delivery deadlines, you are leaving compliance to chance. Platforms like [Britanni AI](/pricing) exist specifically to flag missing disclosures, track delivery deadlines, and alert supervising brokers when a file is out of compliance — before the gap becomes a legal problem.
+If your brokerage is still relying on agents to self-manage form selection and delivery deadlines, you are leaving compliance to chance. Platforms like [Brittani AI](/pricing) exist specifically to flag missing disclosures, track delivery deadlines, and alert supervising brokers when a file is out of compliance — before the gap becomes a legal problem.
 
 Maryland seller disclosure requirements 2026 demand the same rigor they always have, but the enforcement environment is less forgiving than it was five years ago. Buyer attorneys know the rescission timelines, MREC investigators know the form requirements, and judges are not sympathetic to agents who claim ignorance of a statute that has been on the books for decades. Build the system, [train your team on the specifics](/blog/agent-onboarding-compliance), and audit relentlessly. Your license depends on it.

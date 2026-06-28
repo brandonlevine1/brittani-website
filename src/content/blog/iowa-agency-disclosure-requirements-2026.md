@@ -4,7 +4,7 @@ description: "Iowa agency disclosure requirements 2026 explained with specific f
 publishDate: "2026-06-06"
 modifiedDate: "2026-06-06"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/iowa-agency-disclosure-requirements-2026.webp"
 imageAlt: "Iowa agency disclosure requirements 2026 document review in a Des Moines real estate office with prairie landscape visible through the window"
@@ -111,4 +111,4 @@ The agents who get agency disclosure right are not necessarily more careful. The
 
 Documentation standards matter equally. Every disclosure form should be digitally stored with metadata indicating the date, time, and method of delivery. If you hand a paper form to a consumer at a showing, photograph the signed document immediately and upload it to your transaction file. Waiting until closing to organize paperwork is how gaps form, and those gaps become IREC complaints.
 
-For agents managing multiple active transactions simultaneously, tools like [Britanni AI](/pricing) can automate compliance tracking and flag missing disclosures before they become liability issues. Building Iowa agency disclosure requirements 2026 into your operational workflow is not about checking a regulatory box. It is about protecting your license, your brokerage, and your clients from consequences that are entirely avoidable with the right systems in place.
+For agents managing multiple active transactions simultaneously, tools like [Brittani AI](/pricing) can automate compliance tracking and flag missing disclosures before they become liability issues. Building Iowa agency disclosure requirements 2026 into your operational workflow is not about checking a regulatory box. It is about protecting your license, your brokerage, and your clients from consequences that are entirely avoidable with the right systems in place.

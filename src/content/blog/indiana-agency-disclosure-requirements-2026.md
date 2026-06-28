@@ -4,7 +4,7 @@ description: "Indiana agency disclosure requirements 2026 explained with form nu
 publishDate: "2026-06-03"
 modifiedDate: "2026-06-03"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/indiana-agency-disclosure-requirements-2026.webp"
 imageAlt: "Indiana agency disclosure requirements 2026 illustrated by a real estate closing table in an Indianapolis office with disclosure forms visible"
@@ -103,4 +103,4 @@ For brokerages still relying on paper checklists and manual file reviews, the vo
 
 IREC has signaled increasing scrutiny of disclosure compliance in its 2025-2026 enforcement priorities, particularly around limited agency consent in competitive market situations where dual representation spikes. Agents who treat disclosure as a checkbox rather than a liability shield are operating on borrowed time.
 
-The most protected agents and brokerages are those who build disclosure delivery into the first sixty seconds of client engagement — automated, timestamped, and confirmed. Tools like [Britanni AI](/pricing) can flag missing disclosure forms the moment a file is created, catching gaps before they become violations or deal-killers. If your current workflow relies on memory or manual checklists to satisfy Indiana agency disclosure requirements 2026, that gap between your process and the statute is where your next complaint will originate.
+The most protected agents and brokerages are those who build disclosure delivery into the first sixty seconds of client engagement — automated, timestamped, and confirmed. Tools like [Brittani AI](/pricing) can flag missing disclosure forms the moment a file is created, catching gaps before they become violations or deal-killers. If your current workflow relies on memory or manual checklists to satisfy Indiana agency disclosure requirements 2026, that gap between your process and the statute is where your next complaint will originate.

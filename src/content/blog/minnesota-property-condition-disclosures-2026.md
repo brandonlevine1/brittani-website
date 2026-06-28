@@ -4,7 +4,7 @@ description: "Minnesota property condition & environmental disclosures 2026 rule
 publishDate: "2026-06-24"
 modifiedDate: "2026-06-24"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/minnesota-property-condition-disclosures-2026.webp"
 imageAlt: "A Minnesota lakefront home with disclosure documents in the foreground representing Minnesota property condition & environmental disclosures 2026"
@@ -106,6 +106,6 @@ Brokers should also maintain a relationship with a real estate attorney who can 
 
 The most reliable way to handle disclosure compliance is to make it a gating step in your transaction workflow rather than a checkbox you confirm after the fact. Before presenting or accepting a purchase agreement, confirm that the SPD-1 is complete, signed, and dated. Before going under contract on a pre-1978 home, verify that the lead paint disclosure has been delivered and the buyer has received the EPA pamphlet.
 
-Build reminders for the well certificate and ISTS compliance early in the listing process — not at closing, when a missing form can delay or derail the transaction. If you handle volume, automation tools like Britanni AI at [/pricing](/pricing) can flag missing disclosure forms before they become last-minute emergencies.
+Build reminders for the well certificate and ISTS compliance early in the listing process — not at closing, when a missing form can delay or derail the transaction. If you handle volume, automation tools like Brittani AI at [/pricing](/pricing) can flag missing disclosure forms before they become last-minute emergencies.
 
 The regulatory landscape around Minnesota property condition & environmental disclosures 2026 is not getting simpler, and the Department of Commerce is not getting more lenient. Agents and brokers who treat disclosure compliance as a systems problem — not a memory test — will avoid the complaints, the lawsuits, and the sleepless nights that come from getting it wrong.

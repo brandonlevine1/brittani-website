@@ -4,7 +4,7 @@ description: "Nebraska property condition & environmental disclosures 2026 expla
 publishDate: "2026-06-27"
 modifiedDate: "2026-06-27"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/nebraska-property-condition-disclosures-2026.webp"
 imageAlt: "A farmhouse on Nebraska plains with disclosure documents representing Nebraska property condition & environmental disclosures 2026"
@@ -97,4 +97,4 @@ The practical takeaway: the NE-PCD form is a floor, not a ceiling. Any material 
 
 The 2026 landscape for Nebraska disclosure compliance has not introduced new statutory changes, but enforcement attention has intensified. The NREC's 2025-2026 strategic plan specifically flags disclosure violations as a priority audit category, meaning complaint investigations will likely move faster and result in more formal actions than in prior years. Agents and brokers who treat disclosure delivery as an administrative afterthought are operating at heightened risk.
 
-Tracking disclosure deadlines, form completeness, and delivery confirmation across [multiple active deals](/blog/track-multiple-active-deals) is where most agents lose the thread. Britanni AI was built specifically to flag these compliance gaps before they become liability events—if your brokerage is scaling and needs programmatic oversight, the [pricing tiers at /pricing](/pricing) are designed for exactly this workflow. Nebraska property condition & environmental disclosures 2026 compliance is not optional, and the agents who systematize it will be the ones who avoid the Commission's enforcement radar entirely.
+Tracking disclosure deadlines, form completeness, and delivery confirmation across [multiple active deals](/blog/track-multiple-active-deals) is where most agents lose the thread. Brittani AI was built specifically to flag these compliance gaps before they become liability events—if your brokerage is scaling and needs programmatic oversight, the [pricing tiers at /pricing](/pricing) are designed for exactly this workflow. Nebraska property condition & environmental disclosures 2026 compliance is not optional, and the agents who systematize it will be the ones who avoid the Commission's enforcement radar entirely.

@@ -4,7 +4,7 @@ description: "West Virginia agency disclosure requirements 2026 explained for ag
 publishDate: "2026-06-08"
 modifiedDate: "2026-06-08"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/west-virginia-agency-disclosure-requirements-2026.webp"
 imageAlt: "Agent presenting West Virginia agency disclosure requirements 2026 forms at a rustic office near the New River Gorge"
@@ -105,4 +105,4 @@ Agents sometimes argue they disclosed dual agency "at the beginning of the relat
 
 The rules have not changed dramatically from prior years, but enforcement rigor has increased. The WVREC processed more complaints in its 2024-2025 cycle than in any preceding two-year period, and disclosure violations ranked among the top three complaint categories. Expecting that trend to reverse in 2026 would be optimistic.
 
-Agents who want to stay ahead should treat the West Virginia agency disclosure requirements 2026 as a workflow trigger rather than a paperwork afterthought. Tools like [Britanni AI](/pricing) can flag missing disclosure forms in real time as files move through intake, preventing the kind of gap that only surfaces during an audit or—worse—a complaint proceeding. Building that safeguard into your daily operations costs far less than defending a $5,000 fine or litigating a rescission claim in Kanawha County Circuit Court.
+Agents who want to stay ahead should treat the West Virginia agency disclosure requirements 2026 as a workflow trigger rather than a paperwork afterthought. Tools like [Brittani AI](/pricing) can flag missing disclosure forms in real time as files move through intake, preventing the kind of gap that only surfaces during an audit or—worse—a complaint proceeding. Building that safeguard into your daily operations costs far less than defending a $5,000 fine or litigating a rescission claim in Kanawha County Circuit Court.

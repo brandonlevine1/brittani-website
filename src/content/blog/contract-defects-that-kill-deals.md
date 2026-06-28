@@ -4,7 +4,7 @@ description: "Learn the 5 contract defects that kill deals and how to catch them
 publishDate: "2026-05-25"
 modifiedDate: "2026-05-25"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "10 min"
 image: "/images/blog/contract-defects-that-kill-deals.webp"
 imageAlt: "Agent desk with a highlighted purchase agreement, red pen marks, and a laptop showing contract review notes"
@@ -79,6 +79,6 @@ The time investment is trivial: 60 seconds per contract, multiplied by 10 new ra
 
 At 5 active deals, a mental checklist works. At 15 active deals, a printed card works. At 30 deals — or across a team of 10 agents each running 8 to 12 files — manual systems start leaking. The card gets ignored. The checklist gets skipped on the "easy" deal that turns out to be anything but easy.
 
-This is where automated contract review shifts from luxury to operational requirement. Britanni AI runs these five checks (and dozens more) against every uploaded contract in under 15 seconds, flagging defects with specific page and clause references before the file ever reaches your TC queue — you can see how it fits into existing workflows and what it costs at [britanni.com/pricing](https://www.britanni.com/pricing). The point is not to replace your judgment; it is to ensure your judgment gets applied to the right problems instead of being consumed by pattern-matching that a machine handles faster and more consistently.
+This is where automated contract review shifts from luxury to operational requirement. Brittani AI runs these five checks (and dozens more) against every uploaded contract in under 15 seconds, flagging defects with specific page and clause references before the file ever reaches your TC queue — you can see how it fits into existing workflows and what it costs at [brittani.ai/pricing](https://www.brittani.ai/pricing). The point is not to replace your judgment; it is to ensure your judgment gets applied to the right problems instead of being consumed by pattern-matching that a machine handles faster and more consistently.
 
 The 5 contract defects that kill deals and how to catch them in 60 seconds is a system, not a slogan. Whether you run the scan manually with a laminated card or let software handle the first pass, the discipline of structured review at the moment of ratification is what separates agents who close predictably from agents who spend their Thursdays begging for extensions. Build the habit now, before the next defect builds a problem you cannot talk your way out of.

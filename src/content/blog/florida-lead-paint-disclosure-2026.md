@@ -4,7 +4,7 @@ description: "Florida lead paint disclosure requirements 2026 explained for agen
 publishDate: "2026-06-11"
 modifiedDate: "2026-06-11"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/florida-lead-paint-disclosure-2026.webp"
 imageAlt: "A 1950s Florida bungalow with peeling exterior paint beside disclosure paperwork, illustrating Florida lead paint disclosure requirements 2026"
@@ -112,6 +112,6 @@ Agents working in areas like Coconut Grove, Hyde Park, Riverside-Avondale, or Ol
 
 The agents who never miss a lead paint disclosure are not more careful by nature — they have better systems. The disclosure requirement should trigger automatically from a single data input: property build year. If your transaction management system cannot flag pre-1978 properties and generate a disclosure task at listing intake, you are relying on memory in a high-volume environment.
 
-Tools like Britanni AI can automate this checkpoint at deal creation, ensuring that no pre-1978 listing moves to contract without a completed disclosure package in the file — worth exploring at [/pricing](/pricing) if you are scaling past five active deals. The goal is removing human judgment from a binary compliance question.
+Tools like Brittani AI can automate this checkpoint at deal creation, ensuring that no pre-1978 listing moves to contract without a completed disclosure package in the file — worth exploring at [/pricing](/pricing) if you are scaling past five active deals. The goal is removing human judgment from a binary compliance question.
 
 The **Florida lead paint disclosure requirements 2026** will not change in substance from prior years — the federal rule has been stable since 1996 — but enforcement attention and penalty amounts continue to increase. The agents and brokers who treat this as a systemized, auditable process rather than an occasional checklist item are the ones who avoid six-figure liability exposure. Build it into your workflow once, verify it quarterly, and move on to the parts of the transaction that actually require your expertise.

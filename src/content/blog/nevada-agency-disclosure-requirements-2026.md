@@ -4,7 +4,7 @@ description: "Nevada agency disclosure requirements 2026 explained with form num
 publishDate: "2026-06-06"
 modifiedDate: "2026-06-06"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/nevada-agency-disclosure-requirements-2026.webp"
 imageAlt: "Real estate disclosure forms on a table with Nevada agency disclosure requirements 2026 in focus against a desert backdrop"
@@ -112,6 +112,6 @@ For agents comparing state-by-state requirements, the [Utah agency disclosure fr
 
 Compliance does not have to mean friction. The agents who maintain clean files at volume are the ones who systematize disclosure delivery rather than treating it as an afterthought. Building a trigger into your CRM or transaction management platform that fires the disclosure form for e-signature at the moment a new contact enters your pipeline eliminates the timing problem entirely.
 
-For teams and brokerages running significant transaction volume, tools like [Britanni AI](/pricing) can flag missing disclosures before they become audit findings, matching each file against Nevada's statutory requirements without manual checklist reviews. The goal is catching the gap at hour one, not day thirty.
+For teams and brokerages running significant transaction volume, tools like [Brittani AI](/pricing) can flag missing disclosures before they become audit findings, matching each file against Nevada's statutory requirements without manual checklist reviews. The goal is catching the gap at hour one, not day thirty.
 
 **The Nevada agency disclosure requirements 2026 are not changing in substance from prior years, but enforcement intensity is increasing.** NRED has signaled through recent disciplinary actions that disclosure violations will be treated as standalone offenses worthy of meaningful fines, not just footnotes in larger complaints. Agents and brokers who treat the Duties Owed form as a first-touch document rather than a closing-file checkbox will stay on the right side of both the statute and their clients' trust.

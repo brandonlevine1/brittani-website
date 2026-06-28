@@ -4,7 +4,7 @@ description: "Kentucky agency disclosure requirements 2026 explained for agents 
 publishDate: "2026-06-05"
 modifiedDate: "2026-06-05"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/kentucky-agency-disclosure-requirements-2026.webp"
 imageAlt: "Real estate agent presenting Kentucky agency disclosure requirements 2026 paperwork at a Louisville brownstone listing appointment"
@@ -103,6 +103,6 @@ Finally, brokers should review how their agents handle the transition from open 
 
 Putting these requirements into daily practice means building agency disclosure into your transaction launch checklist rather than treating it as an afterthought. The best-run Kentucky brokerages attach Form 300 delivery to their CRM triggers—when a contact moves from "lead" to "showing scheduled," the disclosure prompt fires automatically.
 
-For agents handling volume, the operational challenge is not knowing the rules but executing them consistently across fifteen or twenty active relationships. This is precisely where platforms like [Britanni AI](https://britanni.ai/pricing) earn their value—automating compliance checkpoints so that no file reaches contract stage without documented agency disclosure. The cost of a missed form is measured in fines, lawsuits, and lost licenses; the cost of automation is measured in dollars per month.
+For agents handling volume, the operational challenge is not knowing the rules but executing them consistently across fifteen or twenty active relationships. This is precisely where platforms like [Brittani AI](https://brittani.ai/pricing) earn their value—automating compliance checkpoints so that no file reaches contract stage without documented agency disclosure. The cost of a missed form is measured in fines, lawsuits, and lost licenses; the cost of automation is measured in dollars per month.
 
 The Kentucky agency disclosure requirements 2026 have not changed dramatically from prior years, but enforcement attention has intensified. KREC's 2025 annual report noted a 22 percent increase in disclosure-related complaints over the prior year. Agents and brokers who treat these forms as the legal foundation of every transaction—not just another stack of paper—will avoid becoming part of next year's statistics.

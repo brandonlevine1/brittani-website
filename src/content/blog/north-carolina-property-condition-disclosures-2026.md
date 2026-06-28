@@ -4,7 +4,7 @@ description: "North Carolina property condition & environmental disclosures 2026
 publishDate: "2026-06-22"
 modifiedDate: "2026-06-22"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/north-carolina-property-condition-disclosures-2026.webp"
 imageAlt: "Historic brick home in a North Carolina neighborhood with disclosure paperwork representing North Carolina property condition & environmental disclosures 2026"
@@ -103,6 +103,6 @@ Firms handling volume in areas with environmental concerns — the Fayetteville 
 
 The North Carolina Real Estate Commission's [license law and rules manual](https://www.ncrec.gov/Commission/LicenseLaw) provides the full text of agent and broker obligations. Every agent renewing in 2026 should review the current version, particularly the material fact standard and the supervisory duties section.
 
-If your brokerage lacks a repeatable system for [tracking deadlines and disclosure requirements across transactions](/blog/why-agents-miss-deadlines), the risk compounds with every new listing. Britanni AI builds compliance checkpoints directly into the transaction workflow, flagging missing disclosures before they become audit failures — a practical backstop that pays for itself the first time it catches a missing lead paint form. You can see what that looks like at [britanni.ai/pricing](/pricing).
+If your brokerage lacks a repeatable system for [tracking deadlines and disclosure requirements across transactions](/blog/why-agents-miss-deadlines), the risk compounds with every new listing. Brittani AI builds compliance checkpoints directly into the transaction workflow, flagging missing disclosures before they become audit failures — a practical backstop that pays for itself the first time it catches a missing lead paint form. You can see what that looks like at [brittani.ai/pricing](/pricing).
 
 Every disclosure form you deliver is a liability shield — but only if it is complete, timely, and accurate. North Carolina property condition & environmental disclosures 2026 requirements have not loosened, and the Commission's enforcement activity suggests they will not anytime soon. Agents and brokers who build disclosure compliance into their daily workflow, rather than treating it as a closing-day scramble, will avoid the complaints that derail careers.

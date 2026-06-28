@@ -4,7 +4,7 @@ description: "Iowa seller disclosure requirements 2026 explained for agents and 
 publishDate: "2026-05-28"
 modifiedDate: "2026-05-28"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/iowa-seller-disclosure-requirements-2026.webp"
 imageAlt: "Iowa farmhouse with disclosure documents on a porch table illustrating Iowa seller disclosure requirements 2026"
@@ -111,6 +111,6 @@ Flood zone disclosure is another area where Iowa agents stumble. If a property h
 
 Managing disclosure compliance across a full pipeline of listings requires more than good intentions. Every new listing triggers the same sequence: confirm exemption status, obtain the completed disclosure, review for completeness, deliver to prospective buyers, document delivery, and update if circumstances change. When you have eight active listings, that is forty-eight discrete compliance actions minimum.
 
-This is where operational tools earn their value. Platforms like Britanni AI automate the tracking of disclosure milestones across active listings so that nothing falls through the gap between "signed" and "delivered"—visit [/pricing](/pricing) to see how the workflow integrates with your existing transaction management. The point is not to replace your professional judgment but to ensure the administrative steps behind Iowa seller disclosure requirements 2026 execute on schedule every single time.
+This is where operational tools earn their value. Platforms like Brittani AI automate the tracking of disclosure milestones across active listings so that nothing falls through the gap between "signed" and "delivered"—visit [/pricing](/pricing) to see how the workflow integrates with your existing transaction management. The point is not to replace your professional judgment but to ensure the administrative steps behind Iowa seller disclosure requirements 2026 execute on schedule every single time.
 
 **Agents who treat disclosure compliance as a one-time checkbox at listing activation are the ones who end up in front of IREC.** Build the process into your transaction workflow from day one, audit it quarterly, and update your knowledge every time the legislature touches Chapter 558A. Iowa seller disclosure requirements 2026 have not changed dramatically from prior years—but the enforcement environment and buyer expectations have tightened, and that is where agents get caught.

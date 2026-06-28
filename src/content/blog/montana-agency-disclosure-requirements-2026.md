@@ -4,7 +4,7 @@ description: "Montana agency disclosure requirements 2026 explained with specifi
 publishDate: "2026-06-09"
 modifiedDate: "2026-06-09"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/montana-agency-disclosure-requirements-2026.webp"
 imageAlt: "Montana agency disclosure requirements 2026 illustrated by a real estate office overlooking the Flathead Valley with disclosure forms on the desk"
@@ -95,7 +95,7 @@ Designated brokers carry supervisory liability under MCA 37-51-304 for the acts 
 
 Quarterly file reviews are the minimum standard most compliance attorneys recommend for Montana brokerages. Some firms conduct monthly spot audits, pulling five to ten random files and checking for proper sequencing. The cost of this internal review is negligible compared to the cost of a Board investigation or a rescission lawsuit.
 
-Brokers should also verify that agents who transition between relationship types mid-transaction execute a new consent form. The transaction management system should flag any file where MAR Form 10 is absent or where the relationship type on the form does not match the role the agent played. If your current systems cannot flag these discrepancies automatically, that gap in your workflow is a ticking compliance risk that tools like [Britanni AI](https://britanni.ai/pricing) are specifically designed to close, catching missing forms and sequencing errors before they become Board complaints.
+Brokers should also verify that agents who transition between relationship types mid-transaction execute a new consent form. The transaction management system should flag any file where MAR Form 10 is absent or where the relationship type on the form does not match the role the agent played. If your current systems cannot flag these discrepancies automatically, that gap in your workflow is a ticking compliance risk that tools like [Brittani AI](https://brittani.ai/pricing) are specifically designed to close, catching missing forms and sequencing errors before they become Board complaints.
 
 ## Staying Compliant Under Montana Agency Disclosure Requirements 2026
 

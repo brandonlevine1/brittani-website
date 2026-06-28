@@ -4,7 +4,7 @@ description: "Tennessee lead paint disclosure requirements 2026 explained for ag
 publishDate: "2026-06-13"
 modifiedDate: "2026-06-13"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/tennessee-lead-paint-disclosure-2026.webp"
 imageAlt: "A Tennessee real estate agent reviewing lead paint disclosure documents at a historic Nashville home built before 1978, illustrating Tennessee lead paint disclosure requirements 2026"
@@ -105,6 +105,6 @@ The distinction matters most in litigation. A buyer's attorney pursuing a lead p
 
 The fastest way to fumble a disclosure obligation is to treat it as an afterthought—something to handle "at some point before closing." Agents who build lead paint disclosure into their listing intake process, at the same moment they confirm year-built and gather seller information, rarely miss it. Those who defer it to the contract stage rely on memory under deadline pressure, which is where compliance falls apart.
 
-For agents managing multiple transactions, tools like [Britanni AI](https://www.britanni.ai/pricing) can flag pre-1978 properties at intake and trigger disclosure task sequences automatically, removing the cognitive load that causes missed steps. Automated compliance tracking does not replace legal judgment, but it eliminates the most common failure mode: forgetting entirely.
+For agents managing multiple transactions, tools like [Brittani AI](https://www.brittani.ai/pricing) can flag pre-1978 properties at intake and trigger disclosure task sequences automatically, removing the cognitive load that causes missed steps. Automated compliance tracking does not replace legal judgment, but it eliminates the most common failure mode: forgetting entirely.
 
 The Tennessee lead paint disclosure requirements 2026 have not changed in substance from prior years, but enforcement sophistication and buyer awareness have both increased. Agents and brokers who treat the RF401 as seriously as they treat the purchase contract itself will avoid the fines, lawsuits, and license actions that continue to catch their less careful competitors. The form takes five minutes—the consequences of skipping it last years.

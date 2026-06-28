@@ -4,7 +4,7 @@ description: "The TC industry is rapidly consolidating, and agents who ignore th
 publishDate: "2026-05-25"
 modifiedDate: "2026-05-25"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "7 min"
 image: "/images/blog/tc-industry-consolidation.webp"
 imageAlt: "Abstract architectural detail of converging steel beams representing industry consolidation"

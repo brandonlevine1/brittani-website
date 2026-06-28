@@ -4,7 +4,7 @@ description: "Illinois agency disclosure requirements 2026 explained for agents 
 publishDate: "2026-06-01"
 modifiedDate: "2026-06-01"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/illinois-agency-disclosure-requirements-2026.webp"
 imageAlt: "Illinois agency disclosure requirements 2026 paperwork on a desk overlooking Chicago skyline through office window"
@@ -109,6 +109,6 @@ Practically, dual agency arises most frequently when a listing agent's buyer cli
 
 The IDFPR has signaled increased enforcement focus on agency disclosure through its 2025-2026 strategic priorities, particularly as consumer complaints related to representation have risen post-NAR settlement. Agents who operated on autopilot with their disclosure practices in prior years need to actively reassess.
 
-The smartest move for any Illinois brokerage is embedding disclosure verification into their transaction coordination workflow so that gaps get flagged before closings, not after complaints. Platforms like [Britanni AI](/pricing) can automate file audits and flag missing or late disclosure documents before they become regulatory problems—turning a reactive compliance headache into a proactive system.
+The smartest move for any Illinois brokerage is embedding disclosure verification into their transaction coordination workflow so that gaps get flagged before closings, not after complaints. Platforms like [Brittani AI](/pricing) can automate file audits and flag missing or late disclosure documents before they become regulatory problems—turning a reactive compliance headache into a proactive system.
 
 The Illinois agency disclosure requirements 2026 are not new law, but they demand renewed attention given shifting enforcement priorities and the heightened scrutiny on buyer representation nationally. Agents and brokers who treat disclosure as a checkbox exercise will eventually face consequences; those who build it into their operational DNA will not. The statute is clear, the forms exist, and the [IDFPR](https://idfpr.illinois.gov/profs/realest.asp) is watching.

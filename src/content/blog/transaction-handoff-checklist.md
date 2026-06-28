@@ -4,7 +4,7 @@ description: "Master the agenttotc handoff the checklist that prevents dropped b
 publishDate: "2026-05-25"
 modifiedDate: "2026-05-25"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "11 min"
 image: "/images/blog/transaction-handoff-checklist.webp"
 imageAlt: "Real estate agent's desk with a laptop showing a transaction checklist, contract folders, and a handoff workflow diagram pinned to the wall"
@@ -111,4 +111,4 @@ Block 15 minutes on your calendar immediately after ratification—label it "TC 
 
 For agents managing double-digit active transactions, this discipline is the difference between scaling gracefully and drowning in administrative chaos. The agenttotc handoff the checklist that prevents dropped balls is ultimately a time arbitrage tool—you invest minutes upfront to recover hours downstream, while simultaneously reducing your error rate and protecting your commission income.
 
-Teams that want to automate the intake, deadline tracking, and document verification portions of this workflow are finding that platforms like [Britanni AI](/pricing) can cut handoff processing time by more than 60% while flagging missing items before the TC even opens the file. The math is straightforward: fewer dropped balls means fewer fires, faster closes, and more capacity to take on the next deal without hiring additional staff.
+Teams that want to automate the intake, deadline tracking, and document verification portions of this workflow are finding that platforms like [Brittani AI](/pricing) can cut handoff processing time by more than 60% while flagging missing items before the TC even opens the file. The math is straightforward: fewer dropped balls means fewer fires, faster closes, and more capacity to take on the next deal without hiring additional staff.

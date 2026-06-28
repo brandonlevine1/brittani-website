@@ -4,7 +4,7 @@ description: "Wisconsin seller disclosure requirements 2026 explained for agents
 publishDate: "2026-05-27"
 modifiedDate: "2026-05-27"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/wisconsin-seller-disclosure-requirements-2026.webp"
 imageAlt: "Wisconsin real estate agent reviewing seller disclosure requirements 2026 paperwork at a desk with property documents"
@@ -83,6 +83,6 @@ The simplest risk-reduction strategy is front-loading the disclosure process. Ha
 
 Agents should also maintain a personal disclosure file for each listing—a brief, dated memo noting any conditions observed during walkthroughs, photography sessions, or open houses. This memo doesn't go to the buyer unless it reveals a material adverse fact, but it protects the agent by demonstrating a systematic approach to their independent duty. [Building compliant listing workflows](/blog/listing-compliance-best-practices) requires exactly this type of structured habit.
 
-For teams handling high transaction volumes, tools like [Britanni AI](/pricing) can flag disclosure deadlines, track form versions, and remind agents when amendments may be needed based on transaction timeline changes. Automating the administrative scaffolding around Wisconsin seller disclosure requirements 2026 reduces the human-error risk that causes most violations—without replacing the professional judgment that only a licensed agent can provide.
+For teams handling high transaction volumes, tools like [Brittani AI](/pricing) can flag disclosure deadlines, track form versions, and remind agents when amendments may be needed based on transaction timeline changes. Automating the administrative scaffolding around Wisconsin seller disclosure requirements 2026 reduces the human-error risk that causes most violations—without replacing the professional judgment that only a licensed agent can provide.
 
 Agents who treat disclosure as a liability shield rather than a nuisance consistently outperform on client retention and referral rates. Buyers remember transparency; sellers appreciate agents who protect them from post-closing claims. Getting Wisconsin seller disclosure requirements 2026 right isn't just about avoiding discipline—it's about building a practice that survives scrutiny from any direction.

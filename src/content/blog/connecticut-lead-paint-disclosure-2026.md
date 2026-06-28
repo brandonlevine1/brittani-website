@@ -4,7 +4,7 @@ description: "Connecticut lead paint disclosure requirements 2026 explained for 
 publishDate: "2026-06-16"
 modifiedDate: "2026-06-16"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/connecticut-lead-paint-disclosure-2026.webp"
 imageAlt: "Historic New England colonial home in Connecticut illustrating lead paint disclosure requirements 2026"
@@ -111,6 +111,6 @@ Failure to comply in a rental context carries the same federal penalties—up to
 
 The most reliable way to handle Connecticut lead paint disclosure requirements 2026 is to embed compliance checkpoints into your transaction management system rather than relying on memory or generic checklists taped to a desk. Every pre-1978 property file should trigger a mandatory sequence: verify construction date, generate both the federal EPA form and the state property condition report, confirm pamphlet delivery, document the inspection election or waiver, and archive signed copies with a three-year retention flag.
 
-Agents managing high transaction volumes can use tools like [Britanni AI](/pricing) to automate disclosure deadline tracking and flag files missing required lead paint documentation before they reach the closing table. The cost of a missed disclosure—measured in potential treble damages, regulatory fines, and license jeopardy—dwarfs any investment in systems that catch errors early.
+Agents managing high transaction volumes can use tools like [Brittani AI](/pricing) to automate disclosure deadline tracking and flag files missing required lead paint documentation before they reach the closing table. The cost of a missed disclosure—measured in potential treble damages, regulatory fines, and license jeopardy—dwarfs any investment in systems that catch errors early.
 
 Connecticut lead paint disclosure requirements 2026 remain one of the highest-risk compliance areas for agents operating in a state dominated by older housing stock. The rules have not changed dramatically from prior years, but enforcement attention has increased and buyer attorneys are increasingly sophisticated about pursuing disclosure failures. Get the forms right, document the timeline, and audit your files—because the downside of getting it wrong is not a slap on the wrist, it is a career-altering liability event.

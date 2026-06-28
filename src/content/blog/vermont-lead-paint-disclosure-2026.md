@@ -4,7 +4,7 @@ description: "Vermont lead paint disclosure requirements 2026 explained for agen
 publishDate: "2026-06-20"
 modifiedDate: "2026-06-20"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/vermont-lead-paint-disclosure-2026.webp"
 imageAlt: "A Victorian-era Vermont home with peeling exterior paint representing Vermont lead paint disclosure requirements 2026 compliance concerns"
@@ -104,6 +104,6 @@ Vermont's [seller disclosure requirements](/blog/vermont-seller-disclosure-requi
 
 The disclosure process itself takes minutes when properly systematized. The friction comes from inconsistent workflows — agents who handle it differently on each deal, brokerages that lack a checkpoint system, and transaction files that get assembled piecemeal across email threads and shared drives.
 
-Automating compliance tracking is where firms gain the most ground. Tools like [Britanni AI](/pricing) can flag pre-1978 properties at listing intake and ensure the lead disclosure packet enters the workflow before the listing goes active, removing the risk that time pressure causes an agent to skip or delay the required steps. The goal is not to add bureaucracy but to make the compliant path the default path.
+Automating compliance tracking is where firms gain the most ground. Tools like [Brittani AI](/pricing) can flag pre-1978 properties at listing intake and ensure the lead disclosure packet enters the workflow before the listing goes active, removing the risk that time pressure causes an agent to skip or delay the required steps. The goal is not to add bureaucracy but to make the compliant path the default path.
 
 The Vermont lead paint disclosure requirements 2026 will continue to apply to the vast majority of residential transactions in this state for decades to come, given the age of Vermont's housing stock. Agents and brokers who build these requirements into their standard operating procedures — rather than treating them as an afterthought triggered by a reminder — will avoid the enforcement actions, rescission claims, and E&O exposure that still catch experienced practitioners off guard every year.

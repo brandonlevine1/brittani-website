@@ -4,7 +4,7 @@ description: "Tennessee agency disclosure requirements 2026 explained with form 
 publishDate: "2026-06-03"
 modifiedDate: "2026-06-03"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/tennessee-agency-disclosure-requirements-2026.webp"
 imageAlt: "Tennessee agency disclosure requirements 2026 compliance documents on a mahogany desk with Nashville skyline visible through office windows"
@@ -104,6 +104,6 @@ Documentation is the only defense that holds up in a TREC hearing. Agents should
 
 Electronic signatures are fully accepted by TREC for agency disclosure forms, provided the e-signature platform meets the requirements of the Tennessee Uniform Electronic Transactions Act. This removes the excuse that agents could not get timely signatures because parties were in different locations.
 
-For agents and TCs managing compliance across dozens of simultaneous transactions, tools like [Britanni AI](/pricing) can flag missing disclosure forms before they become audit findings — catching the gap at day one rather than day thirty. Building that kind of automated compliance check into your workflow is the difference between a clean file and a TREC complaint.
+For agents and TCs managing compliance across dozens of simultaneous transactions, tools like [Brittani AI](/pricing) can flag missing disclosure forms before they become audit findings — catching the gap at day one rather than day thirty. Building that kind of automated compliance check into your workflow is the difference between a clean file and a TREC complaint.
 
 Tennessee agency disclosure requirements 2026 are not changing in substance this year, but enforcement patterns suggest TREC is prioritizing disclosure violations in its complaint investigations. Agents who treat Form 1 and Form 2 as afterthoughts are betting their license on the hope that no party ever files a complaint — and that is a bet no serious professional should be willing to make.

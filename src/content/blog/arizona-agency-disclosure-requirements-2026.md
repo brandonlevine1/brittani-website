@@ -4,7 +4,7 @@ description: "Arizona agency disclosure requirements 2026 explained with specifi
 publishDate: "2026-06-03"
 modifiedDate: "2026-06-03"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/arizona-agency-disclosure-requirements-2026.webp"
 imageAlt: "Real estate agent presenting Arizona agency disclosure requirements 2026 forms at a Scottsdale home showing"
@@ -102,4 +102,4 @@ The shift toward digital transactions has not changed Arizona's documentation re
 
 **For agents managing multiple active files simultaneously, the risk of missing a disclosure deadline multiplies with each new client interaction.** Systems that [track multiple active deals](/blog/track-multiple-active-deals) with compliance checkpoints reduce this risk materially. The key is building disclosure into the workflow as a triggered event—tied to first contact, not to offer preparation.
 
-Britanni AI builds exactly this kind of compliance trigger into its transaction management workflow, flagging missing disclosures before they become audit problems. If your brokerage is scaling and you need automated compliance tracking that accounts for Arizona agency disclosure requirements 2026, the [pricing tiers at Britanni](/pricing) are structured for teams of every size. The statute has not changed much in a decade, but the enforcement environment has tightened—and the agents who treat disclosure as a process step rather than an afterthought are the ones who keep their licenses clean.
+Brittani AI builds exactly this kind of compliance trigger into its transaction management workflow, flagging missing disclosures before they become audit problems. If your brokerage is scaling and you need automated compliance tracking that accounts for Arizona agency disclosure requirements 2026, the [pricing tiers at Brittani](/pricing) are structured for teams of every size. The statute has not changed much in a decade, but the enforcement environment has tightened—and the agents who treat disclosure as a process step rather than an afterthought are the ones who keep their licenses clean.

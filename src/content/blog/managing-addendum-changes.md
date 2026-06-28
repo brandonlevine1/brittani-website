@@ -4,7 +4,7 @@ description: "Learn how to handle midcontract addendums without losing track usi
 publishDate: "2026-05-25"
 modifiedDate: "2026-05-25"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "10 min"
 image: "/images/blog/managing-addendum-changes.webp"
 imageAlt: "Agent desk with multiple contract folders, sticky notes, and a laptop showing document tracking software"
@@ -99,4 +99,4 @@ At no point during this sequence did you need to search your email. At no point 
 
 Brokers who implement this across a team of eight agents go from managing 240 potential failure points blindly to having a single auditable layer of visibility. The liability reduction alone justifies the time investment, but the operational clarity — knowing exactly where every deal stands without asking an agent to "check on that" — transforms how a brokerage runs.
 
-The agents who thrive at high volume are not more talented at reading contracts. They are more disciplined at maintaining systems that prevent the small errors from compounding into large problems. Knowing how to handle midcontract addendums without losing track is the dividing line between an agent who can scale to fifteen active deals and one who caps out at six because the cognitive load becomes unbearable. If you are looking for a tool that enforces addendum tracking, deadline monitoring, and notification triggers without requiring you to build the infrastructure from scratch, [Britanni AI](https://britanni.com/pricing) was built specifically for agents and brokers who refuse to let a missed signature derail a closing.
+The agents who thrive at high volume are not more talented at reading contracts. They are more disciplined at maintaining systems that prevent the small errors from compounding into large problems. Knowing how to handle midcontract addendums without losing track is the dividing line between an agent who can scale to fifteen active deals and one who caps out at six because the cognitive load becomes unbearable. If you are looking for a tool that enforces addendum tracking, deadline monitoring, and notification triggers without requiring you to build the infrastructure from scratch, [Brittani AI](https://brittani.ai/pricing) was built specifically for agents and brokers who refuse to let a missed signature derail a closing.

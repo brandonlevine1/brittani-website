@@ -4,7 +4,7 @@ description: "Nevada lead paint disclosure requirements 2026 explained for agent
 publishDate: "2026-06-16"
 modifiedDate: "2026-06-16"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/nevada-lead-paint-disclosure-2026.webp"
 imageAlt: "A vintage Las Vegas residential neighborhood with mid-century homes illustrating Nevada lead paint disclosure requirements 2026"
@@ -104,6 +104,6 @@ The [broader conversation about where deals break down](/blog/where-deals-break-
 
 Managing disclosure compliance across a dozen or more active transactions is where most agents stumble — not from ignorance of the law, but from volume. The disclosure form gets separated from the contract package. The pamphlet delivery goes undocumented. The buyer's signature comes in two days after ratification and nobody flags the timeline problem.
 
-This is where automated compliance tracking earns its keep. Tools like Britanni AI can flag pre-1978 properties at listing intake and prompt agents through the required disclosure steps before a contract reaches ratification, catching timeline gaps before they become violations. If your current system relies on memory and spreadsheets, visit [Britanni AI's pricing page](/pricing) to see how automated compliance workflows fit your brokerage's transaction volume.
+This is where automated compliance tracking earns its keep. Tools like Brittani AI can flag pre-1978 properties at listing intake and prompt agents through the required disclosure steps before a contract reaches ratification, catching timeline gaps before they become violations. If your current system relies on memory and spreadsheets, visit [Brittani AI's pricing page](/pricing) to see how automated compliance workflows fit your brokerage's transaction volume.
 
 **Meeting Nevada lead paint disclosure requirements 2026 is not about knowing the law exists — it is about executing the process correctly in every single pre-1978 transaction without exception.** The agents and brokers who build repeatable systems around this obligation will avoid the enforcement actions, E&O claims, and collapsed deals that punish those who treat it as a formality. The law has not changed much in thirty years. The excuses for noncompliance have not improved either.

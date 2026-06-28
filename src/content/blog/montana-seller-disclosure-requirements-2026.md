@@ -4,7 +4,7 @@ description: "Montana seller disclosure requirements 2026 explained for agents a
 publishDate: "2026-05-30"
 modifiedDate: "2026-05-30"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/montana-seller-disclosure-requirements-2026.webp"
 imageAlt: "A Montana ranch-style home with the Rocky Mountains in the background, representing Montana seller disclosure requirements 2026"
@@ -108,6 +108,6 @@ Understanding how [missed deadlines affect deal integrity](/blog/real-cost-of-mi
 
 Montana's disclosure framework rewards agents who build disclosure compliance into their transaction workflow rather than treating it as a box to check after a deal is under contract. The listing appointment is the right time to explain the disclosure obligation, hand the seller the current form, and set a deadline for completion before the property hits the market.
 
-Agents managing multiple active files simultaneously face the highest risk of missing disclosure deadlines or accepting deficient forms. Tools like Britanni AI are built to flag incomplete disclosures, track delivery dates, and alert agents before rescission windows close, which is the kind of operational backstop that prevents a single oversight from becoming a Board complaint—check [pricing](/pricing) to see how it fits your transaction volume.
+Agents managing multiple active files simultaneously face the highest risk of missing disclosure deadlines or accepting deficient forms. Tools like Brittani AI are built to flag incomplete disclosures, track delivery dates, and alert agents before rescission windows close, which is the kind of operational backstop that prevents a single oversight from becoming a Board complaint—check [pricing](/pricing) to see how it fits your transaction volume.
 
 Montana seller disclosure requirements 2026 demand more than passive awareness from agents and brokers. They demand documented, auditable, repeatable processes that protect your sellers, your buyers, and your license. Build the system now, enforce it at the brokerage level, and treat every disclosure form like it might end up in front of a judge—because eventually, one will.

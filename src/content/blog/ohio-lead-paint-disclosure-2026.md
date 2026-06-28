@@ -4,7 +4,7 @@ description: "Ohio lead paint disclosure requirements 2026 explained for agents 
 publishDate: "2026-06-11"
 modifiedDate: "2026-06-11"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/ohio-lead-paint-disclosure-2026.webp"
 imageAlt: "Historic brick home in an Ohio neighborhood illustrating Ohio lead paint disclosure requirements 2026"
@@ -114,6 +114,6 @@ Ohio's ORC 3742 also governs lead abatement contractor licensing and clearance t
 
 The simplest way to avoid violations is to treat lead paint disclosure as a mandatory step that triggers at listing intake, not at contract drafting. By the time a purchase agreement is being signed, the seller should have already completed the disclosure form, and the pamphlet should already be in the buyer's hands. Waiting until the offer stage compresses timelines and increases error rates.
 
-For agents handling volume in markets like Cleveland, Akron, Dayton, or Toledo—where pre-1978 housing dominates inventory—this is not an edge case. It is the majority of your transactions. Tools like [Britanni AI](/pricing) can flag pre-1978 properties automatically and prompt the correct forms at the right stage, reducing the compliance gaps that lead to fines and rescission claims.
+For agents handling volume in markets like Cleveland, Akron, Dayton, or Toledo—where pre-1978 housing dominates inventory—this is not an edge case. It is the majority of your transactions. Tools like [Brittani AI](/pricing) can flag pre-1978 properties automatically and prompt the correct forms at the right stage, reducing the compliance gaps that lead to fines and rescission claims.
 
 The bottom line on **Ohio lead paint disclosure requirements 2026** is straightforward: the law has not changed, the penalties have only increased with inflation adjustments, and the obligation falls squarely on both agents and the seller. Get the forms signed early, keep your files complete, and audit quarterly. The cost of compliance is a few minutes per transaction. The cost of failure is measured in five figures and license risk.

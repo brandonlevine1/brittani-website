@@ -4,7 +4,7 @@ description: "Nevada property condition & environmental disclosures 2026 explain
 publishDate: "2026-06-26"
 modifiedDate: "2026-06-26"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/nevada-property-condition-disclosures-2026.webp"
 imageAlt: "A Nevada real estate agent reviewing property condition & environmental disclosures 2026 forms with a desert-landscape home visible through the office window"
@@ -103,6 +103,6 @@ Quarterly file audits should pull a random sample of closed and active transacti
 
 NRED has signaled increasing attention to disclosure compliance through its continuing education requirements and its 2025 advisory bulletins. The division's complaint process, accessible through the [Nevada Real Estate Division website](https://red.nv.gov/), remains the primary enforcement mechanism, and complaint volume related to disclosure failures has trended upward over the past three years.
 
-Agents who build disclosure delivery into a repeatable workflow—rather than treating it as an afterthought—dramatically reduce their exposure. Tools like Britanni AI at [/pricing](/pricing) can automate deadline tracking for disclosure delivery windows and flag pre-1978 properties that require lead-based paint forms, removing the human-error variable from your compliance process.
+Agents who build disclosure delivery into a repeatable workflow—rather than treating it as an afterthought—dramatically reduce their exposure. Tools like Brittani AI at [/pricing](/pricing) can automate deadline tracking for disclosure delivery windows and flag pre-1978 properties that require lead-based paint forms, removing the human-error variable from your compliance process.
 
 The agents and brokers who treat Nevada property condition & environmental disclosures 2026 as a core competency rather than administrative overhead will close more transactions, face fewer complaints, and spend less time with attorneys. That is the competitive edge that comes from treating compliance as a professional standard rather than a nuisance.

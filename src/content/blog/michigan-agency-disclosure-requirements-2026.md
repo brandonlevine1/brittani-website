@@ -4,7 +4,7 @@ description: "Michigan agency disclosure requirements 2026 explained with specif
 publishDate: "2026-06-02"
 modifiedDate: "2026-06-02"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/michigan-agency-disclosure-requirements-2026.webp"
 imageAlt: "A Michigan real estate agent reviewing agency disclosure requirements 2026 forms at a lakefront property closing table"
@@ -107,6 +107,6 @@ Designated agency offers a practical alternative that preserves advocacy for bot
 
 The administrative burden of tracking disclosures across dozens of active files is real, especially for high-volume agents and growing teams. Missing a single form in a single file is all it takes for a LARA complaint to escalate. Building systems that prevent this failure mode is not optional — it is risk management.
 
-Transaction coordination platforms that enforce document gates — where a file cannot advance to the next stage without required disclosures uploaded — eliminate the most common human errors. Britanni AI builds these gates directly into the transaction workflow, flagging missing agency disclosures before they become compliance violations, and you can see how it fits your volume at [britanni.com/pricing](/pricing).
+Transaction coordination platforms that enforce document gates — where a file cannot advance to the next stage without required disclosures uploaded — eliminate the most common human errors. Brittani AI builds these gates directly into the transaction workflow, flagging missing agency disclosures before they become compliance violations, and you can see how it fits your volume at [brittani.ai/pricing](/pricing).
 
 Michigan agency disclosure requirements 2026 are not changing in ways that demand new learning, but enforcement rigor is increasing and the stakes remain high. Agents and brokers who treat disclosure as a checkbox rather than a process will eventually face consequences. Build the system, audit the system, and let the system protect your license.

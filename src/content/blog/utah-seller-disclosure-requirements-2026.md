@@ -4,7 +4,7 @@ description: "Utah seller disclosure requirements 2026 explained for agents and 
 publishDate: "2026-05-28"
 modifiedDate: "2026-05-28"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/utah-seller-disclosure-requirements-2026.webp"
 imageAlt: "A Utah real estate agent reviewing seller disclosure requirements 2026 paperwork in front of red rock canyon landscape"
@@ -116,4 +116,4 @@ Agents representing REO properties (bank-owned) will typically see the bank prov
 
 The regulatory environment in Utah has not seen major legislative changes to the disclosure framework heading into 2026, but enforcement patterns have shifted. The Division of Real Estate has increased its focus on consumer complaints related to non-disclosure, and the rise of post-pandemic home prices means the dollar amounts in dispute are larger than ever. A $15,000 foundation repair that was not disclosed in 2019 is now a $28,000 repair—and buyers are more litigious about it.
 
-Agents who want to stay ahead of compliance issues should build disclosure delivery into their listing launch process as a non-negotiable step, not a "when we get to it" afterthought. Tools like [Britanni AI](/pricing) can automate deadline tracking and flag when a disclosure has not been uploaded to a transaction file within the expected window, reducing the risk that a busy week turns into a compliance gap. Maintaining discipline around Utah seller disclosure requirements 2026 is ultimately about protecting your license, your clients, and your brokerage—one completed form at a time.
+Agents who want to stay ahead of compliance issues should build disclosure delivery into their listing launch process as a non-negotiable step, not a "when we get to it" afterthought. Tools like [Brittani AI](/pricing) can automate deadline tracking and flag when a disclosure has not been uploaded to a transaction file within the expected window, reducing the risk that a busy week turns into a compliance gap. Maintaining discipline around Utah seller disclosure requirements 2026 is ultimately about protecting your license, your clients, and your brokerage—one completed form at a time.

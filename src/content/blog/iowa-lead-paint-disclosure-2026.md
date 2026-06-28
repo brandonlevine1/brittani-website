@@ -4,7 +4,7 @@ description: "Iowa lead paint disclosure requirements 2026 explained for agents 
 publishDate: "2026-06-16"
 modifiedDate: "2026-06-16"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/iowa-lead-paint-disclosure-2026.webp"
 imageAlt: "Victorian-era Iowa home with peeling paint illustrating Iowa lead paint disclosure requirements 2026 compliance concerns"
@@ -115,6 +115,6 @@ Rental compliance failures generate a disproportionate number of EPA enforcement
 
 The real challenge for Iowa agents is not understanding the law—it is executing consistently across every qualifying transaction without slowing deal velocity. When you are juggling eight active files and four of them involve pre-1978 homes, process automation becomes the difference between clean compliance and a missed signature.
 
-Britanni AI builds transaction coordination workflows that flag pre-1978 properties at listing intake and automatically queue the correct disclosure documents for signature collection at the right point in the timeline—before the buyer is obligated, not at closing. If consistent compliance across your Iowa transactions matters to your brokerage, the tooling available at [/pricing](/pricing) is worth evaluating against your current manual process.
+Brittani AI builds transaction coordination workflows that flag pre-1978 properties at listing intake and automatically queue the correct disclosure documents for signature collection at the right point in the timeline—before the buyer is obligated, not at closing. If consistent compliance across your Iowa transactions matters to your brokerage, the tooling available at [/pricing](/pricing) is worth evaluating against your current manual process.
 
 **The Iowa lead paint disclosure requirements 2026 have not changed in substance, but enforcement rigor and penalty amounts continue to increase.** Agents and brokers who treat lead disclosure as a rote checkbox exercise will eventually face a complaint, a rescission demand, or an EPA letter. The agents who build disclosure compliance into their operational systems—rather than relying on memory—will avoid those outcomes entirely.

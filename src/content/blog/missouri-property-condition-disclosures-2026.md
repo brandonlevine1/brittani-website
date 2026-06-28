@@ -4,7 +4,7 @@ description: "Missouri property condition & environmental disclosures 2026 guide
 publishDate: "2026-06-24"
 modifiedDate: "2026-06-24"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/missouri-property-condition-disclosures-2026.webp"
 imageAlt: "A Missouri real estate agent reviewing property condition & environmental disclosures 2026 forms on a desk overlooking a St. Louis brick bungalow neighborhood"
@@ -104,6 +104,6 @@ Training is the other half of the equation. New agents often receive minimal ins
 
 Disclosure failures almost always trace back to process breakdowns rather than intentional misconduct. An agent forgets to send the form before the offer comes in. A file sits without a lead paint disclosure because nobody flagged the property's build year. These are workflow problems masquerading as compliance problems, and they are exactly [where deals break down](/blog/where-deals-break-down) in practice.
 
-Automating disclosure reminders based on property characteristics—build year triggers lead paint requirements, location triggers environmental database checks, property type triggers the correct MAR form—eliminates the most common failure points. Britanni AI handles exactly this kind of conditional compliance logic, flagging missing forms before they become liability events; you can see how it fits into your workflow at [britanni.ai/pricing](/pricing).
+Automating disclosure reminders based on property characteristics—build year triggers lead paint requirements, location triggers environmental database checks, property type triggers the correct MAR form—eliminates the most common failure points. Brittani AI handles exactly this kind of conditional compliance logic, flagging missing forms before they become liability events; you can see how it fits into your workflow at [brittani.ai/pricing](/pricing).
 
 Missouri property condition & environmental disclosures 2026 requirements will not get simpler as case law evolves and federal environmental regulations tighten. Agents and brokers who build disclosure compliance into their transaction systems—rather than relying on memory and good intentions—protect their licenses, their clients, and their commission checks from preventable losses.

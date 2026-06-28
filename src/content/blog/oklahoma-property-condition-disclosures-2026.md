@@ -4,7 +4,7 @@ description: "Master Oklahoma property condition & environmental disclosures 202
 publishDate: "2026-06-26"
 modifiedDate: "2026-06-26"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/oklahoma-property-condition-disclosures-2026.webp"
 imageAlt: "Oklahoma farmhouse with red clay soil and storm shelter entrance representing Oklahoma property condition & environmental disclosures 2026 requirements"
@@ -103,6 +103,6 @@ For context on how other states handle the overlap between agency and property c
 
 The agents who get burned by Oklahoma's disclosure rules are rarely the ones who intentionally conceal defects. They are the ones whose systems fail—who lose track of which form went out when, who let a transaction move forward without confirming delivery, or who rely on memory instead of documented workflows. The fix is operational, not educational. Most agents know the rules; they just lack a reliable mechanism for enforcing them across every deal.
 
-This is where tools like [Britanni AI](/pricing) become relevant—not as a replacement for your judgment, but as a system that flags when a disclosure has not been delivered, when a pre-1978 property is missing its lead paint addendum, or when a transaction file is incomplete before it moves to the next stage. The agents who build compliance into their workflow rather than bolting it on after the fact are the ones who avoid OREC complaints and keep their closings intact.
+This is where tools like [Brittani AI](/pricing) become relevant—not as a replacement for your judgment, but as a system that flags when a disclosure has not been delivered, when a pre-1978 property is missing its lead paint addendum, or when a transaction file is incomplete before it moves to the next stage. The agents who build compliance into their workflow rather than bolting it on after the fact are the ones who avoid OREC complaints and keep their closings intact.
 
 Oklahoma property condition & environmental disclosures 2026 requirements are not changing in ways that will surprise anyone who has been paying attention—but the enforcement climate is tightening, buyer sophistication is increasing, and the cost of getting it wrong continues to grow. The agents and brokers who treat disclosure as a system-level priority rather than a checkbox exercise will be the ones still standing when the next market cycle shakes out the rest.

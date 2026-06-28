@@ -4,7 +4,7 @@ description: "Alabama lead paint disclosure requirements 2026 explained for agen
 publishDate: "2026-06-15"
 modifiedDate: "2026-06-15"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/alabama-lead-paint-disclosure-2026.webp"
 imageAlt: "Historic Alabama home with peeling paint illustrating Alabama lead paint disclosure requirements 2026 compliance concerns"
@@ -103,6 +103,6 @@ The comparison to other southeastern states also matters for agents working bord
 
 The agents and brokerages that avoid lead paint disclosure problems share one trait: they treat the disclosure as a milestone in their transaction timeline rather than a form to check off at closing. The disclosure must happen before the buyer is obligated under the contract. Delivering it at closing—which still happens more often than anyone in the industry wants to admit—is a violation, full stop.
 
-If you are managing transaction timelines manually or with basic spreadsheets, the likelihood of a disclosure slipping through increases with every deal you add to your pipeline. Understanding [why agents miss deadlines](/blog/why-agents-miss-deadlines) is the first step toward building a system that prevents it. Automated compliance tracking—whether through your brokerage's platform or a dedicated tool like Britanni AI at [/pricing](/pricing)—flags pre-1978 properties at listing intake and ensures the disclosure milestone is completed before contract ratification.
+If you are managing transaction timelines manually or with basic spreadsheets, the likelihood of a disclosure slipping through increases with every deal you add to your pipeline. Understanding [why agents miss deadlines](/blog/why-agents-miss-deadlines) is the first step toward building a system that prevents it. Automated compliance tracking—whether through your brokerage's platform or a dedicated tool like Brittani AI at [/pricing](/pricing)—flags pre-1978 properties at listing intake and ensures the disclosure milestone is completed before contract ratification.
 
 The Alabama lead paint disclosure requirements 2026 have not changed in their substance, but enforcement attention and buyer sophistication have both increased. Agents who treat this obligation with the same precision they bring to contract deadlines and commission splits will never face a penalty or rescission over a form that takes five minutes to complete correctly.

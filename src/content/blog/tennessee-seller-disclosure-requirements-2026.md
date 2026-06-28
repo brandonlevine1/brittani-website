@@ -4,7 +4,7 @@ description: "Tennessee seller disclosure requirements 2026 explained with speci
 publishDate: "2026-05-25"
 modifiedDate: "2026-05-25"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/tennessee-seller-disclosure-requirements-2026.webp"
 imageAlt: "A Tennessee real estate agent reviewing Tennessee seller disclosure requirements 2026 paperwork at a residential property"
@@ -77,6 +77,6 @@ For buyer's agents, the moment you realize your client has not received a disclo
 
 The agents who never have disclosure problems are the ones who built compliance into their listing intake process rather than treating it as an afterthought. At the listing appointment, the RF-401 should be presented alongside the listing agreement for completion. If the seller needs time to research answers, set a 48-hour deadline and follow up in writing.
 
-Technology can enforce these deadlines automatically. Tools like [Britanni AI](/pricing) can flag missing disclosure documents in active transaction files and alert agents before a compliance gap becomes a liability gap, removing the dependence on memory or manual checklists that inevitably fail during busy months.
+Technology can enforce these deadlines automatically. Tools like [Brittani AI](/pricing) can flag missing disclosure documents in active transaction files and alert agents before a compliance gap becomes a liability gap, removing the dependence on memory or manual checklists that inevitably fail during busy months.
 
 The Tennessee seller disclosure requirements 2026 have not changed dramatically from prior years, but enforcement awareness and buyer sophistication have increased steadily. Agents and brokers who treat RF-401 compliance as a [foundational transaction skill](/blog/real-estate-compliance-checklist) rather than a box-checking exercise will avoid the complaints, lawsuits, and commission clawbacks that plague their less disciplined competitors. Build the system, audit the system, and trust the system—your license depends on it.

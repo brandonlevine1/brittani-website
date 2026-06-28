@@ -4,7 +4,7 @@ description: "West Virginia lead paint disclosure requirements 2026 explained fo
 publishDate: "2026-06-18"
 modifiedDate: "2026-06-18"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/west-virginia-lead-paint-disclosure-2026.webp"
 imageAlt: "Historic Charleston, West Virginia home with peeling paint layers illustrating West Virginia lead paint disclosure requirements 2026 for real estate agents"
@@ -104,7 +104,7 @@ The most effective compliance approach treats lead paint disclosure as a trigger
 
 For buyer's agents, the protocol should include verifying the property's construction date during the initial showing phase and confirming pamphlet receipt in writing before your client signs any offer. If the listing agent has not provided the EPA form with the counter or acceptance, demand it before your client's signatures go on the contract. Do not assume the listing side handled it.
 
-Digital transaction management platforms can automate much of this workflow by flagging pre-1978 properties and inserting the required forms into the document package. Britanni AI's transaction coordination tools at [/pricing](/pricing) handle this exact trigger logic, ensuring that property age data from the MLS automatically generates the appropriate disclosure requirements in the agent's task queue.
+Digital transaction management platforms can automate much of this workflow by flagging pre-1978 properties and inserting the required forms into the document package. Brittani AI's transaction coordination tools at [/pricing](/pricing) handle this exact trigger logic, ensuring that property age data from the MLS automatically generates the appropriate disclosure requirements in the agent's task queue.
 
 ## Protecting Your License Under West Virginia Lead Paint Disclosure Requirements 2026
 

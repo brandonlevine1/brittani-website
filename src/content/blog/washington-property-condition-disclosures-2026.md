@@ -4,7 +4,7 @@ description: "Master Washington property condition & environmental disclosures 2
 publishDate: "2026-06-23"
 modifiedDate: "2026-06-23"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/washington-property-condition-disclosures-2026.webp"
 imageAlt: "A Washington state residential home inspection scene representing Washington property condition & environmental disclosures 2026 compliance"
@@ -86,7 +86,7 @@ Every transaction file should contain a completed Form 17 with all eight section
 | Lead paint compliance | Separate form + pamphlet for pre-1978 homes | Only Form 17 Section 6 present |
 | Exemption documentation | Written memo citing RCW 64.06.010 subsection | File simply omits Form 17 with no explanation |
 
-Brokers should run file audits at three points: within 48 hours of mutual acceptance, at the midpoint of the inspection period, and within 72 hours of closing. If your brokerage handles volume that makes manual audits impractical, tools like [Britanni AI](/pricing) can flag missing or incomplete disclosure documents automatically, reducing the audit burden without adding headcount.
+Brokers should run file audits at three points: within 48 hours of mutual acceptance, at the midpoint of the inspection period, and within 72 hours of closing. If your brokerage handles volume that makes manual audits impractical, tools like [Brittani AI](/pricing) can flag missing or incomplete disclosure documents automatically, reducing the audit burden without adding headcount.
 
 ## The Intersection of Agency Duties and Disclosure Obligations
 
@@ -108,4 +108,4 @@ For buyers, confirm in writing the date your client received Form 17, and calend
 
 The Washington DOL has signaled increased audit activity around environmental disclosures for 2026, particularly regarding properties near legacy industrial sites in the Duwamish corridor, Tacoma's Commencement Bay area, and agricultural zones in the Yakima Valley where pesticide contamination is documented. Agents working these markets should familiarize themselves with the Department of Ecology's cleanup site database and cross-reference it when taking new listings.
 
-The bottom line for Washington property condition & environmental disclosures 2026 compliance: document everything, deliver on time, amend when facts change, and never assume another party in the transaction is handling your statutory duties. Agents and brokers who build these habits into their daily workflow — whether through manual checklists or automated compliance tools like [Britanni AI](/pricing) — will avoid the enforcement actions and civil claims that continue to climb in frequency across the state.
+The bottom line for Washington property condition & environmental disclosures 2026 compliance: document everything, deliver on time, amend when facts change, and never assume another party in the transaction is handling your statutory duties. Agents and brokers who build these habits into their daily workflow — whether through manual checklists or automated compliance tools like [Brittani AI](/pricing) — will avoid the enforcement actions and civil claims that continue to climb in frequency across the state.

@@ -4,7 +4,7 @@ description: "Discover the exact email sequence top TCs send for every new contr
 publishDate: "2026-05-25"
 modifiedDate: "2026-05-25"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "11 min"
 image: "/images/blog/email-sequences-for-new-contracts.webp"
 imageAlt: "Real estate agent workspace with dual monitors showing email templates and a transaction timeline pinned to a corkboard"
@@ -83,6 +83,6 @@ Running this sequence manually across 10 concurrent files requires roughly 45 mi
 
 The math is straightforward. Six emails per transaction, multiplied by 15 active files, multiplied by an average of 8 minutes per email (drafting, attaching documents, verifying dates) equals 12 hours of email labor per cycle. That is 12 hours that could be spent on appointments, negotiations, or lead conversion. The agents who scale past 15 deals per month either hire a full-time TC at $4,500-$6,000 monthly or they automate the sequence entirely.
 
-This is where the economics get interesting. A platform like Britanni AI generates and sends this entire sequence automatically, triggered by contract milestones, pre-loaded with the correct dates, parties, and documents—without requiring a human coordinator to touch the file until an exception arises. At scale, the cost comparison between a salaried TC and an automated system is not close; you can check current tiers at [britanni.ai/pricing](/pricing) to see what fifteen concurrent files would actually run you per month.
+This is where the economics get interesting. A platform like Brittani AI generates and sends this entire sequence automatically, triggered by contract milestones, pre-loaded with the correct dates, parties, and documents—without requiring a human coordinator to touch the file until an exception arises. At scale, the cost comparison between a salaried TC and an automated system is not close; you can check current tiers at [brittani.ai/pricing](/pricing) to see what fifteen concurrent files would actually run you per month.
 
 The exact email sequence top TCs send for every new contract is not a secret. It is six emails, sent at predictable intervals, each with a specific operational purpose. The agents who install this system close faster, face fewer compliance complaints, and spend their time on work that actually generates revenue. The ones who do not will keep losing hours—and occasionally, tens of thousands of dollars—to problems that a single well-timed email would have prevented entirely.

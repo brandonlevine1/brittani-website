@@ -4,7 +4,7 @@ description: "Maryland lead paint disclosure requirements 2026 explained for age
 publishDate: "2026-06-14"
 modifiedDate: "2026-06-14"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/maryland-lead-paint-disclosure-2026.webp"
 imageAlt: "Row of colorful painted Baltimore rowhouses illustrating Maryland lead paint disclosure requirements 2026 compliance for real estate agents"
@@ -114,6 +114,6 @@ The Maryland Real Estate Commission has [published guidance](https://www.dllr.st
 
 Every Maryland transaction file involving a pre-1978 property should contain five distinct items: the signed EPA disclosure form, the signed MAR Form 1035, proof of pamphlet delivery, the buyer's inspection election or waiver, and any MDE records or violation history the seller is aware of. If all five are present with complete signatures and correct dates, your file will survive any audit or litigation challenge.
 
-Britanni AI's transaction coordination platform at [/pricing](/pricing) automates deadline tracking and document verification for exactly these kinds of multi-form compliance requirements — flagging missing signatures before they become liability events. For agents handling Maryland's older housing stock, that kind of systemic check is not a luxury.
+Brittani AI's transaction coordination platform at [/pricing](/pricing) automates deadline tracking and document verification for exactly these kinds of multi-form compliance requirements — flagging missing signatures before they become liability events. For agents handling Maryland's older housing stock, that kind of systemic check is not a luxury.
 
 Maryland lead paint disclosure requirements 2026 will not change substantially from 2025, but enforcement scrutiny continues to tighten as EPA adjusts penalty amounts upward and MDE expands its inspection program. The agents and brokers who treat these disclosures as a mechanical part of every pre-1978 file — rather than an afterthought — will avoid the lawsuits, fines, and license actions that hit their less disciplined competitors.

@@ -4,7 +4,7 @@ description: "Master Arkansas property condition & environmental disclosures 202
 publishDate: "2026-06-27"
 modifiedDate: "2026-06-27"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/arkansas-property-condition-disclosures-2026.webp"
 imageAlt: "Arkansas property condition & environmental disclosures 2026 compliance documents on a desk overlooking Ozark foothills"
@@ -106,4 +106,4 @@ The Commission has also issued guidance reminding agents that "as-is" contract l
 
 Disclosure compliance is ultimately a systems problem. The rules do not change mid-transaction—they are knowable in advance. The agents who get burned are the ones operating without a reliable checklist or deadline-tracking system that flags when a disclosure form has not been received or delivered.
 
-If you are running a team or brokerage and want to ensure every file meets Arkansas property condition & environmental disclosures 2026 requirements without manually auditing each transaction, tools like [Britanni AI](/pricing) can automate deadline tracking and flag missing disclosure documents before they become regulatory problems. The cost of a compliance gap—measured in fines, rescinded deals, and reputation damage—will always exceed the cost of preventing one.
+If you are running a team or brokerage and want to ensure every file meets Arkansas property condition & environmental disclosures 2026 requirements without manually auditing each transaction, tools like [Brittani AI](/pricing) can automate deadline tracking and flag missing disclosure documents before they become regulatory problems. The cost of a compliance gap—measured in fines, rescinded deals, and reputation damage—will always exceed the cost of preventing one.

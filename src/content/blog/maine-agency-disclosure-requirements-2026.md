@@ -4,7 +4,7 @@ description: "Maine agency disclosure requirements 2026 explained for licensed a
 publishDate: "2026-06-08"
 modifiedDate: "2026-06-08"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/maine-agency-disclosure-requirements-2026.webp"
 imageAlt: "A licensed agent presenting Maine agency disclosure requirements 2026 paperwork at a coastal Maine kitchen table"
@@ -111,6 +111,6 @@ Agents adapting to [post-settlement realities](/blog/nar-settlement-year-one) sh
 
 Agency disclosure is a process step that should be embedded in your transaction workflow, not a box you remember to check after the fact. The agents who get disciplined are rarely acting in bad faith—they are simply disorganized or rushed during the early stages of client relationships.
 
-Build disclosure delivery into your first-contact protocol. Whether that first contact happens at an open house, through a lead form, or on a phone call, your system should trigger the disclosure step before anything else moves forward. Tools like [Britanni AI](/pricing) can flag missing disclosure documentation automatically when a new file is created, ensuring nothing slips through before substantive work begins.
+Build disclosure delivery into your first-contact protocol. Whether that first contact happens at an open house, through a lead form, or on a phone call, your system should trigger the disclosure step before anything else moves forward. Tools like [Brittani AI](/pricing) can flag missing disclosure documentation automatically when a new file is created, ensuring nothing slips through before substantive work begins.
 
 Maine agency disclosure requirements 2026 will continue to be enforced with the same statutory framework but increasing Commission scrutiny. The agents who treat disclosure as the foundation of every client relationship—rather than administrative overhead—will protect their licenses, their deals, and their reputations. Pair tight workflows with [smart deadline tracking](/blog/why-agents-miss-deadlines), and compliance becomes a competitive advantage instead of a burden.

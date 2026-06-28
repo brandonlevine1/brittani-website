@@ -4,7 +4,7 @@ description: "Georgia property condition & environmental disclosures 2026 guide 
 publishDate: "2026-06-22"
 modifiedDate: "2026-06-22"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/georgia-property-condition-disclosures-2026.webp"
 imageAlt: "Historic Georgia bungalow with disclosure paperwork on the porch railing, representing Georgia property condition & environmental disclosures 2026"
@@ -103,4 +103,4 @@ Proximity to landfills, hazardous waste sites, and properties listed on the EPA'
 
 The agents who avoid disclosure claims share a common trait: they document everything in writing, in real time. Verbal conversations about property defects should be memorialized in email immediately after they occur. Listing visit observations—positive or negative—should be noted in the agent's file within 24 hours.
 
-Building a system that flags disclosure deadlines, tracks form completion, and alerts you when supplemental disclosures may be needed is the difference between a clean file and a lawsuit. Tools like [Britanni AI](/pricing) can automate these compliance checkpoints across your pipeline so nothing slips between contract and closing. Georgia property condition & environmental disclosures 2026 requirements will not loosen—regulators and plaintiffs' attorneys are both getting more sophisticated, and your documentation habits need to outpace them.
+Building a system that flags disclosure deadlines, tracks form completion, and alerts you when supplemental disclosures may be needed is the difference between a clean file and a lawsuit. Tools like [Brittani AI](/pricing) can automate these compliance checkpoints across your pipeline so nothing slips between contract and closing. Georgia property condition & environmental disclosures 2026 requirements will not loosen—regulators and plaintiffs' attorneys are both getting more sophisticated, and your documentation habits need to outpace them.

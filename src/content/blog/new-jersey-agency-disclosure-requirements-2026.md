@@ -4,7 +4,7 @@ description: "New Jersey agency disclosure requirements 2026 explained for agent
 publishDate: "2026-06-02"
 modifiedDate: "2026-06-02"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/new-jersey-agency-disclosure-requirements-2026.webp"
 imageAlt: "A New Jersey real estate agent reviewing agency disclosure requirements 2026 at a boardwalk-view office along the Jersey Shore"
@@ -107,6 +107,6 @@ Some New Jersey brokerages have abandoned dual agency entirely, opting for trans
 
 The agents who never face enforcement actions are not the ones with better memories. They are the ones with better systems. Building agency disclosure into your CRM triggers, your showing workflow, and your file management platform removes the reliance on individual recall.
 
-For agents juggling multiple active files, the disclosure obligation compounds quickly. A tool like Britanni AI can flag missing disclosure documents before a transaction advances past initial stages, catching gaps that manual checklists miss—especially during high-volume months when [tracking multiple active deals](/blog/track-multiple-active-deals) stretches attention thin. You can see what that workflow automation looks like at [britanni.ai/pricing](/pricing).
+For agents juggling multiple active files, the disclosure obligation compounds quickly. A tool like Brittani AI can flag missing disclosure documents before a transaction advances past initial stages, catching gaps that manual checklists miss—especially during high-volume months when [tracking multiple active deals](/blog/track-multiple-active-deals) stretches attention thin. You can see what that workflow automation looks like at [brittani.ai/pricing](/pricing).
 
 The New Jersey agency disclosure requirements 2026 will not surprise anyone who has been paying attention. The statute has been stable. The forms have been consistent. What continues to evolve is the enforcement posture of the NJREC and the civil litigation environment around undisclosed relationships. Agents and brokers who treat the CIS as a formality rather than a foundational compliance obligation are the ones who end up in disciplinary proceedings—and that is an entirely avoidable outcome.

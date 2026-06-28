@@ -4,7 +4,7 @@ description: "New Mexico property condition & environmental disclosures 2026 exp
 publishDate: "2026-06-27"
 modifiedDate: "2026-06-27"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/new-mexico-property-condition-disclosures-2026.webp"
 imageAlt: "Adobe-style home in Albuquerque with disclosure documents illustrating New Mexico property condition & environmental disclosures 2026 requirements"
@@ -96,6 +96,6 @@ The agents who avoid disclosure problems aren't necessarily more knowledgeable�
 
 Once under contract, confirm delivery to the buyer's agent with a timestamp. If using electronic delivery, ensure your platform generates a read receipt, not just a sent confirmation. Paper delivery should include a signed acknowledgment of receipt. These timestamps matter enormously if a buyer later alleges late delivery as grounds for rescission.
 
-For brokerages looking to automate compliance tracking across their roster, tools like Britanni AI can flag missing or incomplete disclosure forms in real time, reducing the manual audit burden that eats into a broker's week. You can explore how that works at [britanni.ai/pricing](/pricing) without committing to an overhaul of your existing transaction management stack.
+For brokerages looking to automate compliance tracking across their roster, tools like Brittani AI can flag missing or incomplete disclosure forms in real time, reducing the manual audit burden that eats into a broker's week. You can explore how that works at [brittani.ai/pricing](/pricing) without committing to an overhaul of your existing transaction management stack.
 
 The reality of **New Mexico property condition & environmental disclosures 2026** is that enforcement is tightening, environmental risks are becoming more visible to the public, and buyers' attorneys have more ammunition than ever to pursue agents who cut corners. The agents and brokerages that build disclosure compliance into their daily operations—rather than treating it as a box-checking exercise at file review—will avoid the complaints, lawsuits, and license actions that their less disciplined competitors increasingly face.

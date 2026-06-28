@@ -4,7 +4,7 @@ description: "Washington lead paint disclosure requirements 2026 explained for a
 publishDate: "2026-06-13"
 modifiedDate: "2026-06-13"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/washington-lead-paint-disclosure-2026.webp"
 imageAlt: "Craftsman-style home in Seattle with peeling exterior paint illustrating Washington lead paint disclosure requirements 2026"
@@ -107,4 +107,4 @@ The EPA has signaled increased enforcement attention on residential lead paint d
 
 Real estate professionals who handle pre-1978 inventory regularly—particularly in older neighborhoods in Seattle, Bellingham, Everett, and the Tri-Cities—should treat lead paint disclosure as a non-negotiable step in their listing process. The risk is not theoretical. It is financial, professional, and personal.
 
-Automated transaction management tools like [Britanni AI](/pricing) can flag pre-1978 properties at intake and track disclosure form completion alongside your other compliance deadlines. That kind of systematic approach turns a compliance obligation from a memory test into a workflow step. If you are serious about Washington lead paint disclosure requirements 2026 compliance, build it into your systems rather than relying on individual agent recall, and protect your license in the process.
+Automated transaction management tools like [Brittani AI](/pricing) can flag pre-1978 properties at intake and track disclosure form completion alongside your other compliance deadlines. That kind of systematic approach turns a compliance obligation from a memory test into a workflow step. If you are serious about Washington lead paint disclosure requirements 2026 compliance, build it into your systems rather than relying on individual agent recall, and protect your license in the process.

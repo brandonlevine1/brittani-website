@@ -4,7 +4,7 @@ description: "Rhode Island lead paint disclosure requirements 2026 explained for
 publishDate: "2026-06-19"
 modifiedDate: "2026-06-19"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/rhode-island-lead-paint-disclosure-2026.webp"
 imageAlt: "Historic Rhode Island triple-decker home with peeling paint layers illustrating lead paint disclosure requirements 2026"
@@ -108,6 +108,6 @@ The Lead-Safe Certificate and Lead Hazard Reduction Certificate programs adminis
 
 The regulatory environment is not static. HUD and the EPA periodically update the penalty amounts, the pamphlet content, and their enforcement priorities. Rhode Island's legislature has also shown willingness to expand lead-related obligations—the 2024 amendments to Chapter 23-24.6 broadened the definition of "lead hazard" and increased the penalties available to RIDOH. Agents should monitor bulletins from both the [Rhode Island Department of Health](https://health.ri.gov/) and the Rhode Island Department of Business Regulation for changes that take effect during the 2026 calendar year.
 
-For agents managing high transaction volumes, automating disclosure tracking is no longer a luxury—it is a risk management necessity. Platforms like Britanni AI at [/pricing](/pricing) can flag pre-1978 properties at intake, assign disclosure tasks to the correct timeline position, and ensure that signed forms are captured before any purchase agreement is executed. That kind of automation eliminates the most common errors described above without adding manual steps to an already-packed workflow.
+For agents managing high transaction volumes, automating disclosure tracking is no longer a luxury—it is a risk management necessity. Platforms like Brittani AI at [/pricing](/pricing) can flag pre-1978 properties at intake, assign disclosure tasks to the correct timeline position, and ensure that signed forms are captured before any purchase agreement is executed. That kind of automation eliminates the most common errors described above without adding manual steps to an already-packed workflow.
 
 Rhode Island lead paint disclosure requirements 2026 will continue to demand precision from every agent and broker handling pre-1978 property. The combination of the state's aging housing stock, active RIDOH enforcement, and federal penalty inflation means the cost of non-compliance will only increase. Build the process now—[the same way you would build handoff systems for any compliance-heavy transaction](/blog/transaction-handoff-checklist)—and the disclosure becomes routine rather than a liability event waiting to happen.

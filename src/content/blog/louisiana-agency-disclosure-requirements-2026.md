@@ -4,7 +4,7 @@ description: "Louisiana agency disclosure requirements 2026 explained with speci
 publishDate: "2026-06-05"
 modifiedDate: "2026-06-05"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/louisiana-agency-disclosure-requirements-2026.webp"
 imageAlt: "Louisiana agency disclosure requirements 2026 paperwork on a table in a French Quarter-style real estate office"
@@ -106,6 +106,6 @@ Compared to [Virginia's agency disclosure structure](/blog/virginia-agency-discl
 
 The disclosure requirement seems simple in isolation. But when you're handling eight or ten active transactions simultaneously, each at different stages, the procedural discipline required to execute proper disclosures at the right moment becomes a genuine operational challenge.
 
-This is where systematic file management separates agents who accumulate complaints from those who don't. Building disclosure checkpoints into your transaction workflow—triggered by specific events like scheduling a first showing or receiving an in-house offer—removes the reliance on memory. Tools like Britanni AI can automate these compliance checkpoints across your active pipeline, flagging files that have advanced past trigger points without the required disclosure documentation; you can see what that looks like at [/pricing](/pricing).
+This is where systematic file management separates agents who accumulate complaints from those who don't. Building disclosure checkpoints into your transaction workflow—triggered by specific events like scheduling a first showing or receiving an in-house offer—removes the reliance on memory. Tools like Brittani AI can automate these compliance checkpoints across your active pipeline, flagging files that have advanced past trigger points without the required disclosure documentation; you can see what that looks like at [/pricing](/pricing).
 
 The Louisiana agency disclosure requirements 2026 framework rewards agents and brokers who treat disclosure as a system rather than an afterthought. The statutes haven't changed dramatically from prior years, but enforcement attention has increased, and the LREC's willingness to impose meaningful penalties on repeat offenders has grown. Agents who build compliant habits now—and brokers who audit for them consistently—protect both their licenses and their clients' transactions from avoidable disruption.

@@ -4,7 +4,7 @@ description: "Pennsylvania agency disclosure requirements 2026 explained for age
 publishDate: "2026-06-01"
 modifiedDate: "2026-06-01"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/pennsylvania-agency-disclosure-requirements-2026.webp"
 imageAlt: "Pennsylvania agency disclosure requirements 2026 illustrated by a broker reviewing disclosure forms in a historic Philadelphia brownstone office"
@@ -106,4 +106,4 @@ The trigger is any substantive contact with a new consumer. Your CRM should prom
 
 The confirmation step is the signed and dated acknowledgment returned to your file. If a consumer refuses to sign, document the refusal with date, time, and method of attempted delivery. Store everything in your transaction management system with timestamps that prove sequence.
 
-Automating compliance steps like these is where platforms like Britanni AI fit naturally into a brokerage's operations—flagging when a disclosure is missing, tracking delivery dates against initial contact dates, and ensuring nothing falls through the cracks as your volume grows. You can see how that works at [/pricing](/pricing). Maintaining awareness of Pennsylvania agency disclosure requirements 2026 is only half the equation; executing flawlessly across every file, every time, is what keeps your license intact and your clients protected.
+Automating compliance steps like these is where platforms like Brittani AI fit naturally into a brokerage's operations—flagging when a disclosure is missing, tracking delivery dates against initial contact dates, and ensuring nothing falls through the cracks as your volume grows. You can see how that works at [/pricing](/pricing). Maintaining awareness of Pennsylvania agency disclosure requirements 2026 is only half the equation; executing flawlessly across every file, every time, is what keeps your license intact and your clients protected.

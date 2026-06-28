@@ -4,7 +4,7 @@ description: "Texas seller disclosure requirements 2026 explained for agents and
 publishDate: "2026-05-25"
 modifiedDate: "2026-05-25"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/texas-seller-disclosure-requirements-2026.webp"
 imageAlt: "A Texas real estate agent reviewing seller disclosure requirements 2026 paperwork at a desk with a residential property visible through the window"
@@ -75,7 +75,7 @@ The seller's disclosure notice under Section 5.008 is not the only disclosure ob
 
 HOA-related disclosures carry their own statutory framework under Property Code Section 207.003, requiring the seller to provide a resale certificate from the association. Failure to deliver the resale certificate gives the buyer an independent termination right. These overlapping disclosure obligations mean that a single transaction can require four or five separate disclosure documents, each with its own statutory basis and deadline.
 
-Agents who treat the Section 5.008 notice as the only disclosure in the transaction are leaving gaps. Brokers should maintain a checklist—keyed to property type and location—that identifies every disclosure obligation triggered by a specific listing. This is where technology earns its place in a transaction workflow, and platforms like [Britanni AI](/pricing) are specifically designed to flag missing disclosures and deadline risks before they become liability events.
+Agents who treat the Section 5.008 notice as the only disclosure in the transaction are leaving gaps. Brokers should maintain a checklist—keyed to property type and location—that identifies every disclosure obligation triggered by a specific listing. This is where technology earns its place in a transaction workflow, and platforms like [Brittani AI](/pricing) are specifically designed to flag missing disclosures and deadline risks before they become liability events.
 
 ## Staying Current as the Law Evolves
 

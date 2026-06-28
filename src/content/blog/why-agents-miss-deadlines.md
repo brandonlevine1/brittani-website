@@ -23,7 +23,7 @@ The EMD deposit is often the very first deadline in a transaction, and it's one 
 
 **How to never miss it:** Automated tracking should flag the EMD deadline the moment the contract is analyzed. The buyer, buyer's agent, and title company should all receive reminders. And when the title company confirms receipt, the system should log it and move on.
 
-This is exactly how [Britanni AI handles EMD tracking](/features) — automatic extraction from the contract, reminders to all parties, and confirmation tracking with the title company.
+This is exactly how [Brittani AI handles EMD tracking](/features) — automatic extraction from the contract, reminders to all parties, and confirmation tracking with the title company.
 
 ## 2. Inspection Period Deadline
 
@@ -45,7 +45,7 @@ The financing contingency gives the buyer a specified number of days to secure t
 
 **How to never miss it:** Implement weekly lender status checks starting from the first week of the deal. Track key milestones: appraisal ordered, appraisal completed, underwriting review, conditional approval, clear-to-close. If any milestone falls behind schedule, escalate immediately.
 
-[Britanni AI sends automated weekly status emails to lenders](/features) and alerts agents instantly when issues are detected.
+[Brittani AI sends automated weekly status emails to lenders](/features) and alerts agents instantly when issues are detected.
 
 ## 4. Title Clearance / HOA Document Deadline
 
@@ -81,7 +81,7 @@ The solution isn't to work harder or "be more careful." The solution is to build
 
 If you're currently tracking deadlines in a spreadsheet, on sticky notes, or — worst of all — in your head, you're taking on unnecessary risk with every transaction.
 
-AI-powered transaction coordination platforms like [Britanni AI](/features) extract every deadline from your contract automatically, send reminders to all parties at configurable intervals, and alert you the moment anything falls behind schedule.
+AI-powered transaction coordination platforms like [Brittani AI](/features) extract every deadline from your contract automatically, send reminders to all parties at configurable intervals, and alert you the moment anything falls behind schedule.
 
 The result? Zero missed deadlines. Every deal.
 

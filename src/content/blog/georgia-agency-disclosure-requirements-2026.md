@@ -4,7 +4,7 @@ description: "Georgia agency disclosure requirements 2026 explained for agents a
 publishDate: "2026-06-02"
 modifiedDate: "2026-06-02"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/georgia-agency-disclosure-requirements-2026.webp"
 imageAlt: "Georgia agency disclosure requirements 2026 illustrated by a closing table inside a brick-walled Atlanta brokerage office"
@@ -99,4 +99,4 @@ Transaction coordinators play a critical role here. If your TC is not flagging [
 
 The 2026 legislative session did not materially amend BRRETA, but GREC's interpretive guidance continues to tighten, particularly around buyer-broker agreements and their interplay with the agency disclosure form. Agents should watch for GREC bulletins issued through the Commission's quarterly newsletter and ensure their continuing education credits include at least one agency-law update course before renewal.
 
-Automation can close the gap between knowing the rules and executing them consistently across a busy pipeline. Britanni AI flags missing disclosures at file intake and tracks timing against showing records, giving brokers audit-ready documentation without manual review—[see how it works](/pricing). For any Georgia licensee handling volume, building compliance into your workflow is the only reliable way to meet Georgia agency disclosure requirements 2026 without depending on memory under pressure.
+Automation can close the gap between knowing the rules and executing them consistently across a busy pipeline. Brittani AI flags missing disclosures at file intake and tracks timing against showing records, giving brokers audit-ready documentation without manual review—[see how it works](/pricing). For any Georgia licensee handling volume, building compliance into your workflow is the only reliable way to meet Georgia agency disclosure requirements 2026 without depending on memory under pressure.

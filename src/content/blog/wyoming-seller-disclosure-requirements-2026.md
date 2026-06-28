@@ -4,7 +4,7 @@ description: "Wyoming seller disclosure requirements 2026 explained for agents a
 publishDate: "2026-05-31"
 modifiedDate: "2026-05-31"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/wyoming-seller-disclosure-requirements-2026.webp"
 imageAlt: "A ranch-style home near the Bighorn Mountains with Wyoming seller disclosure requirements 2026 paperwork on the porch table"
@@ -108,6 +108,6 @@ Ranch and recreational properties present additional disclosure challenges aroun
 
 The 2026 environment brings heightened scrutiny from WREC following a multi-year increase in consumer complaints related to nondisclosure. The Commission's 2025 annual report noted a 14 percent rise in disclosure-related complaints over the prior two years, and its enforcement budget was expanded by the legislature in the 2025 session. Agents should expect more audits, faster complaint investigations, and less tolerance for sloppy paperwork.
 
-For agents and brokers who want to reduce compliance risk without adding hours of administrative work to every listing, tools like Britanni AI automate disclosure tracking, deadline monitoring, and file completeness checks across your active inventory—[see how it fits your workflow at our pricing page](/pricing). The goal is not to replace your professional judgment but to ensure nothing falls through the cracks when you are running ten or fifteen deals simultaneously.
+For agents and brokers who want to reduce compliance risk without adding hours of administrative work to every listing, tools like Brittani AI automate disclosure tracking, deadline monitoring, and file completeness checks across your active inventory—[see how it fits your workflow at our pricing page](/pricing). The goal is not to replace your professional judgment but to ensure nothing falls through the cracks when you are running ten or fifteen deals simultaneously.
 
 **Wyoming seller disclosure requirements 2026 demand precision, documentation, and proactive broker oversight.** The statute is short, the form is straightforward, and the exemptions are narrow—but the consequences of noncompliance are disproportionately severe in a state where every transaction file can end up in front of a five-member commission that knows your name. Build your systems now, audit your files quarterly, and never let a disclosure form become an afterthought.

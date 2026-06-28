@@ -4,7 +4,7 @@ description: "Kansas lead paint disclosure requirements 2026 explained for agent
 publishDate: "2026-06-07"
 modifiedDate: "2026-06-07"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/kansas-lead-paint-disclosure-2026.webp"
 imageAlt: "Older Kansas farmhouse with peeling paint illustrating Kansas lead paint disclosure requirements 2026 compliance concerns"
@@ -103,6 +103,6 @@ For agents working across state lines or comparing requirements, the difference 
 
 The paperwork burden of lead paint compliance is modest—one form, one pamphlet, a few signatures. The operational challenge is ensuring it happens on every qualifying transaction without exception. Systems matter more than knowledge here. Every Kansas agent already knows the rule; the failures happen when the form gets skipped in the rush between listing appointment and first showing.
 
-Building the disclosure into your listing intake process—before the property hits MLS—eliminates the most common failure point. If the home was built before 1978, the lead paint form is page one of the listing file, completed at the same sitting where you gather seller information. Tools like [Britanni AI](/pricing) can flag pre-1978 properties at intake and auto-queue the lead paint disclosure as a required action item, making it functionally impossible to forget.
+Building the disclosure into your listing intake process—before the property hits MLS—eliminates the most common failure point. If the home was built before 1978, the lead paint form is page one of the listing file, completed at the same sitting where you gather seller information. Tools like [Brittani AI](/pricing) can flag pre-1978 properties at intake and auto-queue the lead paint disclosure as a required action item, making it functionally impossible to forget.
 
 The Kansas lead paint disclosure requirements 2026 remain federally driven, form-specific, and unforgiving when missed. Agents and brokers who treat this as a checkbox rather than a liability shield are betting their license on perfect memory across dozens of simultaneous transactions. That bet rarely pays off over a full career.

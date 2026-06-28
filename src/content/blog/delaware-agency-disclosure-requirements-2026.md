@@ -4,7 +4,7 @@ description: "Delaware agency disclosure requirements 2026 explained with form n
 publishDate: "2026-06-09"
 modifiedDate: "2026-06-09"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/delaware-agency-disclosure-requirements-2026.webp"
 imageAlt: "Delaware agency disclosure requirements 2026 compliance documents beside a historic brick colonial home in Wilmington"
@@ -102,4 +102,4 @@ For brokers managing high transaction volumes, the operational burden of trackin
 
 The regulatory environment in Delaware is not getting more forgiving. DREC has signaled through recent enforcement actions that agency disclosure violations will be treated as serious infractions rather than technical paperwork oversights. Agents who build disclosure delivery into their first-contact workflow — before the conversation turns substantive — will never face this problem.
 
-The practical takeaway is mechanical: disclosure form in hand before the first real conversation, signature collected before any confidential information flows, dual agency consent obtained the moment both sides of a transaction land in the same brokerage, and file documentation that proves the sequence. Tools like [Britanni AI](/pricing) can flag missing disclosures and enforce the correct document sequence automatically, which eliminates the human memory failures that cause most violations. Delaware agency disclosure requirements 2026 reward agents and brokers who treat compliance as a system rather than a habit — because habits fail under pressure, and systems do not.
+The practical takeaway is mechanical: disclosure form in hand before the first real conversation, signature collected before any confidential information flows, dual agency consent obtained the moment both sides of a transaction land in the same brokerage, and file documentation that proves the sequence. Tools like [Brittani AI](/pricing) can flag missing disclosures and enforce the correct document sequence automatically, which eliminates the human memory failures that cause most violations. Delaware agency disclosure requirements 2026 reward agents and brokers who treat compliance as a system rather than a habit — because habits fail under pressure, and systems do not.

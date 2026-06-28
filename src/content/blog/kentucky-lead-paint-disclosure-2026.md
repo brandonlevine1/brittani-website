@@ -4,7 +4,7 @@ description: "Kentucky lead paint disclosure requirements 2026 explained for age
 publishDate: "2026-06-15"
 modifiedDate: "2026-06-15"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "8 min"
 image: "/images/blog/kentucky-lead-paint-disclosure-2026.webp"
 imageAlt: "Historic brick row houses in Louisville illustrating Kentucky lead paint disclosure requirements 2026 for older residential properties"
@@ -107,4 +107,4 @@ If you know or have reason to know that the seller is providing false informatio
 
 The EPA has signaled continued enforcement focus on residential lead paint disclosure through its [enforcement initiative page](https://www.epa.gov/enforcement/lead-paint-renovation-repair-and-painting-program-enforcement), with particular attention to high-volume sellers and property management companies. Kentucky agents working with investor clients who flip pre-1978 homes should be especially attentive — these sellers often believe that renovation removes the disclosure obligation, which it does not unless accompanied by a certified lead-free inspection report.
 
-For agents managing high transaction volumes, building lead paint disclosure verification into your workflow prevents the kind of oversight that generates complaints. Tools like Britanni AI at [/pricing](/pricing) can flag pre-1978 properties at listing intake and ensure the correct disclosure forms are queued before the first showing occurs — removing the human memory bottleneck that causes most failures. As Kentucky lead paint disclosure requirements 2026 continue to carry significant financial and professional consequences, the agents who treat this form as a workflow checkpoint rather than an afterthought will be the ones who avoid the regulatory landmines entirely.
+For agents managing high transaction volumes, building lead paint disclosure verification into your workflow prevents the kind of oversight that generates complaints. Tools like Brittani AI at [/pricing](/pricing) can flag pre-1978 properties at listing intake and ensure the correct disclosure forms are queued before the first showing occurs — removing the human memory bottleneck that causes most failures. As Kentucky lead paint disclosure requirements 2026 continue to carry significant financial and professional consequences, the agents who treat this form as a workflow checkpoint rather than an afterthought will be the ones who avoid the regulatory landmines entirely.

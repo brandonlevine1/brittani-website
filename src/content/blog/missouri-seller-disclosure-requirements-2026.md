@@ -4,7 +4,7 @@ description: "Missouri seller disclosure requirements 2026 explained for agents 
 publishDate: "2026-05-25"
 modifiedDate: "2026-05-25"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/missouri-seller-disclosure-requirements-2026.webp"
 imageAlt: "A Missouri real estate agent reviewing seller disclosure requirements 2026 paperwork at a desk with property documents"
@@ -67,7 +67,7 @@ Brokers should also audit the content of disclosures, not just their existence. 
 
 Training frequency matters as well. Annual compliance training on disclosure obligations should be a condition of affiliation at every Missouri brokerage. The law has not changed dramatically in recent years, but agent turnover means new licensees regularly enter the field without understanding the specifics of Form 2125 or the timing requirements of RSMo 442.606. Do not assume pre-license education covered this adequately.
 
-Finally, brokers should maintain a standardized disclosure workflow. Whether your office uses a digital transaction management platform or paper files, every agent should follow the same sequence: obtain disclosure at listing, review for completeness, deliver to buyer's agent with the contract package, and retain a signed receipt or electronic confirmation. Deviation from that sequence should trigger a compliance flag. Tools like [Britanni AI](/pricing) can help brokerages automate compliance tracking and flag incomplete disclosure files before they become problems—without adding administrative burden to agents already managing full pipelines.
+Finally, brokers should maintain a standardized disclosure workflow. Whether your office uses a digital transaction management platform or paper files, every agent should follow the same sequence: obtain disclosure at listing, review for completeness, deliver to buyer's agent with the contract package, and retain a signed receipt or electronic confirmation. Deviation from that sequence should trigger a compliance flag. Tools like [Brittani AI](/pricing) can help brokerages automate compliance tracking and flag incomplete disclosure files before they become problems—without adding administrative burden to agents already managing full pipelines.
 
 ## Exemptions That Trip Up Experienced Agents
 

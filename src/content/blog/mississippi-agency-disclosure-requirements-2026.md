@@ -4,7 +4,7 @@ description: "Mississippi agency disclosure requirements 2026 explained for agen
 publishDate: "2026-06-07"
 modifiedDate: "2026-06-07"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/mississippi-agency-disclosure-requirements-2026.webp"
 imageAlt: "Mississippi agency disclosure requirements 2026 illustrated by a Southern-style real estate office with disclosure forms on a mahogany desk"
@@ -104,6 +104,6 @@ The 2024 NAR settlement changes have increased confusion around buyer representa
 
 The mechanics of compliance—printing forms, obtaining signatures, filing acknowledgments, tracking dates—create friction in a fast-moving transaction. Agents who close 10 or more deals per month need a repeatable process that does not depend on memory. Disclosure timing, form version control, and file documentation should all be systematized rather than handled ad hoc.
 
-This is where transaction management tools earn their keep. Britanni AI, for example, can flag disclosure deadlines based on transaction milestones and alert agents when a file is missing the signed Form 1 acknowledgment—check out plans at [/pricing](/pricing) if your current system relies on sticky notes and good intentions.
+This is where transaction management tools earn their keep. Brittani AI, for example, can flag disclosure deadlines based on transaction milestones and alert agents when a file is missing the signed Form 1 acknowledgment—check out plans at [/pricing](/pricing) if your current system relies on sticky notes and good intentions.
 
 Mississippi agency disclosure requirements 2026 are not changing dramatically from prior years, but enforcement intensity continues to increase as MREC processes more complaints electronically and audits files with greater granularity. Agents and brokers who build disclosure into the first step of every client interaction—not the last—will stay ahead of disciplinary risk and protect their transactions from avoidable collapse.

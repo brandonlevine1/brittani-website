@@ -24,7 +24,7 @@ AI changes this completely. Modern AI systems can:
 
 What used to take 30–60 minutes of careful reading now takes under 60 seconds. And the AI doesn't get tired, distracted, or skip pages.
 
-At [Britanni AI](/features), contract intelligence is the foundation of everything we do. Every deal starts with an AI-powered analysis that gives agents a complete picture of their transaction in seconds.
+At [Brittani AI](/features), contract intelligence is the foundation of everything we do. Every deal starts with an AI-powered analysis that gives agents a complete picture of their transaction in seconds.
 
 ## Automated Communications
 
@@ -73,6 +73,6 @@ The question isn't whether to adopt AI tools — it's which ones to choose and h
 
 ## Getting Started
 
-If you're curious about how AI-powered transaction coordination works in practice, [Britanni AI offers a 14-day free trial](/pricing) with no credit card required. Upload a real contract, see the AI analyze it in seconds, and experience what automated coordination feels like.
+If you're curious about how AI-powered transaction coordination works in practice, [Brittani AI offers a 14-day free trial](/pricing) with no credit card required. Upload a real contract, see the AI analyze it in seconds, and experience what automated coordination feels like.
 
 The future of real estate operations is here. The only question is whether you'll be ahead of it or behind it.

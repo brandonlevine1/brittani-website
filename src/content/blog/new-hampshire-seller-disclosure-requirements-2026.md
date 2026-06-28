@@ -4,7 +4,7 @@ description: "New Hampshire seller disclosure requirements 2026 explained for ag
 publishDate: "2026-05-29"
 modifiedDate: "2026-05-29"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/new-hampshire-seller-disclosure-requirements-2026.webp"
 imageAlt: "A real estate agent reviewing New Hampshire seller disclosure requirements 2026 forms at a granite-countertop kitchen in a colonial-style home"
@@ -114,6 +114,6 @@ From a practical standpoint, buyer's agents encountering a disclaimer filing sho
 
 The difference between a clean file and a liability-laden one often comes down to timing documentation and internal review processes. Agents managing multiple active transactions simultaneously—a reality for most producing agents in New Hampshire's competitive market—need systems that flag disclosure deadlines automatically rather than relying on memory.
 
-Tools like [Britanni AI](https://britanni.com/pricing) can monitor file milestones and surface missing documents before they become compliance gaps, which is particularly valuable when you are [tracking multiple active deals](/blog/track-multiple-active-deals) across different stages. The cost of a missed disclosure is always higher than the cost of prevention.
+Tools like [Brittani AI](https://brittani.ai/pricing) can monitor file milestones and surface missing documents before they become compliance gaps, which is particularly valuable when you are [tracking multiple active deals](/blog/track-multiple-active-deals) across different stages. The cost of a missed disclosure is always higher than the cost of prevention.
 
 New Hampshire seller disclosure requirements 2026 demand precision from every licensee involved in a residential transaction. The agents and brokerages that treat these obligations as a core competency—rather than an afterthought—will close more deals cleanly, face fewer complaints, and protect the licenses they worked to earn. Your disclosure process is not just paperwork; it is the first line of defense between your client and a courtroom.

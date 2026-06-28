@@ -4,7 +4,7 @@ description: "North Dakota agency disclosure requirements 2026 explained with sp
 publishDate: "2026-06-09"
 modifiedDate: "2026-06-09"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "8 min"
 image: "/images/blog/north-dakota-agency-disclosure-requirements-2026.webp"
 imageAlt: "A North Dakota real estate agent presenting agency disclosure requirements 2026 forms at a farmstead kitchen table with prairie visible through the window"
@@ -105,6 +105,6 @@ Quarterly file audits catch problems before the Commission does. Brokers who rel
 
 The 2026 regulatory environment in North Dakota has not introduced new statutory language, but the Commission's enforcement posture has tightened following national trends in agency transparency. The [NAR settlement implications](/blog/nar-settlement-year-one) have raised consumer awareness about who represents whom, making disclosure errors more likely to generate complaints.
 
-Agents who build disclosure delivery into their first-contact workflow—rather than treating it as a transactional checkbox—will stay ahead of enforcement actions. This means having digital copies of the current form accessible on your phone, using transaction management tools that timestamp delivery, and training every team member on the "earliest substantive contact" standard. Britanni AI's compliance tracking at [/pricing](/pricing) is built to flag missing disclosures before a file hits the broker's desk, which is the kind of automated checkpoint that turns a reactive audit into a proactive system.
+Agents who build disclosure delivery into their first-contact workflow—rather than treating it as a transactional checkbox—will stay ahead of enforcement actions. This means having digital copies of the current form accessible on your phone, using transaction management tools that timestamp delivery, and training every team member on the "earliest substantive contact" standard. Brittani AI's compliance tracking at [/pricing](/pricing) is built to flag missing disclosures before a file hits the broker's desk, which is the kind of automated checkpoint that turns a reactive audit into a proactive system.
 
 The North Dakota agency disclosure requirements 2026 are not changing dramatically from prior years, but the enforcement environment is. Agents who treat disclosure as a first-contact habit rather than a closing-day afterthought will protect their license, their clients, and their brokerage from avoidable risk.

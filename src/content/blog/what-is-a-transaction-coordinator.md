@@ -54,7 +54,7 @@ Cost: Similar to individual TCs, sometimes with volume discounts. TC companies c
 
 This is where things get interesting.
 
-AI-powered transaction coordinators like [Britanni AI](/features) are fundamentally rethinking how coordination works. Instead of relying on a human to manually track deadlines, send emails, and review documents, AI systems can:
+AI-powered transaction coordinators like [Brittani AI](/features) are fundamentally rethinking how coordination works. Instead of relying on a human to manually track deadlines, send emails, and review documents, AI systems can:
 
 - **Analyze contracts instantly** — extracting every critical date, amount, and contingency in under 60 seconds
 - **Send communications automatically** — context-aware emails to the right parties at the right times
@@ -78,4 +78,4 @@ Whether you choose a human TC, an AI-powered platform, or a hybrid approach, her
 
 Transaction coordination isn't optional — it's the backbone of every successful deal. The question isn't whether you need it, but how you get it.
 
-If you're ready to see how AI-powered coordination works, [book a demo of Britanni AI](#) and experience the difference firsthand. Or check out our [pricing page](/pricing) to see how much you could save per transaction.
+If you're ready to see how AI-powered coordination works, [book a demo of Brittani AI](#) and experience the difference firsthand. Or check out our [pricing page](/pricing) to see how much you could save per transaction.

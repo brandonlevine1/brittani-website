@@ -4,7 +4,7 @@ description: "North Carolina seller disclosure requirements 2026 explained for a
 publishDate: "2026-05-25"
 modifiedDate: "2026-05-25"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/north-carolina-seller-disclosure-requirements-2026.webp"
 imageAlt: "Real estate agent reviewing North Carolina seller disclosure requirements 2026 paperwork at a desk with property documents"
@@ -95,6 +95,6 @@ The [EPA's lead paint disclosure requirements](https://www.epa.gov/lead/sellers-
 
 The agents who avoid disclosure problems are not necessarily more knowledgeable about the law—they simply have better systems. A listing appointment checklist that includes disclosure completion as a prerequisite to photography scheduling ensures the form gets done early. A transaction management platform that flags missing documents before contract-to-close milestones prevents the late-delivery problem entirely.
 
-For teams and brokerages looking to systematize compliance across multiple agents, tools like [Britanni AI](/pricing) can automate document tracking and flag disclosure gaps before they become liability events—without requiring brokers to manually audit every file. The goal is not to replace human judgment on disclosure content but to ensure procedural steps never fall through the cracks.
+For teams and brokerages looking to systematize compliance across multiple agents, tools like [Brittani AI](/pricing) can automate document tracking and flag disclosure gaps before they become liability events—without requiring brokers to manually audit every file. The goal is not to replace human judgment on disclosure content but to ensure procedural steps never fall through the cracks.
 
 North Carolina seller disclosure requirements 2026 have not changed dramatically in statutory language, but the enforcement environment and buyer sophistication have. Agents and brokers who treat disclosure as a check-the-box formality are operating on borrowed time. Build the system, train your team, and document everything—because the cost of getting it wrong far exceeds the cost of getting it right.

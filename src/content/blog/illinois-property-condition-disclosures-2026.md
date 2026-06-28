@@ -4,7 +4,7 @@ description: "Illinois property condition & environmental disclosures 2026 requi
 publishDate: "2026-06-21"
 modifiedDate: "2026-06-21"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/illinois-property-condition-disclosures-2026.webp"
 imageAlt: "Illinois property condition & environmental disclosures 2026 compliance scene with a Chicago greystone two-flat and disclosure documents on a kitchen counter"
@@ -107,6 +107,6 @@ The radon pamphlet requirement under 420 ILCS 46 similarly does not mirror the p
 
 Managing disclosure timing across a full book of business is where compliance breaks down in practice. The statutory deadlines are straightforward in isolation—before the buyer is obligated, within the 10-day lead-paint window, the three-business-day termination period—but when you have 15 active listings and 10 pending contracts, a single missed delivery turns into a liability event.
 
-This is exactly why transaction management systems that flag disclosure milestones by file are becoming standard practice in Illinois brokerages. Tools like [Britanni AI](/pricing) can automate those checkpoints, alerting agents and TCs when a disclosure has not been acknowledged, when the radon pamphlet is missing, or when a pre-1978 listing lacks a lead-paint form. The point is not to replace agent judgment—it is to ensure administrative steps do not slip through the cracks.
+This is exactly why transaction management systems that flag disclosure milestones by file are becoming standard practice in Illinois brokerages. Tools like [Brittani AI](/pricing) can automate those checkpoints, alerting agents and TCs when a disclosure has not been acknowledged, when the radon pamphlet is missing, or when a pre-1978 listing lacks a lead-paint form. The point is not to replace agent judgment—it is to ensure administrative steps do not slip through the cracks.
 
 Agents and brokers operating under Illinois property condition & environmental disclosures 2026 rules have no margin for sloppy file management. The statutes are clear, the forms are prescribed, and the consequences of noncompliance are real. Build your disclosure checklist from the statutes outward—[765 ILCS 77](https://www.ilga.gov/legislation/ilcs/ilcs3.asp?ActID=2121), 420 ILCS 46, and federal lead-paint rules—and verify every file against it before your seller ever signs a contract.

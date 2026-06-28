@@ -4,7 +4,7 @@ description: "Texas agency disclosure requirements 2026 explained with form numb
 publishDate: "2026-05-31"
 modifiedDate: "2026-05-31"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/texas-agency-disclosure-requirements-2026.webp"
 imageAlt: "Texas agency disclosure requirements 2026 illustrated by a real estate closing table with TREC forms in front of a limestone Hill Country office"
@@ -107,6 +107,6 @@ Brokers should also conduct onboarding training that specifically addresses Texa
 
 TREC publishes proposed rule changes in the Texas Register and posts notices on its website before adoption. Subscribing to TREC's email updates is the simplest way to catch form revisions and rule amendments before they take effect. The Texas Association of Realtors (TAR) also issues practice guidance memos when TREC rules change, though TAR forms and TREC forms are not identical—agents must know which applies to their situation.
 
-For agents managing multiple transactions simultaneously, missing a form update can cascade across every active file. Automated compliance checks—like those built into platforms such as Britanni AI—flag when a form version in your file no longer matches the current published version, which eliminates one of the most preventable audit failures. You can see how that works at [/pricing](/pricing).
+For agents managing multiple transactions simultaneously, missing a form update can cascade across every active file. Automated compliance checks—like those built into platforms such as Brittani AI—flag when a form version in your file no longer matches the current published version, which eliminates one of the most preventable audit failures. You can see how that works at [/pricing](/pricing).
 
 The Texas agency disclosure requirements 2026 framework is not dramatically different from prior years in structure, but the enforcement environment has tightened and the stakes around buyer representation timing have grown sharper post-settlement. Agents and brokers who treat IABS delivery, written representation agreements, and intermediary consent as non-negotiable process steps—not afterthoughts—will avoid the complaints, fines, and deal collapses that hit their less disciplined competitors.

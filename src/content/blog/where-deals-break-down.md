@@ -4,7 +4,7 @@ description: "Most deals don't die at inspection or appraisal. Our data shows th
 publishDate: "2026-05-25"
 modifiedDate: "2026-05-25"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "7 min"
 image: "/images/blog/where-deals-break-down.webp"
 imageAlt: "Abstract geometric scaffolding structure photographed from below against an overcast sky"

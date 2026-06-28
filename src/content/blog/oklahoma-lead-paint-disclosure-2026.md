@@ -4,7 +4,7 @@ description: "Oklahoma lead paint disclosure requirements 2026 explained for age
 publishDate: "2026-06-16"
 modifiedDate: "2026-06-16"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "8 min"
 image: "/images/blog/oklahoma-lead-paint-disclosure-2026.webp"
 imageAlt: "A vintage 1940s bungalow in an Oklahoma neighborhood illustrating Oklahoma lead paint disclosure requirements 2026 for real estate transactions"
@@ -102,4 +102,4 @@ The EPA's renovation, repair, and painting (RRP) rule under 40 CFR 745 Subpart E
 
 The gap between agents who handle lead paint disclosures correctly and those who treat them as afterthought paperwork is often invisible until something goes wrong. The difference shows up when a buyer's child tests positive for elevated blood lead levels, when an EPA complaint lands on a broker's desk, or when a title company refuses to insure a transaction missing the required signatures. Agents who build disclosure delivery into their listing appointment workflow, rather than scrambling at contract, rarely face these problems.
 
-Platforms like [Britanni AI](/pricing) can flag pre-1978 properties at the listing intake stage and ensure the correct disclosure forms route to the right parties before a contract is ever drafted. Treating compliance as a systems problem rather than a memory problem is what separates brokerages that scale cleanly from those that accumulate risk with every closing. If you take one thing from this breakdown of the **Oklahoma lead paint disclosure requirements 2026**, make it this: the disclosure is not optional, the timeline is not flexible, and the consequences are not theoretical. For agents also managing multi-state transactions, reviewing how [Texas structures its lead paint disclosure](/blog/texas-lead-paint-disclosure-2026) offers a useful comparison point for building a repeatable compliance process.
+Platforms like [Brittani AI](/pricing) can flag pre-1978 properties at the listing intake stage and ensure the correct disclosure forms route to the right parties before a contract is ever drafted. Treating compliance as a systems problem rather than a memory problem is what separates brokerages that scale cleanly from those that accumulate risk with every closing. If you take one thing from this breakdown of the **Oklahoma lead paint disclosure requirements 2026**, make it this: the disclosure is not optional, the timeline is not flexible, and the consequences are not theoretical. For agents also managing multi-state transactions, reviewing how [Texas structures its lead paint disclosure](/blog/texas-lead-paint-disclosure-2026) offers a useful comparison point for building a repeatable compliance process.

@@ -4,7 +4,7 @@ description: "New York lead paint disclosure requirements 2026 explained for age
 publishDate: "2026-06-11"
 modifiedDate: "2026-06-11"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/new-york-lead-paint-disclosure-2026.webp"
 imageAlt: "Pre-war brownstone stoop in Brooklyn with peeling paint layers illustrating New York lead paint disclosure requirements 2026"
@@ -103,6 +103,6 @@ The practical challenge for most New York agents is not ignorance of the rules�
 
 Build the disclosure delivery into your listing launch process, not your contract process. The moment a property goes active, the disclosure should be pre-signed by the seller and ready for immediate delivery to any prospective buyer. This eliminates the scramble at offer acceptance and ensures the 10-day clock starts as early as possible.
 
-Tools like Britanni AI can flag pre-1978 properties at listing intake and auto-generate the disclosure package with the correct forms, current pamphlet version, and signature routing—reducing the administrative load that causes agents to [miss deadlines they know exist](/blog/why-agents-miss-deadlines). You can see what that workflow automation looks like at [britanni.ai/pricing](/pricing).
+Tools like Brittani AI can flag pre-1978 properties at listing intake and auto-generate the disclosure package with the correct forms, current pamphlet version, and signature routing—reducing the administrative load that causes agents to [miss deadlines they know exist](/blog/why-agents-miss-deadlines). You can see what that workflow automation looks like at [brittani.ai/pricing](/pricing).
 
 The **New York lead paint disclosure requirements 2026** are not new, but the enforcement environment has tightened, and the financial exposure for a single missed form now exceeds what most agents earn on a transaction. Treating lead paint disclosure as a mechanical, non-negotiable step in every pre-1978 sale—rather than something you will "get to at closing"—is the only defensible position for a licensed professional operating in this state.

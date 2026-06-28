@@ -4,7 +4,7 @@ description: "Connecticut property condition & environmental disclosures 2026 ex
 publishDate: "2026-06-26"
 modifiedDate: "2026-06-26"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/connecticut-property-condition-disclosures-2026.webp"
 imageAlt: "Connecticut property condition & environmental disclosures 2026 overview showing a colonial-style home with inspection documents"
@@ -98,4 +98,4 @@ The attorney review period in Connecticut (typically three to five business days
 
 Managing disclosure compliance across a full pipeline demands a system, not heroic memory. Tracking form delivery dates, signed acknowledgments, environmental flags, and opt-out elections for every file is precisely the kind of operational burden that causes [agents to miss deadlines](/blog/why-agents-miss-deadlines) and exposes brokerages to regulatory risk.
 
-Britanni AI was built to automate exactly these compliance checkpoints—flagging missing signatures, verifying delivery timing against contract dates, and alerting brokers to audit exceptions before they become complaints. If your brokerage is scaling in Connecticut's disclosure-heavy environment, reviewing the [pricing options at Britanni AI](/pricing) is worth 10 minutes of your week. Getting Connecticut property condition & environmental disclosures 2026 right protects your license, your clients, and the long-term reputation of your practice.
+Brittani AI was built to automate exactly these compliance checkpoints—flagging missing signatures, verifying delivery timing against contract dates, and alerting brokers to audit exceptions before they become complaints. If your brokerage is scaling in Connecticut's disclosure-heavy environment, reviewing the [pricing options at Brittani AI](/pricing) is worth 10 minutes of your week. Getting Connecticut property condition & environmental disclosures 2026 right protects your license, your clients, and the long-term reputation of your practice.

@@ -4,7 +4,7 @@ description: "Missouri lead paint disclosure requirements 2026 explained for age
 publishDate: "2026-06-14"
 modifiedDate: "2026-06-14"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "8 min"
 image: "/images/blog/missouri-lead-paint-disclosure-2026.webp"
 imageAlt: "A historic brick bungalow in a Missouri neighborhood with a real estate sign, representing Missouri lead paint disclosure requirements 2026"
@@ -119,6 +119,6 @@ For agents working in states with different disclosure frameworks, the compariso
 
 The agents who avoid lead paint disclosure violations are not smarter — they have better systems. The disclosure conversation should happen at listing appointment, not at contract. The EPA pamphlet should be in your listing packet, not something you scramble to find when a buyer's agent asks for it. The form should be pre-populated with the property address and seller's name before the listing goes live.
 
-If your current transaction management process leaves disclosure compliance to memory, you are gambling with your license. Tools like [Britanni AI](/pricing) can flag pre-1978 properties at intake and generate disclosure task sequences automatically, removing the human memory variable from a process where forgetfulness carries five-figure penalties.
+If your current transaction management process leaves disclosure compliance to memory, you are gambling with your license. Tools like [Brittani AI](/pricing) can flag pre-1978 properties at intake and generate disclosure task sequences automatically, removing the human memory variable from a process where forgetfulness carries five-figure penalties.
 
 Missouri lead paint disclosure requirements 2026 will not change in substance — the federal framework has been stable since 1996. What changes every year is the penalty amount and the sophistication of buyers and their attorneys in pursuing violations. Protecting yourself means treating lead paint disclosure as a non-negotiable system, not a checkbox you hope someone remembers.

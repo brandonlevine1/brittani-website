@@ -4,7 +4,7 @@ description: "North Carolina lead paint disclosure requirements 2026 explained f
 publishDate: "2026-06-12"
 modifiedDate: "2026-06-12"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/north-carolina-lead-paint-disclosure-2026.webp"
 imageAlt: "Historic pre-1978 bungalow in a North Carolina neighborhood illustrating North Carolina lead paint disclosure requirements 2026 compliance scenarios"
@@ -106,6 +106,6 @@ North Carolina's lead hazard management statute (N.C.G.S. 130A-453.06) also crea
 
 The regulatory framework for lead paint disclosure has remained stable since 1996, but enforcement intensity fluctuates with administration priorities and publicized child lead poisoning cases. North Carolina saw increased scrutiny in 2024 after several high-profile cases in older rental housing in Guilford County, and NCREC's 2025-2026 continuing education curriculum includes refreshed content on environmental hazard disclosures.
 
-Agents managing multiple active transactions should treat lead paint compliance as a non-negotiable checklist item rather than a judgment call. Tools like Britanni AI at [/pricing](/pricing) can flag pre-1978 properties at intake and ensure the correct addendum and delivery confirmations route to the right parties without relying on manual memory. That operational rigor is what separates agents who close cleanly from agents who end up in a NCREC hearing room.
+Agents managing multiple active transactions should treat lead paint compliance as a non-negotiable checklist item rather than a judgment call. Tools like Brittani AI at [/pricing](/pricing) can flag pre-1978 properties at intake and ensure the correct addendum and delivery confirmations route to the right parties without relying on manual memory. That operational rigor is what separates agents who close cleanly from agents who end up in a NCREC hearing room.
 
 The North Carolina lead paint disclosure requirements 2026 will not surprise any agent who has built proper systems, but they will continue to trap agents who treat disclosure as an afterthought. Build the process once, audit it quarterly, and never assume that a form signed at closing satisfies a requirement that must be met before the buyer ever picks up a pen.

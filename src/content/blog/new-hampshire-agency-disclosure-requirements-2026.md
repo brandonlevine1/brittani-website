@@ -4,7 +4,7 @@ description: "New Hampshire agency disclosure requirements 2026 explained with s
 publishDate: "2026-06-08"
 modifiedDate: "2026-06-08"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/new-hampshire-agency-disclosure-requirements-2026.webp"
 imageAlt: "A real estate agent reviewing New Hampshire agency disclosure requirements 2026 paperwork at a granite-countertop kitchen table in a colonial-style home"
@@ -104,6 +104,6 @@ The audit checklist should confirm three things for every file: that the disclos
 
 The regulatory environment in New Hampshire has tightened over the past several years, with the NHREC increasing its complaint investigation capacity and issuing more formal actions. Agents who treat disclosure as a checkbox rather than a meaningful consumer protection moment are the ones most likely to face problems. The form must be accompanied by a genuine conversation about what the relationship means and what duties flow from it.
 
-Technology can help. Platforms like [Britanni AI](/pricing) flag missing disclosure documents automatically within the transaction timeline, alerting agents and their brokers before a gap becomes a liability. Automating the audit trail does not replace the human obligation to explain the relationship, but it ensures the paperwork never falls through the cracks.
+Technology can help. Platforms like [Brittani AI](/pricing) flag missing disclosure documents automatically within the transaction timeline, alerting agents and their brokers before a gap becomes a liability. Automating the audit trail does not replace the human obligation to explain the relationship, but it ensures the paperwork never falls through the cracks.
 
 New Hampshire agency disclosure requirements 2026 demand attention from every licensee and supervising broker in the state. The forms are specific, the timing is strict, and the consequences are real. Agents who build disclosure into the first thirty seconds of every consumer interaction, document it meticulously, and lean on reliable compliance systems will avoid the enforcement actions that continue to catch their peers off guard.

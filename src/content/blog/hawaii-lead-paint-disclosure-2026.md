@@ -4,7 +4,7 @@ description: "Hawaii lead paint disclosure requirements 2026 explained for agent
 publishDate: "2026-06-18"
 modifiedDate: "2026-06-18"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "8 min"
 image: "/images/blog/hawaii-lead-paint-disclosure-2026.webp"
 imageAlt: "Vintage plantation-style home in Hawaii with peeling paint illustrating Hawaii lead paint disclosure requirements 2026 compliance concerns"
@@ -105,4 +105,4 @@ For buyer's agents, build the lead paint disclosure check into your first contac
 
 The regulatory framework around Hawaii lead paint disclosure requirements 2026 remains unchanged from prior years in its core obligations, but enforcement activity has increased as EPA Region 9 expands its residential compliance program. Agents who treat this disclosure as mere paperwork rather than a substantive legal obligation will eventually find themselves explaining their negligence to HREC or a federal administrative law judge.
 
-Brokerages that want to systematize compliance across their entire roster should consider tools like [Britanni AI](/pricing) to build disclosure verification into automated transaction workflows, ensuring no pre-1978 file advances without confirmed completion of all lead paint requirements. The Hawaii lead paint disclosure requirements 2026 will catch agents who wing it, and protecting your license means treating this obligation with the same seriousness you give to agency disclosure or contract deadlines.
+Brokerages that want to systematize compliance across their entire roster should consider tools like [Brittani AI](/pricing) to build disclosure verification into automated transaction workflows, ensuring no pre-1978 file advances without confirmed completion of all lead paint requirements. The Hawaii lead paint disclosure requirements 2026 will catch agents who wing it, and protecting your license means treating this obligation with the same seriousness you give to agency disclosure or contract deadlines.

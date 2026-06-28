@@ -4,7 +4,7 @@ description: "Master Oregon property condition & environmental disclosures 2026 
 publishDate: "2026-06-25"
 modifiedDate: "2026-06-25"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/oregon-property-condition-disclosures-2026.webp"
 imageAlt: "A seller disclosure form on a kitchen counter in a Craftsman-style Portland home illustrating Oregon property condition & environmental disclosures 2026"
@@ -98,7 +98,7 @@ Brokers should conduct quarterly file audits and require agents to submit disclo
 
 Training is equally important. OREA's 2025 continuing education requirements already touch on disclosure obligations, but brokers should supplement with brokerage-specific sessions that walk through actual OREF form scenarios. Role-playing a difficult seller conversation — where the seller wants to mark "unknown" on a known defect — is more effective than any slide deck.
 
-For brokerages managing dozens of active files simultaneously, automating disclosure tracking becomes essential. Platforms like [Britanni AI](https://britanni.ai/pricing) can flag missing forms, alert agents when delivery deadlines approach, and ensure brokers have real-time visibility into compliance status across every deal — the kind of systematic oversight that prevents a single agent's lapse from becoming a brokerage-wide liability event.
+For brokerages managing dozens of active files simultaneously, automating disclosure tracking becomes essential. Platforms like [Brittani AI](https://brittani.ai/pricing) can flag missing forms, alert agents when delivery deadlines approach, and ensure brokers have real-time visibility into compliance status across every deal — the kind of systematic oversight that prevents a single agent's lapse from becoming a brokerage-wide liability event.
 
 ## Oregon Property Condition & Environmental Disclosures 2026: Staying Ahead of Enforcement
 

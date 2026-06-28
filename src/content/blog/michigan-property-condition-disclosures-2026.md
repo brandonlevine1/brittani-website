@@ -4,7 +4,7 @@ description: "Michigan property condition & environmental disclosures 2026 guide
 publishDate: "2026-06-22"
 modifiedDate: "2026-06-22"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/michigan-property-condition-disclosures-2026.webp"
 imageAlt: "Michigan property condition & environmental disclosures 2026 compliance overview for real estate agents"
@@ -111,6 +111,6 @@ Beyond formal penalties, the reputational cost is real. A single disclosure laws
 
 The Michigan Legislature's [official statute page](https://www.legislature.mi.gov/Laws/MCL?objectName=mcl-Act-92-of-1993) for the Seller Disclosure Act should be bookmarked by every agent and broker in the state. Statutory language does not change often, but interpretive guidance and court rulings refine its application each year.
 
-Building a repeatable disclosure workflow—one that fires automatically when a listing goes active—removes the human error that causes most violations. Tools like [Britanni AI](/pricing) can track disclosure delivery dates, flag pre-1978 properties for lead paint compliance, and alert you when a rescission window is closing, so your Michigan property condition & environmental disclosures 2026 obligations stay met without relying on memory alone.
+Building a repeatable disclosure workflow—one that fires automatically when a listing goes active—removes the human error that causes most violations. Tools like [Brittani AI](/pricing) can track disclosure delivery dates, flag pre-1978 properties for lead paint compliance, and alert you when a rescission window is closing, so your Michigan property condition & environmental disclosures 2026 obligations stay met without relying on memory alone.
 
 If disclosure compliance still feels like paperwork you handle at the last minute, consider how many [deals break down](/blog/where-deals-break-down) precisely because a form was late, incomplete, or never delivered. Getting this right is not about checking a box—it is about keeping your license, your reputation, and your client's trust intact heading into every closing.

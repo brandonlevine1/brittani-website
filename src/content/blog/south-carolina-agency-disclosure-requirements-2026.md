@@ -4,7 +4,7 @@ description: "South Carolina agency disclosure requirements 2026 explained with 
 publishDate: "2026-06-05"
 modifiedDate: "2026-06-05"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/south-carolina-agency-disclosure-requirements-2026.webp"
 imageAlt: "A real estate agent presenting South Carolina agency disclosure requirements 2026 forms at a Charleston single house with a piazza in the background"
@@ -99,4 +99,4 @@ If you are managing more than a handful of active deals at once, the operational
 
 The SCREC has signaled through its 2025 enforcement patterns that agency disclosure will remain a priority area for audits and complaints in 2026. Agents and brokers who treat Form 500 as a formality rather than a legal obligation will continue to appear in consent agreements and disciplinary orders.
 
-Building disclosure compliance into your transaction workflow from day one is the only reliable defense. If you are running a high-volume practice, tools like Britanni AI can flag missing disclosure forms before they become regulatory violations—check [pricing here](/pricing) to see how automated compliance tracking fits into your operation. Ultimately, satisfying South Carolina agency disclosure requirements 2026 is not about memorizing form numbers; it is about building systems that make non-compliance structurally impossible within your brokerage.
+Building disclosure compliance into your transaction workflow from day one is the only reliable defense. If you are running a high-volume practice, tools like Brittani AI can flag missing disclosure forms before they become regulatory violations—check [pricing here](/pricing) to see how automated compliance tracking fits into your operation. Ultimately, satisfying South Carolina agency disclosure requirements 2026 is not about memorizing form numbers; it is about building systems that make non-compliance structurally impossible within your brokerage.

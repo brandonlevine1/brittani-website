@@ -4,7 +4,7 @@ description: "Oklahoma agency disclosure requirements 2026 explained with specif
 publishDate: "2026-06-06"
 modifiedDate: "2026-06-06"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/oklahoma-agency-disclosure-requirements-2026.webp"
 imageAlt: "Oklahoma agency disclosure requirements 2026 illustrated through paperwork on a red-brick desk with the Oklahoma State Capitol dome visible through a window"
@@ -100,6 +100,6 @@ Integrating disclosure compliance into your standard transaction workflow elimin
 
 Agents managing multiple active deals simultaneously face the highest risk of missing a step. Tracking each file's disclosure status becomes exponentially harder at volume, which is why many Oklahoma agents are moving toward automated compliance tracking. If you are [scaling from 5 to 15 deals](/blog/scaling-from-5-to-15-deals) per month, manual tracking will eventually fail you.
 
-Britanni AI's transaction management platform flags missing disclosure forms in real time, tied to each deal's milestone progression—so the REL-100 and REL-200 never slip through the cracks even when your pipeline is full. You can see how it fits into your workflow at [britanni.ai/pricing](/pricing). Getting the Oklahoma agency disclosure requirements 2026 right is non-negotiable, and the agents who build compliance into their systems—rather than treating it as an afterthought—are the ones who avoid the complaints, the fines, and the deals that fall apart after closing.
+Brittani AI's transaction management platform flags missing disclosure forms in real time, tied to each deal's milestone progression—so the REL-100 and REL-200 never slip through the cracks even when your pipeline is full. You can see how it fits into your workflow at [brittani.ai/pricing](/pricing). Getting the Oklahoma agency disclosure requirements 2026 right is non-negotiable, and the agents who build compliance into their systems—rather than treating it as an afterthought—are the ones who avoid the complaints, the fines, and the deals that fall apart after closing.
 
 For authoritative updates on form revisions and enforcement actions, check the [Oklahoma Real Estate Commission's official website](https://www.orec.ok.gov/).

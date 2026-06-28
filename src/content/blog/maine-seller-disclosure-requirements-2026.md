@@ -4,7 +4,7 @@ description: "Maine seller disclosure requirements 2026 explained for agents and
 publishDate: "2026-05-29"
 modifiedDate: "2026-05-29"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/maine-seller-disclosure-requirements-2026.webp"
 imageAlt: "A coastal Maine farmhouse with weathered shingles representing Maine seller disclosure requirements 2026 compliance for agents"
@@ -111,7 +111,7 @@ The disclosure process should be integrated into your listing workflow from day 
 
 **Review the completed form before it reaches any buyer.** Look for internal contradictions, blanks that should be filled, and answers that conflict with what you observed during your listing walkthrough. If a seller writes "No" to knowledge of water intrusion but you noticed staining in the basement, you have an independent duty to address that discrepancy—either by asking the seller to correct the form or by making your own written disclosure to prospective buyers.
 
-Once you have an executed purchase agreement, confirm delivery by obtaining the buyer's signed acknowledgment. File this document immediately rather than waiting for a closing package assembly. If your brokerage uses transaction coordination support—whether in-house or through a platform like Britanni AI—ensure that disclosure receipt confirmation is a tracked milestone with a hard deadline, not a soft reminder buried in a checklist. You can explore how automated compliance tracking works at [our pricing page](/pricing).
+Once you have an executed purchase agreement, confirm delivery by obtaining the buyer's signed acknowledgment. File this document immediately rather than waiting for a closing package assembly. If your brokerage uses transaction coordination support—whether in-house or through a platform like Brittani AI—ensure that disclosure receipt confirmation is a tracked milestone with a hard deadline, not a soft reminder buried in a checklist. You can explore how automated compliance tracking works at [our pricing page](/pricing).
 
 ## Maine Seller Disclosure Requirements 2026: The Bottom Line for Your Practice
 

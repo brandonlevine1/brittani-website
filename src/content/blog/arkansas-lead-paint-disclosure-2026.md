@@ -4,7 +4,7 @@ description: "Arkansas lead paint disclosure requirements 2026 explained for age
 publishDate: "2026-06-17"
 modifiedDate: "2026-06-17"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/arkansas-lead-paint-disclosure-2026.webp"
 imageAlt: "Historic Arkansas craftsman home with peeling paint illustrating Arkansas lead paint disclosure requirements 2026 for real estate agents"
@@ -119,6 +119,6 @@ For agents handling compliance across multiple states, comparing how [South Caro
 
 ## Staying Compliant on Arkansas Lead Paint Disclosure Requirements 2026
 
-The agents who avoid lead paint liability are not the ones with better legal instincts — they are the ones with better systems. Automated compliance tracking that flags pre-1978 properties at listing input, triggers disclosure form delivery before contract execution, and confirms all signatures before file closure eliminates the human error that creates exposure. Tools like [Britanni AI](/pricing) can flag missing disclosures across your active pipeline before a file ever reaches the closing table.
+The agents who avoid lead paint liability are not the ones with better legal instincts — they are the ones with better systems. Automated compliance tracking that flags pre-1978 properties at listing input, triggers disclosure form delivery before contract execution, and confirms all signatures before file closure eliminates the human error that creates exposure. Tools like [Brittani AI](/pricing) can flag missing disclosures across your active pipeline before a file ever reaches the closing table.
 
 Arkansas lead paint disclosure requirements 2026 have not changed in substance from prior years, but enforcement scrutiny and buyer awareness continue to increase. The agents and brokers who treat this as a systems problem rather than a knowledge problem will close more deals without the disciplinary complaints, rescission threats, and EPA letters that plague their less organized competitors.

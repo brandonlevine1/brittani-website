@@ -4,7 +4,7 @@ description: "Arkansas seller disclosure requirements 2026 explained for agents 
 publishDate: "2026-05-28"
 modifiedDate: "2026-05-28"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/arkansas-seller-disclosure-requirements-2026.webp"
 imageAlt: "A real estate agent reviewing Arkansas seller disclosure requirements 2026 paperwork at a desk with a view of the Ozark Mountains"
@@ -106,7 +106,7 @@ The most effective approach to Arkansas seller disclosure requirements 2026 is s
 
 Upon receiving the completed form, review every line. Flag any blank responses and return the form to the seller with instructions to mark "unknown" or provide an answer. Document this exchange. Before marketing the property, confirm the disclosure is complete and filed in the transaction management system.
 
-When an offer arrives, deliver the disclosure to the buyer's agent with timestamped confirmation. If the buyer requests it electronically, use a platform that generates read-receipts or e-signature confirmations. File that confirmation in the transaction record. If your brokerage uses Britanni AI for transaction coordination, the disclosure delivery step can be automated within the deal timeline, with reminders triggered if acknowledgment is not received within 24 hours—check [pricing](/pricing) if you have not set that up yet.
+When an offer arrives, deliver the disclosure to the buyer's agent with timestamped confirmation. If the buyer requests it electronically, use a platform that generates read-receipts or e-signature confirmations. File that confirmation in the transaction record. If your brokerage uses Brittani AI for transaction coordination, the disclosure delivery step can be automated within the deal timeline, with reminders triggered if acknowledgment is not received within 24 hours—check [pricing](/pricing) if you have not set that up yet.
 
 Between contract execution and closing, maintain contact with the seller about any property changes. A simple mid-transaction check-in asking "Has anything about the property's condition changed since you completed the disclosure?" protects everyone. Document the seller's response regardless of whether an amendment is needed. This practice, applied consistently across your [active deals](/blog/track-multiple-active-deals), builds a defensible record that serves you if a post-closing claim ever surfaces.
 

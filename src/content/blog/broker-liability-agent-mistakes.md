@@ -4,7 +4,7 @@ description: "Courts are holding brokers personally liable for agent compliance 
 publishDate: "2026-05-25"
 modifiedDate: "2026-05-25"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "7 min"
 image: "/images/blog/broker-liability-agent-mistakes.webp"
 imageAlt: "Abstract geometric building facade with layered concrete overhangs casting sharp shadows"

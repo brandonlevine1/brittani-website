@@ -4,7 +4,7 @@ description: "Nebraska seller disclosure requirements 2026 explained for agents 
 publishDate: "2026-05-28"
 modifiedDate: "2026-05-28"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/nebraska-seller-disclosure-requirements-2026.webp"
 imageAlt: "A Nebraska farmhouse with disclosure paperwork on a porch table representing Nebraska seller disclosure requirements 2026"
@@ -113,4 +113,4 @@ Both disclosures must be delivered, documented, and retained independently. Fail
 
 The Nebraska seller disclosure requirements 2026 have not undergone major legislative revision from recent years, but NREC enforcement has become more assertive in auditing files after buyer complaints. Agents who built habits around loose delivery timelines or incomplete forms during less scrutinized periods should tighten their processes now rather than after a complaint hits their license record.
 
-Systematizing disclosure delivery—getting the form completed at listing, attaching it to MLS documents, and documenting buyer receipt with a timestamp—eliminates 90% of the risk. If your current transaction workflow does not flag missing disclosures automatically, tools like [Britanni AI](/pricing) can build that checkpoint into your deal pipeline so nothing slips. The agents who survive regulatory scrutiny in 2026 will be those whose files tell a complete, timestamped story from listing to close—with the Nebraska seller disclosure requirements 2026 documentation front and center.
+Systematizing disclosure delivery—getting the form completed at listing, attaching it to MLS documents, and documenting buyer receipt with a timestamp—eliminates 90% of the risk. If your current transaction workflow does not flag missing disclosures automatically, tools like [Brittani AI](/pricing) can build that checkpoint into your deal pipeline so nothing slips. The agents who survive regulatory scrutiny in 2026 will be those whose files tell a complete, timestamped story from listing to close—with the Nebraska seller disclosure requirements 2026 documentation front and center.

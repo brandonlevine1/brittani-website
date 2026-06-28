@@ -4,7 +4,7 @@ description: "West Virginia seller disclosure requirements 2026 explained for ag
 publishDate: "2026-05-29"
 modifiedDate: "2026-05-29"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/west-virginia-seller-disclosure-requirements-2026.webp"
 imageAlt: "Real estate agent reviewing West Virginia seller disclosure requirements 2026 form on a desk beside a mountain-view window"
@@ -111,6 +111,6 @@ Agents managing multiple active files—especially those [tracking several deals
 
 The West Virginia Real Estate Commission periodically updates its guidance on disclosure practices, and the WVAR revises its standard forms to reflect emerging issues. Agents should monitor Commission bulletins and attend CE courses that address disclosure updates specifically.
 
-For brokerages looking to reduce disclosure-related risk at scale, tools like Britanni AI can flag missing disclosure documents, track delivery timestamps, and alert agents when rescission windows are open—reducing the administrative burden that leads to the errors described above. You can review plan options at [britanni.ai/pricing](/pricing) to see how automated compliance monitoring fits into your current workflow.
+For brokerages looking to reduce disclosure-related risk at scale, tools like Brittani AI can flag missing disclosure documents, track delivery timestamps, and alert agents when rescission windows are open—reducing the administrative burden that leads to the errors described above. You can review plan options at [brittani.ai/pricing](/pricing) to see how automated compliance monitoring fits into your current workflow.
 
 The West Virginia seller disclosure requirements 2026 framework is not changing dramatically from prior years, but enforcement attention and buyer sophistication continue to increase. Agents and brokers who treat disclosure as a proactive listing-stage task rather than a reactive contract-stage scramble will protect their licenses, their reputations, and their clients' transactions from avoidable disruption.

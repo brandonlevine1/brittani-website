@@ -4,7 +4,7 @@ description: "California lead paint disclosure requirements 2026 explained for a
 publishDate: "2026-06-10"
 modifiedDate: "2026-06-10"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/california-lead-paint-disclosure-2026.webp"
 imageAlt: "A vintage 1920s Craftsman bungalow in Pasadena illustrating California lead paint disclosure requirements 2026 for residential transactions"
@@ -116,4 +116,4 @@ Agents who build a systematic approach to [handling transaction paperwork](/blog
 
 ## Staying Compliant Without Losing Momentum
 
-The California lead paint disclosure requirements 2026 demand precision at a specific moment in the transaction timeline—before contract obligation. Agents who build this into their listing presentation workflow and buyer consultation process eliminate the timing risk entirely. Tools like Britanni AI at [/pricing](/pricing) can flag year-of-construction triggers and ensure the right forms hit the right parties at the right stage, reducing the manual tracking burden that leads to compliance gaps. Getting this right is not about adding complexity—it is about preventing the kind of liability exposure that no E&O policy fully covers.
+The California lead paint disclosure requirements 2026 demand precision at a specific moment in the transaction timeline—before contract obligation. Agents who build this into their listing presentation workflow and buyer consultation process eliminate the timing risk entirely. Tools like Brittani AI at [/pricing](/pricing) can flag year-of-construction triggers and ensure the right forms hit the right parties at the right stage, reducing the manual tracking burden that leads to compliance gaps. Getting this right is not about adding complexity—it is about preventing the kind of liability exposure that no E&O policy fully covers.

@@ -4,7 +4,7 @@ description: "Alaska agency disclosure requirements 2026 explained for agents an
 publishDate: "2026-06-10"
 modifiedDate: "2026-06-10"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/alaska-agency-disclosure-requirements-2026.webp"
 imageAlt: "Real estate disclosure documents on a table with an Alaska agency disclosure requirements 2026 compliance checklist and mountain landscape visible through office window"
@@ -108,4 +108,4 @@ The disclosure framework in Alaska is not burdensome once it becomes habitual, b
 
 > "A licensee shall, at the time of first substantive contact with a party, provide the written disclosure required by this section." — AS 08.88.396(a)
 
-For agents handling multiple active files, tools like [Britanni AI](https://britanni.ai/pricing) can flag missing disclosure documentation before a transaction progresses past the point where the gap becomes a liability. The Alaska agency disclosure requirements 2026 reward agents and brokers who build compliance into their systems rather than treating it as a box to check after the fact — and the agents who get this right protect not just their licenses, but the trust that makes every transaction possible.
+For agents handling multiple active files, tools like [Brittani AI](https://brittani.ai/pricing) can flag missing disclosure documentation before a transaction progresses past the point where the gap becomes a liability. The Alaska agency disclosure requirements 2026 reward agents and brokers who build compliance into their systems rather than treating it as a box to check after the fact — and the agents who get this right protect not just their licenses, but the trust that makes every transaction possible.

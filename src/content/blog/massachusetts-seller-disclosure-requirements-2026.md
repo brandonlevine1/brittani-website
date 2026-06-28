@@ -4,7 +4,7 @@ description: "Massachusetts seller disclosure requirements 2026 explained for ag
 publishDate: "2026-05-25"
 modifiedDate: "2026-05-25"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/massachusetts-seller-disclosure-requirements-2026.webp"
 imageAlt: "A real estate agent reviewing Massachusetts seller disclosure requirements 2026 paperwork at a desk with state compliance documents"
@@ -79,6 +79,6 @@ The most effective protection is a repeatable process that triggers at listing i
 
 Create a property-specific disclosure checklist based on the property's characteristics: construction date (lead paint trigger), sewage type (Title 5 trigger), municipality (local ordinance trigger), and any known environmental issues (21E trigger). This checklist lives at the front of the transaction file and serves as your compliance roadmap for the entire listing period.
 
-For agents managing multiple transactions simultaneously, building these workflows manually becomes unsustainable. Platforms like [Britanni AI](/pricing) can automate disclosure deadline tracking and flag missing compliance documents before they become liability events—the kind of operational backstop that brokers increasingly expect from their teams.
+For agents managing multiple transactions simultaneously, building these workflows manually becomes unsustainable. Platforms like [Brittani AI](/pricing) can automate disclosure deadline tracking and flag missing compliance documents before they become liability events—the kind of operational backstop that brokers increasingly expect from their teams.
 
 **Massachusetts seller disclosure requirements 2026 demand more from agents and brokers than the "caveat emptor" shorthand suggests.** The agents who thrive in this environment are the ones who treat disclosure compliance as a transaction management discipline—documented, audited, and enforced from listing intake through post-closing file review. Your license, your client's equity, and your brokerage's reputation depend on getting this right every single time.

@@ -4,7 +4,7 @@ description: "California property condition & environmental disclosures 2026 exp
 publishDate: "2026-06-20"
 modifiedDate: "2026-06-20"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/california-property-condition-disclosures-2026.webp"
 imageAlt: "A California mid-century home with disclosure documents on a patio table, representing California property condition & environmental disclosures 2026"
@@ -101,7 +101,7 @@ Brokers should verify that signed acknowledgments of delivery exist for every di
 
 Quarterly file audits—sampling 10-15% of closed files—reveal patterns. If one agent consistently delivers the TDS after contingency removal or omits the AVID, that pattern must be addressed with documented retraining. The DRE will look at supervisory records during a broker audit, and a blank training log signals negligence.
 
-Technology helps here. Platforms like Britanni AI can [track multiple active deals](/blog/track-multiple-active-deals) and flag when disclosure documents remain unsigned past configurable deadlines. Automating the reminder sequence does not relieve the broker of supervisory duty, but it shrinks the window for human error.
+Technology helps here. Platforms like Brittani AI can [track multiple active deals](/blog/track-multiple-active-deals) and flag when disclosure documents remain unsigned past configurable deadlines. Automating the reminder sequence does not relieve the broker of supervisory duty, but it shrinks the window for human error.
 
 ## Environmental Disclosures Beyond the NHD
 
@@ -123,4 +123,4 @@ Review your [transaction handoff procedures](/blog/transaction-handoff-checklist
 
 California property condition & environmental disclosures 2026 requirements reward agents who build systems rather than rely on memory. The forms are knowable, the deadlines are clear, and the consequences of noncompliance are published in black-letter law. What separates agents who avoid claims from those who collect them is not luck—it is process.
 
-If your brokerage lacks an automated compliance layer, tools like [Britanni AI](/pricing) can surface exactly which disclosures remain outstanding on each file and alert you before a deadline lapses. The goal is not perfection on day one—it is building a workflow that catches errors before they become lawsuits. California property condition & environmental disclosures 2026 will not get simpler next year, and neither will the DRE's expectations for the agents entrusted to deliver them.
+If your brokerage lacks an automated compliance layer, tools like [Brittani AI](/pricing) can surface exactly which disclosures remain outstanding on each file and alert you before a deadline lapses. The goal is not perfection on day one—it is building a workflow that catches errors before they become lawsuits. California property condition & environmental disclosures 2026 will not get simpler next year, and neither will the DRE's expectations for the agents entrusted to deliver them.

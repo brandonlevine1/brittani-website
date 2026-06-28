@@ -4,7 +4,7 @@ description: "Florida agency disclosure requirements 2026 explained with specifi
 publishDate: "2026-06-01"
 modifiedDate: "2026-06-01"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/florida-agency-disclosure-requirements-2026.webp"
 imageAlt: "Florida agency disclosure requirements 2026 illustrated by a real estate agent presenting disclosure forms in a sunny Miami office with palm trees visible through floor-to-ceiling windows"
@@ -100,6 +100,6 @@ The relationship between [proper transaction handoffs](/blog/transaction-handoff
 
 Managing disclosure timing across a high-volume practice demands systems, not memory. If you are closing fifteen or more transactions per month, relying on individual agents to remember which form goes to which party at which moment is a compliance gamble with predictable outcomes.
 
-Britanni AI builds disclosure checkpoints directly into transaction timelines so that the system flags missing forms before they become violations—something worth examining at [britanni.com/pricing](/pricing) if your brokerage audit results consistently show gaps. Automation does not replace the agent's obligation to understand the law, but it eliminates the most common failure mode: forgetting.
+Brittani AI builds disclosure checkpoints directly into transaction timelines so that the system flags missing forms before they become violations—something worth examining at [brittani.ai/pricing](/pricing) if your brokerage audit results consistently show gaps. Automation does not replace the agent's obligation to understand the law, but it eliminates the most common failure mode: forgetting.
 
 The Florida agency disclosure requirements 2026 are not new, but the enforcement environment has tightened as FREC clears its complaint backlog and agents face higher expectations post-NAR settlement changes. Getting disclosure right is not about checking a box—it is about protecting your license, your commission, and your clients from a problem that should never have existed in the first place.
