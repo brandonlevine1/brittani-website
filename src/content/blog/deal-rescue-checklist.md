@@ -4,7 +4,7 @@ description: "Deal falling apart? The 48-hour rescue checklist gives agents a st
 publishDate: "2026-05-25"
 modifiedDate: "2026-05-25"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "11 min"
 image: "/images/blog/deal-rescue-checklist.webp"
 imageAlt: "Agent at a desk with multiple open files, phone in hand, working urgently to rescue a real estate transaction"
@@ -87,6 +87,6 @@ The agents who rescue deals consistently are not smarter negotiators or more cha
 
 If you are a broker managing a team, the question is not whether one of your agents will face a collapsing deal this month—it is whether they will have a playbook when it happens. The cost of building that playbook is a few hours of preparation. The cost of not having one is $9,200 per lost deal, plus the E&O exposure, plus the referral network damage when a client tells their sphere that "my agent let the deal fall apart." For a deeper look at building transaction systems across a team, see [scaling transaction operations without adding headcount](/blog/scaling-transaction-operations).
 
-The operational gap that sinks most rescue attempts is not skill—it is bandwidth. An agent juggling 12 files simply cannot dedicate the focused diagnostic time that a collapsing deal demands while also managing their healthy transactions. This is exactly why tools like [Britanni AI](https://britanni.com/pricing) exist: to automate the routine monitoring, deadline tracking, and communication logging on your stable files so that when one deal demands emergency attention, you actually have the hours to give it. The 48-hour window does not forgive agents who are already 48 hours behind on their other work.
+The operational gap that sinks most rescue attempts is not skill—it is bandwidth. An agent juggling 12 files simply cannot dedicate the focused diagnostic time that a collapsing deal demands while also managing their healthy transactions. This is exactly why tools like [Brittani AI](https://brittani.ai/pricing) exist: to automate the routine monitoring, deadline tracking, and communication logging on your stable files so that when one deal demands emergency attention, you actually have the hours to give it. The 48-hour window does not forgive agents who are already 48 hours behind on their other work.
 
 A deal falling apart the 48-hour rescue checklist is only useful if you can actually execute it without your other nine transactions catching fire in the background. The agents and brokerages that close at the highest rates are the ones who solved the bandwidth problem first—so that when the crisis call comes at 4:38 PM on a Thursday, they are already clear to respond.

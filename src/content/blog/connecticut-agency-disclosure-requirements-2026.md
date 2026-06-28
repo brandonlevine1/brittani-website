@@ -4,7 +4,7 @@ description: "Connecticut agency disclosure requirements 2026 explained with for
 publishDate: "2026-06-06"
 modifiedDate: "2026-06-06"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/connecticut-agency-disclosure-requirements-2026.webp"
 imageAlt: "Connecticut agency disclosure requirements 2026 illustrated by a colonial-style home in a New England neighborhood with legal documents on a porch table"
@@ -92,6 +92,6 @@ Training matters here, too. The DCP has indicated in past enforcement actions th
 
 The regulatory posture in Connecticut is tightening, not loosening. The DCP has publicly signaled increased attention to consumer protection in real estate transactions, and the [NAR settlement changes](/blog/nar-settlement-year-one) have only added urgency to buyer-side disclosure obligations. Agents who treated disclosures as a paperwork afterthought in prior years will find that approach increasingly untenable.
 
-**Building disclosure compliance into your transaction management system—rather than relying on memory—is the only reliable defense.** Whether you use a transaction coordinator, a digital workflow, or a tool like [Britanni AI](/pricing) that flags required forms based on transaction stage, the goal is the same: remove human forgetfulness from the equation. The cost of a missed disclosure far exceeds the cost of any compliance tool.
+**Building disclosure compliance into your transaction management system—rather than relying on memory—is the only reliable defense.** Whether you use a transaction coordinator, a digital workflow, or a tool like [Brittani AI](/pricing) that flags required forms based on transaction stage, the goal is the same: remove human forgetfulness from the equation. The cost of a missed disclosure far exceeds the cost of any compliance tool.
 
 Connecticut agency disclosure requirements 2026 are not ambiguous, and the DCP does not grade on a curve. Every signed form in your file is evidence that you operated within the law. Every missing form is an invitation for disciplinary review. Build the system, audit the system, and make disclosure delivery as reflexive as unlocking a lockbox.

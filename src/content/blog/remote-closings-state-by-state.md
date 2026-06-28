@@ -4,7 +4,7 @@ description: "Most states now allow remote closings, but the patchwork of rules 
 publishDate: "2026-05-25"
 modifiedDate: "2026-05-25"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "7 min"
 image: "/images/blog/remote-closings-state-by-step.webp"
 imageAlt: "Close-up of overlapping glass panels reflecting diffused light in a modern office building"

@@ -4,7 +4,7 @@ description: "Utah agency disclosure requirements 2026 explained with form numbe
 publishDate: "2026-06-06"
 modifiedDate: "2026-06-06"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/utah-agency-disclosure-requirements-2026.webp"
 imageAlt: "Real estate documents and disclosure forms spread across a desk with Utah agency disclosure requirements 2026 highlighted"
@@ -99,6 +99,6 @@ Training is not optional. The Division expects brokers to provide ongoing educat
 
 The operational burden of tracking disclosure timing, form completeness, and signature verification across ten or twenty concurrent transactions is real. This is where transaction management discipline separates agents who stay clean from agents who accumulate violations. Agents who have systematized their compliance workflows — whether through a TC, a brokerage operations team, or automation tools — consistently outperform those who rely on memory.
 
-If you are scaling your business and finding that compliance documentation is the first thing to slip, you are not alone. Tools like [Britanni AI](/pricing) are purpose-built to flag missing disclosures, enforce timing sequences, and keep your files audit-ready without requiring you to manually cross-reference every form against every deadline. The cost of a missed disclosure — in fines, liability, and reputational damage — dwarfs the cost of building systems that prevent it.
+If you are scaling your business and finding that compliance documentation is the first thing to slip, you are not alone. Tools like [Brittani AI](/pricing) are purpose-built to flag missing disclosures, enforce timing sequences, and keep your files audit-ready without requiring you to manually cross-reference every form against every deadline. The cost of a missed disclosure — in fines, liability, and reputational damage — dwarfs the cost of building systems that prevent it.
 
 Utah agency disclosure requirements 2026 are not changing in their substance, but the Division's willingness to enforce them is not declining either. Agents and brokers who treat disclosure as a checkbox rather than a legal obligation are betting their licenses on luck. For those who want a reference point on the statute itself, the full text is available through the [Utah State Legislature's code archive](https://le.utah.gov/xcode/Title61/Chapter2F/61-2f-S401.html). Build your systems, train your teams, and make disclosure a non-negotiable first step in every client relationship.

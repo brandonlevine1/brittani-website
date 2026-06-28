@@ -4,7 +4,7 @@ description: "Arizona lead paint disclosure requirements 2026 explained for agen
 publishDate: "2026-06-13"
 modifiedDate: "2026-06-13"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/arizona-lead-paint-disclosure-2026.webp"
 imageAlt: "A mid-century Arizona home with peeling exterior paint under harsh desert sun, illustrating Arizona lead paint disclosure requirements 2026"
@@ -106,4 +106,4 @@ The Arizona Department of Environmental Quality (ADEQ) also maintains regulation
 
 The lead paint disclosure is one of the few federal requirements that names real estate agents as independently liable parties—not just their clients, not just their brokerages. Your signature on that form is your personal attestation that you fulfilled your duties under 24 CFR Part 35. Treat it with the same gravity you would a license renewal.
 
-For agents and brokers looking to systematize compliance across every transaction type, tools like Britanni AI can flag pre-1978 properties at intake, auto-assign the correct disclosure forms, and track signature status so nothing falls through the cracks—check [pricing](/pricing) to see how it fits your brokerage's volume. Meeting Arizona lead paint disclosure requirements 2026 is not difficult when your systems are built to catch what humans forget, and the cost of getting it wrong—financially, legally, and reputationally—makes prevention the only rational strategy.
+For agents and brokers looking to systematize compliance across every transaction type, tools like Brittani AI can flag pre-1978 properties at intake, auto-assign the correct disclosure forms, and track signature status so nothing falls through the cracks—check [pricing](/pricing) to see how it fits your brokerage's volume. Meeting Arizona lead paint disclosure requirements 2026 is not difficult when your systems are built to catch what humans forget, and the cost of getting it wrong—financially, legally, and reputationally—makes prevention the only rational strategy.

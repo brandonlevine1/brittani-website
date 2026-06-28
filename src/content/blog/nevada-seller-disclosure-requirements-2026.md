@@ -4,7 +4,7 @@ description: "Nevada seller disclosure requirements 2026 explained for agents an
 publishDate: "2026-05-28"
 modifiedDate: "2026-05-28"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/nevada-seller-disclosure-requirements-2026.webp"
 imageAlt: "Nevada seller disclosure requirements 2026 compliance documents on a desk overlooking the Las Vegas valley skyline"
@@ -107,6 +107,6 @@ Build the disclosure into your listing process at intake, not after the seller a
 
 Once completed, upload the disclosure to your transaction management platform immediately. Set a calendar trigger that fires when an offer is accepted, reminding you to deliver the disclosure to the buyer's agent with a timestamped record. Track the 5-day rescission window as a separate deadline from any contractual contingency periods.
 
-For agents managing high volume, automating these compliance checkpoints eliminates the human error that causes most failures. Tools like [Britanni AI](/pricing) can flag missing disclosures and monitor delivery deadlines across your active pipeline, reducing the manual tracking that leads to the mistakes outlined above.
+For agents managing high volume, automating these compliance checkpoints eliminates the human error that causes most failures. Tools like [Brittani AI](/pricing) can flag missing disclosures and monitor delivery deadlines across your active pipeline, reducing the manual tracking that leads to the mistakes outlined above.
 
 The Nevada seller disclosure requirements 2026 are not new in concept, but the enforcement environment continues to tighten. Agents and brokers who treat disclosure compliance as a systems problem—rather than a willpower problem—will avoid the costly mistakes that generate NRED complaints and [derail deals at the finish line](/blog/where-deals-break-down). Build it into your process once, audit it quarterly, and stop relying on memory to protect your license.

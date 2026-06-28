@@ -4,7 +4,7 @@ description: "Colorado lead paint disclosure requirements 2026 explained for age
 publishDate: "2026-06-14"
 modifiedDate: "2026-06-14"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/colorado-lead-paint-disclosure-2026.webp"
 imageAlt: "Victorian-era Denver home with peeling paint illustrating Colorado lead paint disclosure requirements 2026 for real estate agents"
@@ -101,7 +101,7 @@ Building compliance into your standard operating procedure eliminates the need t
 
 **On the buyer side, the cooperating agent must confirm EPA pamphlet delivery and document the 10-day inspection election before the contract's inspection objection deadline.** In Colorado's standard Contract to Buy and Sell (CBS), the lead paint inspection period runs concurrently with—but is legally separate from—the general inspection period. Agents who conflate the two create confusion when a buyer wants to waive general inspection but retain their lead inspection right.
 
-For teams managing high transaction volumes, building automated reminders tied to property year-built fields in MLS data prevents the most common oversight. Tools like Britanni AI at [britanni.ai/pricing](/pricing) can flag pre-1978 properties at listing intake and generate disclosure task sequences so that neither the agent nor the TC needs to manually remember each compliance step.
+For teams managing high transaction volumes, building automated reminders tied to property year-built fields in MLS data prevents the most common oversight. Tools like Brittani AI at [brittani.ai/pricing](/pricing) can flag pre-1978 properties at listing intake and generate disclosure task sequences so that neither the agent nor the TC needs to manually remember each compliance step.
 
 ## Colorado Lead Paint Disclosure Requirements 2026: The Bottom Line for Your License
 

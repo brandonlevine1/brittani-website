@@ -4,7 +4,7 @@ description: "Montana lead paint disclosure requirements 2026 explained for agen
 publishDate: "2026-06-19"
 modifiedDate: "2026-06-19"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "8 min"
 image: "/images/blog/montana-lead-paint-disclosure-2026.webp"
 imageAlt: "Historic brick home in a Montana mountain town illustrating Montana lead paint disclosure requirements 2026 for real estate agents"
@@ -117,4 +117,4 @@ Lead paint disclosure is not an isolated compliance task—it connects to your l
 
 At listing intake, the agent should verify the property's construction year through Montana Cadastral or county GIS records and immediately flag any pre-1978 property for lead disclosure. At buyer consultation, the buyer's agent should explain the 10-day inspection right before offers are submitted so buyers can make informed decisions about waivers. At contract execution, both agents should confirm signatures are present on the disclosure form before submitting to their respective brokers.
 
-For agents managing ten or more active transactions, this level of detail-tracking across listings becomes a real operational burden. Britanni AI was built to flag exactly these regulatory triggers based on property data, generating reminders and audit trails so that a disclosure requirement like Montana lead paint disclosure requirements 2026 never falls to memory alone—check what that looks like at [/pricing](/pricing). Compliance failures are rarely intentional; they are almost always the result of volume outpacing systems.
+For agents managing ten or more active transactions, this level of detail-tracking across listings becomes a real operational burden. Brittani AI was built to flag exactly these regulatory triggers based on property data, generating reminders and audit trails so that a disclosure requirement like Montana lead paint disclosure requirements 2026 never falls to memory alone—check what that looks like at [/pricing](/pricing). Compliance failures are rarely intentional; they are almost always the result of volume outpacing systems.

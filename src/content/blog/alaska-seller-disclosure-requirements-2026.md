@@ -4,7 +4,7 @@ description: "Alaska seller disclosure requirements 2026 explained for agents an
 publishDate: "2026-05-31"
 modifiedDate: "2026-05-31"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/alaska-seller-disclosure-requirements-2026.webp"
 imageAlt: "A real estate agent reviewing Alaska seller disclosure requirements 2026 paperwork in front of a mountain cabin near Denali"
@@ -100,6 +100,6 @@ The downstream effect on deals is equally damaging. A buyer who receives a late 
 
 The Alaska Real Estate Commission has signaled increased scrutiny of disclosure compliance in recent enforcement actions. Two formal disciplinary cases published in late 2025 involved listing agents who failed to ensure amended disclosures were delivered after material defects were discovered during buyer inspections. Both resulted in probationary conditions on the agents' licenses.
 
-Staying compliant does not require heroic effort—it requires systems. Agents handling multiple active files simultaneously need a workflow that flags disclosure deadlines and delivery confirmations without relying on memory. Tools like Britanni AI at [/pricing](/pricing) exist specifically to automate these compliance checkpoints across your active transactions, so that disclosure delivery and amendment reminders never fall through the cracks.
+Staying compliant does not require heroic effort—it requires systems. Agents handling multiple active files simultaneously need a workflow that flags disclosure deadlines and delivery confirmations without relying on memory. Tools like Brittani AI at [/pricing](/pricing) exist specifically to automate these compliance checkpoints across your active transactions, so that disclosure delivery and amendment reminders never fall through the cracks.
 
 Alaska seller disclosure requirements 2026 are not changing the fundamental obligation, but enforcement intensity is rising. Agents and brokers who treat disclosure as a day-one priority rather than a last-minute checkbox will keep their licenses clean, their deals intact, and their clients protected from post-closing litigation. The form takes twenty minutes to complete properly—the consequences of skipping it can last years.

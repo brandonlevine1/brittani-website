@@ -4,7 +4,7 @@ description: "A monthly compliance audit with 12 items every broker should check
 publishDate: "2026-05-25"
 modifiedDate: "2026-05-25"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "11 min"
 image: "/images/blog/monthly-compliance-audit.webp"
 imageAlt: "Broker's desk with organized transaction files, a checklist, and a laptop showing compliance tracking software"
@@ -81,4 +81,4 @@ Brokers managing agent teams of five to fifteen people often resist the audit be
 
 The brokers who run this system consistently report that their agents actually appreciate it. Agents managing five to fifteen active deals simultaneously are juggling dozens of deadlines. A monthly check that catches a missing form before it becomes a closing delay is a service to the agent, not a punishment. Over time, the audit trains your team's habits and the deficiency rate drops. Most brokerages see a 40 to 60 percent reduction in findings within six months of implementing a structured monthly review.
 
-If the manual reconciliation of trust accounts, contingency deadlines, and disclosure tracking still takes longer than you want, platforms like [Britanni AI](/pricing) can automate the detection layer—flagging missing documents and deadline conflicts before your monthly audit even begins, which compresses that three-hour window into focused decision-making rather than file hunting. The monthly compliance audit—12 items every broker should check—remains your responsibility as the supervising broker, but the mechanical labor of surfacing deficiencies does not have to be.
+If the manual reconciliation of trust accounts, contingency deadlines, and disclosure tracking still takes longer than you want, platforms like [Brittani AI](/pricing) can automate the detection layer—flagging missing documents and deadline conflicts before your monthly audit even begins, which compresses that three-hour window into focused decision-making rather than file hunting. The monthly compliance audit—12 items every broker should check—remains your responsibility as the supervising broker, but the mechanical labor of surfacing deficiencies does not have to be.

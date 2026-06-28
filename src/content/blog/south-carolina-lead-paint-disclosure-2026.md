@@ -4,7 +4,7 @@ description: "South Carolina lead paint disclosure requirements 2026 explained f
 publishDate: "2026-06-15"
 modifiedDate: "2026-06-15"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/south-carolina-lead-paint-disclosure-2026.webp"
 imageAlt: "Historic Charleston single house with peeling exterior paint illustrating South Carolina lead paint disclosure requirements 2026"
@@ -108,4 +108,4 @@ Agents occasionally assume that checking a box on the state property condition f
 
 ## Staying Compliant Without Slowing Down Your Pipeline
 
-Meeting the South Carolina lead paint disclosure requirements 2026 demands systematic attention at the transaction level — the kind of repeatable process that protects agents from the consequences described above. Firms that build disclosure compliance into their workflow from listing intake through closing eliminate the scramble that produces errors. Tools like Britanni AI can flag pre-1978 properties at the point of listing entry and generate disclosure task sequences that ensure SCR Form 520 is completed, signed by both agents, and retained — all without adding manual checkpoints to your [deal management process](/blog/track-multiple-active-deals). You can see how that works at [britanni.ai/pricing](/pricing). The agents who treat lead paint disclosure as a process engineering problem rather than a memory test are the ones who never face a $19,507 penalty or a rescinded contract under the South Carolina lead paint disclosure requirements 2026.
+Meeting the South Carolina lead paint disclosure requirements 2026 demands systematic attention at the transaction level — the kind of repeatable process that protects agents from the consequences described above. Firms that build disclosure compliance into their workflow from listing intake through closing eliminate the scramble that produces errors. Tools like Brittani AI can flag pre-1978 properties at the point of listing entry and generate disclosure task sequences that ensure SCR Form 520 is completed, signed by both agents, and retained — all without adding manual checkpoints to your [deal management process](/blog/track-multiple-active-deals). You can see how that works at [brittani.ai/pricing](/pricing). The agents who treat lead paint disclosure as a process engineering problem rather than a memory test are the ones who never face a $19,507 penalty or a rescinded contract under the South Carolina lead paint disclosure requirements 2026.

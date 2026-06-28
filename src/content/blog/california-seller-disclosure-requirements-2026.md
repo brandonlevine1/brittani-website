@@ -2,7 +2,7 @@
 title: "California Seller Disclosure Requirements 2026: What Every Agent Must Know to Stay Compliant"
 description: "A comprehensive guide to California seller disclosure requirements for licensed agents, covering forms, statutes, liability, and common mistakes."
 publishDate: "2026-05-24"
-author: "Britanni AI Team"
+author: "Brittani AI Team"
 readTime: "8 min read"
 tags: ["seller-disclosure-requirements", "california", "compliance"]
 ---
@@ -97,4 +97,4 @@ From a risk management perspective, brokers should also ensure their agents unde
 
 ## Stay Compliant Without the Busywork
 
-Tracking disclosure deadlines, generating reminders for supplemental disclosures, and ensuring nothing falls through the cracks across dozens of active transactions is exactly the kind of high-stakes administrative burden that leads to errors. Britanni AI's transaction management automation monitors your disclosure timelines, flags missing forms, and sends deadline-triggered reminders to you and your team—so compliance happens systematically, not by memory. Start a free trial at [britanni.ai/pricing](/pricing) and see how it fits into your workflow.
+Tracking disclosure deadlines, generating reminders for supplemental disclosures, and ensuring nothing falls through the cracks across dozens of active transactions is exactly the kind of high-stakes administrative burden that leads to errors. Brittani AI's transaction management automation monitors your disclosure timelines, flags missing forms, and sends deadline-triggered reminders to you and your team—so compliance happens systematically, not by memory. Start a free trial at [brittani.ai/pricing](/pricing) and see how it fits into your workflow.

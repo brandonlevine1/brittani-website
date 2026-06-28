@@ -4,7 +4,7 @@ description: "Alabama property condition & environmental disclosures 2026 explai
 publishDate: "2026-06-25"
 modifiedDate: "2026-06-25"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/alabama-property-condition-disclosures-2026.webp"
 imageAlt: "Alabama property condition & environmental disclosures 2026 overview with a historic home inspection scene in Birmingham"
@@ -108,4 +108,4 @@ The [Alabama Real Estate Commission's administrative code](https://arec.alabama.
 
 Disclosure compliance is one of those areas where the workload feels disproportionate to the perceived risk—until it isn't. One undisclosed foundation crack or one missing lead-paint form can generate more legal fees than a year of commissions. Agents who build disclosure delivery into their standard workflow from listing appointment forward rarely face these problems.
 
-If you are running a high-volume practice and worrying about [where deals tend to break down](/blog/where-deals-break-down), disclosure gaps should be at the top of your audit list. Tools like Britanni AI at [/pricing](/pricing) can flag missing disclosure documents automatically within your transaction timeline, reducing the chance that a form slips through during a busy week. For Alabama property condition & environmental disclosures 2026, the agents who thrive will be the ones who treat compliance not as overhead but as deal insurance—built into every file, every time, without exception.
+If you are running a high-volume practice and worrying about [where deals tend to break down](/blog/where-deals-break-down), disclosure gaps should be at the top of your audit list. Tools like Brittani AI at [/pricing](/pricing) can flag missing disclosure documents automatically within your transaction timeline, reducing the chance that a form slips through during a busy week. For Alabama property condition & environmental disclosures 2026, the agents who thrive will be the ones who treat compliance not as overhead but as deal insurance—built into every file, every time, without exception.

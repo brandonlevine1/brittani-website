@@ -4,7 +4,7 @@ description: "New Mexico seller disclosure requirements 2026 explained for agent
 publishDate: "2026-05-28"
 modifiedDate: "2026-05-28"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/new-mexico-seller-disclosure-requirements-2026.webp"
 imageAlt: "Adobe-style home in New Mexico with disclosure paperwork on a courtyard table, illustrating New Mexico seller disclosure requirements 2026"
@@ -106,6 +106,6 @@ Septic systems in New Mexico are regulated by the New Mexico Environment Departm
 
 Disclosure compliance is a documentation problem as much as a knowledge problem. The agents who get into trouble are not usually ignorant of the rules—they simply lose track of which form went where, when delivery happened, and whether the seller updated the disclosure after the inspection revealed new issues.
 
-Automated transaction tracking eliminates most of these gaps by timestamping document delivery, flagging incomplete forms before contract execution, and surfacing amendment prompts when inspection reports land. Britanni AI was built specifically for this kind of compliance-layer management, and agents handling multiple active deals can see how it fits their workflow at [britanni.com/pricing](/pricing).
+Automated transaction tracking eliminates most of these gaps by timestamping document delivery, flagging incomplete forms before contract execution, and surfacing amendment prompts when inspection reports land. Brittani AI was built specifically for this kind of compliance-layer management, and agents handling multiple active deals can see how it fits their workflow at [brittani.ai/pricing](/pricing).
 
 **New Mexico seller disclosure requirements 2026 demand more attention than most agents give them—not because the rules are arcane, but because the consequences of small oversights scale quickly into rescission rights, NMREC discipline, and civil liability.** The agents and brokers who treat disclosure as a system rather than a checkbox will close more deals cleanly and sleep better doing it.

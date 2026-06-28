@@ -4,7 +4,7 @@ description: "Delaware lead paint disclosure requirements 2026 explained for age
 publishDate: "2026-06-19"
 modifiedDate: "2026-06-19"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/delaware-lead-paint-disclosure-2026.webp"
 imageAlt: "Historic brick rowhouses in Wilmington, Delaware with a lead paint disclosure form overlaid, representing Delaware lead paint disclosure requirements 2026"
@@ -105,4 +105,4 @@ Estate sales and probate transactions still require disclosure. Executors and pe
 
 The mechanical burden of lead disclosure compliance is not heavy — one form, one pamphlet, one contingency clause. But across dozens of transactions per year, especially when [tracking multiple active deals](/blog/track-multiple-active-deals) simultaneously, the risk of a single missed signature or late delivery compounds. Building the lead disclosure into your listing intake workflow rather than your closing workflow eliminates the timing violation that catches most agents.
 
-Platforms like Britanni AI at [/pricing](/pricing) can flag pre-1978 properties at listing entry and automatically queue the correct disclosure documents, deadline reminders, and signature tracking — removing the reliance on memory that causes most violations. As enforcement of Delaware lead paint disclosure requirements 2026 continues to tighten at both the federal and Commission level, the agents and brokerages that build compliance into their systems rather than treating it as an afterthought will avoid the fines, lawsuits, and license actions that catch their less-prepared competitors.
+Platforms like Brittani AI at [/pricing](/pricing) can flag pre-1978 properties at listing entry and automatically queue the correct disclosure documents, deadline reminders, and signature tracking — removing the reliance on memory that causes most violations. As enforcement of Delaware lead paint disclosure requirements 2026 continues to tighten at both the federal and Commission level, the agents and brokerages that build compliance into their systems rather than treating it as an afterthought will avoid the fines, lawsuits, and license actions that catch their less-prepared competitors.

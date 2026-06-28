@@ -4,7 +4,7 @@ description: "Ohio agency disclosure requirements 2026 explained with form numbe
 publishDate: "2026-06-01"
 modifiedDate: "2026-06-01"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/ohio-agency-disclosure-requirements-2026.webp"
 imageAlt: "Ohio agency disclosure requirements 2026 compliance documents on a desk with Columbus skyline visible through a window"
@@ -117,6 +117,6 @@ For agents comparing requirements across state lines, our coverage of [Pennsylva
 
 The simplest compliance strategy is also the most underused: build disclosure delivery into your first-contact workflow so it becomes automatic rather than something you remember halfway through a conversation. Digital transaction platforms can trigger the Consumer Guide for e-signature the moment a new contact enters your system, eliminating the "I forgot to bring it" excuse entirely.
 
-Brokerages scaling their agent count need audit systems that catch gaps before closing, not after. Tools like [Britanni AI](/pricing) can flag missing disclosure documents in real time as files move through pipeline stages — the kind of automated checkpoint that turns a reactive compliance problem into a non-issue. If your current process relies on a TC or admin manually checking every file, you are one sick day away from a gap slipping through.
+Brokerages scaling their agent count need audit systems that catch gaps before closing, not after. Tools like [Brittani AI](/pricing) can flag missing disclosure documents in real time as files move through pipeline stages — the kind of automated checkpoint that turns a reactive compliance problem into a non-issue. If your current process relies on a TC or admin manually checking every file, you are one sick day away from a gap slipping through.
 
 Ohio agency disclosure requirements 2026 are not new law, but they demand consistent execution across every transaction. The agents and brokers who treat disclosure as a workflow step rather than a paperwork afterthought will avoid the fines, the rescission threats, and the reputation damage that follow a single careless omission.

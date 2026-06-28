@@ -4,7 +4,7 @@ description: "Ohio seller disclosure requirements 2026 explained with specific f
 publishDate: "2026-05-25"
 modifiedDate: "2026-05-25"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/ohio-seller-disclosure-requirements-2026.webp"
 imageAlt: "Ohio real estate agent reviewing Ohio seller disclosure requirements 2026 paperwork at a desk"
@@ -79,6 +79,6 @@ The Ohio Division of Real Estate and Professional Licensing signaled in its 2025
 
 Agents working in Ohio's metropolitan markets—Columbus, Cleveland, Cincinnati—are seeing tighter buyer attorney involvement during due diligence, and those attorneys know how to spot a disclosure deficiency. The days of a cursory glance at the form are over for buyers' representatives, which means listing agents need to be equally rigorous on the front end.
 
-For agents managing multiple transactions simultaneously, tracking disclosure delivery dates and completion status manually invites errors. Tools like [Britanni AI](https://britanni.com/pricing) that flag missing or incomplete disclosure forms before a transaction reaches contract can eliminate the most common timing failures. Integrating compliance checkpoints into your workflow is not about automation for its own sake—it is about making sure no file slips through with a rescission-ready defect.
+For agents managing multiple transactions simultaneously, tracking disclosure delivery dates and completion status manually invites errors. Tools like [Brittani AI](https://brittani.ai/pricing) that flag missing or incomplete disclosure forms before a transaction reaches contract can eliminate the most common timing failures. Integrating compliance checkpoints into your workflow is not about automation for its own sake—it is about making sure no file slips through with a rescission-ready defect.
 
 Ohio seller disclosure requirements 2026 demand the same attention agents give to pricing strategy or inspection negotiations. The agents and brokers who treat the Residential Property Disclosure Form as a core transaction document—rather than a box to check—will avoid the complaints, the rescission claims, and the licensing hearings that catch their less disciplined competitors. Get the [fundamentals of your transaction workflow](/blog/real-estate-transaction-checklist) right, and disclosure compliance becomes a habit rather than a hazard.

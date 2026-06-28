@@ -4,7 +4,7 @@ description: "Rhode Island seller disclosure requirements 2026 explained for age
 publishDate: "2026-05-30"
 modifiedDate: "2026-05-30"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/rhode-island-seller-disclosure-requirements-2026.webp"
 imageAlt: "A colonial-era Rhode Island home with seller disclosure documents on a porch table representing Rhode Island seller disclosure requirements 2026"
@@ -107,6 +107,6 @@ The NAR settlement changes from 2024-2025 have also shifted buyer-side behavior.
 
 The best defense against disclosure liability is a documented process that runs the same way every time. Build your listing workflow so that the Condition Report is completed at the listing appointment—not after an offer arrives, not the day before closing. Early completion gives you time to review, ask follow-up questions, and ensure the seller has been thoughtful.
 
-If your brokerage manages volume, tools like [Britanni AI](/pricing) can flag disclosure gaps automatically as files move through pipeline stages, catching missing forms before they become compliance events. That kind of systematic oversight is what separates brokerages that defend claims successfully from those that settle.
+If your brokerage manages volume, tools like [Brittani AI](/pricing) can flag disclosure gaps automatically as files move through pipeline stages, catching missing forms before they become compliance events. That kind of systematic oversight is what separates brokerages that defend claims successfully from those that settle.
 
 Rhode Island seller disclosure requirements 2026 are not changing dramatically from prior years, but enforcement attention and buyer sophistication are both increasing. The agents and brokers who treat disclosure as a process—not a checkbox—will close cleaner, litigate less, and build reputations that generate referrals for years.

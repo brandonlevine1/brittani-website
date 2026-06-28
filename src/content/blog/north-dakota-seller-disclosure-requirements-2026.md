@@ -4,7 +4,7 @@ description: "North Dakota seller disclosure requirements 2026 explained for age
 publishDate: "2026-05-30"
 modifiedDate: "2026-05-30"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/north-dakota-seller-disclosure-requirements-2026.webp"
 imageAlt: "A farmhouse on the North Dakota prairie with disclosure paperwork on a kitchen table, representing North Dakota seller disclosure requirements 2026"
@@ -114,6 +114,6 @@ The tension agents feel between compliance and production speed is real. Disclos
 
 Building disclosure completion into the listing appointment itself—rather than treating it as a follow-up task—eliminates most timing problems. The seller signs the disclosure the same day they sign the listing agreement. This approach front-loads the work and ensures the form is ready the moment an offer arrives.
 
-For agents scaling their business and managing growing transaction volumes, tools like Britanni AI at [britanni.ai/pricing](/pricing) can flag missing disclosures before they become compliance gaps, tracking each file against state-specific requirements without requiring manual checklist management. The goal is not to replace agent judgment but to ensure that form completion, delivery timing, and documentation never depend solely on memory.
+For agents scaling their business and managing growing transaction volumes, tools like Brittani AI at [brittani.ai/pricing](/pricing) can flag missing disclosures before they become compliance gaps, tracking each file against state-specific requirements without requiring manual checklist management. The goal is not to replace agent judgment but to ensure that form completion, delivery timing, and documentation never depend solely on memory.
 
 North Dakota seller disclosure requirements 2026 are not complex compared to coastal states, but their simplicity masks real enforcement risk. Agents and brokers who treat the NDREC Form 2 as a serious legal instrument—rather than administrative busywork—protect their licenses, their clients, and their commission checks from avoidable disputes.

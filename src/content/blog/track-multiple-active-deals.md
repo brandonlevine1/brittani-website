@@ -4,7 +4,7 @@ description: "Learn how to track multiple active deals without missing a deadlin
 publishDate: "2026-06-27"
 modifiedDate: "2026-06-27"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "11 min"
 image: "/images/blog/track-multiple-active-deals.webp"
 imageAlt: "Real estate agent's desk with multiple transaction folders fanned out beside a calendar showing color-coded deadlines"
@@ -119,6 +119,6 @@ The [National Association of Realtors' Code of Ethics](https://www.nar.realtor/a
 
 The agents who maintain deadline discipline across years—not just during the initial enthusiasm of implementing a new system—are the ones who reduce friction at every step. Every additional click, every manual entry, every context switch between platforms increases the probability that the system will be abandoned during a busy month. The goal is a workflow where tracking deadlines requires less effort than ignoring them.
 
-This is where purpose-built transaction tools outperform general project management software. A platform designed specifically for real estate deadlines understands that a financing contingency has different urgency profiles than an HOA document delivery period. It knows that [disclosure requirements](/blog/virginia-seller-disclosure-requirements-2026) carry state-specific timing rules that generic reminder tools cannot account for. Britanni AI was built around this exact problem—automating the extraction, tracking, and escalation of contract deadlines so agents managing 5 to 15 active deals can operate at the reliability level that used to require a full-time transaction coordinator, at a fraction of the cost visible on their [pricing page](/pricing).
+This is where purpose-built transaction tools outperform general project management software. A platform designed specifically for real estate deadlines understands that a financing contingency has different urgency profiles than an HOA document delivery period. It knows that [disclosure requirements](/blog/virginia-seller-disclosure-requirements-2026) carry state-specific timing rules that generic reminder tools cannot account for. Brittani AI was built around this exact problem—automating the extraction, tracking, and escalation of contract deadlines so agents managing 5 to 15 active deals can operate at the reliability level that used to require a full-time transaction coordinator, at a fraction of the cost visible on their [pricing page](/pricing).
 
 Knowing how to track multiple active deals without missing a deadline is ultimately about building an operational infrastructure that matches your transaction volume. The system described here—single-source registry, risk categorization, three-tier reminders, weekly audits, automation of repeatable tasks, contingency protocols, and team standardization—scales from a solo agent running six deals to a brokerage managing sixty. The agents who implement it stop bleeding commission dollars to preventable errors and start compounding the trust that comes from being the professional who never lets a date slip.

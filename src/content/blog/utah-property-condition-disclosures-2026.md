@@ -4,7 +4,7 @@ description: "Utah property condition & environmental disclosures 2026 rules, fo
 publishDate: "2026-06-26"
 modifiedDate: "2026-06-26"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/utah-property-condition-disclosures-2026.webp"
 imageAlt: "A Utah residential property against the Wasatch Range with disclosure documents in the foreground representing Utah property condition & environmental disclosures 2026"
@@ -103,6 +103,6 @@ Disclosure failures rarely happen in isolation. They correlate with disorganized
 
 **Buyer's agents should calendar a specific deadline for disclosure review that falls well before the due diligence expiration.** This gives the buyer time to request clarification, order additional inspections, or negotiate based on disclosed conditions. For additional context on how [Utah seller disclosure requirements](/blog/utah-seller-disclosure-requirements-2026) interact with condition disclosures, review the paired obligations.
 
-Firms using transaction coordination platforms can automate disclosure tracking, flagging files where the form is missing or incomplete before the deal moves to the next stage. Tools like Britanni AI build these checkpoints directly into the transaction workflow, catching exactly the kind of disclosure gaps that lead to complaints — which matters when you are managing compliance at scale across a brokerage. Pricing details for that platform are available at [/pricing](/pricing).
+Firms using transaction coordination platforms can automate disclosure tracking, flagging files where the form is missing or incomplete before the deal moves to the next stage. Tools like Brittani AI build these checkpoints directly into the transaction workflow, catching exactly the kind of disclosure gaps that lead to complaints — which matters when you are managing compliance at scale across a brokerage. Pricing details for that platform are available at [/pricing](/pricing).
 
 The agents and brokers who treat Utah property condition & environmental disclosures 2026 as a risk-management priority — not an afterthought — will avoid the complaints, the fines, and the E&O claims that continue to mount against those who do not.

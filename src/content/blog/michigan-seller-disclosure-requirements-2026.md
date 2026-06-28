@@ -4,7 +4,7 @@ description: "Michigan seller disclosure requirements 2026 explained for agents 
 publishDate: "2026-05-25"
 modifiedDate: "2026-05-25"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/michigan-seller-disclosure-requirements-2026.webp"
 imageAlt: "Michigan real estate agent reviewing seller disclosure requirements 2026 paperwork at a desk"
@@ -83,7 +83,7 @@ The Michigan legislature has introduced no substantive amendments to the SDA for
 
 Agents entering 2026 listings should build disclosure delivery into their listing appointment workflow—not as an afterthought, but as step two after the listing agreement is signed. Have the seller complete the form at the listing appointment or within 48 hours, and upload it to your transaction management system before the property hits the MLS.
 
-For agents managing high transaction volumes, tools like [Britanni AI](/pricing) can flag missing or incomplete disclosures before files reach the broker's desk, reducing audit friction and keeping compliance current without adding administrative hours to your week. The operational cost of a missed disclosure—measured in rescinded deals, E&O claims, and LARA complaints—dwarfs the cost of building compliance into your daily workflow.
+For agents managing high transaction volumes, tools like [Brittani AI](/pricing) can flag missing or incomplete disclosures before files reach the broker's desk, reducing audit friction and keeping compliance current without adding administrative hours to your week. The operational cost of a missed disclosure—measured in rescinded deals, E&O claims, and LARA complaints—dwarfs the cost of building compliance into your daily workflow.
 
 Michigan seller disclosure requirements 2026 are not changing in substance, but enforcement expectations are rising. Agents and brokers who treat disclosures as a process to manage rather than a box to check will find themselves on the right side of both the statute and their clients' trust. Build the habit now, document everything, and never let a file close without a complete, current, properly delivered disclosure in it.
 

@@ -4,7 +4,7 @@ description: "New Mexico agency disclosure requirements 2026 explained with spec
 publishDate: "2026-06-07"
 modifiedDate: "2026-06-07"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/new-mexico-agency-disclosure-requirements-2026.webp"
 imageAlt: "Adobe-style New Mexico home with disclosure paperwork on a sunlit patio table illustrating New Mexico agency disclosure requirements 2026"
@@ -105,6 +105,6 @@ Brokers who have not updated their onboarding workflows since the NAR settlement
 
 The most effective compliance strategy is also the simplest: treat the agency disclosure as the very first document in every client relationship. Not the first document in the transaction file—the first document in the relationship. If an agent meets a potential buyer at an open house and exchanges more than pleasantries, Form 1101 should be the next thing that happens.
 
-Building this habit requires systems, not just good intentions. Agents managing several deals simultaneously benefit from automated compliance tracking that flags missing disclosures before they become audit findings. Britanni AI's transaction coordination platform at [/pricing](/pricing) includes compliance checkpoints specifically designed around state-by-state disclosure timelines, including New Mexico's first-substantive-contact standard.
+Building this habit requires systems, not just good intentions. Agents managing several deals simultaneously benefit from automated compliance tracking that flags missing disclosures before they become audit findings. Brittani AI's transaction coordination platform at [/pricing](/pricing) includes compliance checkpoints specifically designed around state-by-state disclosure timelines, including New Mexico's first-substantive-contact standard.
 
 **The New Mexico agency disclosure requirements 2026 are not new law—they are the same framework that has governed agent conduct for years, now enforced with increasing rigor.** Agents and brokers who build disclosure delivery into the first seconds of client contact, verify their forms are correctly completed, and retain signed copies for the full five-year window will find that compliance is less a burden and more a competitive advantage. The agents who struggle are invariably the ones who treat disclosure as an afterthought rather than a precondition to doing business.

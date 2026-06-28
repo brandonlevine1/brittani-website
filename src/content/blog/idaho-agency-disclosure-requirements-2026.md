@@ -4,7 +4,7 @@ description: "Idaho agency disclosure requirements 2026 explained with specific 
 publishDate: "2026-06-08"
 modifiedDate: "2026-06-08"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/idaho-agency-disclosure-requirements-2026.webp"
 imageAlt: "Agent presenting Idaho agency disclosure requirements 2026 paperwork at a kitchen table in a Boise craftsman home"
@@ -107,6 +107,6 @@ Failing to distinguish between dual agency and assigned agency is a frequent sou
 
 Speed kills compliance. When inventory is tight and multiple offers fly within hours, agents skip steps. A buyer's agent who has never met the client in person — common in relocation scenarios — may start sending listings and discussing offer strategy before any disclosure form has been signed electronically. Remote transactions heighten this risk, which is why many brokerages now embed disclosure forms into their initial onboarding workflow using automation tools.
 
-**Automating the delivery and tracking of disclosure forms eliminates the most common failure point.** If you are evaluating systems that can trigger form delivery based on transaction milestones — and flag missing signatures before they become audit findings — [Britanni AI's platform](/pricing) is built specifically for that kind of compliance-aware transaction management.
+**Automating the delivery and tracking of disclosure forms eliminates the most common failure point.** If you are evaluating systems that can trigger form delivery based on transaction milestones — and flag missing signatures before they become audit findings — [Brittani AI's platform](/pricing) is built specifically for that kind of compliance-aware transaction management.
 
 Idaho agency disclosure requirements 2026 will not become less stringent. IREC has signaled continued emphasis on consumer protection in its strategic plan, and legislative sessions routinely introduce bills to expand disclosure obligations. Building compliant habits now — and backing them with auditable systems — is the only durable defense against the regulatory, civil, and transactional risks that come with getting agency wrong. Stay current with [IREC's official rules and guidance](https://irec.idaho.gov/) and review your files before someone else does.

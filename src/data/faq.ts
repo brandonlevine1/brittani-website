@@ -5,14 +5,14 @@ export interface FAQItem {
 
 export const homeFAQ: FAQItem[] = [
   {
-    question: 'What exactly does Britanni AI do?',
+    question: 'What exactly does Brittani AI do?',
     answer:
-      'Britanni AI acts as your AI-powered Transaction Coordinator. When you create a deal, upload a contract, and enter party information, Britanni takes over — analyzing the contract for critical dates and defects, sending communications to all parties, tracking every deadline, coordinating inspections, monitoring lender and title status, and keeping you updated every step of the way.',
+      'Brittani AI acts as your AI-powered Transaction Coordinator. When you create a deal, upload a contract, and enter party information, Brittani takes over — analyzing the contract for critical dates and defects, sending communications to all parties, tracking every deadline, coordinating inspections, monitoring lender and title status, and keeping you updated every step of the way.',
   },
   {
     question: 'How much does it cost compared to a human TC?',
     answer:
-      'A human TC typically charges $300–$500 per transaction. Britanni costs a fraction of that — you can coordinate unlimited deals per month for less than what a single human-managed transaction costs. Check our pricing page for current plans.',
+      'A human TC typically charges $300–$500 per transaction. Brittani costs a fraction of that — you can coordinate unlimited deals per month for less than what a single human-managed transaction costs. Check our pricing page for current plans.',
   },
   {
     question: 'Is my contract data secure?',
@@ -27,12 +27,12 @@ export const homeFAQ: FAQItem[] = [
   {
     question: 'What happens if the AI makes a mistake?',
     answer:
-      'Britanni always presents extracted contract data for your review and confirmation before taking any action. You remain in control of every deal. If the AI flags something incorrectly, you can easily correct it. We also have human support available for any questions or concerns.',
+      'Brittani always presents extracted contract data for your review and confirmation before taking any action. You remain in control of every deal. If the AI flags something incorrectly, you can easily correct it. We also have human support available for any questions or concerns.',
   },
   {
     question: 'Which states do you support?',
     answer:
-      'Britanni AI currently supports residential real estate transactions in Florida, with deep knowledge of Florida-specific contract forms, disclosure requirements, and market conventions. We are actively expanding to additional states — contact us if you would like to be notified when we launch in your market.',
+      'Brittani AI currently supports residential real estate transactions in Florida, with deep knowledge of Florida-specific contract forms, disclosure requirements, and market conventions. We are actively expanding to additional states — contact us if you would like to be notified when we launch in your market.',
   },
   {
     question: 'Can I try it before subscribing?',

@@ -4,7 +4,7 @@ description: "Vermont agency disclosure requirements 2026 explained for agents a
 publishDate: "2026-06-10"
 modifiedDate: "2026-06-10"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/vermont-agency-disclosure-requirements-2026.webp"
 imageAlt: "Vermont agency disclosure requirements 2026 compliance documents on a maple wood table beside a window overlooking green hills"
@@ -116,6 +116,6 @@ Agents licensed in multiple New England states should review [Rhode Island's age
 
 The agents who never face disclosure complaints are not the ones with better memories—they are the ones with better systems. The disclosure form should be baked into your first-contact workflow so deeply that it becomes impossible to skip.
 
-**Set up your CRM or transaction management platform to flag any new contact that has not yet received the disclosure form.** If a lead moves from "prospect" to "active client" without a signed form attached, the system should block the next step or at minimum generate a hard alert. Britanni AI's workflow automation at [britanni.ai/pricing](/pricing) is built for exactly this kind of compliance trigger—where a missed step early in the pipeline creates exponential risk downstream.
+**Set up your CRM or transaction management platform to flag any new contact that has not yet received the disclosure form.** If a lead moves from "prospect" to "active client" without a signed form attached, the system should block the next step or at minimum generate a hard alert. Brittani AI's workflow automation at [brittani.ai/pricing](/pricing) is built for exactly this kind of compliance trigger—where a missed step early in the pipeline creates exponential risk downstream.
 
 The Vermont agency disclosure requirements 2026 have not changed dramatically from prior years, but enforcement attention has increased as consumer awareness of fiduciary duties grows post-NAR settlement. Agents who treat disclosure as a meaningful conversation rather than a paper shuffle will find themselves on the right side of both the Commission and their clients. The form is simple; the obligation behind it is not.

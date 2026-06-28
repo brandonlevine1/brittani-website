@@ -4,7 +4,7 @@ description: "Alabama seller disclosure requirements 2026 explained for agents a
 publishDate: "2026-05-28"
 modifiedDate: "2026-05-28"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/alabama-seller-disclosure-requirements-2026.webp"
 imageAlt: "Alabama seller disclosure requirements 2026 compliance documents on a desk beside a red brick Colonial-style home"
@@ -109,7 +109,7 @@ Beyond file audits, brokers should train agents on the distinction between "no m
 | Agency disclosure signed | Every transaction | License violation under 790-X-3-.09 |
 | Training documentation | Annually | Loss of supervisory defense |
 
-If your brokerage handles volume across multiple agents, consider how technology can flag missing documents before closing. Tools like [Britanni AI](https://britanni.com/pricing) can automatically audit transaction files against state-specific compliance checklists, catching gaps in disclosure documentation before they become legal problems.
+If your brokerage handles volume across multiple agents, consider how technology can flag missing documents before closing. Tools like [Brittani AI](https://brittani.ai/pricing) can automatically audit transaction files against state-specific compliance checklists, catching gaps in disclosure documentation before they become legal problems.
 
 ## Alabama Seller Disclosure Requirements 2026: Staying Ahead
 

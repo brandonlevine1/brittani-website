@@ -4,7 +4,7 @@ description: "Agents avoid admin work because the systems are broken, not becaus
 publishDate: "2026-05-25"
 modifiedDate: "2026-05-25"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "7 min"
 image: "/images/blog/why-agents-hate-paperwork.webp"
 imageAlt: "Abstract geometric lines converging on a single focal point against a muted background"

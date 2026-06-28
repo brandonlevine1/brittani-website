@@ -4,7 +4,7 @@ description: "South Dakota seller disclosure requirements 2026 explained for age
 publishDate: "2026-05-30"
 modifiedDate: "2026-05-30"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/south-dakota-seller-disclosure-requirements-2026.webp"
 imageAlt: "A ranch-style home on the South Dakota prairie with disclosure documents on a porch table illustrating South Dakota seller disclosure requirements 2026"
@@ -114,6 +114,6 @@ Build disclosure compliance into your listing appointment—not your transaction
 
 When the completed form comes back, review it for obvious gaps or contradictions. You are not responsible for verifying the seller's answers, but you are responsible for flagging answers that conflict with what you can plainly observe. A seller who marks "no water intrusion" while you are standing in a basement with visible water stains has created a problem that you must address in writing.
 
-Track delivery to the buyer with a signed acknowledgment form or timestamped electronic delivery through your transaction management platform. If you are [managing multiple active deals](/blog/track-multiple-active-deals) simultaneously, this is where systematic tracking prevents the kind of deadline slip that costs you a deal—or worse, your license. Tools like Britanni AI at [britanni.ai/pricing](/pricing) can flag these compliance windows automatically, removing the human-memory dependency that causes most disclosure timing failures.
+Track delivery to the buyer with a signed acknowledgment form or timestamped electronic delivery through your transaction management platform. If you are [managing multiple active deals](/blog/track-multiple-active-deals) simultaneously, this is where systematic tracking prevents the kind of deadline slip that costs you a deal—or worse, your license. Tools like Brittani AI at [brittani.ai/pricing](/pricing) can flag these compliance windows automatically, removing the human-memory dependency that causes most disclosure timing failures.
 
 South Dakota seller disclosure requirements 2026 are not complex in concept, but they punish sloppiness with outsized consequences. Know the statutes, use the correct forms, document delivery obsessively, and audit your files before a complaint forces someone else to do it for you.

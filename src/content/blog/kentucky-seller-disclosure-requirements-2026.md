@@ -4,7 +4,7 @@ description: "Kentucky seller disclosure requirements 2026 explained for agents 
 publishDate: "2026-05-28"
 modifiedDate: "2026-05-28"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/kentucky-seller-disclosure-requirements-2026.webp"
 imageAlt: "A Kentucky real estate agent reviewing Kentucky seller disclosure requirements 2026 paperwork at a farmhouse kitchen table with rolling hills visible through the window"
@@ -125,4 +125,4 @@ The differences in form content, timing nuances, and exemption categories mean t
 
 ## Keeping Disclosure Compliance Tight in 2026
 
-The Kentucky seller disclosure requirements 2026 have not changed the core statutory framework, but enforcement attention from KREC has intensified following a rise in consumer complaints during 2024 and 2025. Agents and brokers who treat disclosure as a box-checking exercise rather than a substantive legal obligation are the ones generating those complaints. Tools like Britanni AI at [britanni.ai/pricing](/pricing) can flag missing or incomplete disclosure forms before a transaction advances past the point of easy correction—building compliance into the workflow rather than bolting it on after the fact. Getting disclosure right is not about paperwork for its own sake; it is about protecting your license, your clients, and the deal itself from avoidable failure.
+The Kentucky seller disclosure requirements 2026 have not changed the core statutory framework, but enforcement attention from KREC has intensified following a rise in consumer complaints during 2024 and 2025. Agents and brokers who treat disclosure as a box-checking exercise rather than a substantive legal obligation are the ones generating those complaints. Tools like Brittani AI at [brittani.ai/pricing](/pricing) can flag missing or incomplete disclosure forms before a transaction advances past the point of easy correction—building compliance into the workflow rather than bolting it on after the fact. Getting disclosure right is not about paperwork for its own sake; it is about protecting your license, your clients, and the deal itself from avoidable failure.

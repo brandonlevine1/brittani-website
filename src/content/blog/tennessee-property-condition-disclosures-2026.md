@@ -4,7 +4,7 @@ description: "Tennessee property condition & environmental disclosures 2026 rule
 publishDate: "2026-06-23"
 modifiedDate: "2026-06-23"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/tennessee-property-condition-disclosures-2026.webp"
 imageAlt: "A Tennessee listing agent reviewing property condition & environmental disclosures 2026 paperwork at a Nashville bungalow kitchen table"
@@ -101,6 +101,6 @@ Brokers should build a checklist into their file review process that catches the
 
 TREC has signaled through its 2025 newsletter bulletins that disclosure compliance will remain a priority audit area. The Commission's complaint data shows that property condition disputes are consistently among the top three categories of consumer grievances filed against licensees. Agents who treat disclosure as a check-the-box afterthought are statistically more likely to face a TREC investigation than those who build the form into their listing intake workflow.
 
-For brokerages scaling their transaction volume, tools like [Britanni AI](/pricing) can flag incomplete disclosure forms and missing lead paint documents before files reach the closer's desk—catching exactly the kind of errors that generate TREC complaints. Integrating automated compliance checks into your pipeline is one of the few genuinely proactive steps a brokerage can take against disclosure-related liability.
+For brokerages scaling their transaction volume, tools like [Brittani AI](/pricing) can flag incomplete disclosure forms and missing lead paint documents before files reach the closer's desk—catching exactly the kind of errors that generate TREC complaints. Integrating automated compliance checks into your pipeline is one of the few genuinely proactive steps a brokerage can take against disclosure-related liability.
 
 Tennessee property condition & environmental disclosures 2026 rules have not changed dramatically from prior years, but enforcement attention has intensified and buyer sophistication has increased. The agents and brokers who treat these forms as the legal instruments they are—rather than paperwork speed bumps—will be the ones who avoid the complaint file and keep their licenses intact.

@@ -4,7 +4,7 @@ description: "Iowa property condition & environmental disclosures 2026 guide for
 publishDate: "2026-06-26"
 modifiedDate: "2026-06-26"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/iowa-property-condition-disclosures-2026.webp"
 imageAlt: "Iowa property condition & environmental disclosures 2026 compliance scene with farmhouse and disclosure paperwork"
@@ -112,6 +112,6 @@ Radon disclosure is not a separate form requirement in Iowa, but radon test resu
 
 The disclosure requirements in Iowa are not technically complex—they are procedurally demanding. The challenge is not understanding what must be disclosed but ensuring that every form is completed, delivered, signed, timestamped, amended when necessary, and filed with the recorder in the correct sequence.
 
-This is where systematic transaction management becomes non-negotiable. Agents managing more than a handful of active files need automated reminders for disclosure deadlines, template workflows that flag pre-1978 properties for lead paint forms, and audit trails that prove delivery timing. Britanni AI builds exactly this kind of compliance infrastructure into its [transaction coordination platform](/pricing), catching disclosure gaps before they become rescission triggers or commission complaints.
+This is where systematic transaction management becomes non-negotiable. Agents managing more than a handful of active files need automated reminders for disclosure deadlines, template workflows that flag pre-1978 properties for lead paint forms, and audit trails that prove delivery timing. Brittani AI builds exactly this kind of compliance infrastructure into its [transaction coordination platform](/pricing), catching disclosure gaps before they become rescission triggers or commission complaints.
 
 Iowa property condition & environmental disclosures 2026 requirements have not changed dramatically from prior years, but enforcement attention has increased and buyer sophistication has grown. The agents and brokers who treat disclosure compliance as a core business process—rather than a paperwork nuisance to rush through at listing appointment—will avoid the liability exposure that continues to catch their less disciplined peers off guard.

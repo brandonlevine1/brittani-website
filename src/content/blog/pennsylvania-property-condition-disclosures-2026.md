@@ -4,7 +4,7 @@ description: "Master Pennsylvania property condition & environmental disclosures
 publishDate: "2026-06-21"
 modifiedDate: "2026-06-21"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/pennsylvania-property-condition-disclosures-2026.webp"
 imageAlt: "A stone colonial home in Pennsylvania with disclosure documents visible on a porch table, representing Pennsylvania property condition & environmental disclosures 2026"
@@ -93,7 +93,7 @@ The simplest compliance system is also the most effective: build disclosure deli
 
 For the buyer side, confirm receipt of the disclosure in writing before presenting the offer. If the disclosure has not been provided, note that explicitly in your communication to the listing agent and document the omission in your file. Protecting your buyer's rescission rights requires proving they never received the form prior to signing.
 
-Agents juggling multiple transactions in various stages should consider how automation can prevent disclosure gaps from slipping through. Britanni AI's transaction coordination platform flags missing disclosure forms before contract deadlines arrive, eliminating the manual calendar-checking that leads to errors—check out [their pricing](/pricing) to see how it fits your volume. The goal is removing human memory from the compliance equation entirely.
+Agents juggling multiple transactions in various stages should consider how automation can prevent disclosure gaps from slipping through. Brittani AI's transaction coordination platform flags missing disclosure forms before contract deadlines arrive, eliminating the manual calendar-checking that leads to errors—check out [their pricing](/pricing) to see how it fits your volume. The goal is removing human memory from the compliance equation entirely.
 
 ## The 2026 Enforcement Climate and Your Next Steps
 

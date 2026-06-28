@@ -4,7 +4,7 @@ description: "South Dakota lead paint disclosure requirements 2026 explained for
 publishDate: "2026-06-19"
 modifiedDate: "2026-06-19"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "8 min"
 image: "/images/blog/south-dakota-lead-paint-disclosure-2026.webp"
 imageAlt: "Older craftsman-style home in a South Dakota neighborhood illustrating South Dakota lead paint disclosure requirements 2026 for real estate agents"
@@ -105,4 +105,4 @@ Finally, brokers should audit their transaction management systems to confirm th
 
 The lead paint disclosure requirement is not complex in theory, but it creates friction in practice because it demands precise timing, specific documents, and signed acknowledgments from four parties. That friction multiplies when you are running eight or ten active files at once.
 
-Agents and TCs who build automated compliance triggers into their transaction workflows catch the gaps that manual checklists miss. Britanni AI flags lead paint disclosure requirements automatically for pre-1978 properties and tracks the 10-day inspection window as a live deadline — details you can explore at [/pricing](/pricing). Adopting a system that treats South Dakota lead paint disclosure requirements 2026 as a structural checkpoint rather than an afterthought is the difference between clean files and corrective action letters from the Commission.
+Agents and TCs who build automated compliance triggers into their transaction workflows catch the gaps that manual checklists miss. Brittani AI flags lead paint disclosure requirements automatically for pre-1978 properties and tracks the 10-day inspection window as a live deadline — details you can explore at [/pricing](/pricing). Adopting a system that treats South Dakota lead paint disclosure requirements 2026 as a structural checkpoint rather than an afterthought is the difference between clean files and corrective action letters from the Commission.

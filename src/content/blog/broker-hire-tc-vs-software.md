@@ -4,7 +4,7 @@ description: "When should a broker hire a TC vs use software a cost analysis bre
 publishDate: "2026-05-25"
 modifiedDate: "2026-05-25"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "11 min"
 image: "/images/blog/broker-hire-tc-vs-software.webp"
 imageAlt: "Real estate agent workspace with dual monitors showing transaction files and a cost comparison spreadsheet"
@@ -83,4 +83,4 @@ The worst outcome is making this decision and then failing to enforce the new sy
 
 Set a policy that no transaction file advances past the executed-contract stage without being entered into your coordination system, whether that system is a TC's intake process or a software platform's file-creation workflow. This single rule eliminates the most common failure mode: agents "forgetting" to use the system until a deadline is already missed. Build this into your [onboarding process for new agents](/blog/agent-onboarding-systems) so the expectation exists from day one.
 
-The question of when should a broker hire a TC vs use software a cost analysis resolves differently for every brokerage depending on volume, error tolerance, and growth trajectory. For teams in the five-to-fifteen deal range exploring automation-first coordination, Britanni AI offers a transaction management layer specifically built for this decision point, with pricing structured around the hybrid model at [britanni.ai/pricing](/pricing). The math either works or it does not, and you now have the framework to run the numbers for your specific operation.
+The question of when should a broker hire a TC vs use software a cost analysis resolves differently for every brokerage depending on volume, error tolerance, and growth trajectory. For teams in the five-to-fifteen deal range exploring automation-first coordination, Brittani AI offers a transaction management layer specifically built for this decision point, with pricing structured around the hybrid model at [brittani.ai/pricing](/pricing). The math either works or it does not, and you now have the framework to run the numbers for your specific operation.

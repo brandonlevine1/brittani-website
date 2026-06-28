@@ -4,7 +4,7 @@ description: "New Jersey lead paint disclosure requirements 2026 explained for a
 publishDate: "2026-06-12"
 modifiedDate: "2026-06-12"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/new-jersey-lead-paint-disclosure-2026.webp"
 imageAlt: "Victorian-era row homes in Newark highlighting New Jersey lead paint disclosure requirements 2026 compliance concerns"
@@ -102,6 +102,6 @@ The form and process mirror the sales disclosure, but agents handling rentals fr
 
 The agents who get this right are not smarter or more cautious by nature. They simply have systems that make non-compliance harder than compliance. Building the lead paint disclosure into a standardized [transaction handoff checklist](/blog/transaction-handoff-checklist) eliminates the most common failure mode: human forgetfulness under deal volume pressure.
 
-This is where technology plays a meaningful role. Tools like [Britanni AI](/pricing) can flag pre-1978 properties at listing intake and auto-generate disclosure package requirements before a contract even lands on the table. When compliance is baked into the workflow rather than bolted on as an afterthought, the error rate drops to near zero.
+This is where technology plays a meaningful role. Tools like [Brittani AI](/pricing) can flag pre-1978 properties at listing intake and auto-generate disclosure package requirements before a contract even lands on the table. When compliance is baked into the workflow rather than bolted on as an afterthought, the error rate drops to near zero.
 
 **The New Jersey lead paint disclosure requirements 2026 are not new law — they are old law with new enforcement energy.** The EPA's recent round of penalty increases, combined with NJREC's heightened audit posture and buyer-side attorneys who know exactly what to look for, means the margin for error has evaporated. Agents who treat this as a checkbox rather than a liability shield will eventually learn the difference at their own expense. If you want to understand [why paperwork failures keep happening across the industry](/blog/why-agents-hate-paperwork), the lead paint disclosure is the perfect case study: a straightforward requirement that becomes a landmine the moment process discipline breaks down.

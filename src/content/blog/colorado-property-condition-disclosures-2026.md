@@ -4,7 +4,7 @@ description: "Master Colorado property condition & environmental disclosures 202
 publishDate: "2026-06-24"
 modifiedDate: "2026-06-24"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/colorado-property-condition-disclosures-2026.webp"
 imageAlt: "Mountain-framed Colorado home with disclosure documents representing Colorado property condition & environmental disclosures 2026 compliance"
@@ -108,6 +108,6 @@ Brokers should also maintain a disclosure checklist specific to their market are
 
 The regulatory environment around Colorado property condition & environmental disclosures 2026 is not static. CREC updates its approved forms annually, and the 2026 form revisions introduced minor language changes to the SPD regarding PFAS contamination awareness and updated references to COGCC setback rules. Agents who use outdated form versions risk disciplinary action and may create contracts with unenforceable provisions.
 
-Building a reliable compliance system does not require memorizing every statute. It requires a workflow that flags the right form at the right time for the right property type. Britanni AI was built specifically for this purpose—automatically identifying which disclosures apply based on property characteristics, tracking delivery deadlines, and alerting agents before compliance windows close. If your brokerage handles volume and needs audit-ready files, [explore what that looks like at scale](/pricing).
+Building a reliable compliance system does not require memorizing every statute. It requires a workflow that flags the right form at the right time for the right property type. Brittani AI was built specifically for this purpose—automatically identifying which disclosures apply based on property characteristics, tracking delivery deadlines, and alerting agents before compliance windows close. If your brokerage handles volume and needs audit-ready files, [explore what that looks like at scale](/pricing).
 
 Colorado property condition & environmental disclosures 2026 compliance comes down to discipline: knowing your independent duties under Rule 6.12, delivering the right CREC forms on time, and documenting everything that happens along the way. The agents and brokers who treat disclosure as a system—not an afterthought—are the ones who keep their licenses and close clean transactions year after year.

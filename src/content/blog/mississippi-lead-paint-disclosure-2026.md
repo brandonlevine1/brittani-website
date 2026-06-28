@@ -4,7 +4,7 @@ description: "Mississippi lead paint disclosure requirements 2026 explained for 
 publishDate: "2026-06-17"
 modifiedDate: "2026-06-17"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/mississippi-lead-paint-disclosure-2026.webp"
 imageAlt: "Historic pre-1978 Mississippi home with peeling paint illustrating Mississippi lead paint disclosure requirements 2026 for real estate agents"
@@ -105,4 +105,4 @@ HUD's enforcement priorities for 2026 emphasize rental housing, but sales transa
 
 Agents who build the disclosure into their standard workflow for every listing appointment involving a pre-1978 home will never face a compliance gap. The form takes five minutes to complete. The pamphlet is free to download from EPA.gov. The 10-day inspection language is a single clause in the purchase agreement. None of this is burdensome unless it is forgotten.
 
-For agents and brokers looking to automate compliance tracking across their transaction pipeline, Britanni AI builds these checkpoints directly into its workflow engine so that no pre-1978 file moves forward without completed lead paint documentation; you can see current plan options at [/pricing](/pricing). The Mississippi lead paint disclosure requirements 2026 remain straightforward in scope but unforgiving in enforcement, and the agents who treat them as non-negotiable protocol rather than optional paperwork are the ones who keep their licenses and their clients' trust intact.
+For agents and brokers looking to automate compliance tracking across their transaction pipeline, Brittani AI builds these checkpoints directly into its workflow engine so that no pre-1978 file moves forward without completed lead paint documentation; you can see current plan options at [/pricing](/pricing). The Mississippi lead paint disclosure requirements 2026 remain straightforward in scope but unforgiving in enforcement, and the agents who treat them as non-negotiable protocol rather than optional paperwork are the ones who keep their licenses and their clients' trust intact.

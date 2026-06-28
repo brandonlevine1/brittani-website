@@ -4,7 +4,7 @@ description: "Delaware seller disclosure requirements 2026 explained for agents 
 publishDate: "2026-05-30"
 modifiedDate: "2026-05-30"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/delaware-seller-disclosure-requirements-2026.webp"
 imageAlt: "Delaware seller disclosure requirements 2026 documents on a table beside a colonial-style home in historic New Castle"
@@ -107,4 +107,4 @@ Quarterly compliance reviews of closed files should flag any transaction where t
 
 The regulatory environment for residential disclosures in Delaware is not loosening. The Commission's enforcement posture has trended toward stricter accountability for agents and brokers, not less. Building disclosure compliance into your standard operating procedures—rather than treating it as a box-checking afterthought—protects your license, your sellers, and your brokerage's reputation.
 
-Agents handling volume in Delaware should consider whether their current systems actually track disclosure delivery dates, amendment triggers, and buyer acknowledgment deadlines with the precision required. Tools like Britanni AI are purpose-built to flag these compliance milestones across your active pipeline, and you can evaluate whether that fits your workflow at [britanni.ai/pricing](/pricing). Getting Delaware seller disclosure requirements 2026 right is not optional—it is the baseline expectation for every licensed professional operating in this state, and the agents who treat it that way will be the ones still standing when a transaction inevitably gets challenged.
+Agents handling volume in Delaware should consider whether their current systems actually track disclosure delivery dates, amendment triggers, and buyer acknowledgment deadlines with the precision required. Tools like Brittani AI are purpose-built to flag these compliance milestones across your active pipeline, and you can evaluate whether that fits your workflow at [brittani.ai/pricing](/pricing). Getting Delaware seller disclosure requirements 2026 right is not optional—it is the baseline expectation for every licensed professional operating in this state, and the agents who treat it that way will be the ones still standing when a transaction inevitably gets challenged.

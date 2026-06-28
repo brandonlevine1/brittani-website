@@ -4,7 +4,7 @@ description: "Indiana property condition & environmental disclosures 2026 requir
 publishDate: "2026-06-23"
 modifiedDate: "2026-06-23"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/indiana-property-condition-disclosures-2026.webp"
 imageAlt: "Indiana property condition & environmental disclosures 2026 compliance overview with state-specific forms on a desk near a limestone farmhouse window"
@@ -108,6 +108,6 @@ Training is the other enforcement lever. Annual continuing education covers disc
 
 Disclosure compliance does not require agents to become environmental engineers or attorneys. It requires discipline in process: deliver early, verify receipt, retain records, and escalate ambiguity. The agents who get disciplined are almost never the ones who made honest mistakes—they are the ones who skipped steps because they were busy.
 
-For brokerages managing 50 or more transactions per year, manual auditing becomes unsustainable. Tools like [Britanni AI](/pricing) can flag missing disclosure documents in real time, track delivery timestamps, and alert brokers before a file closes incomplete. The cost of automation is trivial compared to a single IREC complaint or rescission demand.
+For brokerages managing 50 or more transactions per year, manual auditing becomes unsustainable. Tools like [Brittani AI](/pricing) can flag missing disclosure documents in real time, track delivery timestamps, and alert brokers before a file closes incomplete. The cost of automation is trivial compared to a single IREC complaint or rescission demand.
 
 Indiana property condition & environmental disclosures 2026 remain a foundational compliance requirement that separates professional agents from liability magnets. The statutes have not changed dramatically, but enforcement attention has not waned either—and in a market where [deals break down](/blog/where-deals-break-down) over smaller issues, a missing disclosure form is the kind of preventable failure that no agent or broker should tolerate.

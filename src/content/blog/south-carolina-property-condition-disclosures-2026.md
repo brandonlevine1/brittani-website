@@ -4,7 +4,7 @@ description: "South Carolina property condition & environmental disclosures 2026
 publishDate: "2026-06-25"
 modifiedDate: "2026-06-25"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/south-carolina-property-condition-disclosures-2026.webp"
 imageAlt: "A Charleston single house with peeling lead paint and a disclosure form on a porch railing, representing South Carolina property condition & environmental disclosures 2026"
@@ -105,6 +105,6 @@ The three-day rescission clock referenced in Section 27-50-80 applies specifical
 
 ## Staying Compliant Without Drowning in Paper
 
-Disclosure compliance is a process problem more than a knowledge problem. Most South Carolina agents know they need the SCR 310 and the lead-paint form. The failures happen when the forms are not tracked, not reviewed, not amended, or not stored properly. Tools like Britanni AI at [/pricing](/pricing) exist specifically to flag missing disclosures and deadline gaps across your active transactions—so that the compliance burden does not rely entirely on memory.
+Disclosure compliance is a process problem more than a knowledge problem. Most South Carolina agents know they need the SCR 310 and the lead-paint form. The failures happen when the forms are not tracked, not reviewed, not amended, or not stored properly. Tools like Brittani AI at [/pricing](/pricing) exist specifically to flag missing disclosures and deadline gaps across your active transactions—so that the compliance burden does not rely entirely on memory.
 
 South Carolina property condition & environmental disclosures 2026 requirements have not changed dramatically from prior years, but enforcement intensity and buyer sophistication continue to rise. The agents and brokers who treat disclosure as a front-loaded compliance task—rather than a last-minute scramble before closing—are the ones who avoid Commission complaints, keep deals intact, and protect their licenses for the long term.

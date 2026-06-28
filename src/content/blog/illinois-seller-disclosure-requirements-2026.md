@@ -4,7 +4,7 @@ description: "Illinois seller disclosure requirements 2026 explained with specif
 publishDate: "2026-05-25"
 modifiedDate: "2026-05-25"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/illinois-seller-disclosure-requirements-2026.webp"
 imageAlt: "Real estate agent reviewing Illinois seller disclosure requirements 2026 paperwork at a desk with Illinois residential property documents"
@@ -81,4 +81,4 @@ If an agent has actual knowledge of a material defect that the seller has omitte
 
 Statutory amendments, new IDFPR guidance memos, and evolving case law mean that disclosure best practices shift year to year. Agents who rely on outdated form versions or stale training materials are operating on borrowed time. The most effective compliance habit is building disclosure verification into every transaction checklist as a non-negotiable step, not an afterthought.
 
-For agents and brokers managing high transaction volumes, tools like [Britanni AI](/pricing) can flag missing disclosures and incomplete forms before they become liability events—without requiring manual file-by-file review. Embedding that kind of automated compliance check into your workflow directly reduces the risk profile discussed throughout this post. The Illinois seller disclosure requirements 2026 framework demands precision, documentation, and consistent follow-through from every licensee involved in a residential transaction.
+For agents and brokers managing high transaction volumes, tools like [Brittani AI](/pricing) can flag missing disclosures and incomplete forms before they become liability events—without requiring manual file-by-file review. Embedding that kind of automated compliance check into your workflow directly reduces the risk profile discussed throughout this post. The Illinois seller disclosure requirements 2026 framework demands precision, documentation, and consistent follow-through from every licensee involved in a residential transaction.

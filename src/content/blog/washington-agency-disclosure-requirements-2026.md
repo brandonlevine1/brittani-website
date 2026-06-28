@@ -4,7 +4,7 @@ description: "Washington agency disclosure requirements 2026 explained for agent
 publishDate: "2026-06-03"
 modifiedDate: "2026-06-03"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/washington-agency-disclosure-requirements-2026.webp"
 imageAlt: "Real estate agent presenting Washington agency disclosure requirements 2026 paperwork at a conference table with the Puget Sound visible through office windows"
@@ -107,4 +107,4 @@ If your brokerage manages [multiple active deals simultaneously](/blog/track-mul
 
 ## Staying Compliant Without Slowing Down
 
-Washington agency disclosure requirements 2026 are not ambiguous—the statute tells you exactly what to provide, when to provide it, and what form to use. The challenge is execution at scale, especially for high-volume agents managing dozens of client relationships simultaneously. Automated compliance tracking through tools like [Britanni AI](/pricing) can surface missing acknowledgments before they become audit findings, flagging the gap in real time rather than after a deal closes. If you are serious about protecting your license and your clients, treat agency disclosure as a workflow checkpoint—not an afterthought.
+Washington agency disclosure requirements 2026 are not ambiguous—the statute tells you exactly what to provide, when to provide it, and what form to use. The challenge is execution at scale, especially for high-volume agents managing dozens of client relationships simultaneously. Automated compliance tracking through tools like [Brittani AI](/pricing) can surface missing acknowledgments before they become audit findings, flagging the gap in real time rather than after a deal closes. If you are serious about protecting your license and your clients, treat agency disclosure as a workflow checkpoint—not an afterthought.

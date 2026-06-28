@@ -4,7 +4,7 @@ description: "Washington seller disclosure requirements 2026 explained for agent
 publishDate: "2026-05-25"
 modifiedDate: "2026-05-25"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/washington-seller-disclosure-requirements-2026.webp"
 imageAlt: "A Washington state real estate agent reviewing Washington seller disclosure requirements 2026 paperwork at a desk"
@@ -91,6 +91,6 @@ The Washington REALTORS association publishes periodic practice advisories when 
 
 The agents who avoid disclosure liability are not the ones who memorize every line of RCW 64.06. They are the ones who build systems that prevent errors from reaching the buyer's side of the transaction. That means checklists, deadline tracking, and honest conversations with sellers about what "known" means under the statute.
 
-Tools like [Britanni AI](/pricing) can flag incomplete disclosure forms and track delivery deadlines automatically, reducing the manual oversight burden that leads to missed steps in high-volume practices. If your current workflow relies on memory or sticky notes to manage Form 17 compliance, you are one busy week away from a preventable mistake.
+Tools like [Brittani AI](/pricing) can flag incomplete disclosure forms and track delivery deadlines automatically, reducing the manual oversight burden that leads to missed steps in high-volume practices. If your current workflow relies on memory or sticky notes to manage Form 17 compliance, you are one busy week away from a preventable mistake.
 
 The Washington seller disclosure requirements 2026 demand precision from listing agents and active oversight from brokers. The statute, the form, and the case law all point in the same direction: disclose what you know, deliver it on time, and document everything. Agents who internalize that standard protect their clients, their licenses, and their livelihoods.

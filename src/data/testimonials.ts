@@ -9,7 +9,7 @@ export interface Testimonial {
 export const testimonials: Testimonial[] = [
   {
     quote:
-      "I used to spend 3 hours per deal just on coordination emails. Britanni handles all of it — and follows up better than I ever did. I closed 4 extra deals last quarter because I had time to actually sell.",
+      "I used to spend 3 hours per deal just on coordination emails. Brittani handles all of it — and follows up better than I ever did. I closed 4 extra deals last quarter because I had time to actually sell.",
     name: 'Sarah Mitchell',
     title: 'Residential Agent',
     brokerage: 'Keller Williams Realty',
@@ -25,7 +25,7 @@ export const testimonials: Testimonial[] = [
   },
   {
     quote:
-      "We switched our team of 5 agents to Britanni and haven't looked back. Every deal is tracked, every deadline is hit, and every party gets exactly the right email at exactly the right time. Our deals close faster and cleaner now.",
+      "We switched our team of 5 agents to Brittani and haven't looked back. Every deal is tracked, every deadline is hit, and every party gets exactly the right email at exactly the right time. Our deals close faster and cleaner now.",
     name: 'Jennifer Park',
     title: 'Team Lead',
     brokerage: 'Compass Florida',

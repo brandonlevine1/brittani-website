@@ -4,7 +4,7 @@ description: "Mississippi seller disclosure requirements 2026 explained for agen
 publishDate: "2026-05-28"
 modifiedDate: "2026-05-28"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/mississippi-seller-disclosure-requirements-2026.webp"
 imageAlt: "A real estate agent reviewing Mississippi seller disclosure requirements 2026 paperwork in a historic Natchez-style home foyer"
@@ -111,6 +111,6 @@ Once the form is returned, review it yourself. Look for inconsistencies. If the 
 
 Store the completed, signed disclosure in your transaction file before showing the property. When an offer comes in, deliver the disclosure to the buyer's agent with a receipt confirmation before negotiations close. This protects your seller, your buyer, and your license.
 
-For agents managing multiple listings simultaneously, the challenge is ensuring no file slips through without a completed disclosure. This is exactly the kind of compliance gap that Britanni AI flags automatically—tracking form completion status, delivery dates, and receipt confirmations across your entire pipeline without manual spreadsheet management. You can see how it fits your volume at [britanni.com/pricing](/pricing).
+For agents managing multiple listings simultaneously, the challenge is ensuring no file slips through without a completed disclosure. This is exactly the kind of compliance gap that Brittani AI flags automatically—tracking form completion status, delivery dates, and receipt confirmations across your entire pipeline without manual spreadsheet management. You can see how it fits your volume at [brittani.ai/pricing](/pricing).
 
 Mississippi seller disclosure requirements 2026 will continue to evolve as MREC refines its enforcement priorities, but the core statutory framework remains stable. Agents and brokers who build airtight disclosure workflows now—anchored in the MAR Property Condition Disclosure Statement, delivered on time, and stored with proof—will stay on the right side of both the commission and the courtroom.

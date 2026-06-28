@@ -4,7 +4,7 @@ description: "New Jersey seller disclosure requirements 2026 explained for agent
 publishDate: "2026-05-25"
 modifiedDate: "2026-05-25"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/new-jersey-seller-disclosure-requirements-2026.webp"
 imageAlt: "Real estate agent reviewing New Jersey seller disclosure requirements 2026 paperwork at a desk"
@@ -91,4 +91,4 @@ Beyond flooding, New Jersey's legacy of industrial activity means radon, undergr
 
 The regulatory environment does not hold still. NJREC periodically updates its interpretive guidance, and court decisions refine disclosure duties continuously. Agents who last studied disclosure law during pre-licensing coursework are operating on outdated information—and outdated information in a compliance context is functionally the same as ignorance.
 
-Brokerage teams that want to stay ahead of disclosure liability without manually tracking every regulatory update are increasingly turning to tools like [Britanni AI](/pricing), which monitors state-specific compliance changes and flags form requirements at the transaction level. For firms managing volume across multiple agents, automated compliance checks replace the human error that audit trails exist to catch. New Jersey seller disclosure requirements 2026 demand precision, and the cost of imprecision—measured in lawsuits, fines, and lost licenses—far exceeds the cost of getting it right the first time.
+Brokerage teams that want to stay ahead of disclosure liability without manually tracking every regulatory update are increasingly turning to tools like [Brittani AI](/pricing), which monitors state-specific compliance changes and flags form requirements at the transaction level. For firms managing volume across multiple agents, automated compliance checks replace the human error that audit trails exist to catch. New Jersey seller disclosure requirements 2026 demand precision, and the cost of imprecision—measured in lawsuits, fines, and lost licenses—far exceeds the cost of getting it right the first time.

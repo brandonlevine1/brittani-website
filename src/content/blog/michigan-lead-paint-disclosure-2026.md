@@ -4,7 +4,7 @@ description: "Michigan lead paint disclosure requirements 2026 explained for age
 publishDate: "2026-06-12"
 modifiedDate: "2026-06-12"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/michigan-lead-paint-disclosure-2026.webp"
 imageAlt: "Historic Detroit brick home with peeling paint illustrating Michigan lead paint disclosure requirements 2026 compliance concerns"
@@ -117,6 +117,6 @@ The exemption must be documented. If you are relying on a certified inspection t
 
 Disclosure compliance does not require heroic effort. It requires a system that triggers at the right moment in your transaction timeline — specifically, before the buyer signs the purchase agreement. Agents who build this step into their listing intake process rather than scrambling at contract execution rarely face compliance issues.
 
-If you are handling volume and managing disclosure deadlines across a dozen active files, tools like [Britanni AI](/pricing) can flag pre-1978 properties at listing intake and ensure the disclosure workflow fires before you are staring down a signature deadline. Automation does not replace your professional judgment, but it does prevent the kind of timing errors that create liability.
+If you are handling volume and managing disclosure deadlines across a dozen active files, tools like [Brittani AI](/pricing) can flag pre-1978 properties at listing intake and ensure the disclosure workflow fires before you are staring down a signature deadline. Automation does not replace your professional judgment, but it does prevent the kind of timing errors that create liability.
 
 The Michigan lead paint disclosure requirements 2026 are not new law — they have been in effect since 1996. But the enforcement environment is tightening, buyer awareness is increasing, and the damages in lead exposure cases continue to climb. The agents and brokers who treat this as a serious compliance obligation rather than a routine checkbox are the ones who will avoid becoming case studies in continuing education courses.

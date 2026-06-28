@@ -4,7 +4,7 @@ description: "North Carolina agency disclosure requirements 2026 explained for a
 publishDate: "2026-06-02"
 modifiedDate: "2026-06-02"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/north-carolina-agency-disclosure-requirements-2026.webp"
 imageAlt: "Real estate agent reviewing North Carolina agency disclosure requirements 2026 paperwork at a table with a Raleigh skyline visible through the window"
@@ -102,7 +102,7 @@ BICs should audit transaction files for three specific items: the dated WWREA br
 
 > "The broker-in-charge is responsible for assuring that each provisional broker and each licensed agent affiliated with the firm complies with all applicable agency disclosure requirements." — NCREC License Law and Commission Rules, Section 58A.0110
 
-Quarterly file audits are the minimum standard most compliance attorneys recommend. BICs running teams of five or more agents should consider monthly spot checks, particularly for newer licensees who have not yet internalized the timing requirements. A system that flags files missing disclosure documentation before closing prevents problems from compounding. Transaction management platforms—including tools like Britanni AI available at [/pricing](/pricing)—can automate these compliance checkpoints so that gaps surface in real time rather than during a post-closing audit or, worse, during a commission investigation.
+Quarterly file audits are the minimum standard most compliance attorneys recommend. BICs running teams of five or more agents should consider monthly spot checks, particularly for newer licensees who have not yet internalized the timing requirements. A system that flags files missing disclosure documentation before closing prevents problems from compounding. Transaction management platforms—including tools like Brittani AI available at [/pricing](/pricing)—can automate these compliance checkpoints so that gaps surface in real time rather than during a post-closing audit or, worse, during a commission investigation.
 
 ## Staying Compliant With North Carolina Agency Disclosure Requirements 2026
 

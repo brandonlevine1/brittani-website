@@ -4,7 +4,7 @@ description: "New Jersey property condition & environmental disclosures 2026 rul
 publishDate: "2026-06-22"
 modifiedDate: "2026-06-22"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/new-jersey-property-condition-disclosures-2026.webp"
 imageAlt: "New Jersey property condition & environmental disclosures 2026 compliance documents beside a Cape Cod home in a suburban Garden State neighborhood"
@@ -103,6 +103,6 @@ Brokers who lack a systematic file review process expose themselves to vicarious
 
 The best defense is a repeatable process that fires at listing intake, not at contract execution. At the moment a listing agreement is signed, the disclosure packet—Form 140, lead-paint form, well-testing order (if applicable), and environmental questionnaire—should be handed to the seller with a deadline for return. Agents who wait until an offer arrives to request disclosures are playing a timing game they will eventually lose.
 
-Automating deadline tracking and form delivery verification is where technology earns its keep. Britanni AI was built to flag exactly these kinds of compliance gaps in real time across your active pipeline, and you can see how it fits into your brokerage workflow at [britanni.ai/pricing](/pricing). The point is not to replace your judgment—it is to make sure the administrative steps that protect your license actually happen on every file.
+Automating deadline tracking and form delivery verification is where technology earns its keep. Brittani AI was built to flag exactly these kinds of compliance gaps in real time across your active pipeline, and you can see how it fits into your brokerage workflow at [brittani.ai/pricing](/pricing). The point is not to replace your judgment—it is to make sure the administrative steps that protect your license actually happen on every file.
 
 Staying current with New Jersey property condition & environmental disclosures 2026 requirements is a non-negotiable part of practicing in this state. The law is specific, the courts are active, and the commission is watching. Build the system, run the audits, and document everything.

@@ -4,7 +4,7 @@ description: "New York agency disclosure requirements 2026 explained for license
 publishDate: "2026-06-01"
 modifiedDate: "2026-06-01"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/new-york-agency-disclosure-requirements-2026.webp"
 imageAlt: "New York brownstone stoop with disclosure paperwork illustrating New York agency disclosure requirements 2026"
@@ -113,6 +113,6 @@ Document everything. The agents who face disciplinary action are almost never th
 
 The agents and brokerages that treat agency disclosure as a mechanical afterthought are the ones writing checks to attorneys when deals go sideways. New York agency disclosure requirements 2026 have not changed dramatically from prior years, but enforcement attention has increased alongside consumer awareness — particularly as buyers become more educated about their representation rights post-NAR settlement.
 
-Automating your compliance tracking does not require a massive technology investment. Tools like [Britanni AI](/pricing) can flag missing disclosure forms before files reach critical milestones, reducing the audit burden on brokers and catching gaps before they become violations. The cost of a missed disclosure is always higher than the cost of a system that prevents one.
+Automating your compliance tracking does not require a massive technology investment. Tools like [Brittani AI](/pricing) can flag missing disclosure forms before files reach critical milestones, reducing the audit burden on brokers and catching gaps before they become violations. The cost of a missed disclosure is always higher than the cost of a system that prevents one.
 
 New York agency disclosure requirements 2026 demand consistent execution at every point of consumer contact. The agents who internalize this obligation — not as paperwork, but as a professional standard — build reputations that survive regulatory scrutiny and earn client trust that generates referrals for decades.

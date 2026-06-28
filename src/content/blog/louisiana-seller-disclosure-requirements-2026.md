@@ -4,7 +4,7 @@ description: "Louisiana seller disclosure requirements 2026 explained for agents
 publishDate: "2026-05-28"
 modifiedDate: "2026-05-28"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/louisiana-seller-disclosure-requirements-2026.webp"
 imageAlt: "A Louisiana Creole-style home with a For Sale sign, representing Louisiana seller disclosure requirements 2026 compliance for agents"
@@ -117,6 +117,6 @@ The most effective compliance system is also the simplest: disclosure first, lis
 
 Once an offer is received, confirm delivery timing against the contract execution date. Document delivery with a date-stamped email, electronic signature platform receipt, or hand-delivery acknowledgment signed by the buyer. If your transaction management system does not generate automatic delivery confirmations, you are relying on memory—and memory fails when you are juggling eight or more active files.
 
-Agents who want to eliminate the risk of missed disclosures and deadline lapses across their pipeline can explore how [Britanni AI](https://britanni.ai/pricing) automates document tracking and compliance flags without requiring manual checklist management. Building this kind of system into your practice is the difference between catching a missing disclosure on day one and discovering it at the closing table.
+Agents who want to eliminate the risk of missed disclosures and deadline lapses across their pipeline can explore how [Brittani AI](https://brittani.ai/pricing) automates document tracking and compliance flags without requiring manual checklist management. Building this kind of system into your practice is the difference between catching a missing disclosure on day one and discovering it at the closing table.
 
 Louisiana seller disclosure requirements 2026 are not changing dramatically from prior years, but enforcement attention from LREC continues to increase. The agents and brokers who treat disclosure compliance as a foundational workflow step—not an afterthought—are the ones who avoid disciplinary hearings, E&O claims, and blown deals.

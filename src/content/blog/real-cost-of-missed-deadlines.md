@@ -4,7 +4,7 @@ description: "Missed deadlines cost brokerages far more than a lost commission c
 publishDate: "2026-05-25"
 modifiedDate: "2026-05-25"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "7 min"
 image: "/images/blog/real-cost-of-missed-deadlines.webp"
 imageAlt: "Abstract architectural detail of intersecting concrete beams casting sharp shadows"

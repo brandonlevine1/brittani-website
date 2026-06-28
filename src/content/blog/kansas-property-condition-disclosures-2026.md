@@ -4,7 +4,7 @@ description: "Kansas property condition & environmental disclosures 2026 explain
 publishDate: "2026-06-17"
 modifiedDate: "2026-06-17"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/kansas-property-condition-disclosures-2026.webp"
 imageAlt: "Kansas farmhouse with inspection report representing Kansas property condition & environmental disclosures 2026 compliance"
@@ -102,6 +102,6 @@ Municipal water contamination advisories also warrant attention. If a property's
 
 The single best protection for a Kansas agent is a disciplined, repeatable process for disclosure delivery and documentation. Treat the KAR Form SDS and the federal lead-paint disclosure as non-negotiable deliverables that must be completed, signed, and filed before you submit or present any offer. Build reminders into your transaction management workflow so that no listing goes active without a completed disclosure on file.
 
-For agents handling high transaction volumes or managing teams, tools like Britanni AI at [/pricing](/pricing) can automate deadline tracking and flag missing disclosure documents before they become compliance gaps. The 2026 enforcement environment rewards agents who systematize their compliance rather than relying on memory and good intentions.
+For agents handling high transaction volumes or managing teams, tools like Brittani AI at [/pricing](/pricing) can automate deadline tracking and flag missing disclosure documents before they become compliance gaps. The 2026 enforcement environment rewards agents who systematize their compliance rather than relying on memory and good intentions.
 
 Kansas property condition & environmental disclosures 2026 requirements are not changing dramatically in substance, but the consequences of getting them wrong continue to escalate. KREC is watching, buyers' attorneys are sophisticated, and your license is not worth the risk of cutting corners on a form that takes twenty minutes to complete correctly.

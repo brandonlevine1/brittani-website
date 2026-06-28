@@ -4,7 +4,7 @@ description: "Most real estate 'AI' tools are glorified mail merge. Here's how t
 publishDate: "2026-05-25"
 modifiedDate: "2026-05-25"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "7 min"
 image: "/images/blog/stop-calling-templates-ai.webp"
 imageAlt: "Abstract geometric facade of a modern office building reflecting structured patterns"

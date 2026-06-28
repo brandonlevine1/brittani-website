@@ -4,7 +4,7 @@ description: "Florida seller disclosure requirements 2026 explained with specifi
 publishDate: "2026-05-25"
 modifiedDate: "2026-05-25"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/florida-seller-disclosure-requirements-2026.webp"
 imageAlt: "A Florida real estate agent reviewing seller disclosure requirements 2026 paperwork at a desk with property documents"
@@ -83,4 +83,4 @@ Documentation habits separate agents who survive disclosure disputes from those 
 
 The Florida legislature modifies disclosure statutes regularly, and FREC issues interpretive guidance that can shift enforcement priorities without any statutory change. Agents and brokers who rely on outdated training or forms from prior years expose themselves unnecessarily. Monitoring the [Florida Division of Real Estate](https://www.myfloridalicense.com/DBPR/real-estate/) for rule changes, advisory opinions, and disciplinary trends is part of maintaining a competent practice.
 
-Automating disclosure tracking and deadline management through tools like [Britanni AI](/pricing) removes the human error element from compliance workflows—something that matters when a missed HOA disclosure window can unwind an otherwise clean closing. The Florida seller disclosure requirements 2026 demand more from agents and brokers than most realize, and the cost of a preventable mistake always exceeds the cost of getting the process right from the start.
+Automating disclosure tracking and deadline management through tools like [Brittani AI](/pricing) removes the human error element from compliance workflows—something that matters when a missed HOA disclosure window can unwind an otherwise clean closing. The Florida seller disclosure requirements 2026 demand more from agents and brokers than most realize, and the cost of a preventable mistake always exceeds the cost of getting the process right from the start.

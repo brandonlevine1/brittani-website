@@ -4,7 +4,7 @@ description: "Pennsylvania lead paint disclosure requirements 2026 explained for
 publishDate: "2026-06-11"
 modifiedDate: "2026-06-11"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/pennsylvania-lead-paint-disclosure-2026.webp"
 imageAlt: "Historic Philadelphia rowhome with peeling paint layers representing Pennsylvania lead paint disclosure requirements 2026 compliance concerns"
@@ -102,4 +102,4 @@ However, several situations that agents commonly assume are exempt actually are 
 
 The regulatory framework for lead paint disclosure has not changed substantively since the original 1996 implementation, but enforcement intensity has. EPA Region 3 (which covers Pennsylvania) has increased referrals for lead-related violations in residential transactions over the past three years, and PREC has cited lead paint disclosure failures in several 2025 disciplinary orders.
 
-For agents managing high transaction volumes, the challenge is not understanding the rule — it is executing consistently across every qualifying file. This is exactly where compliance automation earns its keep. Britanni AI flags pre-1978 properties in your pipeline and confirms disclosure form completion before contract execution, eliminating the most common timing error in the state — you can see how it fits into your workflow at [/pricing](/pricing). Pennsylvania lead paint disclosure requirements 2026 remain a straightforward obligation, but one that demands airtight process execution on every single qualifying transaction you touch.
+For agents managing high transaction volumes, the challenge is not understanding the rule — it is executing consistently across every qualifying file. This is exactly where compliance automation earns its keep. Brittani AI flags pre-1978 properties in your pipeline and confirms disclosure form completion before contract execution, eliminating the most common timing error in the state — you can see how it fits into your workflow at [/pricing](/pricing). Pennsylvania lead paint disclosure requirements 2026 remain a straightforward obligation, but one that demands airtight process execution on every single qualifying transaction you touch.

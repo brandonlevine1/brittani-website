@@ -4,7 +4,7 @@ description: "Vermont seller disclosure requirements 2026 explained for agents a
 publishDate: "2026-05-31"
 modifiedDate: "2026-05-31"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/vermont-seller-disclosure-requirements-2026.webp"
 imageAlt: "A Vermont farmhouse with Green Mountain backdrop representing Vermont seller disclosure requirements 2026 compliance for real estate agents"
@@ -107,6 +107,6 @@ Document everything. When you deliver the PIR to the buyer's agent, do it in wri
 
 Stay current on form updates. The Vermont Association of Realtors periodically revises its recommended PIR form to reflect statutory changes and Commission guidance. Using an outdated form version is not a defense if it omits a required disclosure category.
 
-For agents managing high transaction volumes, automating disclosure tracking through platforms like Britanni AI at [britanni.ai/pricing](/pricing) eliminates the manual tracking that causes deadlines to slip. The tool flags incomplete disclosures before they become compliance problems, which is exactly the kind of systematic check that keeps both agents and brokers out of regulatory trouble.
+For agents managing high transaction volumes, automating disclosure tracking through platforms like Brittani AI at [brittani.ai/pricing](/pricing) eliminates the manual tracking that causes deadlines to slip. The tool flags incomplete disclosures before they become compliance problems, which is exactly the kind of systematic check that keeps both agents and brokers out of regulatory trouble.
 
 Vermont seller disclosure requirements 2026 demand precision, documentation, and proactive management from every agent involved in a residential transaction. The agents who treat the PIR as a living compliance document—rather than a form to file and forget—are the ones who avoid Commission complaints, preserve deals, and protect their licenses for the long run.

@@ -4,7 +4,7 @@ description: "Maine lead paint disclosure requirements 2026 explained for agents
 publishDate: "2026-06-18"
 modifiedDate: "2026-06-18"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/maine-lead-paint-disclosure-2026.webp"
 imageAlt: "Historic Cape Cod-style home in Portland, Maine illustrating Maine lead paint disclosure requirements 2026 for agents"
@@ -111,6 +111,6 @@ Buyer's agents carry a parallel responsibility: confirm that the disclosure was 
 
 ## Staying Compliant Without Burning Hours
 
-The mechanics of lead paint disclosure compliance are not complex. The challenge is consistency across dozens of simultaneous transactions, each with its own timeline, parties, and document flow. This is exactly the kind of recurring regulatory task where automation earns its keep. Britanni AI monitors transaction milestones and flags missing disclosures before they become violations—worth exploring at [/pricing](/pricing) if your current system relies on memory and manual checklists.
+The mechanics of lead paint disclosure compliance are not complex. The challenge is consistency across dozens of simultaneous transactions, each with its own timeline, parties, and document flow. This is exactly the kind of recurring regulatory task where automation earns its keep. Brittani AI monitors transaction milestones and flags missing disclosures before they become violations—worth exploring at [/pricing](/pricing) if your current system relies on memory and manual checklists.
 
 Agents who internalize **Maine lead paint disclosure requirements 2026** as a non-negotiable workflow step—rather than an optional add-on—protect their license, their brokerage, and their clients. The forms are straightforward, the deadlines are clear, and the penalties for failure are severe enough to justify getting it right every single time.

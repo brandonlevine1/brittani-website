@@ -4,7 +4,7 @@ description: "Massachusetts lead paint disclosure requirements 2026 explained fo
 publishDate: "2026-06-13"
 modifiedDate: "2026-06-13"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/massachusetts-lead-paint-disclosure-2026.webp"
 imageAlt: "Historic triple-decker home in Somerville illustrating Massachusetts lead paint disclosure requirements 2026 compliance concerns"
@@ -112,6 +112,6 @@ The practical challenge for rental agents is volume. A property manager overseei
 
 The regulatory environment around lead paint disclosure is not static. EPA adjusts penalty amounts annually for inflation. Massachusetts DPH updates its forms and guidance periodically. The Board of Registration continues to bring disciplinary actions against agents who treat disclosure as an afterthought.
 
-Build lead paint compliance into your transaction management system as a non-negotiable checkpoint — not something you scramble to complete the day before closing. Tools like [Britanni AI](/pricing) can flag missing disclosure documents automatically during transaction coordination, catching gaps before they become liability events. The cost of automation is trivial compared to a single 93A treble damages judgment.
+Build lead paint compliance into your transaction management system as a non-negotiable checkpoint — not something you scramble to complete the day before closing. Tools like [Brittani AI](/pricing) can flag missing disclosure documents automatically during transaction coordination, catching gaps before they become liability events. The cost of automation is trivial compared to a single 93A treble damages judgment.
 
 Massachusetts lead paint disclosure requirements 2026 will continue to carry outsized importance in a state where virtually every home predates the federal lead paint ban. Agents who master the dual-form requirement, document their compliance meticulously, and build broker-level audit systems will protect their clients, their licenses, and their livelihoods far more effectively than those who treat disclosure as just another form in the stack.

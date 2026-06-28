@@ -4,7 +4,7 @@ description: "Virginia seller disclosure requirements 2026 explained for agents 
 publishDate: "2026-05-25"
 modifiedDate: "2026-05-25"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/virginia-seller-disclosure-requirements-2026.webp"
 imageAlt: "A Virginia real estate agent reviewing seller disclosure requirements 2026 paperwork at a desk with contract documents"
@@ -83,4 +83,4 @@ The most effective approach is systematizing disclosure delivery at the listing 
 
 For agents managing multiple active listings, tracking disclosure deadlines across files manually is error-prone. Building [automated compliance checklists](/blog/real-estate-compliance-checklist-guide) into your workflow ensures nothing slips. Buyer's agents should maintain a parallel tracking system confirming receipt date and noting when the rescission window closes.
 
-Virginia seller disclosure requirements 2026 will continue to be enforced with the same statutory teeth they have carried for over two decades. Agents and brokers who treat them as a checkbox exercise will eventually face a claim; those who build disclosure into their operational DNA will not. If your brokerage is looking for a way to automate disclosure tracking, deadline alerts, and file audits at scale, [Britanni AI's platform](/pricing) was built specifically for that level of transaction-level compliance management—without replacing the judgment calls only a licensed agent can make.
+Virginia seller disclosure requirements 2026 will continue to be enforced with the same statutory teeth they have carried for over two decades. Agents and brokers who treat them as a checkbox exercise will eventually face a claim; those who build disclosure into their operational DNA will not. If your brokerage is looking for a way to automate disclosure tracking, deadline alerts, and file audits at scale, [Brittani AI's platform](/pricing) was built specifically for that level of transaction-level compliance management—without replacing the judgment calls only a licensed agent can make.

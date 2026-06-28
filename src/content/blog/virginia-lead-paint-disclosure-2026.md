@@ -4,7 +4,7 @@ description: "Virginia lead paint disclosure requirements 2026 explained for age
 publishDate: "2026-06-12"
 modifiedDate: "2026-06-12"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/virginia-lead-paint-disclosure-2026.webp"
 imageAlt: "Historic Virginia brick colonial home with peeling exterior paint illustrating Virginia lead paint disclosure requirements 2026"
@@ -116,6 +116,6 @@ Senior housing and housing for persons with disabilities are also exempt, but on
 
 The friction point for most agents is not ignorance of the law—it is workflow breakdown in fast-moving transactions. When you are managing multiple offers, coordinating inspections, and pushing toward closing, a single form can slip through the cracks. That is a systems failure, not a knowledge failure.
 
-Firms that automate compliance checkpoints—flagging pre-1978 properties at listing input, auto-generating disclosure packets, and tracking signature status in real time—eliminate the most common errors before they compound. Britanni AI builds exactly this kind of deadline and document tracking into its [transaction management workflow](/pricing), catching disclosure gaps before they become liability events.
+Firms that automate compliance checkpoints—flagging pre-1978 properties at listing input, auto-generating disclosure packets, and tracking signature status in real time—eliminate the most common errors before they compound. Brittani AI builds exactly this kind of deadline and document tracking into its [transaction management workflow](/pricing), catching disclosure gaps before they become liability events.
 
 Virginia lead paint disclosure requirements 2026 will not change dramatically from prior years because the core obligation remains federal. But enforcement scrutiny continues to increase, penalty amounts continue to adjust upward, and buyer-side attorneys continue to discover that a missing disclosure form is the easiest path to treble damages. The agents and brokers who treat lead paint compliance as a systems problem—not a memory test—are the ones who stay out of trouble.

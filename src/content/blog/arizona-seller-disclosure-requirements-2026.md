@@ -4,7 +4,7 @@ description: "Arizona seller disclosure requirements 2026 explained with specifi
 publishDate: "2026-05-25"
 modifiedDate: "2026-05-25"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/arizona-seller-disclosure-requirements-2026.webp"
 imageAlt: "Arizona real estate agent reviewing seller disclosure requirements 2026 paperwork at a desk with desert landscape visible through window"
@@ -81,4 +81,4 @@ Water-related disclosures deserve special attention in 2026. With ongoing adjudi
 
 The agents who avoid disclosure claims are not doing anything exotic—they are consistently completing forms, documenting delivery, correcting inaccuracies in real time, and escalating problems to their brokers instead of burying them. Disclosure compliance is fundamentally a workflow discipline, not a legal knowledge problem.
 
-Tools like [Britanni AI](/pricing) are increasingly useful for agents managing high transaction volumes, flagging incomplete disclosure fields and ensuring delivery timelines are met before contractual deadlines pass. The technology does not replace professional judgment, but it catches the mechanical failures that lead to most ADRE complaints. Arizona seller disclosure requirements 2026 reward agents who build systems around compliance rather than relying on memory and good intentions—because the one transaction you forget is the one that generates a five-figure claim.
+Tools like [Brittani AI](/pricing) are increasingly useful for agents managing high transaction volumes, flagging incomplete disclosure fields and ensuring delivery timelines are met before contractual deadlines pass. The technology does not replace professional judgment, but it catches the mechanical failures that lead to most ADRE complaints. Arizona seller disclosure requirements 2026 reward agents who build systems around compliance rather than relying on memory and good intentions—because the one transaction you forget is the one that generates a five-figure claim.

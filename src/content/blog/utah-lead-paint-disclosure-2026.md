@@ -4,7 +4,7 @@ description: "Utah lead paint disclosure requirements 2026 explained for agents 
 publishDate: "2026-06-16"
 modifiedDate: "2026-06-16"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/utah-lead-paint-disclosure-2026.webp"
 imageAlt: "Historic Salt Lake City bungalow with peeling paint illustrating Utah lead paint disclosure requirements 2026"
@@ -117,4 +117,4 @@ The 2026 EPA penalty adjustments also increased the per-violation fine, making c
 
 The lead paint disclosure is one of those compliance items that takes five minutes to execute correctly and can cost tens of thousands of dollars when missed. Agents who build the federal disclosure form into their listing checklist—triggered automatically for any property with a pre-1978 build year—eliminate virtually all risk.
 
-For agents and TCs managing high transaction volumes, tools like Britanni AI at [britanni.ai/pricing](/pricing) can flag pre-1978 properties at listing intake and ensure the correct forms route to the right parties before contract ratification. The Utah lead paint disclosure requirements 2026 are not new law, but they demand consistent execution across every qualifying transaction, and automation is the most reliable way to prevent the kind of human error that leads to five-figure penalties.
+For agents and TCs managing high transaction volumes, tools like Brittani AI at [brittani.ai/pricing](/pricing) can flag pre-1978 properties at listing intake and ensure the correct forms route to the right parties before contract ratification. The Utah lead paint disclosure requirements 2026 are not new law, but they demand consistent execution across every qualifying transaction, and automation is the most reliable way to prevent the kind of human error that leads to five-figure penalties.

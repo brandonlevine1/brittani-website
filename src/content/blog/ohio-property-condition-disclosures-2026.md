@@ -4,7 +4,7 @@ description: "Ohio property condition & environmental disclosures 2026 explained
 publishDate: "2026-06-21"
 modifiedDate: "2026-06-21"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/ohio-property-condition-disclosures-2026.webp"
 imageAlt: "Ohio residential property with disclosure paperwork representing Ohio property condition & environmental disclosures 2026 compliance"
@@ -107,6 +107,6 @@ Radon is another persistent environmental issue in Ohio. The state consistently 
 
 The agents who avoid disclosure complaints share one trait: they treat disclosure as a process, not a single event. The RPDF gets delivered at listing, reviewed at contract, and confirmed at closing. Lead-paint forms get signed before offers go out. Environmental history gets a five-minute check against Ohio EPA databases before the MLS listing publishes.
 
-Automating compliance reminders is where most brokerages fall short. Tools like Britanni AI can flag disclosure deadlines tied to each transaction's specific property characteristics—year built, prior use, geographic risk zone—so that nothing slips through during the chaos of multiple active deals; you can see how the system handles this at [britanni.ai/pricing](/pricing). The goal is not to replace agent judgment but to ensure the right form surfaces at the right moment in the transaction timeline.
+Automating compliance reminders is where most brokerages fall short. Tools like Brittani AI can flag disclosure deadlines tied to each transaction's specific property characteristics—year built, prior use, geographic risk zone—so that nothing slips through during the chaos of multiple active deals; you can see how the system handles this at [brittani.ai/pricing](/pricing). The goal is not to replace agent judgment but to ensure the right form surfaces at the right moment in the transaction timeline.
 
 Ohio property condition & environmental disclosures 2026 rules are not changing dramatically from prior years, but the enforcement climate and buyer sophistication are both rising. Agents and brokers who lock down their disclosure process now—correct forms, correct timing, correct documentation—will close cleaner, litigate less, and keep their licenses intact.

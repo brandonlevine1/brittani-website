@@ -4,7 +4,7 @@ description: "Colorado seller disclosure requirements 2026 explained with specif
 publishDate: "2026-05-27"
 modifiedDate: "2026-05-27"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/colorado-seller-disclosure-requirements-2026.webp"
 imageAlt: "Real estate agent reviewing Colorado seller disclosure requirements 2026 paperwork at a desk with mountain views"
@@ -81,7 +81,7 @@ Start every listing appointment with a blank SPD in hand. Walk the seller throug
 
 When you observe something during your listing walkthrough that contradicts what the seller has disclosed (or failed to disclose), address it immediately and in writing. A follow-up email saying "I noticed water staining in the northwest corner of the basement — can you provide context so we can determine whether this should be reflected on the SPD?" creates a contemporaneous record that protects you if things go sideways.
 
-For agents managing high transaction volumes, tracking disclosure deadlines and form completeness manually becomes untenable. Tools like [Britanni AI](/pricing) can flag missing disclosures, outdated forms, and contradictions between listing data and disclosure content before they become compliance problems — which is the kind of operational safeguard that keeps both agents and brokers out of CREC's crosshairs.
+For agents managing high transaction volumes, tracking disclosure deadlines and form completeness manually becomes untenable. Tools like [Brittani AI](/pricing) can flag missing disclosures, outdated forms, and contradictions between listing data and disclosure content before they become compliance problems — which is the kind of operational safeguard that keeps both agents and brokers out of CREC's crosshairs.
 
 The Colorado seller disclosure requirements 2026 landscape rewards agents who treat disclosure as a first-day priority rather than a last-minute afterthought. Your license, your E&O premiums, and your clients' trust all depend on getting the details right — every single time, on every single file.
 

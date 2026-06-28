@@ -4,7 +4,7 @@ description: "Idaho lead paint disclosure requirements 2026 explained for agents
 publishDate: "2026-06-18"
 modifiedDate: "2026-06-18"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/idaho-lead-paint-disclosure-2026.webp"
 imageAlt: "Historic Boise home with peeling paint illustrating Idaho lead paint disclosure requirements 2026 for real estate agents"
@@ -111,6 +111,6 @@ Idaho's real estate market in 2026 continues to see strong demand for older home
 
 The disclosure obligation does not slow down transactions when handled properly. It adds one form and one pamphlet delivery to the listing process. The friction comes only when agents treat it as optional, forget to document it, or assume someone else in the transaction handled it.
 
-Agents who build lead paint disclosure into their standard pre-listing workflow—alongside [general seller disclosure processes](/blog/utah-seller-disclosure-requirements-2026) and agency disclosures—eliminate the risk entirely. Platforms like Britanni AI at [britanni.com/pricing](/pricing) automate document tracking and deadline management for exactly these kinds of recurring compliance obligations, flagging missing signatures before they become audit problems.
+Agents who build lead paint disclosure into their standard pre-listing workflow—alongside [general seller disclosure processes](/blog/utah-seller-disclosure-requirements-2026) and agency disclosures—eliminate the risk entirely. Platforms like Brittani AI at [brittani.ai/pricing](/pricing) automate document tracking and deadline management for exactly these kinds of recurring compliance obligations, flagging missing signatures before they become audit problems.
 
 The Idaho lead paint disclosure requirements 2026 demand the same discipline they always have: identify pre-1978 properties, deliver the form and pamphlet before contract acceptance, document everything with signatures, retain the file for three years, and never assume someone else handled it. The agents who treat this as a non-negotiable checklist item—rather than an afterthought—protect their clients, their brokers, and their own license from entirely preventable liability.

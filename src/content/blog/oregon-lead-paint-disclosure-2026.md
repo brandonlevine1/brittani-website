@@ -4,7 +4,7 @@ description: "Oregon lead paint disclosure requirements 2026 explained for agent
 publishDate: "2026-06-15"
 modifiedDate: "2026-06-15"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/oregon-lead-paint-disclosure-2026.webp"
 imageAlt: "A vintage Craftsman bungalow in Portland illustrating Oregon lead paint disclosure requirements 2026 for real estate agents"
@@ -106,6 +106,6 @@ Short sales and auctions also trigger disclosure. Oregon agents handling auction
 
 The disclosure itself is a single form. The difficulty is not the paperwork—it is the sequencing, the signatures, the retention, and the follow-through across a busy agent's 15 or 20 active files. Agents who rely on memory or a single-checklist system inevitably miss a step on at least one file per quarter.
 
-Automated compliance tracking solves this at the file level. Tools like Britanni AI flag missing lead disclosures based on property age data pulled from public records, and prompt agents before contract ratification—not after. If you are evaluating whether that kind of automation fits your volume, the [pricing page](/pricing) breaks down what is included at each tier.
+Automated compliance tracking solves this at the file level. Tools like Brittani AI flag missing lead disclosures based on property age data pulled from public records, and prompt agents before contract ratification—not after. If you are evaluating whether that kind of automation fits your volume, the [pricing page](/pricing) breaks down what is included at each tier.
 
 The Oregon lead paint disclosure requirements 2026 have not changed in substance from prior years, but enforcement intensity has. Agents and brokers who treat lead disclosure as a checkbox will eventually face a complaint that treats it as a liability event. Build the system now, audit it quarterly, and keep your files clean for three years minimum. That is the standard, and the standard does not bend for busy seasons.

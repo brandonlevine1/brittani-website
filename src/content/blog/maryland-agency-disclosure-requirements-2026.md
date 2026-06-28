@@ -4,7 +4,7 @@ description: "Maryland agency disclosure requirements 2026 explained for license
 publishDate: "2026-06-04"
 modifiedDate: "2026-06-04"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/maryland-agency-disclosure-requirements-2026.webp"
 imageAlt: "A Maryland agent presenting agency disclosure requirements 2026 paperwork at a historic Annapolis townhome doorstep"
@@ -110,4 +110,4 @@ However, the settlement's changes to compensation transparency create a secondar
 
 Maryland's disclosure system works when agents build the delivery step into their first-contact workflow rather than treating it as a pre-contract checkbox. The statute rewards early disclosure and punishes delay, so the safest approach is simple: deliver the pamphlet at every first substantive interaction, document the delivery, and never assume someone else on the team already handled it.
 
-For agents managing Maryland agency disclosure requirements 2026 compliance across multiple transactions, automation matters. Britanni AI's [transaction coordination tools](/pricing) can flag files missing disclosure documentation before they reach contract stage, reducing the audit burden on brokers and protecting agents from accidental omissions. The goal is not to replace professional judgment but to ensure the mechanical steps never fall through the cracks when volume picks up.
+For agents managing Maryland agency disclosure requirements 2026 compliance across multiple transactions, automation matters. Brittani AI's [transaction coordination tools](/pricing) can flag files missing disclosure documentation before they reach contract stage, reducing the audit burden on brokers and protecting agents from accidental omissions. The goal is not to replace professional judgment but to ensure the mechanical steps never fall through the cracks when volume picks up.

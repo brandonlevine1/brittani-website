@@ -4,7 +4,7 @@ description: "Wyoming agency disclosure requirements 2026 explained for agents a
 publishDate: "2026-06-10"
 modifiedDate: "2026-06-10"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/wyoming-agency-disclosure-requirements-2026.webp"
 imageAlt: "Wyoming agency disclosure requirements 2026 explained with forms laid on a desk overlooking the Teton Range"
@@ -119,4 +119,4 @@ The reality of Wyoming agency disclosure requirements 2026 is that compliance is
 
 Building disclosure delivery into the first five minutes of any new client interaction eliminates the timing problem entirely. Carry physical forms in your car, pre-load them in your e-signature platform, and make disclosure your opening move before discussing anything beyond property addresses and square footage. Agents who treat agency disclosure as a closing-table afterthought are the ones who generate complaints, and those complaints are how WREC audits begin.
 
-For teams processing significant deal volume, tools like [Britanni AI](/pricing) can flag missing disclosure forms before files reach the audit stage, catching gaps that manual reviews miss. Pairing that kind of automated compliance tracking with the [seller disclosure obligations](/blog/wyoming-seller-disclosure-requirements-2026) unique to Wyoming transactions gives brokerages a defensible paper trail from first contact through closing. Wyoming agency disclosure requirements 2026 are not changing in substance, but enforcement attention is increasing—agents and brokers who treat disclosure as a first-contact habit rather than a last-minute checkbox will stay ahead of the Commission's scrutiny.
+For teams processing significant deal volume, tools like [Brittani AI](/pricing) can flag missing disclosure forms before files reach the audit stage, catching gaps that manual reviews miss. Pairing that kind of automated compliance tracking with the [seller disclosure obligations](/blog/wyoming-seller-disclosure-requirements-2026) unique to Wyoming transactions gives brokerages a defensible paper trail from first contact through closing. Wyoming agency disclosure requirements 2026 are not changing in substance, but enforcement attention is increasing—agents and brokers who treat disclosure as a first-contact habit rather than a last-minute checkbox will stay ahead of the Commission's scrutiny.

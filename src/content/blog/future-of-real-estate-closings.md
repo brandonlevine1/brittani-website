@@ -4,7 +4,7 @@ description: "Digital closings are accelerating fast. The real question isn't wh
 publishDate: "2026-05-25"
 modifiedDate: "2026-05-25"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "7 min"
 image: "/images/blog/future-of-real-estate-closings.webp"
 imageAlt: "Abstract geometric lines converging toward a single vanishing point, evoking convergence and speed"

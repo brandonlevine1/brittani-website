@@ -4,7 +4,7 @@ description: "Hawaii agency disclosure requirements 2026 explained for licensed 
 publishDate: "2026-06-08"
 modifiedDate: "2026-06-08"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/hawaii-agency-disclosure-requirements-2026.webp"
 imageAlt: "Real estate documents spread on a koa wood table overlooking a Honolulu oceanfront lanai, representing Hawaii agency disclosure requirements 2026"
@@ -100,6 +100,6 @@ The audit checklist for brokers should address five areas: presence of signed RR
 
 Brokers managing [multiple active deals](/blog/track-multiple-active-deals) across several agents need a systematic review process rather than spot-checking at closing. A weekly file audit during active transaction phases catches problems while they can still be corrected without regulatory exposure.
 
-Implementing a transaction management system that flags missing disclosure forms before the file advances to the next stage is the single most effective compliance measure a brokerage can adopt. Britanni AI's workflow tools at [/pricing](/pricing) are built to catch exactly these gaps before they become violations—automatically flagging files that lack required disclosures based on transaction stage and state-specific rules.
+Implementing a transaction management system that flags missing disclosure forms before the file advances to the next stage is the single most effective compliance measure a brokerage can adopt. Brittani AI's workflow tools at [/pricing](/pricing) are built to catch exactly these gaps before they become violations—automatically flagging files that lack required disclosures based on transaction stage and state-specific rules.
 
 The Hawaii agency disclosure requirements 2026 framework rewards agents and brokers who build systems rather than relying on memory. Every form has a purpose, every deadline has a consequence, and every audit gap represents a license at risk. Treat the RR401 like the liability shield it is—present it early, complete it fully, and store it permanently.

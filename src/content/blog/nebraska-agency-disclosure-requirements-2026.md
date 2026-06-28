@@ -4,7 +4,7 @@ description: "Nebraska agency disclosure requirements 2026 explained with specif
 publishDate: "2026-06-07"
 modifiedDate: "2026-06-07"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/nebraska-agency-disclosure-requirements-2026.webp"
 imageAlt: "Agent reviewing Nebraska agency disclosure requirements 2026 documents in a brick-walled Omaha real estate office"
@@ -99,7 +99,7 @@ Brokers bear supervisory liability under Neb. Rev. Stat. 76-2417 for their agent
 
 Brokers should also verify that dual agency files contain separate consent signatures from both parties dated contemporaneously with the dual agency arising — not backdated, not pre-signed. Train your agents to flag potential dual agency situations before they materialize so the consent process happens proactively rather than retroactively.
 
-Implement a checklist that requires disclosure upload before any other transaction documents can be entered into your file management system. If you are tracking multiple deals simultaneously, a systematic approach prevents files from slipping through. Platforms like [Britanni AI](/pricing) can automate compliance checkpoints across active transactions, flagging missing disclosures before they become audit findings.
+Implement a checklist that requires disclosure upload before any other transaction documents can be entered into your file management system. If you are tracking multiple deals simultaneously, a systematic approach prevents files from slipping through. Platforms like [Brittani AI](/pricing) can automate compliance checkpoints across active transactions, flagging missing disclosures before they become audit findings.
 
 Build a culture where disclosure is treated as the first document in every transaction file — not paperwork that gets backfilled during closing prep. The brokers who avoid NREC scrutiny are the ones whose systems make non-compliance harder than compliance.
 

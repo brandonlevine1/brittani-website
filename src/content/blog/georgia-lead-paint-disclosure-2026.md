@@ -4,7 +4,7 @@ description: "Georgia lead paint disclosure requirements 2026 explained for agen
 publishDate: "2026-06-12"
 modifiedDate: "2026-06-12"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/georgia-lead-paint-disclosure-2026.webp"
 imageAlt: "Historic Georgia bungalow with peeling paint layers illustrating Georgia lead paint disclosure requirements 2026 compliance concerns"
@@ -102,4 +102,4 @@ Brokers should also include lead paint disclosure compliance in onboarding train
 
 Federal enforcement of lead paint disclosure has increased in recent years, with EPA Region 4 (which covers Georgia) issuing multiple consent agreements and compliance orders against property management companies and individual sellers. Agents and brokers who assume this rule is rarely enforced are operating on outdated assumptions.
 
-The Georgia lead paint disclosure requirements 2026 do not differ substantively from prior years—this is a federal mandate that changes only when Congress or the EPA acts. But the enforcement environment has tightened, penalty amounts have risen with inflation adjustments, and buyers' attorneys are increasingly sophisticated about treble damage claims. If you manage disclosure workflows manually across a dozen or more transactions per month, tools like Britanni AI at [britanni.ai/pricing](/pricing) can flag pre-1978 properties at intake and ensure no file closes without a completed F803. The Georgia lead paint disclosure requirements 2026 reward agents and brokerages that build compliance into their systems rather than relying on memory—and penalize those who treat federal mandates as optional paperwork.
+The Georgia lead paint disclosure requirements 2026 do not differ substantively from prior years—this is a federal mandate that changes only when Congress or the EPA acts. But the enforcement environment has tightened, penalty amounts have risen with inflation adjustments, and buyers' attorneys are increasingly sophisticated about treble damage claims. If you manage disclosure workflows manually across a dozen or more transactions per month, tools like Brittani AI at [brittani.ai/pricing](/pricing) can flag pre-1978 properties at intake and ensure no file closes without a completed F803. The Georgia lead paint disclosure requirements 2026 reward agents and brokerages that build compliance into their systems rather than relying on memory—and penalize those who treat federal mandates as optional paperwork.

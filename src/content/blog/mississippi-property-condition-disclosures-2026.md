@@ -4,7 +4,7 @@ description: "Master Mississippi property condition & environmental disclosures 
 publishDate: "2026-06-27"
 modifiedDate: "2026-06-27"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/mississippi-property-condition-disclosures-2026.webp"
 imageAlt: "A Mississippi real estate agent reviewing property condition & environmental disclosures 2026 paperwork at a listing appointment in a columned antebellum-style home"
@@ -105,6 +105,6 @@ Deal cancellation is the most immediate risk. Under Section 89-1-511, late discl
 
 The volume of disclosure paperwork in a single Mississippi transaction—state form, federal lead paint form (when applicable), flood history, and any environmental supplements—creates filing complexity that manual systems struggle to handle. Agents managing more than a handful of active listings risk version-control errors, missed signatures, and lost documents.
 
-This is where systematic transaction management pays for itself. Agents tracking [multiple active deals](/blog/track-multiple-active-deals) need automated reminders for disclosure deadlines and signature gaps rather than relying on memory or sticky notes. Britanni AI was built specifically to flag disclosure compliance issues before they become regulatory problems—if your brokerage is evaluating tools for 2026, the [pricing page](/pricing) shows how this works at scale.
+This is where systematic transaction management pays for itself. Agents tracking [multiple active deals](/blog/track-multiple-active-deals) need automated reminders for disclosure deadlines and signature gaps rather than relying on memory or sticky notes. Brittani AI was built specifically to flag disclosure compliance issues before they become regulatory problems—if your brokerage is evaluating tools for 2026, the [pricing page](/pricing) shows how this works at scale.
 
 Mississippi property condition & environmental disclosures 2026 remain a high-stakes compliance area where the gap between what agents think they know and what the statute actually requires creates real exposure. The agents and brokers who treat disclosure as a front-end system rather than a back-end afterthought will close more transactions cleanly—and face far fewer calls from the MREC.

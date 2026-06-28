@@ -4,7 +4,7 @@ description: "New Mexico lead paint disclosure requirements 2026 explained for a
 publishDate: "2026-06-17"
 modifiedDate: "2026-06-17"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/new-mexico-lead-paint-disclosure-2026.webp"
 imageAlt: "Adobe-style home in New Mexico with a real estate agent reviewing lead paint disclosure requirements 2026 documents on the portal"
@@ -105,6 +105,6 @@ Agents should treat the 10-day window with the same seriousness as a home inspec
 
 The lead paint disclosure is one of dozens of compliance documents agents must track across every transaction. The federal form itself is not complicated, but ensuring it is delivered at the right time, signed by all parties, and retained for three years requires operational discipline that many solo agents and small teams struggle to maintain consistently.
 
-Platforms like [Britanni AI](/pricing) are built specifically to flag missing disclosures and track form completion across active transactions, reducing the risk that a lead paint form falls through the cracks during a busy listing month. Automating the compliance check does not replace the agent's duty to understand the law, but it creates a safety net that catches human error before it becomes a regulatory violation.
+Platforms like [Brittani AI](/pricing) are built specifically to flag missing disclosures and track form completion across active transactions, reducing the risk that a lead paint form falls through the cracks during a busy listing month. Automating the compliance check does not replace the agent's duty to understand the law, but it creates a safety net that catches human error before it becomes a regulatory violation.
 
 The New Mexico lead paint disclosure requirements 2026 will not change substantively from prior years—the federal framework has been stable since 1996—but enforcement attention continues to increase, and buyer attorneys are more aware than ever that a missing disclosure creates treble damages exposure. Agents and brokers who treat this form as a routine checkbox rather than a legal obligation are the ones most likely to face consequences. Build the system, verify the file, and keep your license clean.

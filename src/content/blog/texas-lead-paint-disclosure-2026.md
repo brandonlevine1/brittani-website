@@ -4,7 +4,7 @@ description: "Texas lead paint disclosure requirements 2026 explained for agents
 publishDate: "2026-06-10"
 modifiedDate: "2026-06-10"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/texas-lead-paint-disclosure-2026.webp"
 imageAlt: "Older Texas bungalow with peeling exterior paint alongside lead paint disclosure paperwork, illustrating Texas lead paint disclosure requirements 2026"
@@ -110,4 +110,4 @@ However, mixed-use properties with residential units are not exempt. A fourplex 
 
 The 2026 regulatory environment has not relaxed lead paint obligations—if anything, HUD's increased penalty amounts and heightened buyer awareness make sloppy compliance more expensive than ever. Agents who build systematic disclosure habits into every transaction avoid the kind of after-closing liability that derails careers.
 
-If you are running transactions at volume without a reliable tracking system, disclosure items like the TAR 1906 are exactly where gaps appear. Britanni AI flags pre-1978 properties in your pipeline and triggers disclosure reminders before contracts go out—worth examining at [britanni.com/pricing](/pricing) if compliance tracking across multiple deals is consuming your time. Meeting Texas lead paint disclosure requirements 2026 is non-negotiable, and the agents who treat it as routine rather than optional are the ones who avoid six-figure liability exposures and keep their licenses intact.
+If you are running transactions at volume without a reliable tracking system, disclosure items like the TAR 1906 are exactly where gaps appear. Brittani AI flags pre-1978 properties in your pipeline and triggers disclosure reminders before contracts go out—worth examining at [brittani.ai/pricing](/pricing) if compliance tracking across multiple deals is consuming your time. Meeting Texas lead paint disclosure requirements 2026 is non-negotiable, and the agents who treat it as routine rather than optional are the ones who avoid six-figure liability exposures and keep their licenses intact.

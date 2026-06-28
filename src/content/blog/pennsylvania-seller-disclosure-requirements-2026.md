@@ -4,7 +4,7 @@ description: "Pennsylvania seller disclosure requirements 2026 explained for age
 publishDate: "2026-05-25"
 modifiedDate: "2026-05-25"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/pennsylvania-seller-disclosure-requirements-2026.webp"
 imageAlt: "A Pennsylvania real estate agent reviewing seller disclosure requirements 2026 paperwork at a kitchen table with clients"
@@ -77,6 +77,6 @@ Documentation is the agent's best defense. Keep a written record (email or secur
 
 Build a pre-listing workflow that addresses disclosures before the property hits the MLS. Present the SPD at the listing appointment, explain the statutory requirements, and give the seller a deadline to return the completed form. Waiting until you have a buyer under contract compresses timelines and increases the odds of a late delivery, which triggers the buyer's rescission right and weakens your negotiating position.
 
-If you are managing a high transaction volume and finding it difficult to maintain consistent compliance documentation across every file, tools built for agent workflows—like [Britanni AI](/pricing)—can automate reminders, flag incomplete disclosures, and generate audit-ready records without adding administrative hours to your week. The agents who get into trouble are almost always the ones who let process gaps widen as their business scales.
+If you are managing a high transaction volume and finding it difficult to maintain consistent compliance documentation across every file, tools built for agent workflows—like [Brittani AI](/pricing)—can automate reminders, flag incomplete disclosures, and generate audit-ready records without adding administrative hours to your week. The agents who get into trouble are almost always the ones who let process gaps widen as their business scales.
 
 Pennsylvania seller disclosure requirements 2026 have not changed dramatically from prior years, but enforcement attention has sharpened and buyer attorneys are more aggressive about post-settlement claims than at any point in the last decade. The agents and brokers who treat disclosure compliance as a [risk management discipline](/blog/risk-management-for-real-estate-agents) rather than a paperwork formality will be the ones who avoid the PREC's docket and keep their reputations intact.

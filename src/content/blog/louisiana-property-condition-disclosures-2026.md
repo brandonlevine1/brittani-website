@@ -4,7 +4,7 @@ description: "Master Louisiana property condition & environmental disclosures 20
 publishDate: "2026-06-25"
 modifiedDate: "2026-06-25"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/louisiana-property-condition-disclosures-2026.webp"
 imageAlt: "Louisiana property condition & environmental disclosures 2026 compliance documents on a raised Creole cottage porch"
@@ -113,6 +113,6 @@ Mold disclosure has no standalone Louisiana statute, but mold conditions fall wi
 
 Disclosure compliance ultimately comes down to systems: knowing which forms to pull, when to deliver them, and how to document that delivery occurred. Agents who treat compliance as an afterthought tend to be the ones facing LREC complaints. Building automated reminders into your transaction workflow — triggered by property age, location, and exemption status — eliminates most human-error risk.
 
-Tools like [Britanni AI](/pricing) can flag missing disclosure documents in real time, cross-reference property age against lead-paint requirements, and prompt sellers for amendments when inspection results conflict with original disclosures. For brokerages scaling their agent count, this kind of systematic oversight is the only realistic way to maintain audit-ready files across dozens or hundreds of concurrent transactions.
+Tools like [Brittani AI](/pricing) can flag missing disclosure documents in real time, cross-reference property age against lead-paint requirements, and prompt sellers for amendments when inspection results conflict with original disclosures. For brokerages scaling their agent count, this kind of systematic oversight is the only realistic way to maintain audit-ready files across dozens or hundreds of concurrent transactions.
 
 Louisiana property condition & environmental disclosures 2026 compliance is a moving target as LREC refines guidance and federal penalty thresholds adjust upward. The agents and brokers who treat disclosure as a frontline risk-management practice — rather than a stack of paper to rush through at signing — are the ones who stay off the commission's disciplinary docket and out of redhibition courtrooms.

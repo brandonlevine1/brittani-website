@@ -4,7 +4,7 @@ description: "Oregon agency disclosure requirements 2026 explained for licensed 
 publishDate: "2026-06-05"
 modifiedDate: "2026-06-05"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/oregon-agency-disclosure-requirements-2026.webp"
 imageAlt: "Oregon agency disclosure requirements 2026 illustrated with a signed disclosure form on a desk overlooking a Portland cityscape"
@@ -116,6 +116,6 @@ For a deeper comparison, see our breakdown of [Washington agency disclosure requ
 
 The agents who never face disclosure complaints aren't necessarily better at remembering—they have systems that make forgetting impossible. Whether you use a CRM trigger, a transaction coordinator's checklist, or an automated compliance tool, the mechanism matters less than its reliability.
 
-Britanni AI was built for exactly this kind of compliance tracking—flagging missed disclosures in real time and ensuring forms are delivered and documented before substantive contact progresses. If your brokerage is scaling and you need to ensure every agent on your roster meets Oregon agency disclosure requirements 2026 without manual oversight of every file, [check what that looks like in practice](/pricing).
+Brittani AI was built for exactly this kind of compliance tracking—flagging missed disclosures in real time and ensuring forms are delivered and documented before substantive contact progresses. If your brokerage is scaling and you need to ensure every agent on your roster meets Oregon agency disclosure requirements 2026 without manual oversight of every file, [check what that looks like in practice](/pricing).
 
 The agents who treat disclosure as a box to check at contract signing are the ones who end up in OREA's enforcement queue. Build the habit at first contact, document every delivery, and audit your files before the state does it for you.

@@ -4,7 +4,7 @@ description: "Master the weekly lender checkin what to ask and when to protect y
 publishDate: "2026-05-25"
 modifiedDate: "2026-05-25"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "11 min"
 image: "/images/blog/lender-communication-cadence.webp"
 imageAlt: "Real estate agent at a desk reviewing loan status notes on a laptop with a phone and calendar visible"
@@ -101,6 +101,6 @@ Rate lock is expiring and clear-to-close is not imminent: Calculate the extensio
 
 Systems only work when they become automatic. Block your Tuesday 10:00 AM slot as a recurring calendar event with a 15-minute prep reminder at 9:45. Protect this time like a listing appointment. No showings, no inspections, no team meetings during this window.
 
-After four consecutive weeks, the habit sticks. After eight weeks, you will notice your stress level around financing drops measurably because you are never more than five days from fresh intel on any file. Agents who adopt this cadence report spending 40% less time on lender-related emergencies and closing 1.2 more transactions per quarter—because fewer deals die from preventable financing failures. Tools like [Britanni AI](https://britanni.ai/pricing) can automate the reminder cadence and auto-generate your Monday prep sheet from pipeline data, which shaves another 20 minutes off the weekly ritual without removing you from the communication loop.
+After four consecutive weeks, the habit sticks. After eight weeks, you will notice your stress level around financing drops measurably because you are never more than five days from fresh intel on any file. Agents who adopt this cadence report spending 40% less time on lender-related emergencies and closing 1.2 more transactions per quarter—because fewer deals die from preventable financing failures. Tools like [Brittani AI](https://brittani.ai/pricing) can automate the reminder cadence and auto-generate your Monday prep sheet from pipeline data, which shaves another 20 minutes off the weekly ritual without removing you from the communication loop.
 
 The weekly lender checkin what to ask and when is ultimately a discipline problem, not a knowledge problem. You now have the questions, the timing, the documentation method, and the escalation path. The only variable left is whether you protect that Tuesday morning block or let it get swallowed by the chaos of a busy pipeline.

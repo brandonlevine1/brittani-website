@@ -42,7 +42,7 @@ export const bentoFeatures: Feature[] = [
   {
     title: 'Deal Cancellation Handling',
     description:
-      'When deals fall through, Britanni handles the paperwork — cancellation notices distributed to all parties automatically.',
+      'When deals fall through, Brittani handles the paperwork — cancellation notices distributed to all parties automatically.',
     icon: 'x-circle',
   },
 ];

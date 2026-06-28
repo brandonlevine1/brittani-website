@@ -4,7 +4,7 @@ description: "Indiana lead paint disclosure requirements 2026 explained for agen
 publishDate: "2026-06-13"
 modifiedDate: "2026-06-13"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/indiana-lead-paint-disclosure-2026.webp"
 imageAlt: "A vintage Indiana farmhouse with peeling paint on wooden siding illustrating Indiana lead paint disclosure requirements 2026"
@@ -107,4 +107,4 @@ In practice, most Indiana buyers waive the inspection. That waiver must be docum
 
 Federal enforcement of lead paint disclosure violations has increased steadily since 2020, with HUD's Office of Healthy Homes and Lead Hazard Control expanding its audit capacity. Indiana agents should expect more scrutiny in 2026, particularly in metropolitan areas where housing age demographics make noncompliance statistically likely. The EPA's [lead paint disclosure compliance page](https://www.epa.gov/lead/lead-based-paint-disclosure-rule) remains the authoritative federal source for regulation text and updates.
 
-The smartest move for any Indiana brokerage is to systematize compliance so it cannot depend on individual agent memory. Platforms like [Britanni AI](/pricing) can flag pre-1978 properties at listing intake and auto-generate disclosure task sequences, removing the human error variable that causes most violations. When your compliance workflow is built into the system rather than stapled to a mental checklist, the Indiana lead paint disclosure requirements 2026 become a solved problem rather than a recurring liability.
+The smartest move for any Indiana brokerage is to systematize compliance so it cannot depend on individual agent memory. Platforms like [Brittani AI](/pricing) can flag pre-1978 properties at listing intake and auto-generate disclosure task sequences, removing the human error variable that causes most violations. When your compliance workflow is built into the system rather than stapled to a mental checklist, the Indiana lead paint disclosure requirements 2026 become a solved problem rather than a recurring liability.

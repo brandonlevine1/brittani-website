@@ -4,7 +4,7 @@ description: "Kentucky property condition & environmental disclosures 2026 expla
 publishDate: "2026-06-25"
 modifiedDate: "2026-06-25"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/kentucky-property-condition-disclosures-2026.webp"
 imageAlt: "A Kentucky limestone farmhouse with rolling hills in the background, representing Kentucky property condition & environmental disclosures 2026 compliance"
@@ -106,6 +106,6 @@ Karst topography—sinkholes—affects significant portions of central Kentucky.
 
 The agents and brokerages that avoid KREC complaints aren't smarter—they're more systematic. Disclosure compliance isn't a matter of memory; it's a matter of process design. Every listing presentation should include a disclosure conversation with the seller, documented in writing. Every buyer representation agreement should include language about the buyer's right to receive disclosures and the lead-paint inspection window.
 
-Technology plays an increasing role here. Platforms like Britanni AI at [britanni.ai/pricing](/pricing) can track disclosure deadlines, flag missing documents before contract milestones, and generate reminders that keep you and your transaction files audit-ready without manual calendar management.
+Technology plays an increasing role here. Platforms like Brittani AI at [brittani.ai/pricing](/pricing) can track disclosure deadlines, flag missing documents before contract milestones, and generate reminders that keep you and your transaction files audit-ready without manual calendar management.
 
 The bottom line on Kentucky property condition & environmental disclosures 2026 is straightforward: the statute hasn't changed dramatically, but the enforcement environment rewards agents who build compliance into their daily systems rather than treating it as an afterthought. Get your forms right, document everything, and make sure your broker can verify it all without picking up the phone.

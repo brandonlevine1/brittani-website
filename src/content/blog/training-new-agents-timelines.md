@@ -4,7 +4,7 @@ description: "Training new agents on transaction timelines a brokers playbook: s
 publishDate: "2026-05-25"
 modifiedDate: "2026-05-25"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "11 min"
 image: "/images/blog/training-new-agents-timelines.webp"
 imageAlt: "Broker reviewing a transaction timeline checklist at a desk with multiple open files and a whiteboard calendar"
@@ -97,4 +97,4 @@ Second, track average days-to-close variance: the difference between the origina
 
 These two metrics, reviewed quarterly, give you an objective basis for coaching conversations. They also give you data to show your E&O carrier that your brokerage runs a structured risk-reduction program, which can reduce premium costs by 8-15% in some states.
 
-The real unlock for brokers managing five or more agents is removing yourself as the bottleneck in timeline oversight without removing yourself from accountability. Tools like Britanni AI can monitor transaction milestones across your entire team's pipeline and surface risk flags before they become missed deadlines—worth evaluating if your current stack forces you to manually audit every file; you can see how it prices at [britanni.com/pricing](/pricing). Whether you build your system in spreadsheets, a CRM, or a purpose-built platform, the principles in training new agents on transaction timelines a brokers playbook remain the same: template everything, assign ownership explicitly, audit weekly, and quantify the cost of failure until your newest agent feels that cost in their gut before they ever experience it in their commission check.
+The real unlock for brokers managing five or more agents is removing yourself as the bottleneck in timeline oversight without removing yourself from accountability. Tools like Brittani AI can monitor transaction milestones across your entire team's pipeline and surface risk flags before they become missed deadlines—worth evaluating if your current stack forces you to manually audit every file; you can see how it prices at [brittani.ai/pricing](/pricing). Whether you build your system in spreadsheets, a CRM, or a purpose-built platform, the principles in training new agents on transaction timelines a brokers playbook remain the same: template everything, assign ownership explicitly, audit weekly, and quantify the cost of failure until your newest agent feels that cost in their gut before they ever experience it in their commission check.

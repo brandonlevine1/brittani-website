@@ -4,7 +4,7 @@ description: "Oklahoma seller disclosure requirements 2026 explained for agents 
 publishDate: "2026-05-28"
 modifiedDate: "2026-05-28"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/oklahoma-seller-disclosure-requirements-2026.webp"
 imageAlt: "Oklahoma seller disclosure requirements 2026 documents on a kitchen counter inside a red-brick Oklahoma City bungalow"
@@ -111,4 +111,4 @@ Store the signed, dated disclosure in your transaction management system immedia
 
 The rules have not changed substantially this year, but enforcement intensity has. OREC has increased its investigative staff and is processing complaints faster than in previous cycles. Agents who relied on informal practices in 2024 should tighten their systems for 2026.
 
-Oklahoma seller disclosure requirements 2026 demand a proactive, documented approach that starts at listing and continues through closing. If your brokerage does not have an automated workflow that flags missing disclosures, tools like [Britanni AI](/pricing) can catch those gaps before they become regulatory problems—giving you one less reason to lose sleep over a file that closed six months ago.
+Oklahoma seller disclosure requirements 2026 demand a proactive, documented approach that starts at listing and continues through closing. If your brokerage does not have an automated workflow that flags missing disclosures, tools like [Brittani AI](/pricing) can catch those gaps before they become regulatory problems—giving you one less reason to lose sleep over a file that closed six months ago.

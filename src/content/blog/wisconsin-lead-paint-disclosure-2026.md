@@ -4,7 +4,7 @@ description: "Wisconsin lead paint disclosure requirements 2026 explained for ag
 publishDate: "2026-06-14"
 modifiedDate: "2026-06-14"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/wisconsin-lead-paint-disclosure-2026.webp"
 imageAlt: "Historic Milwaukee cream city brick home illustrating Wisconsin lead paint disclosure requirements 2026 compliance for agents"
@@ -105,4 +105,4 @@ DSPS periodically updates its approved forms, and the Real Estate Examining Boar
 
 The 2026 enforcement environment is tighter than five years ago. EPA enforcement actions have increased nationally, and Wisconsin's aging housing stock means the state remains a high-scrutiny market. Agents who treat lead paint disclosure as a "check the box" afterthought are the ones most exposed to liability.
 
-For agents and TCs managing multiple active files, building compliance checkpoints into your transaction workflow is the difference between catching an omission on day three and discovering it at the closing table. Tools like [Britanni AI](/pricing) can flag missing forms automatically based on property year built, removing the reliance on memory that causes most of these errors. The stakes are too high—and the fix too simple—to leave Wisconsin lead paint disclosure requirements 2026 to chance.
+For agents and TCs managing multiple active files, building compliance checkpoints into your transaction workflow is the difference between catching an omission on day three and discovering it at the closing table. Tools like [Brittani AI](/pricing) can flag missing forms automatically based on property year built, removing the reliance on memory that causes most of these errors. The stakes are too high—and the fix too simple—to leave Wisconsin lead paint disclosure requirements 2026 to chance.

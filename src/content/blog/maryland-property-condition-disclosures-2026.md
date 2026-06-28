@@ -4,7 +4,7 @@ description: "Maryland property condition & environmental disclosures 2026 guide
 publishDate: "2026-06-24"
 modifiedDate: "2026-06-24"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/maryland-property-condition-disclosures-2026.webp"
 imageAlt: "Row of Chesapeake Bay waterfront homes illustrating Maryland property condition & environmental disclosures 2026 compliance considerations"
@@ -111,6 +111,6 @@ For agents managing multiple transactions simultaneously, keeping environmental 
 
 Maryland's disclosure requirements have remained relatively stable in structure, but enforcement attention from MREC has increased since 2024. The Commission's 2025 annual report flagged disclosure-related complaints as the second most common category after trust account violations. Agents who treat disclosures as an afterthought are statistically more likely to face a formal inquiry.
 
-The operational reality is that disclosure management is tedious but not complex—it rewards consistency over expertise. Platforms like Britanni AI at [britanni.com/pricing](/pricing) can flag missing disclosure forms based on property age and transaction type, reducing the manual burden that leads to the timing and completeness errors described above. Automation does not replace agent judgment on what to disclose, but it eliminates the administrative failures that account for the majority of MREC complaints.
+The operational reality is that disclosure management is tedious but not complex—it rewards consistency over expertise. Platforms like Brittani AI at [brittani.ai/pricing](/pricing) can flag missing disclosure forms based on property age and transaction type, reducing the manual burden that leads to the timing and completeness errors described above. Automation does not replace agent judgment on what to disclose, but it eliminates the administrative failures that account for the majority of MREC complaints.
 
 Maryland property condition & environmental disclosures 2026 obligations are not optional, not negotiable, and not forgivable after the fact. The agents who avoid liability are not necessarily the ones who memorize every statute—they are the ones who build systems ensuring the right forms reach the right hands at the right time, every single transaction.

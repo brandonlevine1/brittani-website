@@ -4,7 +4,7 @@ description: "Inventory is climbing fast, but most brokerages still run on the s
 publishDate: "2026-05-25"
 modifiedDate: "2026-05-25"
 author: "Brandon Levine"
-authorBio: "Co-founder at Britanni AI. Previously managed transaction operations for a 200-agent brokerage in South Florida."
+authorBio: "Co-founder at Brittani AI. Previously managed transaction operations for a 200-agent brokerage in South Florida."
 readTime: "7 min"
 image: "/images/blog/rising-inventory-operations.webp"
 imageAlt: "Abstract geometric facade of a modern office building viewed from below"

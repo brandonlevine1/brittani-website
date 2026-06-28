@@ -4,7 +4,7 @@ description: "Alaska lead paint disclosure requirements 2026 explained for agent
 publishDate: "2026-06-20"
 modifiedDate: "2026-06-20"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "8 min"
 image: "/images/blog/alaska-lead-paint-disclosure-2026.webp"
 imageAlt: "A weathered Anchorage-area home built before 1978 with a real estate agent reviewing Alaska lead paint disclosure requirements 2026 forms on the front porch"
@@ -104,4 +104,4 @@ For brokerages managing high transaction volumes, tracking which properties trig
 
 The Alaska lead paint disclosure requirements 2026 have not fundamentally changed from prior years, but enforcement posture and penalty amounts continue to tighten at the federal level. Agents who treat this as a checkbox exercise rather than a substantive obligation are the ones who end up in front of AREC or in court.
 
-Building compliance into your workflow — rather than relying on memory — is the difference between a clean file and a liability. Tools like [Britanni AI](/pricing) can flag pre-1978 properties at intake and ensure disclosure documents are routed, signed, and stored before a transaction advances past the contingency period. That kind of systematic approach to the Alaska lead paint disclosure requirements 2026 protects your license, your brokerage, and your clients simultaneously. The agents who treat compliance as infrastructure rather than afterthought are the ones who keep their transactions — and their careers — intact.
+Building compliance into your workflow — rather than relying on memory — is the difference between a clean file and a liability. Tools like [Brittani AI](/pricing) can flag pre-1978 properties at intake and ensure disclosure documents are routed, signed, and stored before a transaction advances past the contingency period. That kind of systematic approach to the Alaska lead paint disclosure requirements 2026 protects your license, your brokerage, and your clients simultaneously. The agents who treat compliance as infrastructure rather than afterthought are the ones who keep their transactions — and their careers — intact.

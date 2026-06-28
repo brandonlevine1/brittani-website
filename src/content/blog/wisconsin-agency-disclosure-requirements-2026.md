@@ -4,7 +4,7 @@ description: "Wisconsin agency disclosure requirements 2026 explained for agents
 publishDate: "2026-06-04"
 modifiedDate: "2026-06-04"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/wisconsin-agency-disclosure-requirements-2026.webp"
 imageAlt: "Agent reviewing Wisconsin agency disclosure requirements 2026 forms at a desk overlooking a lakefront property in Door County"
@@ -105,4 +105,4 @@ The [Wisconsin DSPS real estate page](https://dsps.wi.gov/pages/BoardsCouncils/R
 
 Building agency disclosure compliance into your transaction workflow is not about adding complexity — it is about preventing the catastrophic simplicity of a missed form derailing a deal or triggering a license complaint. Every transaction management system should flag disclosure status as a gating item before any offer is drafted or presented.
 
-For agents and brokers managing high volume across Wisconsin's markets, tools like [Britanni AI](/pricing) can automate compliance tracking by monitoring disclosure deadlines, flagging missing forms before they become violations, and ensuring that Wisconsin agency disclosure requirements 2026 are met in every file without relying on memory alone. The cost of a missed disclosure — measured in license risk, litigation exposure, and deal collapse — far exceeds the cost of systematic prevention.
+For agents and brokers managing high volume across Wisconsin's markets, tools like [Brittani AI](/pricing) can automate compliance tracking by monitoring disclosure deadlines, flagging missing forms before they become violations, and ensuring that Wisconsin agency disclosure requirements 2026 are met in every file without relying on memory alone. The cost of a missed disclosure — measured in license risk, litigation exposure, and deal collapse — far exceeds the cost of systematic prevention.

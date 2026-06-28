@@ -4,7 +4,7 @@ description: "Alabama agency disclosure requirements 2026 explained with specifi
 publishDate: "2026-06-05"
 modifiedDate: "2026-06-05"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/alabama-agency-disclosure-requirements-2026.webp"
 imageAlt: "Alabama agency disclosure requirements 2026 illustrated by a real estate closing table in a Birmingham law office"
@@ -107,4 +107,4 @@ Brokers should also conduct annual training refreshers that address Alabama-spec
 
 The 2026 regulatory environment in Alabama has not introduced sweeping statutory changes, but AREC's enforcement posture has tightened following the NAR settlement's ripple effects on buyer representation practices. Agents who previously operated on informal buyer relationships without written agreements now face heightened scrutiny. The [first year of NAR settlement implementation](/blog/nar-settlement-year-one) made written buyer agreements a national conversation, and Alabama's existing statutory framework already required them.
 
-For agents managing compliance across multiple transactions, tools like [Britanni AI](/pricing) can flag missing disclosure documents before they become audit findings, tracking form completion against transaction milestones automatically. The Alabama agency disclosure requirements 2026 reward agents and brokers who build verification systems rather than relying on memory. Your license, your commission, and your reputation depend on getting these forms right every single time.
+For agents managing compliance across multiple transactions, tools like [Brittani AI](/pricing) can flag missing disclosure documents before they become audit findings, tracking form completion against transaction milestones automatically. The Alabama agency disclosure requirements 2026 reward agents and brokers who build verification systems rather than relying on memory. Your license, your commission, and your reputation depend on getting these forms right every single time.

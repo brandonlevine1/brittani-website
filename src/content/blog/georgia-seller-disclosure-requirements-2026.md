@@ -4,7 +4,7 @@ description: "Georgia seller disclosure requirements 2026 explained with specifi
 publishDate: "2026-05-25"
 modifiedDate: "2026-05-25"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/georgia-seller-disclosure-requirements-2026.webp"
 imageAlt: "Real estate agent reviewing Georgia seller disclosure requirements 2026 paperwork at a desk with a residential property visible through the window"
@@ -75,7 +75,7 @@ Brokers should also maintain a written policy addressing how agents handle selle
 
 Additionally, brokers should review their E&O insurance coverage to confirm that disclosure-related claims are not excluded. Some policies carve out claims arising from failure to disclose, particularly if the insurer can argue the agent had actual knowledge. Understanding your coverage before a claim lands is far better than discovering a gap during litigation.
 
-For brokerages managing high transaction volumes, manual audits become unsustainable. Tools like [Britanni AI](/pricing) can flag missing or incomplete disclosure forms in real time, reducing the compliance burden on brokers without requiring additional administrative hires. Automating the detection of missing documents is a straightforward way to catch errors before they become complaints.
+For brokerages managing high transaction volumes, manual audits become unsustainable. Tools like [Brittani AI](/pricing) can flag missing or incomplete disclosure forms in real time, reducing the compliance burden on brokers without requiring additional administrative hires. Automating the detection of missing documents is a straightforward way to catch errors before they become complaints.
 
 ## Practical Steps for 2026 Compliance
 

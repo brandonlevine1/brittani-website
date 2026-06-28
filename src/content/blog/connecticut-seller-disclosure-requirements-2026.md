@@ -4,7 +4,7 @@ description: "Connecticut seller disclosure requirements 2026 explained for agen
 publishDate: "2026-05-28"
 modifiedDate: "2026-05-28"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/connecticut-seller-disclosure-requirements-2026.webp"
 imageAlt: "A Connecticut colonial-style home with seller disclosure forms on a porch table, representing Connecticut seller disclosure requirements 2026"
@@ -100,4 +100,4 @@ Brokers should also spot-check disclosure forms against listing photos and agent
 
 Connecticut has not enacted major amendments to Section 20-327b for the 2026 legislative session, but the DCP has signaled increased enforcement focus on disclosure timing violations through its 2025-2026 strategic plan. Agents should treat existing requirements as a floor, not a ceiling—especially given buyer sophistication and the prevalence of post-closing litigation in the state.
 
-The smartest agents are building disclosure compliance into their listing workflows from day one, not treating it as a last-minute checkbox. Tools like [Britanni AI](/pricing) can track disclosure deadlines, flag incomplete forms, and ensure delivery confirmation happens before contract execution—removing the human error that creates most violations. Connecticut seller disclosure requirements 2026 demand precision at every stage, and the agents who systematize that precision are the ones who keep their licenses, their clients, and their reputations intact.
+The smartest agents are building disclosure compliance into their listing workflows from day one, not treating it as a last-minute checkbox. Tools like [Brittani AI](/pricing) can track disclosure deadlines, flag incomplete forms, and ensure delivery confirmation happens before contract execution—removing the human error that creates most violations. Connecticut seller disclosure requirements 2026 demand precision at every stage, and the agents who systematize that precision are the ones who keep their licenses, their clients, and their reputations intact.

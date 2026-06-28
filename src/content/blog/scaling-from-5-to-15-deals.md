@@ -4,7 +4,7 @@ description: "Scaling from 5 to 15 active deals what breaks and how to fix it: t
 publishDate: "2026-05-25"
 modifiedDate: "2026-05-25"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "11 min"
 image: "/images/blog/scaling-from-5-to-15-deals.webp"
 imageAlt: "An agent's desk with multiple transaction files, a laptop showing a calendar full of deadlines, and sticky notes covering a monitor"
@@ -89,4 +89,4 @@ Then build the minimum system that addresses your top failure mode. Do not overh
 
 Surviving at fifteen deals means white-knuckling through each month, hoping nothing critical slips, and recovering from the ones that do. Scaling at fifteen means your systems absorb the volume increase without proportional increases in stress, risk, or time spent on admin. The agents who scale are not smarter or more disciplined—they simply automated their failure points earlier.
 
-For agents and brokers who want to test this without building from scratch, [Britanni AI](https://britanni.ai/pricing) handles the deadline monitoring, client updates, and document tracking that break first at higher volume—essentially functioning as the operational layer between your CRM and your transaction files. The question of scaling from 5 to 15 active deals what breaks and how to fix it ultimately comes down to whether you install that layer before or after the first costly mistake forces your hand.
+For agents and brokers who want to test this without building from scratch, [Brittani AI](https://brittani.ai/pricing) handles the deadline monitoring, client updates, and document tracking that break first at higher volume—essentially functioning as the operational layer between your CRM and your transaction files. The question of scaling from 5 to 15 active deals what breaks and how to fix it ultimately comes down to whether you install that layer before or after the first costly mistake forces your hand.

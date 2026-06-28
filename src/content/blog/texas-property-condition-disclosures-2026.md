@@ -4,7 +4,7 @@ description: "Texas property condition & environmental disclosures 2026 guide fo
 publishDate: "2026-06-20"
 modifiedDate: "2026-06-20"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/texas-property-condition-disclosures-2026.webp"
 imageAlt: "A Texas ranch-style home with inspection documents in the foreground representing Texas property condition & environmental disclosures 2026"
@@ -106,4 +106,4 @@ Brokers who skip these audits are gambling with their own license. The cost of a
 
 The disclosure framework in Texas rewards agents who treat paperwork as a liability shield rather than an administrative chore. Every field completed, every receipt dated, every supplemental form filed on time—these are the actions that keep agents out of TREC hearings and off plaintiff attorney target lists.
 
-Agents handling volume in 2026 should seriously consider automating their disclosure tracking and deadline management. Britanni AI is built specifically to flag missing forms, monitor delivery deadlines, and alert agents before a compliance gap becomes a liability event—check out [pricing](/pricing) to see how it fits your transaction load. Texas property condition & environmental disclosures 2026 will not get simpler, but the agents who systematize their compliance will keep closing deals while their peers scramble to explain why a form went missing.
+Agents handling volume in 2026 should seriously consider automating their disclosure tracking and deadline management. Brittani AI is built specifically to flag missing forms, monitor delivery deadlines, and alert agents before a compliance gap becomes a liability event—check out [pricing](/pricing) to see how it fits your transaction load. Texas property condition & environmental disclosures 2026 will not get simpler, but the agents who systematize their compliance will keep closing deals while their peers scramble to explain why a form went missing.

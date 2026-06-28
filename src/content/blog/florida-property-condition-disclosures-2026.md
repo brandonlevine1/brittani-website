@@ -4,7 +4,7 @@ description: "Master Florida property condition & environmental disclosures 2026
 publishDate: "2026-06-21"
 modifiedDate: "2026-06-21"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/florida-property-condition-disclosures-2026.webp"
 imageAlt: "Florida waterfront home with inspection report representing Florida property condition & environmental disclosures 2026 requirements"
@@ -106,4 +106,4 @@ The Florida legislature continues to refine disclosure obligations. Bills introd
 
 The DBPR has also increased its focus on environmental disclosures tied to climate-related property risks. While no new statute has passed as of this writing, the regulatory posture suggests that agents operating in flood-prone and coastal zones should err on the side of over-disclosure rather than under-disclosure.
 
-For agents managing multiple active transactions across different Florida markets, keeping disclosure requirements organized is a real operational challenge. Britanni AI helps agents and their coordinators [track multiple active deals](/blog/track-multiple-active-deals) with automated compliance checkpoints tied to state-specific requirements — you can see pricing and plans at [britanni.ai/pricing](/pricing). Mastering **Florida property condition & environmental disclosures 2026** comes down to knowing which forms to pull, when to pull them, and building a system that never lets one slip through the cracks.
+For agents managing multiple active transactions across different Florida markets, keeping disclosure requirements organized is a real operational challenge. Brittani AI helps agents and their coordinators [track multiple active deals](/blog/track-multiple-active-deals) with automated compliance checkpoints tied to state-specific requirements — you can see pricing and plans at [brittani.ai/pricing](/pricing). Mastering **Florida property condition & environmental disclosures 2026** comes down to knowing which forms to pull, when to pull them, and building a system that never lets one slip through the cracks.

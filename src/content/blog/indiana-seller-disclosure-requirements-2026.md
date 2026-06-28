@@ -4,7 +4,7 @@ description: "Indiana seller disclosure requirements 2026 explained for agents a
 publishDate: "2026-05-25"
 modifiedDate: "2026-05-25"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/indiana-seller-disclosure-requirements-2026.webp"
 imageAlt: "Indiana real estate agent reviewing Indiana seller disclosure requirements 2026 paperwork at a desk"
@@ -89,4 +89,4 @@ When a seller verbally tells you about a property condition that does not appear
 
 The regulatory environment around seller disclosures is tightening nationally, and Indiana is no exception. IREC has signaled increased enforcement attention toward disclosure-related complaints, particularly in markets with aging housing stock where material defects are more common and more expensive. Agents working in communities with homes built before 1980 should be especially diligent about both state disclosure and federal lead-paint requirements.
 
-For agents and brokerages looking to systematize compliance without adding hours of manual review to every transaction, platforms like [Britanni AI](/pricing) can flag missing disclosures, track delivery timelines, and alert you before a compliance gap becomes a liability event. Staying current on Indiana seller disclosure requirements 2026 is not just about passing your next audit—it is about building a practice where compliance is structural rather than accidental, and where no transaction closes with an avoidable risk sitting in the file.
+For agents and brokerages looking to systematize compliance without adding hours of manual review to every transaction, platforms like [Brittani AI](/pricing) can flag missing disclosures, track delivery timelines, and alert you before a compliance gap becomes a liability event. Staying current on Indiana seller disclosure requirements 2026 is not just about passing your next audit—it is about building a practice where compliance is structural rather than accidental, and where no transaction closes with an avoidable risk sitting in the file.

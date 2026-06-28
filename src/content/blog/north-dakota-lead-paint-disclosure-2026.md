@@ -4,7 +4,7 @@ description: "North Dakota lead paint disclosure requirements 2026 explained for
 publishDate: "2026-06-19"
 modifiedDate: "2026-06-19"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/north-dakota-lead-paint-disclosure-2026.webp"
 imageAlt: "Older home in a North Dakota neighborhood illustrating North Dakota lead paint disclosure requirements 2026 compliance for agents"
@@ -111,4 +111,4 @@ Lease transactions are a separate category. Under 40 CFR 745.107, landlords leas
 
 The disclosure itself takes minutes when you build it into your listing workflow from day one. The moment you confirm a listing is pre-1978, pull the EPA/HUD form and the pamphlet. Complete the seller's section at the listing appointment. Have the form ready for the buyer's side at offer presentation. Document the 10-day period or waiver clearly.
 
-For agents handling volume, automation platforms like [Britanni AI](/pricing) can flag pre-1978 properties at listing intake and generate task reminders for each disclosure step, ensuring nothing falls through during the offer-to-close timeline. The North Dakota lead paint disclosure requirements 2026 are not complex in theory — the challenge is consistent execution across every qualifying transaction, every time, without exception.
+For agents handling volume, automation platforms like [Brittani AI](/pricing) can flag pre-1978 properties at listing intake and generate task reminders for each disclosure step, ensuring nothing falls through during the offer-to-close timeline. The North Dakota lead paint disclosure requirements 2026 are not complex in theory — the challenge is consistent execution across every qualifying transaction, every time, without exception.

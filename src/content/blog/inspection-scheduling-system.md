@@ -4,7 +4,7 @@ description: "Master inspection scheduling the 3step system that eliminates phon
 publishDate: "2026-05-25"
 modifiedDate: "2026-05-25"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "10 min"
 image: "/images/blog/inspection-scheduling-system.webp"
 imageAlt: "Real estate agent at a desk with a laptop open to a calendar view and a phone showing missed call notifications"
@@ -87,4 +87,4 @@ The three steps described above work perfectly when executed manually. But as yo
 
 Calendar integrations can auto-generate the six-hour escalation reminder the moment you send a scheduling request. Text expansion tools can deploy your template in two keystrokes. CRM workflows can flag any transaction where the inspection field remains unconfirmed 48 hours after ratification, surfacing at-risk deals to you or your broker before they become emergencies. [Automating repetitive transaction tasks](/blog/automation-for-agents) frees your attention for the high-value activities that actually require human judgment.
 
-The agents and brokers who treat inspection scheduling the 3step system that eliminates phone tag as a permanent operational standard—rather than a one-time productivity hack—consistently report fewer missed deadlines, shorter average days-to-close, and significantly less stress during the contingency period. Platforms like [Britanni AI](/pricing) are building exactly this kind of workflow automation into their transaction management tools, allowing agents to set the system once and let it run across every deal in their pipeline without manual babysitting. The difference between agents who lose deals to logistics failures and agents who never think about scheduling again is not talent or hustle—it is the decision to build the system before you need it.
+The agents and brokers who treat inspection scheduling the 3step system that eliminates phone tag as a permanent operational standard—rather than a one-time productivity hack—consistently report fewer missed deadlines, shorter average days-to-close, and significantly less stress during the contingency period. Platforms like [Brittani AI](/pricing) are building exactly this kind of workflow automation into their transaction management tools, allowing agents to set the system once and let it run across every deal in their pipeline without manual babysitting. The difference between agents who lose deals to logistics failures and agents who never think about scheduling again is not talent or hustle—it is the decision to build the system before you need it.

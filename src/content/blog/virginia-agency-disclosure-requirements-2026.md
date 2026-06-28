@@ -4,7 +4,7 @@ description: "Virginia agency disclosure requirements 2026 explained for agents 
 publishDate: "2026-06-02"
 modifiedDate: "2026-06-02"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/virginia-agency-disclosure-requirements-2026.webp"
 imageAlt: "Virginia agency disclosure requirements 2026 illustrated by a brick Colonial-style home with agency disclosure paperwork on the front porch table"
@@ -102,4 +102,4 @@ Agents should treat the [first-year aftermath of the NAR settlement](/blog/nar-s
 
 Virginia agency disclosure requirements 2026 demand precision in timing, form selection, and relationship accuracy. The statute is unambiguous, the Board is active, and the consequences of non-compliance range from fines to rescission to license revocation. Every file should contain a correctly dated, properly signed disclosure that matches the actual brokerage relationship—no exceptions, no shortcuts.
 
-If you are running enough volume that manually tracking disclosure compliance across every file feels unsustainable, that is exactly the problem Britanni AI was built to solve—automated document audits that flag missing or defective disclosures before they become regulatory exposure. You can see how it fits into your workflow at [britanni.com/pricing](/pricing). The agents who protect their licenses in 2026 will be the ones who build systems around compliance rather than relying on habit and hope.
+If you are running enough volume that manually tracking disclosure compliance across every file feels unsustainable, that is exactly the problem Brittani AI was built to solve—automated document audits that flag missing or defective disclosures before they become regulatory exposure. You can see how it fits into your workflow at [brittani.ai/pricing](/pricing). The agents who protect their licenses in 2026 will be the ones who build systems around compliance rather than relying on habit and hope.

@@ -4,7 +4,7 @@ description: "New Hampshire lead paint disclosure requirements 2026 explained fo
 publishDate: "2026-06-18"
 modifiedDate: "2026-06-18"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "8 min"
 image: "/images/blog/new-hampshire-lead-paint-disclosure-2026.webp"
 imageAlt: "Colonial-era New Hampshire home with peeling exterior paint illustrating lead paint disclosure requirements 2026"
@@ -111,4 +111,4 @@ After ratification, retain signed copies in both the listing and buyer-side file
 
 The regulatory landscape around lead paint has been tightening, not loosening. EPA's 2024 final rule lowering the dust-lead clearance levels signals continued federal attention to lead hazards in older housing. Agents working in New Hampshire's historic communities — where charming 18th and 19th-century homes drive buyer demand — need to treat lead paint disclosure as a non-negotiable file component rather than an afterthought.
 
-Platforms like [Britanni AI](/pricing) are designed to flag compliance gaps like missing lead paint disclosures before they become audit failures or deal-killing oversights. For agents and brokers committed to meeting the **New Hampshire lead paint disclosure requirements 2026** without relying on memory alone, building automated compliance checks into your transaction workflow is the most direct path to protecting your license, your clients, and your brokerage from preventable liability.
+Platforms like [Brittani AI](/pricing) are designed to flag compliance gaps like missing lead paint disclosures before they become audit failures or deal-killing oversights. For agents and brokers committed to meeting the **New Hampshire lead paint disclosure requirements 2026** without relying on memory alone, building automated compliance checks into your transaction workflow is the most direct path to protecting your license, your clients, and your brokerage from preventable liability.

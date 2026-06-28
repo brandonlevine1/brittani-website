@@ -4,7 +4,7 @@ description: "Virginia property condition & environmental disclosures 2026 expla
 publishDate: "2026-06-22"
 modifiedDate: "2026-06-22"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/virginia-property-condition-disclosures-2026.webp"
 imageAlt: "A Virginia colonial brick home with disclosure documents on a porch table representing Virginia property condition & environmental disclosures 2026"
@@ -105,4 +105,4 @@ Underground storage tanks (USTs) present a different challenge. Virginia's Depar
 
 Disclosure compliance is ultimately a workflow problem. The legal requirements are not ambiguous—they are just easy to forget when an agent is juggling fifteen active files. Building disclosure checkpoints into transaction management systems eliminates the reliance on memory.
 
-Platforms like Britanni AI at [britanni.ai/pricing](/pricing) automate deadline tracking and flag missing forms before they become liability events, which is exactly the kind of backstop that prevents a disclosure lapse from turning into a VREB complaint. Whether you use automated tools or manual checklists, the principle is the same: Virginia property condition & environmental disclosures 2026 compliance requires a system, not just good intentions.
+Platforms like Brittani AI at [brittani.ai/pricing](/pricing) automate deadline tracking and flag missing forms before they become liability events, which is exactly the kind of backstop that prevents a disclosure lapse from turning into a VREB complaint. Whether you use automated tools or manual checklists, the principle is the same: Virginia property condition & environmental disclosures 2026 compliance requires a system, not just good intentions.

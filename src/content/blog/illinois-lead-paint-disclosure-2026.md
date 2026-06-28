@@ -4,7 +4,7 @@ description: "Illinois lead paint disclosure requirements 2026 explained for age
 publishDate: "2026-06-11"
 modifiedDate: "2026-06-11"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/illinois-lead-paint-disclosure-2026.webp"
 imageAlt: "A vintage Chicago greystone with peeling paint on window trim illustrating Illinois lead paint disclosure requirements 2026"
@@ -99,6 +99,6 @@ That regulatory language means the buyer's agent shares responsibility, not just
 
 The [Illinois Department of Financial and Professional Regulation](https://idfpr.illinois.gov/) has not signaled any changes to its enforcement posture for 2026, but the federal inflation adjustments to penalty amounts continue upward annually. Agents should update their transaction checklists to reflect current penalty figures and confirm they are using the latest version of the EPA pamphlet.
 
-For agents managing high transaction volumes, building a compliance trigger into your workflow—flagging every property with a construction date before 1978 at listing intake—eliminates the most common failure point. This is exactly the type of repetitive compliance check where platforms like Britanni AI add measurable value, automatically surfacing disclosure requirements based on property data and ensuring nothing falls through the cracks during contract preparation. You can explore how that works at [britanni.ai/pricing](/pricing).
+For agents managing high transaction volumes, building a compliance trigger into your workflow—flagging every property with a construction date before 1978 at listing intake—eliminates the most common failure point. This is exactly the type of repetitive compliance check where platforms like Brittani AI add measurable value, automatically surfacing disclosure requirements based on property data and ensuring nothing falls through the cracks during contract preparation. You can explore how that works at [brittani.ai/pricing](/pricing).
 
 The Illinois lead paint disclosure requirements 2026 will not surprise anyone who has been paying attention, but they will continue to catch agents who treat compliance as an afterthought rather than a structural part of their transaction workflow. The forms are straightforward, the penalties are steep, and the obligation is non-negotiable. Get it done before contract, get every signature, retain the file for three years, and move on to the next deal with your license intact.

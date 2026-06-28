@@ -4,7 +4,7 @@ description: "Idaho seller disclosure requirements 2026 explained for agents and
 publishDate: "2026-05-29"
 modifiedDate: "2026-05-29"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/idaho-seller-disclosure-requirements-2026.webp"
 imageAlt: "A residential property in Boise with disclosure documents overlaid, representing Idaho seller disclosure requirements 2026"
@@ -97,6 +97,6 @@ Review your agents' practices around exempt transactions as well. Just because a
 
 With [rising inventory levels shifting operational demands](/blog/rising-inventory-operations) across Idaho's markets in 2026, agents handling more listings simultaneously face higher disclosure compliance risk simply through volume. It becomes easier to lose track of which sellers have returned their forms, which files need amendments, and which transactions are still within the rescission window.
 
-This is where workflow automation matters. Platforms like Britanni AI can flag missing disclosures, track delivery deadlines, and alert you when an amendment is triggered—without requiring you to manually audit every file. If your transaction volume has grown beyond what spreadsheets and memory can reliably manage, it's worth reviewing how automation fits into your [pricing](/pricing) and operational model.
+This is where workflow automation matters. Platforms like Brittani AI can flag missing disclosures, track delivery deadlines, and alert you when an amendment is triggered—without requiring you to manually audit every file. If your transaction volume has grown beyond what spreadsheets and memory can reliably manage, it's worth reviewing how automation fits into your [pricing](/pricing) and operational model.
 
 The bottom line for every Idaho licensee in 2026: the Idaho seller disclosure requirements 2026 haven't loosened, the Commission hasn't reduced its enforcement posture, and buyers' attorneys have only gotten more aggressive about post-closing claims rooted in incomplete or late disclosures. Get the RE-25 completed early, document everything, and build an audit system that catches gaps before they become lawsuits.

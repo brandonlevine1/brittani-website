@@ -4,7 +4,7 @@ description: "South Carolina seller disclosure requirements 2026 explained for a
 publishDate: "2026-05-27"
 modifiedDate: "2026-05-27"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/south-carolina-seller-disclosure-requirements-2026.webp"
 imageAlt: "A South Carolina real estate agent reviewing seller disclosure requirements 2026 paperwork at a desk"
@@ -83,6 +83,6 @@ For listing agents, the workflow should begin at the listing appointment. Presen
 
 For buyer agents, the obligation is verification. Confirm that a disclosure was provided to your client before or at the time of contract execution. Review it with your buyer, noting any items marked unknown that warrant follow-up during due diligence. If no disclosure is provided, do not allow your buyer to execute a contract without either receiving the disclosure or obtaining written confirmation that a statutory exemption applies.
 
-For transaction coordinators, the audit point is straightforward: no file should reach attorney review or closing preparation without a completed, signed, and delivery-acknowledged disclosure statement in the file. If your brokerage uses Britanni AI for transaction management, the system flags missing disclosures automatically during file intake, eliminating the gap between execution and compliance review—details on how that works are at [/pricing](/pricing).
+For transaction coordinators, the audit point is straightforward: no file should reach attorney review or closing preparation without a completed, signed, and delivery-acknowledged disclosure statement in the file. If your brokerage uses Brittani AI for transaction management, the system flags missing disclosures automatically during file intake, eliminating the gap between execution and compliance review—details on how that works are at [/pricing](/pricing).
 
 The 2026 regulatory environment in South Carolina has not softened enforcement expectations. The Commission continues to prioritize disclosure complaints, and buyers continue to file civil claims when defects surface post-closing. Agents and brokers who treat South Carolina seller disclosure requirements 2026 as a serious compliance obligation—rather than an afterthought stapled to the listing packet—protect their licenses, their clients, and their business.

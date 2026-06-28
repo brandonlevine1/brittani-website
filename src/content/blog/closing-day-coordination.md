@@ -4,7 +4,7 @@ description: "Master closing day coordination a stepbystep timeline to eliminate
 publishDate: "2026-05-25"
 modifiedDate: "2026-05-25"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "11 min"
 image: "/images/blog/closing-day-coordination.webp"
 imageAlt: "Real estate agent at a desk with multiple transaction files, a laptop showing a closing timeline, and a phone with calendar reminders"
@@ -85,4 +85,4 @@ For brokers managing five or more agents, the question is not whether to impleme
 
 Build a shared dashboard or spreadsheet where agents log completion of each gate with a timestamp. Review it every Monday during your team meeting. Agents who consistently miss gates need coaching—not on sales skills, but on operational discipline. The agents who close 30-plus deals a year without drama are not smarter or luckier. They simply run the same process every single time without skipping steps.
 
-The operational load of managing closing day coordination a stepbystep timeline across a full pipeline is exactly the kind of repetitive, high-stakes work that should not depend on memory or sticky notes. Tools like [Britanni AI](https://britanni.com/pricing) exist specifically to automate the verification gates, deadline tracking, and party communication that consume two to three hours per transaction when done manually—hours that compound into entire lost workdays when you are juggling ten active files. Agents who treat closing coordination as a system rather than a scramble close faster, retain more clients, and spend their energy on the parts of the business that actually require a human brain.
+The operational load of managing closing day coordination a stepbystep timeline across a full pipeline is exactly the kind of repetitive, high-stakes work that should not depend on memory or sticky notes. Tools like [Brittani AI](https://brittani.ai/pricing) exist specifically to automate the verification gates, deadline tracking, and party communication that consume two to three hours per transaction when done manually—hours that compound into entire lost workdays when you are juggling ten active files. Agents who treat closing coordination as a system rather than a scramble close faster, retain more clients, and spend their energy on the parts of the business that actually require a human brain.

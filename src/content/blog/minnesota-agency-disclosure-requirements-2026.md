@@ -4,7 +4,7 @@ description: "Minnesota agency disclosure requirements 2026 explained with speci
 publishDate: "2026-06-04"
 modifiedDate: "2026-06-04"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/minnesota-agency-disclosure-requirements-2026.webp"
 imageAlt: "Real estate agent presenting Minnesota agency disclosure requirements 2026 form at a lakeside property closing"
@@ -128,6 +128,6 @@ Minnesota agents who also practice in neighboring states must maintain separate 
 
 The Minnesota Department of Commerce has increased its focus on agency disclosure compliance following a wave of consumer complaints tied to the post-NAR-settlement confusion over buyer representation. Agents who assumed the settlement only affected compensation discussions missed the broader point: consumers are paying closer attention to who represents them, and regulators are responding accordingly.
 
-Building disclosure compliance into your transaction management workflow—rather than treating it as a one-off task—is the only reliable defense. Platforms like [Britanni AI](/pricing) can flag missing disclosure forms in real time, before a file reaches the broker's desk with a gap that could trigger enforcement. Automated compliance tracking does not replace professional judgment, but it catches the mechanical errors that account for most violations.
+Building disclosure compliance into your transaction management workflow—rather than treating it as a one-off task—is the only reliable defense. Platforms like [Brittani AI](/pricing) can flag missing disclosure forms in real time, before a file reaches the broker's desk with a gap that could trigger enforcement. Automated compliance tracking does not replace professional judgment, but it catches the mechanical errors that account for most violations.
 
 **The Minnesota agency disclosure requirements 2026 are not new law, but they carry renewed enforcement energy.** Every agent and broker operating in this state should review their current processes, confirm their forms are current-year versions, and verify that no substantive client interaction begins without a signed, dated disclosure in the file. The statute is clear, the penalties are real, and the fix is straightforward—if you build it into your practice instead of bolting it on after the fact.

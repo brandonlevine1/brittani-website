@@ -4,7 +4,7 @@ description: "Learn how to introduce yourself as TC to lenders title and the oth
 publishDate: "2026-05-25"
 modifiedDate: "2026-05-25"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "10 min"
 image: "/images/blog/introduce-yourself-as-tc.webp"
 imageAlt: "Agent workspace with laptop showing email templates and a phone beside transaction files related to introduce-yourself-as-tc"
@@ -97,4 +97,4 @@ Create a brokerage-standard TC introduction template set that every agent on you
 
 Audit compliance quarterly. Pull a random sample of five closed files per agent and verify that the TC introduction emails went out within 24 hours of mutual acceptance. This is [the kind of operational accountability](/blog/broker-team-operations) that separates teams closing 200 transactions per year from those stuck at 80.
 
-The agents and brokers who treat the TC introduction as a systemized operational step rather than an afterthought consistently close faster, face fewer E&O exposures, and spend less time chasing unresponsive parties. For teams looking to automate the template deployment, response tracking, and escalation triggers around **how to introduce yourself as TC to lenders, title, and the other agent**, platforms like [Britanni AI](/pricing) handle the variable-field population and send-timing logic so the agent's only job is reviewing and clicking send. That recaptures roughly 3-4 hours per week for an agent running ten active files—hours that go directly back into prospecting, listing appointments, and the revenue-generating work that actually grows a business.
+The agents and brokers who treat the TC introduction as a systemized operational step rather than an afterthought consistently close faster, face fewer E&O exposures, and spend less time chasing unresponsive parties. For teams looking to automate the template deployment, response tracking, and escalation triggers around **how to introduce yourself as TC to lenders, title, and the other agent**, platforms like [Brittani AI](/pricing) handle the variable-field population and send-timing logic so the agent's only job is reviewing and clicking send. That recaptures roughly 3-4 hours per week for an agent running ten active files—hours that go directly back into prospecting, listing appointments, and the revenue-generating work that actually grows a business.

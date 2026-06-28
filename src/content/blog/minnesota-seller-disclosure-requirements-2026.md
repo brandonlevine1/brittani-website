@@ -4,7 +4,7 @@ description: "Minnesota seller disclosure requirements 2026 explained with speci
 publishDate: "2026-05-27"
 modifiedDate: "2026-05-27"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/minnesota-seller-disclosure-requirements-2026.webp"
 imageAlt: "Real estate agent reviewing Minnesota seller disclosure requirements 2026 paperwork at a desk with a residential home visible through the window"
@@ -87,6 +87,6 @@ If a seller refuses to disclose a known defect, the listing agent faces a binary
 
 The Minnesota Legislature periodically updates disclosure requirements, and agents should monitor bills introduced during each session that affect Chapter 513 or Chapter 82. The Minnesota Department of Commerce publishes [guidance documents and disciplinary actions](https://mn.gov/commerce/licensees/real-estate/) that serve as informal notice of enforcement priorities. In recent cycles, the Department has signaled increased attention to environmental disclosures, particularly regarding PFAS contamination near affected sites.
 
-Agents who build disclosure compliance into their listing workflow — rather than treating it as a last-minute checkbox — protect themselves and their clients. Tools like [Britanni AI](/pricing) can help agents track disclosure deadlines, flag incomplete forms before submission, and maintain the kind of documentation trail that holds up under regulatory scrutiny.
+Agents who build disclosure compliance into their listing workflow — rather than treating it as a last-minute checkbox — protect themselves and their clients. Tools like [Brittani AI](/pricing) can help agents track disclosure deadlines, flag incomplete forms before submission, and maintain the kind of documentation trail that holds up under regulatory scrutiny.
 
 The Minnesota seller disclosure requirements 2026 are not new law, but they continue to generate new claims because agents treat familiar obligations casually. Knowing the statute numbers, using the correct forms, and building auditable processes is what separates agents who avoid liability from those who end up on the wrong side of a Department of Commerce complaint. Do the work now so you are not explaining your file to a hearing panel later.

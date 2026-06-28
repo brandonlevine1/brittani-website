@@ -4,7 +4,7 @@ description: "Master New York property condition & environmental disclosures 202
 publishDate: "2026-06-21"
 modifiedDate: "2026-06-21"
 author: "Jack Brighenti"
-authorBio: "Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions."
+authorBio: "Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions."
 readTime: "9 min"
 image: "/images/blog/new-york-property-condition-disclosures-2026.webp"
 imageAlt: "Brownstone row houses in Brooklyn with a disclosure form overlay representing New York property condition & environmental disclosures 2026"
@@ -110,6 +110,6 @@ The [New York Department of State Division of Licensing Services](https://dos.ny
 
 ## Staying Compliant Without Drowning in Paperwork
 
-The disclosure framework in New York is not complex in theory—it is complex in execution. Tracking which forms apply to which property, verifying pre-1978 construction dates, documenting delivery, and ensuring the $500 credit actually appears on the closing statement all require systematic attention. Agents running high-volume practices cannot afford to manage this manually, and tools like [Britanni AI](/pricing) exist specifically to flag missing disclosures and deadline risks before they metastasize into liability events.
+The disclosure framework in New York is not complex in theory—it is complex in execution. Tracking which forms apply to which property, verifying pre-1978 construction dates, documenting delivery, and ensuring the $500 credit actually appears on the closing statement all require systematic attention. Agents running high-volume practices cannot afford to manage this manually, and tools like [Brittani AI](/pricing) exist specifically to flag missing disclosures and deadline risks before they metastasize into liability events.
 
 As New York property condition & environmental disclosures 2026 rules continue to generate DOS complaints and litigation, the agents and brokers who survive cleanly will be those who built compliance into their workflow rather than treating it as an afterthought. The $500 credit may feel like a shortcut, but it is not a shield—and the environmental layer underneath it has no opt-out at all.

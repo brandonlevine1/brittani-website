@@ -4,7 +4,7 @@ description: "South Dakota agency disclosure requirements 2026 explained with sp
 publishDate: "2026-06-09"
 modifiedDate: "2026-06-09"
 author: "Brittany Brighenti"
-authorBio: "Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni."
+authorBio: "Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani."
 readTime: "9 min"
 image: "/images/blog/south-dakota-agency-disclosure-requirements-2026.webp"
 imageAlt: "Real estate disclosure documents spread across a table with South Dakota agency disclosure requirements 2026 context in a Sioux Falls office"
@@ -109,7 +109,7 @@ Audit dual agency consent separately from the initial disclosure. Your complianc
 
 Implement a quarterly sample audit of at least 10% of closed files. The SDREC does not mandate a specific audit frequency, but commission investigators have stated publicly that brokerages with documented audit programs receive more favorable treatment during investigations. Document your findings and any corrective actions taken.
 
-For brokerages managing high volume, automation can flag missing disclosures before files close. Tools like [Britanni AI](https://britanni.ai/pricing) can track disclosure deadlines against transaction milestones, alerting agents and brokers when a required form has not been uploaded within the expected window. This type of systematic tracking is what separates brokerages that catch problems from those that discover them during a commission investigation.
+For brokerages managing high volume, automation can flag missing disclosures before files close. Tools like [Brittani AI](https://brittani.ai/pricing) can track disclosure deadlines against transaction milestones, alerting agents and brokers when a required form has not been uploaded within the expected window. This type of systematic tracking is what separates brokerages that catch problems from those that discover them during a commission investigation.
 
 ## Staying Compliant With South Dakota Agency Disclosure Requirements 2026
 
