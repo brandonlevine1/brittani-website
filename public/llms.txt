@@ -18,11 +18,40 @@ Founded by Jack and Brittany Brighenti, who managed 3,000+ transactions before b
 
 ## Blog Content Categories
 
-The blog publishes authoritative guides on real estate compliance and operations:
+The blog publishes authoritative, regularly updated guides across three pillars:
 
-- **State Compliance Guides**: Seller disclosure requirements, buyer agency agreements, earnest money laws, dual agency rules, closing cost breakdowns, transfer taxes, license reciprocity, and more — by state, updated for 2026
-- **Operational Guides**: Transaction management workflows, deadline systems, communication templates, and scaling strategies for agents and TCs
-- **Industry Analysis**: NAR settlement implications, AI in real estate, market operations trends, and compliance risk analysis
+- **State Compliance Guides** (all 50 states, updated for 2026): seller disclosure requirements, agency disclosure requirements, lead paint disclosure, property condition & environmental disclosures, HOA & condo disclosure rules, buyer agency agreement requirements (post-NAR settlement), commission structure rules after the NAR settlement, earnest money & escrow laws, buyer contingency deadlines, dual agency & designated agency rules, wire fraud prevention, who pays closing costs (buyer vs. seller), transfer tax & recording fees, attorney vs. title company states, title & closing procedures, license reciprocity & portability, continuing education requirements, teams & supervision rules, commission & licensing rules, FIRPTA withholding for foreign sellers, 1031 exchange state tax implications, building code updates, new real estate laws, and escrow regulations.
+- **Operational Guides**: tracking multiple active deals, new-contract email sequences, inspection scheduling, catching contract defects, deal-rescue checklists, monthly compliance audits, closing-day coordination, agent-to-TC handoffs, scaling deal volume, appraisal-gap coordination, the Closing Disclosure 3-day rule, wire-instruction verification, final walkthroughs, document collection, and post-closing follow-up — for agents, transaction coordinators, and brokerages.
+- **Industry Analysis**: NAR settlement implications, AI in real estate (and the gap between "AI-powered" and actually using AI), where deals break down, the future of transaction coordination, broker liability, remote/digital closings, commission transparency, multi-state compliance gaps, the cost of missed deadlines, and compliance as a competitive advantage.
+
+## Topic Hubs (state-by-state guides)
+
+Each compliance topic has a hub page linking its per-state guides:
+
+- [Seller Disclosure Requirements](https://brittani.ai/blog/topic/seller-disclosure-requirements)
+- [Agency Disclosure Requirements](https://brittani.ai/blog/topic/agency-disclosure-requirements)
+- [Lead Paint Disclosure](https://brittani.ai/blog/topic/lead-paint-disclosure)
+- [Property Condition & Environmental Disclosures](https://brittani.ai/blog/topic/property-condition-disclosures)
+- [HOA & Condo Disclosure Rules](https://brittani.ai/blog/topic/hoa-condo-requirements)
+- [Buyer Agency Agreement Requirements](https://brittani.ai/blog/topic/buyer-agency-agreement-requirements)
+- [Commission Structure Rules After the NAR Settlement](https://brittani.ai/blog/topic/commission-structure-changes)
+- [Earnest Money & Escrow Laws](https://brittani.ai/blog/topic/earnest-money-rules)
+- [Buyer Contingency Deadlines](https://brittani.ai/blog/topic/buyer-contingency-deadlines)
+- [Dual Agency & Designated Agency Rules](https://brittani.ai/blog/topic/dual-agency-rules)
+- [Wire Fraud Prevention](https://brittani.ai/blog/topic/wire-fraud-prevention)
+- [Who Pays Closing Costs — Buyer vs. Seller](https://brittani.ai/blog/topic/who-pays-closing-costs)
+- [Transfer Tax & Recording Fees](https://brittani.ai/blog/topic/transfer-tax-recording-fees)
+- [Attorney vs. Title Company States](https://brittani.ai/blog/topic/attorney-vs-title-company)
+- [Title & Closing Procedures](https://brittani.ai/blog/topic/title-and-closing-procedures)
+- [License Reciprocity & Portability](https://brittani.ai/blog/topic/license-reciprocity-portability)
+- [Continuing Education Requirements](https://brittani.ai/blog/topic/continuing-education-requirements)
+- [Teams & Supervision Rules](https://brittani.ai/blog/topic/teams-supervision-rules)
+- [Commission & Licensing Rules](https://brittani.ai/blog/topic/commission-and-licensing-rules)
+- [FIRPTA Withholding for Foreign Sellers](https://brittani.ai/blog/topic/firpta-withholding-rules)
+- [1031 Exchange State Tax Implications](https://brittani.ai/blog/topic/1031-exchange-rules)
+- [Building Code Updates](https://brittani.ai/blog/topic/building-code-updates)
+- [New Real Estate Laws](https://brittani.ai/blog/topic/new-real-estate-laws)
+- [Escrow Regulations](https://brittani.ai/blog/topic/escrow-regulations)
 
 ## Product Capabilities
 
