@@ -1,6 +1,7 @@
 ---
 import PageLayout from '../../layouts/PageLayout.astro';
 import { getCollection } from 'astro:content';
+import { TOPIC_HUBS } from '../../data/topic-hubs';
 
 const allPosts = (await getCollection('blog')).sort(
   (a, b) => new Date(b.data.publishDate).getTime() - new Date(a.data.publishDate).getTime()
@@ -122,44 +123,14 @@ const breadcrumbSchema = {
           <p class="mt-2 text-slate-600">Real estate laws, disclosures, and requirements by state — updated for 2026.</p>
         </div>
 
-        <!-- Topic Hub Grid -->
+        <!-- Topic Hub Grid — links every state-compliance hub for full internal linking -->
         <div class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4 mb-10">
-          <a href="/blog/topic/seller-disclosure-requirements" class="block p-5 rounded-xl border border-slate-200 hover:border-blue-300 hover:bg-blue-50/50 transition-all group">
-            <h3 class="text-base font-semibold text-slate-900 group-hover:text-blue-700">Seller Disclosure Requirements</h3>
-            <p class="mt-1 text-sm text-slate-500">What sellers must disclose in each state</p>
-          </a>
-          <a href="/blog/topic/buyer-agency-agreement-requirements" class="block p-5 rounded-xl border border-slate-200 hover:border-blue-300 hover:bg-blue-50/50 transition-all group">
-            <h3 class="text-base font-semibold text-slate-900 group-hover:text-blue-700">Buyer Agency Agreements</h3>
-            <p class="mt-1 text-sm text-slate-500">Post-NAR settlement requirements by state</p>
-          </a>
-          <a href="/blog/topic/who-pays-closing-costs" class="block p-5 rounded-xl border border-slate-200 hover:border-blue-300 hover:bg-blue-50/50 transition-all group">
-            <h3 class="text-base font-semibold text-slate-900 group-hover:text-blue-700">Who Pays Closing Costs</h3>
-            <p class="mt-1 text-sm text-slate-500">Buyer vs. seller customs in each state</p>
-          </a>
-          <a href="/blog/topic/dual-agency-rules" class="block p-5 rounded-xl border border-slate-200 hover:border-blue-300 hover:bg-blue-50/50 transition-all group">
-            <h3 class="text-base font-semibold text-slate-900 group-hover:text-blue-700">Dual Agency Rules</h3>
-            <p class="mt-1 text-sm text-slate-500">Which states allow it and under what conditions</p>
-          </a>
-          <a href="/blog/topic/earnest-money-rules" class="block p-5 rounded-xl border border-slate-200 hover:border-blue-300 hover:bg-blue-50/50 transition-all group">
-            <h3 class="text-base font-semibold text-slate-900 group-hover:text-blue-700">Earnest Money & Escrow Laws</h3>
-            <p class="mt-1 text-sm text-slate-500">Deposit rules and dispute procedures</p>
-          </a>
-          <a href="/blog/topic/commission-structure-changes" class="block p-5 rounded-xl border border-slate-200 hover:border-blue-300 hover:bg-blue-50/50 transition-all group">
-            <h3 class="text-base font-semibold text-slate-900 group-hover:text-blue-700">Commission Rules After NAR</h3>
-            <p class="mt-1 text-sm text-slate-500">What changed for buyer and seller agents</p>
-          </a>
-          <a href="/blog/topic/transfer-tax-recording-fees" class="block p-5 rounded-xl border border-slate-200 hover:border-blue-300 hover:bg-blue-50/50 transition-all group">
-            <h3 class="text-base font-semibold text-slate-900 group-hover:text-blue-700">Transfer Taxes & Recording Fees</h3>
-            <p class="mt-1 text-sm text-slate-500">Current rates for every state</p>
-          </a>
-          <a href="/blog/topic/license-reciprocity-portability" class="block p-5 rounded-xl border border-slate-200 hover:border-blue-300 hover:bg-blue-50/50 transition-all group">
-            <h3 class="text-base font-semibold text-slate-900 group-hover:text-blue-700">License Reciprocity</h3>
-            <p class="mt-1 text-sm text-slate-500">Practicing across state lines</p>
-          </a>
-          <a href="/blog/topic/attorney-vs-title-company" class="block p-5 rounded-xl border border-slate-200 hover:border-blue-300 hover:bg-blue-50/50 transition-all group">
-            <h3 class="text-base font-semibold text-slate-900 group-hover:text-blue-700">Attorney vs. Title Company States</h3>
-            <p class="mt-1 text-sm text-slate-500">Who must be at the closing table</p>
-          </a>
+          {TOPIC_HUBS.map((hub) => (
+            <a href={`/blog/topic/${hub.slug}`} class="block p-5 rounded-xl border border-slate-200 hover:border-blue-300 hover:bg-blue-50/50 transition-all group">
+              <h3 class="text-base font-semibold text-slate-900 group-hover:text-blue-700">{hub.short}</h3>
+              <p class="mt-1 text-sm text-slate-500">{hub.blurb}</p>
+            </a>
+          ))}
         </div>
 
         <!-- Featured state posts -->
@@ -208,8 +179,8 @@ const breadcrumbSchema = {
         </div>
 
         <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-          {transactionMgmtPosts.slice(0, 6).map((post) => (
-            <article class="group border border-slate-200 rounded-2xl overflow-hidden hover:shadow-md transition-all bg-white">
+          {transactionMgmtPosts.map((post, i) => (
+            <article class:list={["group border border-slate-200 rounded-2xl overflow-hidden hover:shadow-md transition-all bg-white", i >= 6 && "hidden extra-transaction-management"]}>
               {post.data.image ? (
                 <img
                   src={post.data.image}
@@ -243,9 +214,9 @@ const breadcrumbSchema = {
 
         {transactionMgmtPosts.length > 6 && (
           <div class="mt-8 text-center">
-            <a href="#all-transaction-management" class="text-sm font-medium text-blue-600 hover:text-blue-700">
+            <button type="button" data-expand="transaction-management" class="text-sm font-medium text-blue-600 hover:text-blue-700 cursor-pointer">
               View all {transactionMgmtPosts.length} articles &rarr;
-            </a>
+            </button>
           </div>
         )}
       </div>
@@ -260,8 +231,8 @@ const breadcrumbSchema = {
         </div>
 
         <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-          {brokerPosts.slice(0, 6).map((post) => (
-            <article class="group border border-slate-200 rounded-2xl overflow-hidden hover:shadow-md transition-all">
+          {brokerPosts.map((post, i) => (
+            <article class:list={["group border border-slate-200 rounded-2xl overflow-hidden hover:shadow-md transition-all", i >= 6 && "hidden extra-broker-content"]}>
               {post.data.image ? (
                 <img
                   src={post.data.image}
@@ -295,9 +266,9 @@ const breadcrumbSchema = {
 
         {brokerPosts.length > 6 && (
           <div class="mt-8 text-center">
-            <a href="#all-broker-content" class="text-sm font-medium text-blue-600 hover:text-blue-700">
+            <button type="button" data-expand="broker-content" class="text-sm font-medium text-blue-600 hover:text-blue-700 cursor-pointer">
               View all {brokerPosts.length} articles &rarr;
-            </a>
+            </button>
           </div>
         )}
       </div>
@@ -312,8 +283,8 @@ const breadcrumbSchema = {
         </div>
 
         <div class="grid md:grid-cols-2 lg:grid-cols-3 gap-8">
-          {aiTechPosts.slice(0, 6).map((post) => (
-            <article class="group border border-slate-200 rounded-2xl overflow-hidden hover:shadow-md transition-all bg-white">
+          {aiTechPosts.map((post, i) => (
+            <article class:list={["group border border-slate-200 rounded-2xl overflow-hidden hover:shadow-md transition-all bg-white", i >= 6 && "hidden extra-ai-tech"]}>
               {post.data.image ? (
                 <img
                   src={post.data.image}
@@ -347,9 +318,9 @@ const breadcrumbSchema = {
 
         {aiTechPosts.length > 6 && (
           <div class="mt-8 text-center">
-            <a href="#all-ai-tech" class="text-sm font-medium text-blue-600 hover:text-blue-700">
+            <button type="button" data-expand="ai-tech" class="text-sm font-medium text-blue-600 hover:text-blue-700 cursor-pointer">
               View all {aiTechPosts.length} articles &rarr;
-            </a>
+            </button>
           </div>
         )}
       </div>
@@ -429,6 +400,19 @@ const breadcrumbSchema = {
       searchInput.value = '';
       searchResults.classList.add('hidden');
       sectionsContainer.classList.remove('hidden');
+    });
+  </script>
+
+  <!-- "View all articles" expanders: reveal the hidden cards in each section -->
+  <script>
+    document.querySelectorAll('[data-expand]').forEach((btn) => {
+      btn.addEventListener('click', () => {
+        const key = btn.getAttribute('data-expand');
+        document
+          .querySelectorAll('.extra-' + key)
+          .forEach((el) => el.classList.remove('hidden'));
+        btn.parentElement?.remove();
+      });
     });
   </script>
 </PageLayout>

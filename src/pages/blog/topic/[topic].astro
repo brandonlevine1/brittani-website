@@ -2,35 +2,10 @@
 import PageLayout from '../../../layouts/PageLayout.astro';
 import CTABanner from '../../../components/global/CTABanner.astro';
 import { getCollection } from 'astro:content';
+import { TOPIC_HUBS } from '../../../data/topic-hubs';
 
 export function getStaticPaths() {
-  const hubs = [
-    { slug: 'seller-disclosure-requirements', title: 'Seller Disclosure Requirements by State', description: 'State-by-state seller disclosure laws, forms, and compliance requirements for real estate agents — updated for 2026.' },
-    { slug: 'agency-disclosure-requirements', title: 'Agency Disclosure Requirements by State', description: 'Agency disclosure rules and forms every agent must follow in each state — updated for 2026.' },
-    { slug: 'lead-paint-disclosure', title: 'Lead Paint Disclosure Requirements by State', description: 'Federal and state lead paint disclosure rules, forms, and exemptions for residential real estate transactions.' },
-    { slug: 'property-condition-disclosures', title: 'Property Condition & Environmental Disclosures by State', description: 'State requirements for disclosing property defects, environmental hazards, and material facts.' },
-    { slug: 'hoa-condo-requirements', title: 'HOA & Condo Disclosure Rules by State', description: 'HOA document delivery timelines, condo resale certificates, and buyer cancellation rights in every state.' },
-    { slug: 'buyer-agency-agreement-requirements', title: 'Buyer Agency Agreement Requirements by State', description: 'Post-NAR settlement buyer agency agreement rules, forms, and compliance requirements by state.' },
-    { slug: 'commission-structure-changes', title: 'Commission Structure Rules After the NAR Settlement', description: 'How commission rules changed after the 2024 NAR settlement — state-by-state requirements for buyer and seller agents.' },
-    { slug: 'earnest-money-rules', title: 'Earnest Money & Escrow Laws by State', description: 'Earnest money deposit rules, escrow holder requirements, and dispute resolution procedures in each state.' },
-    { slug: 'buyer-contingency-deadlines', title: 'Buyer Contingency Deadlines by State', description: 'Default contingency periods for inspection, financing, and appraisal in residential contracts by state.' },
-    { slug: 'dual-agency-rules', title: 'Dual Agency & Designated Agency Rules by State', description: 'Which states allow dual agency, designated agency requirements, and disclosure obligations for agents.' },
-    { slug: 'wire-fraud-prevention', title: 'Wire Fraud Prevention Requirements by State', description: 'State and federal wire fraud prevention rules, disclosure requirements, and best practices for closings.' },
-    { slug: 'who-pays-closing-costs', title: 'Who Pays Closing Costs by State — Buyer vs. Seller', description: 'Customary closing cost splits between buyers and sellers in each state, including transfer taxes and title fees.' },
-    { slug: 'transfer-tax-recording-fees', title: 'Transfer Tax & Recording Fee Schedules by State', description: 'Current transfer tax rates, recording fees, and documentary stamp costs for residential transactions in every state.' },
-    { slug: 'attorney-vs-title-company', title: 'Attorney vs. Title Company States — Who Must Be at Closing', description: 'Which states require an attorney at closing vs. title company only, and what that means for transaction coordination.' },
-    { slug: 'title-and-closing-procedures', title: 'Title & Closing Procedures by State', description: 'Title search requirements, closing procedures, and settlement practices that vary by state.' },
-    { slug: 'license-reciprocity-portability', title: 'Real Estate License Reciprocity & Portability by State', description: 'Which states have reciprocal licensing agreements, portability compacts, and what agents need to practice across borders.' },
-    { slug: 'continuing-education-requirements', title: 'Continuing Education Requirements by State', description: 'CE hour requirements, renewal deadlines, and approved course topics for real estate license renewal in each state.' },
-    { slug: 'teams-supervision-rules', title: 'Teams & Supervision Rules by State', description: 'State rules for real estate teams, broker supervision requirements, and team advertising compliance.' },
-    { slug: 'commission-and-licensing-rules', title: 'Commission & Licensing Rules by State', description: 'Commission payment rules, referral fee regulations, and licensing requirements by state.' },
-    { slug: 'firpta-withholding-rules', title: 'FIRPTA Withholding Rules for Foreign Sellers by State', description: 'Federal FIRPTA withholding requirements plus state-level withholding rules for foreign property sellers.' },
-    { slug: '1031-exchange-rules', title: '1031 Exchange State Tax Implications', description: 'State income tax treatment of 1031 exchanges, clawback provisions, and reporting requirements.' },
-    { slug: 'building-code-updates', title: 'Building Code Updates by State', description: 'Recent residential building code changes, effective dates, and what agents need to know about new construction.' },
-    { slug: 'new-real-estate-laws', title: 'New Real Estate Laws by State', description: 'Newly enacted real estate legislation by state — bills signed into law affecting agents, brokers, and transactions.' },
-    { slug: 'escrow-regulations', title: 'Escrow Regulations by State', description: 'Escrow account rules, interest requirements, and disbursement timelines for real estate transactions by state.' },
-  ];
-  return hubs.map(hub => ({
+  return TOPIC_HUBS.map(hub => ({
     params: { topic: hub.slug },
     props: { hub },
   }));
@@ -42,6 +17,10 @@ const allPosts = await getCollection('blog');
 const topicPosts = allPosts
   .filter(p => (p.data.tags || []).includes(hub.slug) || p.id.includes(hub.slug))
   .sort((a, b) => a.data.title.localeCompare(b.data.title));
+
+// SEO: keep thin/empty hub pages out of the index until they have real content.
+// Hubs fill within a few days of generation, then this flips to indexable.
+const isThin = topicPosts.length < 2;
 
 const stateNames = topicPosts.map(p => {
   const slug = p.id;
@@ -79,6 +58,7 @@ const collectionSchema = {
   title={`${hub.title} (2026) | Britanni AI`}
   description={hub.description}
   canonical={`https://brittani.ai/blog/topic/${hub.slug}`}
+  noindex={isThin}
   jsonLd={[breadcrumbSchema, collectionSchema]}
 >
   <section class="bg-gradient-to-br from-blue-50 via-violet-50/50 to-white py-20 md:py-28">

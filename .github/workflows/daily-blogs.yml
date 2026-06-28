@@ -5,6 +5,11 @@ on:
     # 6:00 AM ET (10:00 UTC during EDT, 11:00 UTC during EST)
     - cron: '0 10 * * *'
   workflow_dispatch:
+    inputs:
+      posts_per_type:
+        description: 'Posts to generate per type (default 5 = 15 total). Raise for a one-off catch-up run.'
+        required: false
+        default: '5'
 
 permissions:
   contents: write
@@ -38,6 +43,7 @@ jobs:
         env:
           AWS_REGION: us-east-1
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          POSTS_PER_TYPE: ${{ github.event.inputs.posts_per_type || '5' }}
         run: npm run generate-blogs
 
       - name: Verify build passes
