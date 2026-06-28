@@ -47,6 +47,8 @@ jobs:
         run: npm run generate-blogs
 
       - name: Verify build passes
+        env:
+          PUBLIC_GA4_ID: ${{ vars.PUBLIC_GA4_ID }}
         run: npm run build
 
       - name: Commit and push to main
