@@ -23,6 +23,10 @@ const {
 const siteUrl = 'https://brittani.ai';
 const canonicalUrl = canonical || `${siteUrl}${Astro.url.pathname}`;
 const fullOgImage = ogImage.startsWith('http') ? ogImage : `${siteUrl}${ogImage}`;
+
+// Google Analytics 4 — set PUBLIC_GA4_ID (e.g. G-XXXXXXXXXX) in the build env.
+// When unset (local/dev), the tag is omitted entirely.
+const ga4Id = import.meta.env.PUBLIC_GA4_ID;
 ---
 
 <!doctype html>
@@ -71,6 +75,18 @@ const fullOgImage = ogImage.startsWith('http') ? ogImage : `${siteUrl}${ogImage}
       )
     )}
     <slot name="head" />
+
+    {ga4Id && (
+      <Fragment>
+        <script is:inline async src={`https://www.googletagmanager.com/gtag/js?id=${ga4Id}`}></script>
+        <script is:inline set:html={`
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){ dataLayer.push(arguments); }
+          gtag('js', new Date());
+          gtag('config', ${JSON.stringify(ga4Id)});
+        `}></script>
+      </Fragment>
+    )}
   </head>
   <body class="bg-white text-slate-900 font-sans">
     <a
@@ -80,14 +96,5 @@ const fullOgImage = ogImage.startsWith('http') ? ogImage : `${siteUrl}${ogImage}
       Skip to content
     </a>
     <slot />
-
-    <!-- Microsoft Clarity -->
-    <script type="text/javascript" defer>
-      (function(c,l,a,r,i,t,y){
-        c[a]=c[a]||function(){(c[a].q=c[a].q||[]).push(arguments)};
-        t=l.createElement(r);t.async=1;t.src="https://www.clarity.ms/tag/"+i;
-        y=l.getElementsByTagName(r)[0];y.parentNode.insertBefore(t,y);
-      })(window, document, "clarity", "script", "YOUR_CLARITY_ID");
-    </script>
   </body>
 </html>

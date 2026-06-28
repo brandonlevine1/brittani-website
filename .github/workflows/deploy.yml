@@ -25,6 +25,8 @@ jobs:
         run: npm ci
 
       - name: Build site
+        env:
+          PUBLIC_GA4_ID: ${{ vars.PUBLIC_GA4_ID }}
         run: npm run build
 
       - name: Deploy to Cloudflare Workers
