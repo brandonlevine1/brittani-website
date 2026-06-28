@@ -33,7 +33,7 @@ FORMATTING RULES (strict — violating these means the post will be rejected):
 - Include 2-3 internal links to OTHER posts on our blog. You MUST only link to slugs from the EXISTING_POSTS list provided below the formatting rules. Pick the most relevant ones.
   Format: [descriptive anchor text](/blog/slug-from-existing-posts)
 - Include 1 external authority link to a state RE commission, NAR, or official statute source.
-- CTA: do NOT create a separate closing section or banner. Instead, weave one natural mention of Britanni AI + a link to /pricing into the final 2 paragraphs of the article body.
+- CTA: do NOT create a separate closing section or banner. Instead, weave one natural mention of Brittani AI + a link to https://brittani.ai/pricing into the final 2 paragraphs of the article body.
 - Do not start any sentence with "In today's" or "As a real estate professional" or "Whether you're" or "Let's dive in"
 - Do not summarize what you just said. No recap paragraphs. No "In conclusion" sections.
 - Do not use the words: comprehensive, landscape, navigate, delve, realm, crucial, leverage, utilize, streamline, empower
@@ -121,7 +121,7 @@ CONTENT REQUIREMENTS:
 - Provide a concrete, step-by-step system with specific actionable advice.
 - Include specific numbers, time comparisons, or cost data where possible.
 - The primary keyword must appear in: the first 100 words, at least one H2, and the final paragraph.
-- Weave one natural mention of Britanni AI + /pricing link into the final 2 paragraphs. Do not create a separate CTA section.
+- Weave one natural mention of Brittani AI + a https://brittani.ai/pricing link into the final 2 paragraphs. Do not create a separate CTA section.
 
 ${FORMATTING_RULES}
 

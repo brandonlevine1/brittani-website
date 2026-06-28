@@ -130,8 +130,8 @@ export const TYPE3_TOPICS = [
 export const AUTHORS = ['Jack Brighenti', 'Brittany Brighenti'];
 
 export const AUTHOR_BIOS = {
-  'Jack Brighenti': 'Co-founder at Britanni AI. Licensed broker with 12 years of experience in residential transactions.',
-  'Brittany Brighenti': 'Co-founder at Britanni AI. Managed 3,000+ transactions as a senior TC before building Britanni.',
+  'Jack Brighenti': 'Co-founder at Brittani AI. Licensed broker with 12 years of experience in residential transactions.',
+  'Brittany Brighenti': 'Co-founder at Brittani AI. Managed 3,000+ transactions as a senior TC before building Brittani.',
 };
 
 export const STATE_ARCHITECTURE = {
