@@ -83,7 +83,23 @@ const ga4Id = import.meta.env.PUBLIC_GA4_ID;
           window.dataLayer = window.dataLayer || [];
           function gtag(){ dataLayer.push(arguments); }
           gtag('js', new Date());
-          gtag('config', ${JSON.stringify(ga4Id)});
+          // Cross-domain: stitch brittani.ai <-> app.brittani.ai into one user/session
+          gtag('config', ${JSON.stringify(ga4Id)}, {
+            linker: { domains: ['brittani.ai', 'app.brittani.ai'] }
+          });
+          // Lightweight event helper + declarative click tracking.
+          // Add data-ga-event="name" (and optional data-ga-param-*="value") to any element.
+          window.track = function (name, params) { if (window.gtag) window.gtag('event', name, params || {}); };
+          document.addEventListener('click', function (e) {
+            var el = e.target && e.target.closest ? e.target.closest('[data-ga-event]') : null;
+            if (!el) return;
+            var params = {};
+            for (var i = 0; i < el.attributes.length; i++) {
+              var a = el.attributes[i];
+              if (a.name.indexOf('data-ga-param-') === 0) params[a.name.slice(14)] = a.value;
+            }
+            window.track(el.getAttribute('data-ga-event'), params);
+          });
         `}></script>
       </Fragment>
     )}

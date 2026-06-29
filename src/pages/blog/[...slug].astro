@@ -171,4 +171,9 @@ const ogImage = post.data.image ? `https://brittani.ai${post.data.image}` : 'htt
     primaryCta="Start Free Trial"
     secondaryCta=""
   />
+
+  <script is:inline define:vars={{ slug: post.id, category: primaryTag }}>
+    /* GA4: blog content engagement */
+    window.track && window.track('select_content', { content_type: 'blog', content_id: slug, content_category: category });
+  </script>
 </PageLayout>
