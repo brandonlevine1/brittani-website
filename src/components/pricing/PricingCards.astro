@@ -63,6 +63,9 @@ import { pricingTiers } from '../../data/pricing';
 
           <a
             href={tier.ctaLink}
+            data-ga-event="signup_start"
+            data-ga-param-button_location="pricing"
+            data-ga-param-plan_type={tier.name}
             class:list={[
               'block text-center font-semibold py-3.5 rounded-xl transition-all duration-200 text-base',
               tier.popular

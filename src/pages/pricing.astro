@@ -138,4 +138,9 @@ const breadcrumbSchema = {
     primaryCta="Start Free Trial"
     secondaryCta=""
   />
+
+  <script is:inline>
+    /* GA4: pricing intent signal */
+    window.track && window.track('pricing_view');
+  </script>
 </PageLayout>
