@@ -1,8 +1,10 @@
 export interface PricingTier {
   name: string;
   tagline: string;
-  monthlyPrice: string;
-  annualPrice: string;
+  /** Omit both prices to show `customPriceLabel` instead of a dollar amount. */
+  monthlyPrice?: string;
+  annualPrice?: string;
+  customPriceLabel?: string;
   features: string[];
   cta: string;
   ctaLink: string;
@@ -16,7 +18,7 @@ export const pricingTiers: PricingTier[] = [
     monthlyPrice: '19',
     annualPrice: '15',
     features: [
-      'Up to 5 active deals',
+      '1 contract per month',
       'Contract analysis & audit',
       'Automated party communications',
       'Deadline tracking & reminders',
@@ -31,7 +33,7 @@ export const pricingTiers: PricingTier[] = [
     monthlyPrice: '29',
     annualPrice: '23',
     features: [
-      'Unlimited active deals',
+      '3 contracts per month',
       'Everything in Starter',
       'Inspection coordination',
       'Lender & title monitoring',
@@ -44,8 +46,7 @@ export const pricingTiers: PricingTier[] = [
   {
     name: 'Team',
     tagline: 'For real estate teams',
-    monthlyPrice: '99',
-    annualPrice: '79',
+    customPriceLabel: 'Custom',
     features: [
       'Everything in Professional',
       '5 agent seats included',
@@ -54,7 +55,7 @@ export const pricingTiers: PricingTier[] = [
       'Dedicated onboarding',
     ],
     cta: 'Contact Sales',
-    ctaLink: '#',
+    ctaLink: 'mailto:hello@brittani.ai',
   },
 ];
 

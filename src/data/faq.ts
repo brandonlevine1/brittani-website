@@ -12,7 +12,7 @@ export const homeFAQ: FAQItem[] = [
   {
     question: 'How much does it cost compared to a human TC?',
     answer:
-      'A human TC typically charges $300–$500 per transaction. Brittani starts at $19/month, and our most popular Professional plan is $29/month with unlimited deals — less than a tenth of what a single human-coordinated transaction costs. Check our pricing page for current plans.',
+      'A human TC typically charges $300–$500 per transaction. Brittani starts at $19/month for 1 contract per month, and our most popular Professional plan is $29/month for 3 contracts per month — a fraction of what a single human-coordinated transaction costs. Check our pricing page for current plans.',
   },
   {
     question: 'Is my contract data secure?',
@@ -58,9 +58,9 @@ export const pricingFAQ: FAQItem[] = [
       'Yes, you can upgrade or downgrade your plan at any time. When upgrading, you get immediate access to new features. When downgrading, the change takes effect at the start of your next billing cycle.',
   },
   {
-    question: 'What counts as an "active deal"?',
+    question: 'What counts toward my monthly contract limit?',
     answer:
-      'An active deal is any transaction that has not been marked as closed or cancelled. Once a deal is closed, it no longer counts against your active deal limit but remains accessible for your records.',
+      'Each new contract you upload for coordination counts toward your monthly limit — 1 per month on Starter, 3 per month on Professional. Limits reset at the start of each billing cycle, and deals already in progress stay fully coordinated through closing.',
   },
   {
     question: 'Do you offer refunds?',
@@ -75,7 +75,7 @@ export const pricingFAQ: FAQItem[] = [
   {
     question: 'How does team pricing work?',
     answer:
-      'The Team plan includes 5 agent seats. Additional seats can be added for a per-seat monthly fee. Each agent gets their own login, deal management, and activity tracking, while team leads get a unified dashboard.',
+      'Team pricing is tailored to your team size and deal volume — contact sales for a quote. Every Team plan includes 5 agent seats, and each agent gets their own login, deal management, and activity tracking, while team leads get a unified dashboard.',
   },
   {
     question: 'What payment methods do you accept?',
