@@ -41,13 +41,24 @@ import { pricingTiers } from '../../data/pricing';
           </div>
 
           <div class="mb-6">
-            <div class="flex items-baseline gap-1">
-              <span class="text-4xl font-bold text-slate-900">
-                $<span class="pricing-amount" data-monthly={tier.monthlyPrice} data-annual={tier.annualPrice}>{tier.monthlyPrice}</span>
-              </span>
-              <span class="text-slate-500 text-sm">/month</span>
-            </div>
-            <p class="text-xs text-slate-400 mt-1 pricing-billing-note">Billed monthly</p>
+            {tier.monthlyPrice ? (
+              <Fragment>
+                <div class="flex items-baseline gap-1">
+                  <span class="text-4xl font-bold text-slate-900">
+                    $<span class="pricing-amount" data-monthly={tier.monthlyPrice} data-annual={tier.annualPrice}>{tier.monthlyPrice}</span>
+                  </span>
+                  <span class="text-slate-500 text-sm">/month</span>
+                </div>
+                <p class="text-xs text-slate-400 mt-1 pricing-billing-note">Billed monthly</p>
+              </Fragment>
+            ) : (
+              <Fragment>
+                <div class="flex items-baseline gap-1">
+                  <span class="text-4xl font-bold text-slate-900">{tier.customPriceLabel ?? 'Custom'}</span>
+                </div>
+                <p class="text-xs text-slate-400 mt-1">Pricing tailored to your team</p>
+              </Fragment>
+            )}
           </div>
 
           <ul class="space-y-3 mb-8 flex-1">

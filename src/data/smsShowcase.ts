@@ -162,7 +162,7 @@ export const agentsSMSShowcase: SMSShowcaseConfig = {
   eyebrow: 'Brittani via SMS',
   headline: 'Run Your Deals From Your Car',
   subheadline:
-    'You’re never at your desk — and now you don’t need to be. A full transaction coordinator in your text thread, for $29/month with unlimited deals — not $400 a file.',
+    'You’re never at your desk — and now you don’t need to be. A full transaction coordinator in your text thread, for $29/month — not $400 a file.',
   panels: [
     {
       title: '9:40 AM — between showings',
