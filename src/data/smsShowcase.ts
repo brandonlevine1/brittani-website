@@ -39,7 +39,7 @@ export const homeSMSShowcase: SMSShowcaseConfig = {
         { from: 'agent', text: "when's the inspection deadline on 4021 maple?" },
         {
           from: 'brittani',
-          text: 'Inspection contingency ends Thu Jul 24, 5pm — 3 days out. Inspector confirmed for tomorrow 9am.',
+          text: 'Inspection contingency ends Fri Jul 24, 5pm — 3 days out. Inspector confirmed for tomorrow 9am.',
         },
       ],
     },
@@ -176,10 +176,10 @@ export const agentsSMSShowcase: SMSShowcaseConfig = {
     {
       title: '2:15 PM — the other agent needs an answer',
       description:
-        'The buyer’s agent texts asking about the inspection deadline. Three seconds later you answer like you never left your desk.',
+        'The listing agent texts asking if your buyer’s loan is on track. You answer before they’re done typing — like you never left your desk.',
       conversation: [
-        { from: 'agent', text: 'inspection deadline 77 magnolia ct' },
-        { from: 'brittani', text: 'Inspection contingency ends Thu Jul 30 at 5pm. Report is due back from the inspector Tuesday.' },
+        { from: 'agent', text: 'loan status 77 magnolia ct?' },
+        { from: 'brittani', text: 'Conditional approval cleared Monday. Loan commitment is due Fri Jul 24 — processor confirmed on track yesterday.' },
       ],
     },
     {
@@ -241,7 +241,7 @@ export const teamsSMSShowcase: SMSShowcaseConfig = {
           text: 'Heads up — financing contingency on 902 Cypress (Dana’s deal) expires in 48h and the lender hasn’t confirmed. Want me to follow up and copy Dana?',
         },
         { from: 'agent', text: 'yes do it' },
-        { from: 'brittani', text: 'Follow-up sent to the loan officer from Dana’s email, with Dana cc’d. I’ll alert you both when they reply.' },
+        { from: 'brittani', text: 'Follow-up sent to the loan officer from Dana’s email. I’ll alert you both when they reply.' },
       ],
     },
     {

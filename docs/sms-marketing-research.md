@@ -98,7 +98,16 @@ own voice guide and product truth:
 
 Maximum two loops per domain. Results:
 
-<!-- VALIDATION-RESULTS -->
+| Page | Loop 1 verdict | Loop 1 findings (fixed) | Loop 2 verdict |
+|---|---|---|---|
+| Home | REVISE (5/7) | Invented "not 3 hours" stat; panel 4 sent an email to title on a bare "yes" with no draft-confirm step | SHIP (7/7) |
+| Features | REVISE (5/7) | No field moment; "the AI that runs your deals" overclaim; panel 4 description implied unapproved sending; panel 3 blind approval + ops-speak | SHIP (7/7) |
+| Solutions/agents | REVISE (6/7) | Invented "72 hours" figure; near-duplicate of the page's existing "123 Oak St / three seconds" vignette; wrong weekday; superlative flattery | 6/7 — panel 2 still repeated the inspection-deadline beat; rewritten to a loan-status question with new speed phrasing (final fix applied from loop-2 feedback) |
+| Solutions/teams | REVISE (7/7 rubric, continuity defect) | Same address shown as both "on track" and flagged; sender attribution missing on a team send | 7/7 with one send-mechanics fix ("Dana cc'd on her own outgoing email") applied from loop-2 feedback |
+
+Loop 2 also cross-checked calendar math against the current date, catching one wrong
+weekday on the home panel ("Thu Jul 24" → "Fri Jul 24"). Per the two-loop cap, the final
+minimal fixes recommended by loop 2 were applied without a third validation round.
 
 ## 7. Flagged uncertainties (do not quote publicly without verification)
 
