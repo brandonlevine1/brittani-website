@@ -6,7 +6,9 @@ import BentoGrid from '../components/features/BentoGrid.astro';
 import IntegrationLogos from '../components/features/IntegrationLogos.astro';
 import CTABanner from '../components/global/CTABanner.astro';
 import InteractiveDemo from '../components/global/InteractiveDemo.astro';
+import SMSShowcase from '../components/global/SMSShowcase.astro';
 import { featureDeepDives } from '../data/features';
+import { featuresSMSShowcase } from '../data/smsShowcase';
 
 const breadcrumbSchema = {
   "@context": "https://schema.org",
@@ -43,6 +45,10 @@ const breadcrumbSchema = {
   ))}
 
   <BentoGrid />
+
+  <!-- Brittani via SMS showcase -->
+  <SMSShowcase config={featuresSMSShowcase} bg="bg-white" />
+
   <IntegrationLogos />
 
   <!-- Mid-page CTA -->

@@ -1,0 +1,389 @@
+---
+// Rolling accordion showcase for the "Brittani via SMS" feature.
+// Left column: accordion panels that auto-advance (desktop only) until the
+// visitor interacts. Right column (desktop): phone mockup whose SMS thread
+// swaps to the active panel. Mobile: the conversation renders inside the open
+// panel and rotation is disabled.
+//
+// A11y per WCAG 2.2.2 + ARIA APG carousel/accordion patterns: visible
+// pause/play control first in the widget's tab order, rotation stops
+// permanently on focus or click, prefers-reduced-motion disables all motion.
+import type { SMSShowcaseConfig } from '../../data/smsShowcase';
+
+interface Props {
+  config: SMSShowcaseConfig;
+  bg?: string;
+}
+
+const { config, bg = 'bg-slate-50' } = Astro.props;
+const { eyebrow, headline, subheadline, panels, cta } = config;
+---
+
+<section class={`sms-showcase py-20 md:py-28 ${bg}`} data-sms-showcase>
+  <div class="max-w-7xl mx-auto px-6 md:px-8">
+    <div class="text-center mb-12 md:mb-16">
+      <p class="text-sm font-semibold uppercase tracking-wider text-blue-600 mb-3">{eyebrow}</p>
+      <h2 class="text-3xl md:text-4xl font-bold tracking-tight text-slate-900">
+        {headline}
+      </h2>
+      <p class="mt-4 text-lg text-slate-600 max-w-2xl mx-auto">
+        {subheadline}
+      </p>
+    </div>
+
+    <div class="grid lg:grid-cols-2 gap-10 lg:gap-16 items-center max-w-5xl mx-auto">
+      <!-- Accordion -->
+      <div>
+        <!-- Rotation control: first in the widget's tab order (WCAG 2.2.2). Hidden where rotation never runs. -->
+        <div class="hidden lg:flex justify-end mb-3 motion-reduce:lg:hidden">
+          <button
+            type="button"
+            class="sms-rotation-toggle inline-flex items-center gap-1.5 text-xs font-medium text-slate-400 hover:text-slate-600 transition-colors"
+            aria-label="Stop automatic rotation"
+            data-sms-rotation-toggle
+          >
+            <svg class="sms-icon-pause w-3.5 h-3.5" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M8 5h3v14H8zM13 5h3v14h-3z" />
+            </svg>
+            <svg class="sms-icon-play w-3.5 h-3.5 hidden" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M8 5l11 7-11 7V5z" />
+            </svg>
+            <span class="sms-rotation-label" aria-hidden="true">Pause</span>
+          </button>
+        </div>
+
+        <div class="space-y-3">
+          {panels.map((panel, i) => (
+            <div
+              class:list={[
+                'sms-panel border rounded-2xl overflow-hidden bg-white transition-colors',
+                i === 0 ? 'border-blue-600 ring-1 ring-blue-600' : 'border-slate-200',
+              ]}
+              data-sms-panel={i}
+            >
+              <h3>
+                <button
+                  type="button"
+                  class="sms-panel-toggle flex items-center justify-between w-full cursor-pointer p-5 md:p-6 text-left font-semibold text-slate-900 hover:bg-slate-50 transition-colors"
+                  aria-expanded={i === 0 ? 'true' : 'false'}
+                  data-sms-toggle={i}
+                >
+                  <span class="flex items-center gap-3">
+                    <span class="text-blue-600 text-sm font-bold tabular-nums" aria-hidden="true">{String(i + 1).padStart(2, '0')}</span>
+                    {panel.title}
+                  </span>
+                  <svg
+                    class:list={['w-5 h-5 text-slate-400 shrink-0 ml-4 transition-transform duration-200', i === 0 && 'rotate-180']}
+                    fill="none"
+                    viewBox="0 0 24 24"
+                    stroke="currentColor"
+                    stroke-width="2"
+                    aria-hidden="true"
+                  >
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M19.5 8.25l-7.5 7.5-7.5-7.5" />
+                  </svg>
+                </button>
+              </h3>
+              <div
+                class:list={['sms-panel-body px-5 md:px-6 pb-5 md:pb-6', i !== 0 && 'hidden']}
+                role="region"
+                data-sms-body={i}
+              >
+                <p class="text-slate-600 leading-relaxed text-sm md:text-base">{panel.description}</p>
+
+                <!-- Mobile-only inline conversation -->
+                <div class="lg:hidden mt-4 bg-slate-100 rounded-xl p-3 space-y-2">
+                  {panel.conversation.map((msg) => (
+                    <div class={`flex ${msg.from === 'agent' ? 'justify-end' : 'justify-start'}`}>
+                      <div class={`max-w-[85%] rounded-2xl px-3 py-2 text-xs leading-relaxed whitespace-pre-line ${
+                        msg.from === 'agent'
+                          ? 'bg-blue-600 text-white rounded-br-md'
+                          : 'bg-white text-slate-800 border border-slate-200 rounded-bl-md shadow-sm'
+                      }`}>
+                        {msg.text}
+                      </div>
+                    </div>
+                  ))}
+                </div>
+
+                <!-- Auto-advance progress bar (desktop rotation only) -->
+                <div class="sms-progress hidden lg:block motion-reduce:lg:hidden mt-4 h-0.5 bg-slate-100 rounded-full overflow-hidden" aria-hidden="true">
+                  <div class="sms-progress-fill h-full w-0 bg-blue-600 rounded-full"></div>
+                </div>
+              </div>
+            </div>
+          ))}
+
+          {cta && (
+            <div class="pt-4">
+              <a
+                href={cta.href}
+                data-ga-event="signup_start"
+                data-ga-param-button_location="sms_showcase"
+                class="inline-block bg-blue-600 hover:bg-blue-700 text-white font-semibold px-8 py-4 rounded-xl text-base transition-all duration-200 hover:shadow-lg hover:shadow-blue-600/25"
+              >
+                {cta.label}
+              </a>
+              {cta.note && <p class="mt-3 text-sm text-slate-500">{cta.note}</p>}
+            </div>
+          )}
+        </div>
+      </div>
+
+      <!-- Phone mockup (desktop) -->
+      <div class="hidden lg:block" data-sms-phone aria-live="off">
+        <div class="mx-auto w-[300px] xl:w-[320px]">
+          <div class="relative rounded-[2.5rem] border-[8px] border-slate-800 bg-slate-900 shadow-2xl overflow-hidden">
+            <div class="absolute top-0 left-1/2 -translate-x-1/2 w-28 h-5 bg-slate-800 rounded-b-2xl z-10" aria-hidden="true"></div>
+
+            <div class="bg-slate-100 pt-8 pb-4 px-3 min-h-[440px] flex flex-col justify-end">
+              <!-- Chat header -->
+              <div class="absolute top-8 left-0 right-0 px-4 py-2 bg-white border-b border-slate-200 z-10">
+                <div class="flex items-center gap-2">
+                  <div class="w-6 h-6 rounded-full bg-white border border-slate-200 flex items-center justify-center overflow-hidden">
+                    <img src="/images/logo-mark.png" alt="Brittani AI" width="24" height="24" class="w-5 h-5" loading="lazy" />
+                  </div>
+                  <span class="text-xs font-semibold text-slate-900">Brittani AI</span>
+                  <span class="ml-auto w-2 h-2 rounded-full bg-green-500" aria-hidden="true"></span>
+                </div>
+              </div>
+
+              <!-- One conversation per panel; JS toggles visibility -->
+              {panels.map((panel, i) => (
+                <div
+                  class:list={['sms-conversation space-y-3 mt-10', i !== 0 && 'hidden']}
+                  data-sms-conversation={i}
+                >
+                  {panel.conversation.map((msg, j) => (
+                    <div class={`sms-bubble flex ${msg.from === 'agent' ? 'justify-end' : 'justify-start'}`} style={`--bubble-delay: ${j * 260}ms`}>
+                      <div class={`max-w-[85%] rounded-2xl px-3 py-2 text-[11px] leading-relaxed whitespace-pre-line ${
+                        msg.from === 'agent'
+                          ? 'bg-blue-600 text-white rounded-br-md'
+                          : 'bg-white text-slate-800 border border-slate-200 rounded-bl-md shadow-sm'
+                      }`}>
+                        {msg.text}
+                      </div>
+                    </div>
+                  ))}
+                </div>
+              ))}
+
+              <!-- Input bar -->
+              <div class="mt-3 flex items-center gap-2 bg-white rounded-full border border-slate-200 px-3 py-1.5">
+                <div class="flex-1 text-[10px] text-slate-400">Text Message</div>
+                <div class="w-5 h-5 rounded-full bg-blue-600 flex items-center justify-center">
+                  <svg class="w-3 h-3 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="2" aria-hidden="true">
+                    <path stroke-linecap="round" stroke-linejoin="round" d="M5 12h14M12 5l7 7-7 7" />
+                  </svg>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<style>
+  .sms-bubble {
+    opacity: 0;
+    transform: translateY(6px);
+    animation: sms-bubble-in 0.35s ease-out forwards;
+    animation-delay: var(--bubble-delay, 0ms);
+  }
+
+  .sms-conversation.hidden .sms-bubble {
+    animation: none;
+  }
+
+  @keyframes sms-bubble-in {
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  .sms-progress-fill {
+    transition: width linear;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .sms-bubble {
+      animation: none;
+      opacity: 1;
+      transform: none;
+    }
+  }
+</style>
+
+<script>
+  const ADVANCE_MS = 8000;
+  const reducedMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
+  const desktop = window.matchMedia('(min-width: 1024px)');
+
+  document.querySelectorAll<HTMLElement>('[data-sms-showcase]').forEach((section, sectionIndex) => {
+    const panels = Array.from(section.querySelectorAll<HTMLElement>('[data-sms-panel]'));
+    const toggles = Array.from(section.querySelectorAll<HTMLButtonElement>('[data-sms-toggle]'));
+    const bodies = Array.from(section.querySelectorAll<HTMLElement>('[data-sms-body]'));
+    const conversations = Array.from(section.querySelectorAll<HTMLElement>('[data-sms-conversation]'));
+    const phone = section.querySelector<HTMLElement>('[data-sms-phone]');
+    const rotationToggle = section.querySelector<HTMLButtonElement>('[data-sms-rotation-toggle]');
+    if (!panels.length) return;
+
+    // Wire up accordion ids for aria-controls / aria-labelledby.
+    toggles.forEach((toggle, i) => {
+      const toggleId = `sms-${sectionIndex}-toggle-${i}`;
+      const bodyId = `sms-${sectionIndex}-body-${i}`;
+      toggle.id = toggleId;
+      toggle.setAttribute('aria-controls', bodyId);
+      if (bodies[i]) {
+        bodies[i].id = bodyId;
+        bodies[i].setAttribute('aria-labelledby', toggleId);
+      }
+    });
+
+    const canRotate = () => desktop.matches && !reducedMotion.matches;
+
+    let active = 0;
+    let timer: ReturnType<typeof setTimeout> | null = null;
+    // 'auto': rolling; 'paused': temporarily held (hover / out of view); 'stopped': user took control.
+    let mode: 'auto' | 'paused' | 'stopped' = canRotate() ? 'auto' : 'stopped';
+    let inView = false;
+
+    const restartBubbles = (container: HTMLElement | undefined) => {
+      if (!container || reducedMotion.matches) return;
+      container.querySelectorAll<HTMLElement>('.sms-bubble').forEach((bubble) => {
+        bubble.style.animation = 'none';
+        void bubble.offsetWidth; /* reflow to restart the entrance animation */
+        bubble.style.animation = '';
+      });
+    };
+
+    const setProgress = (index: number, running: boolean) => {
+      bodies.forEach((body, i) => {
+        const fill = body.querySelector<HTMLElement>('.sms-progress-fill');
+        if (!fill) return;
+        fill.style.transitionDuration = '0ms';
+        fill.style.width = '0%';
+        if (i === index && running) {
+          void fill.offsetWidth;
+          fill.style.transitionDuration = `${ADVANCE_MS}ms`;
+          fill.style.width = '100%';
+        }
+      });
+    };
+
+    const activate = (index: number) => {
+      active = index;
+      panels.forEach((panel, i) => {
+        const isActive = i === index;
+        panel.classList.toggle('border-blue-600', isActive);
+        panel.classList.toggle('ring-1', isActive);
+        panel.classList.toggle('ring-blue-600', isActive);
+        panel.classList.toggle('border-slate-200', !isActive);
+        toggles[i]?.setAttribute('aria-expanded', String(isActive));
+        toggles[i]?.querySelector('svg')?.classList.toggle('rotate-180', isActive);
+        bodies[i]?.classList.toggle('hidden', !isActive);
+        conversations[i]?.classList.toggle('hidden', !isActive);
+      });
+      restartBubbles(conversations[index]);
+    };
+
+    const clearTimer = () => {
+      if (timer) clearTimeout(timer);
+      timer = null;
+      setProgress(active, false);
+    };
+
+    const scheduleNext = () => {
+      clearTimer();
+      if (mode !== 'auto' || !inView || !canRotate()) return;
+      setProgress(active, true);
+      timer = setTimeout(() => {
+        activate((active + 1) % panels.length);
+        scheduleNext();
+      }, ADVANCE_MS);
+    };
+
+    const updateRotationToggle = () => {
+      if (!rotationToggle) return;
+      const rolling = mode === 'auto';
+      rotationToggle.setAttribute('aria-label', rolling ? 'Stop automatic rotation' : 'Start automatic rotation');
+      rotationToggle.querySelector('.sms-icon-pause')?.classList.toggle('hidden', !rolling);
+      rotationToggle.querySelector('.sms-icon-play')?.classList.toggle('hidden', rolling);
+      const label = rotationToggle.querySelector('.sms-rotation-label');
+      if (label) label.textContent = rolling ? 'Pause' : 'Play';
+    };
+
+    // Screen readers get updates only once rotation is under user control (APG guidance).
+    const stop = () => {
+      mode = 'stopped';
+      clearTimer();
+      phone?.setAttribute('aria-live', 'polite');
+      updateRotationToggle();
+    };
+
+    rotationToggle?.addEventListener('click', () => {
+      if (mode === 'auto') {
+        stop();
+      } else {
+        mode = 'auto';
+        phone?.setAttribute('aria-live', 'off');
+        updateRotationToggle();
+        scheduleNext();
+      }
+    });
+
+    toggles.forEach((toggle, i) => {
+      toggle.addEventListener('click', () => {
+        stop();
+        activate(i);
+      });
+    });
+
+    // Hover pauses; leaving resumes (unless the user has taken control).
+    section.addEventListener('mouseenter', () => {
+      if (mode === 'auto') {
+        mode = 'paused';
+        clearTimer();
+      }
+    });
+    section.addEventListener('mouseleave', () => {
+      if (mode === 'paused') {
+        mode = 'auto';
+        scheduleNext();
+      }
+    });
+
+    // Keyboard focus inside the widget stops rotation permanently (APG rule),
+    // except focus on the rotation control itself, which must stay usable.
+    section.addEventListener('focusin', (event) => {
+      if (rotationToggle && rotationToggle.contains(event.target as Node)) return;
+      if (mode !== 'stopped') stop();
+    });
+
+    const observer = new IntersectionObserver(
+      (entries) => {
+        inView = entries[0]?.isIntersecting ?? false;
+        if (inView) {
+          restartBubbles(conversations[active]);
+          scheduleNext();
+        } else {
+          clearTimer();
+        }
+      },
+      { threshold: 0.35 }
+    );
+    observer.observe(section);
+
+    desktop.addEventListener('change', () => {
+      if (!canRotate()) stop();
+    });
+    reducedMotion.addEventListener('change', () => {
+      if (!canRotate()) stop();
+    });
+
+    updateRotationToggle();
+  });
+</script>

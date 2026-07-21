@@ -13,8 +13,8 @@ export const pricingTiers: PricingTier[] = [
   {
     name: 'Starter',
     tagline: 'For individual agents',
-    monthlyPrice: 'XX',
-    annualPrice: 'XX',
+    monthlyPrice: '19',
+    annualPrice: '15',
     features: [
       'Up to 5 active deals',
       'Contract analysis & audit',
@@ -28,8 +28,8 @@ export const pricingTiers: PricingTier[] = [
   {
     name: 'Professional',
     tagline: 'For busy agents',
-    monthlyPrice: 'XX',
-    annualPrice: 'XX',
+    monthlyPrice: '29',
+    annualPrice: '23',
     features: [
       'Unlimited active deals',
       'Everything in Starter',
@@ -44,8 +44,8 @@ export const pricingTiers: PricingTier[] = [
   {
     name: 'Team',
     tagline: 'For real estate teams',
-    monthlyPrice: 'XX',
-    annualPrice: 'XX',
+    monthlyPrice: '99',
+    annualPrice: '79',
     features: [
       'Everything in Professional',
       '5 agent seats included',

@@ -10,7 +10,9 @@ import Testimonials from '../components/home/Testimonials.astro';
 import FAQ from '../components/home/FAQ.astro';
 import CTABanner from '../components/global/CTABanner.astro';
 import InteractiveDemo from '../components/global/InteractiveDemo.astro';
+import SMSShowcase from '../components/global/SMSShowcase.astro';
 import { homeFAQ } from '../data/faq';
+import { homeSMSShowcase } from '../data/smsShowcase';
 
 const organizationSchema = {
   "@context": "https://schema.org",
@@ -85,6 +87,9 @@ const breadcrumbSchema = {
 
   <!-- 6. Feature Showcase (Bento Grid) -->
   <FeatureShowcase />
+
+  <!-- 6b. Brittani via SMS showcase -->
+  <SMSShowcase config={homeSMSShowcase} bg="bg-slate-50" />
 
   <!-- 6. Stats / Results -->
   <Stats />

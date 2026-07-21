@@ -12,7 +12,7 @@ export const homeFAQ: FAQItem[] = [
   {
     question: 'How much does it cost compared to a human TC?',
     answer:
-      'A human TC typically charges $300–$500 per transaction. Brittani costs a fraction of that — you can coordinate unlimited deals per month for less than what a single human-managed transaction costs. Check our pricing page for current plans.',
+      'A human TC typically charges $300–$500 per transaction. Brittani starts at $19/month, and our most popular Professional plan is $29/month with unlimited deals — less than a tenth of what a single human-coordinated transaction costs. Check our pricing page for current plans.',
   },
   {
     question: 'Is my contract data secure?',

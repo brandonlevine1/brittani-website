@@ -1,5 +1,7 @@
 ---
 import PageLayout from '../../layouts/PageLayout.astro';
+import SMSShowcase from '../../components/global/SMSShowcase.astro';
+import { agentsSMSShowcase } from '../../data/smsShowcase';
 
 const breadcrumbSchema = {
   "@context": "https://schema.org",
@@ -140,6 +142,9 @@ const howItWorks = [
       </div>
     </div>
   </section>
+
+  <!-- Brittani via SMS showcase -->
+  <SMSShowcase config={agentsSMSShowcase} bg="bg-slate-50" />
 
   <!-- CTA -->
   <section class="py-20 md:py-28 lg:py-32 bg-slate-900 text-white">
