@@ -1,0 +1,69 @@
+name: Backfill Blog Images
+
+on:
+  workflow_dispatch:
+    inputs:
+      limit:
+        description: 'Max images to generate this run (posts are processed alphabetically; re-run to continue)'
+        required: false
+        default: '60'
+
+permissions:
+  contents: write
+
+jobs:
+  backfill-images:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Backfill missing blog images
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          BACKFILL_LIMIT: ${{ github.event.inputs.limit || '60' }}
+        run: npm run backfill-images
+
+      - name: Verify build passes
+        env:
+          PUBLIC_GA4_ID: ${{ vars.PUBLIC_GA4_ID }}
+        run: npm run build
+
+      - name: Commit and push to main
+        id: push
+        run: |
+          DATE=$(date +%Y-%m-%d)
+
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          git add src/content/blog/ public/images/blog/
+
+          if git diff --cached --quiet; then
+            echo "No images backfilled. Exiting."
+            echo "pushed=false" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+
+          git commit -m "content: backfill blog images for ${DATE}"
+          git push origin main
+          echo "pushed=true" >> "$GITHUB_OUTPUT"
+
+      - name: Deploy to Cloudflare Workers
+        if: steps.push.outputs.pushed == 'true'
+        uses: cloudflare/wrangler-action@v3
+        with:
+          apiToken: ${{ secrets.CLOUDFLARE_API_TOKEN }}
+          accountId: ${{ secrets.CLOUDFLARE_ACCOUNT_ID }}
+          command: deploy --config wrangler.jsonc

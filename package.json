@@ -8,6 +8,7 @@
     "preview": "astro preview",
     "astro": "astro",
     "generate-blogs": "node scripts/generate-blogs.js",
+    "backfill-images": "node scripts/backfill-blog-images.js",
     "test": "vitest run"
   },
   "dependencies": {

@@ -62,6 +62,18 @@ function stripImagePromptFromFrontmatter(content) {
   return content.replace(/^(---\n[\s\S]*?)imagePrompt:.*\n([\s\S]*?---)/, '$1$2');
 }
 
+// If image generation failed, the frontmatter must not reference a webp that
+// was never written — otherwise the site renders broken <img> and og:image tags.
+function stripImageFieldsFromFrontmatter(content) {
+  return content.replace(/^---\n([\s\S]*?)\n---/, (full, fm) => {
+    const cleaned = fm
+      .split('\n')
+      .filter(line => !/^(image|imageAlt):/.test(line))
+      .join('\n');
+    return `---\n${cleaned}\n---`;
+  });
+}
+
 function cleanMarkdown(content) {
   let cleaned = content.replace(/^```(?:markdown|md)?\n/, '').replace(/\n```$/, '');
   const readTime = calculateReadTime(cleaned);
@@ -87,12 +99,14 @@ function cleanMarkdown(content) {
 async function tryGenerateImage(slug, type, state, customPrompt) {
   if (!process.env.GEMINI_API_KEY) {
     console.log(`[Image] Skipped (no GEMINI_API_KEY): ${slug}`);
-    return;
+    return false;
   }
   try {
     await generateImage(slug, type, state, customPrompt);
+    return true;
   } catch (err) {
     console.warn(`[Image] Failed for ${slug}, continuing without image: ${err.message}`);
+    return false;
   }
 }
 
@@ -115,8 +129,11 @@ async function _generateSlot(slot, existingPosts) {
   if (!content) return null;
 
   const imagePrompt = extractImagePrompt(content);
-  await tryGenerateImage(slot.slug, slot.kind, slot.state || null, imagePrompt);
-  const finalContent = stripImagePromptFromFrontmatter(content);
+  const hasImage = await tryGenerateImage(slot.slug, slot.kind, slot.state || null, imagePrompt);
+  let finalContent = stripImagePromptFromFrontmatter(content);
+  if (!hasImage) {
+    finalContent = stripImageFieldsFromFrontmatter(finalContent);
+  }
 
   return { filename: `${slot.slug}.md`, content: finalContent };
 }
