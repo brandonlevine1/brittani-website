@@ -1,10 +1,17 @@
 import AnthropicBedrock from '@anthropic-ai/bedrock-sdk';
-import yaml from 'js-yaml';
 import { readdir, writeFile, mkdir } from 'fs/promises';
 import { join } from 'path';
 import { planRun } from './blog-topics.js';
 import { buildType1Prompt, buildType2Prompt, buildType3Prompt } from './blog-prompts.js';
 import { generateImage } from './blog-images.js';
+import {
+  validateFrontmatter,
+  repairFrontmatter,
+  extractImagePrompt,
+  extractFrontmatterBlock,
+  stripImagePromptFromFrontmatter,
+  stripImageFieldsFromFrontmatter,
+} from './frontmatter-utils.js';
 
 const BLOG_DIR = join(process.cwd(), 'src/content/blog');
 const CURRENT_YEAR = new Date().getFullYear();
@@ -36,44 +43,6 @@ function calculateReadTime(markdown) {
   return `${Math.ceil(wordCount / 238)} min read`;
 }
 
-function validateFrontmatter(content) {
-  const match = content.match(/^---\n([\s\S]*?)\n---/);
-  if (!match) return false;
-  try {
-    yaml.load(match[1]);
-    return true;
-  } catch {
-    return false;
-  }
-}
-
-function extractImagePrompt(content) {
-  const match = content.match(/^---\n([\s\S]*?)\n---/);
-  if (!match) return null;
-  try {
-    const fm = yaml.load(match[1]);
-    return fm.imagePrompt || null;
-  } catch {
-    return null;
-  }
-}
-
-function stripImagePromptFromFrontmatter(content) {
-  return content.replace(/^(---\n[\s\S]*?)imagePrompt:.*\n([\s\S]*?---)/, '$1$2');
-}
-
-// If image generation failed, the frontmatter must not reference a webp that
-// was never written — otherwise the site renders broken <img> and og:image tags.
-function stripImageFieldsFromFrontmatter(content) {
-  return content.replace(/^---\n([\s\S]*?)\n---/, (full, fm) => {
-    const cleaned = fm
-      .split('\n')
-      .filter(line => !/^(image|imageAlt):/.test(line))
-      .join('\n');
-    return `---\n${cleaned}\n---`;
-  });
-}
-
 function cleanMarkdown(content) {
   let cleaned = content.replace(/^```(?:markdown|md)?\n/, '').replace(/\n```$/, '');
   const readTime = calculateReadTime(cleaned);
@@ -81,16 +50,14 @@ function cleanMarkdown(content) {
 
   if (!validateFrontmatter(cleaned)) {
     console.warn('[Frontmatter] Invalid YAML detected, attempting repair...');
-    cleaned = cleaned.replace(/^---\n([\s\S]*?)\n---/, (full, fm) => {
-      const fixed = fm.replace(/^(\w+): "(.*)"/gm, (_, key, val) => {
-        const escaped = val.replace(/(?<!\\)"/g, '\\"');
-        return `${key}: "${escaped}"`;
-      });
-      return `---\n${fixed}\n---`;
-    });
+    cleaned = repairFrontmatter(cleaned);
     if (!validateFrontmatter(cleaned)) {
+      // Log the offending frontmatter so failures are diagnosable from CI logs.
+      const fm = extractFrontmatterBlock(cleaned);
+      console.warn(`[Frontmatter] Repair failed. Frontmatter was:\n${(fm || cleaned).slice(0, 1500)}`);
       return null;
     }
+    console.warn('[Frontmatter] Repair succeeded.');
   }
 
   return cleaned;

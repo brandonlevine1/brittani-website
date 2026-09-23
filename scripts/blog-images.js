@@ -23,16 +23,26 @@ export async function generateImage(slug, type, state, customPrompt) {
 
   console.log(`[Image] Generating: ${slug}`);
 
-  const response = await ai.models.generateImages({
-    model: 'imagen-4.0-generate-001',
-    prompt,
+  // imagen-4.0-generate-001 was shut down by Google on 2026-08-17.
+  // Its replacement (gemini-3.1-flash-image) uses generateContent and
+  // returns the image as an inlineData part instead of generatedImages.
+  const response = await ai.models.generateContent({
+    model: 'gemini-3.1-flash-image',
+    contents: prompt,
     config: {
-      numberOfImages: 1,
-      aspectRatio: '16:9',
+      responseModalities: ['IMAGE'],
+      imageConfig: {
+        aspectRatio: '16:9',
+      },
     },
   });
 
-  const imageData = Buffer.from(response.generatedImages[0].image.imageBytes, 'base64');
+  const parts = response.candidates?.[0]?.content?.parts || [];
+  const imagePart = parts.find(p => p.inlineData?.data);
+  if (!imagePart) {
+    throw new Error(`No image returned for ${slug} (response had ${parts.length} parts)`);
+  }
+  const imageData = Buffer.from(imagePart.inlineData.data, 'base64');
 
   await mkdir(IMAGE_DIR, { recursive: true });
 
