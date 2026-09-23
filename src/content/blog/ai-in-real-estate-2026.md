@@ -4,6 +4,8 @@ description: "From contract analysis to closing coordination, AI is reshaping ho
 publishDate: "2026-02-05"
 author: "Brandon Levine"
 readTime: "7 min read"
+image: "/images/blog/ai-in-real-estate-2026.webp"
+imageAlt: "How AI is Transforming Real Estate Operations in 2026"
 tags: ["AI", "proptech", "real estate technology"]
 ---
 
