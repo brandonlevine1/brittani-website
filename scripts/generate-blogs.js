@@ -5,10 +5,8 @@ import { planRun } from './blog-topics.js';
 import { buildType1Prompt, buildType2Prompt, buildType3Prompt } from './blog-prompts.js';
 import { generateImage } from './blog-images.js';
 import {
-  validateFrontmatter,
-  repairFrontmatter,
+  cleanMarkdown,
   extractImagePrompt,
-  extractFrontmatterBlock,
   stripImagePromptFromFrontmatter,
   stripImageFieldsFromFrontmatter,
 } from './frontmatter-utils.js';
@@ -35,32 +33,6 @@ async function callClaude(prompt) {
     messages: [{ role: 'user', content: prompt }],
   });
   return response.content[0].text;
-}
-
-function calculateReadTime(markdown) {
-  const body = markdown.replace(/^---[\s\S]*?---/, '').trim();
-  const wordCount = body.split(/\s+/).length;
-  return `${Math.ceil(wordCount / 238)} min read`;
-}
-
-function cleanMarkdown(content) {
-  let cleaned = content.replace(/^```(?:markdown|md)?\n/, '').replace(/\n```$/, '');
-  const readTime = calculateReadTime(cleaned);
-  cleaned = cleaned.replace('readTime: "CALCULATE_AFTER"', `readTime: "${readTime}"`);
-
-  if (!validateFrontmatter(cleaned)) {
-    console.warn('[Frontmatter] Invalid YAML detected, attempting repair...');
-    cleaned = repairFrontmatter(cleaned);
-    if (!validateFrontmatter(cleaned)) {
-      // Log the offending frontmatter so failures are diagnosable from CI logs.
-      const fm = extractFrontmatterBlock(cleaned);
-      console.warn(`[Frontmatter] Repair failed. Frontmatter was:\n${(fm || cleaned).slice(0, 1500)}`);
-      return null;
-    }
-    console.warn('[Frontmatter] Repair succeeded.');
-  }
-
-  return cleaned;
 }
 
 async function tryGenerateImage(slug, type, state, customPrompt) {

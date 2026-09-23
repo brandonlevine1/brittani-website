@@ -5,6 +5,40 @@ export function extractFrontmatterBlock(content) {
   return match ? match[1] : null;
 }
 
+export function calculateReadTime(markdown) {
+  const body = markdown.replace(/^---[\s\S]*?---/, '').trim();
+  const wordCount = body.split(/\s+/).length;
+  return `${Math.ceil(wordCount / 238)} min read`;
+}
+
+// Normalizes raw model output into a publishable markdown file.
+// Returns null if the frontmatter is unrecoverable.
+export function cleanMarkdown(content) {
+  // Claude sometimes emits leading blank lines or a code fence before the
+  // frontmatter. Frontmatter must start at byte 0 for Astro (and for every
+  // regex below), so strip all of that first.
+  let cleaned = content
+    .replace(/^\s*```(?:markdown|md)?\n/, '')
+    .replace(/\n```\s*$/, '')
+    .replace(/^\s+/, '');
+
+  const readTime = calculateReadTime(cleaned);
+  cleaned = cleaned.replace('readTime: "CALCULATE_AFTER"', `readTime: "${readTime}"`);
+
+  if (!validateFrontmatter(cleaned)) {
+    console.warn('[Frontmatter] Invalid YAML detected, attempting repair...');
+    cleaned = repairFrontmatter(cleaned);
+    if (!validateFrontmatter(cleaned)) {
+      const fm = extractFrontmatterBlock(cleaned);
+      console.warn(`[Frontmatter] Repair failed. Frontmatter was:\n${(fm || cleaned).slice(0, 1500)}`);
+      return null;
+    }
+    console.warn('[Frontmatter] Repair succeeded.');
+  }
+
+  return cleaned;
+}
+
 export function validateFrontmatter(content) {
   const fm = extractFrontmatterBlock(content);
   if (fm === null) return false;

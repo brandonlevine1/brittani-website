@@ -5,6 +5,7 @@ import {
   repairFrontmatter,
   extractFrontmatterBlock,
   stripImageFieldsFromFrontmatter,
+  cleanMarkdown,
 } from '../frontmatter-utils.js';
 
 const wrap = fm => `---\n${fm}\n---\n\nBody text.`;
@@ -50,6 +51,37 @@ describe('repairFrontmatter', () => {
     const content = wrap(fm);
     expect(validateFrontmatter(content)).toBe(true);
     expect(repairFrontmatter(content)).toBe(content);
+  });
+});
+
+describe('cleanMarkdown', () => {
+  it('recovers valid frontmatter preceded by blank lines (2026-09-23 CI failure)', () => {
+    const raw = '\n\n---\ntitle: "Valid Title"\nreadTime: "CALCULATE_AFTER"\ntags: ["a"]\n---\n\n' + 'Body word '.repeat(300);
+    const cleaned = cleanMarkdown(raw);
+    expect(cleaned).not.toBeNull();
+    expect(cleaned.startsWith('---\n')).toBe(true);
+    expect(validateFrontmatter(cleaned)).toBe(true);
+    expect(cleaned).toContain('readTime: "3 min read"');
+  });
+
+  it('strips a code fence around the whole document', () => {
+    const raw = '```markdown\n---\ntitle: "T"\nreadTime: "CALCULATE_AFTER"\n---\n\nBody.\n```';
+    const cleaned = cleanMarkdown(raw);
+    expect(cleaned).not.toBeNull();
+    expect(cleaned.startsWith('---\n')).toBe(true);
+    expect(cleaned).not.toContain('```');
+  });
+
+  it('returns null for unrecoverable frontmatter', () => {
+    const raw = 'no frontmatter here at all, just prose.';
+    expect(cleanMarkdown(raw)).toBeNull();
+  });
+
+  it('repairs bad quoting after normalizing leading whitespace', () => {
+    const raw = '\n---\ntitle: "A "quoted" mess"\nreadTime: "CALCULATE_AFTER"\n---\n\nBody.';
+    const cleaned = cleanMarkdown(raw);
+    expect(cleaned).not.toBeNull();
+    expect(yaml.load(extractFrontmatterBlock(cleaned)).title).toBe('A "quoted" mess');
   });
 });
 
