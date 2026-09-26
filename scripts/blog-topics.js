@@ -47,6 +47,25 @@ export const TYPE1_CATEGORIES = [
   { slug: 'building-code-updates', label: 'Building Code Updates' },
   { slug: 'new-real-estate-laws', label: 'New Real Estate Laws' },
   { slug: 'escrow-regulations', label: 'Escrow Regulations' },
+  // Expansion — added 2026-09-25 from SEO research: transaction-timeline/deadline
+  // topics, disclosure sub-verticals, and closing mechanics. Each scales to 50
+  // states and maps 1:1 to a TOPIC_HUBS entry in src/data/topic-hubs.ts.
+  { slug: 'closing-timeline', label: 'Real Estate Closing Timelines' },
+  { slug: 'earnest-money-deposit-deadline', label: 'Earnest Money Deposit Deadlines' },
+  { slug: 'inspection-contingency-period', label: 'Home Inspection & Option Periods' },
+  { slug: 'flood-disclosure-requirements', label: 'Flood & Natural Hazard Disclosure Requirements' },
+  { slug: 'remote-online-notarization-rules', label: 'Remote Online Notarization (RON) Rules' },
+  { slug: 'stigmatized-property-death-disclosure', label: 'Death & Stigmatized Property Disclosure' },
+  { slug: 'record-retention-requirements', label: 'Broker Transaction File Retention Requirements' },
+  { slug: 'property-tax-proration-at-closing', label: 'Property Tax Proration at Closing' },
+  { slug: 'radon-mold-environmental-disclosure', label: 'Radon, Mold & Environmental Hazard Disclosure' },
+  { slug: 'attorney-review-period', label: 'Attorney Review Periods' },
+  { slug: 'wet-vs-dry-funding', label: 'Wet vs. Dry Funding (Closing Disbursement) Rules' },
+  { slug: 'deed-types', label: 'Deed Types Used to Transfer Property' },
+  { slug: 'title-insurance-who-pays', label: 'Who Pays for Title Insurance' },
+  { slug: 'survey-requirements', label: 'Property Survey Requirements for Closing' },
+  { slug: 'purchase-agreement-forms', label: 'Standard Purchase Agreement Forms' },
+  { slug: 'right-to-cancel-cooling-off-period', label: 'Buyer\'s Right to Cancel & Cooling-Off Periods' },
 ];
 
 export const TYPE2_TOPICS = [
